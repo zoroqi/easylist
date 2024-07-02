@@ -4381,6 +4381,7 @@
 ##.AdsBoxSection
 ##.AdsBoxTop
 ##.AdsLayout__top-container
+##.AdsRectangleWrapper
 ##.AdsSlot
 ##.Ads__wrapper
 ##.Ads_header
@@ -5549,6 +5550,7 @@
 ##.ad-single-bottom
 ##.ad-sitewide
 ##.ad-size-300x600
+##.ad-size-728x90
 ##.ad-size-landscape
 ##.ad-size-leaderboard
 ##.ad-size-medium-rectangle
@@ -6522,6 +6524,7 @@
 ##.ad_contents
 ##.ad_crown
 ##.ad_custombanner
+##.ad_d_big
 ##.ad_db
 ##.ad_default
 ##.ad_description
@@ -10884,6 +10887,7 @@
 ##.keen_ad
 ##.kumpulads-post
 ##.kumpulads-side
+##.kwizly-psb-ad
 ##.l-ad
 ##.l-ad-top
 ##.l-ads
@@ -13324,6 +13328,7 @@
 ##[href^="https://ad.admitad.com/"]
 ##[href^="https://affiliate.fastcomet.com/"] > img
 ##[href^="https://antiagingbed.com/discount/"] > img
+##[href^="https://ap.octopuspop.com/click/"] > img
 ##[href^="https://awbbjmp.com/"]
 ##[href^="https://charmingdatings.life/"]
 ##[href^="https://clicks.affstrack.com/"] > img
@@ -13563,6 +13568,7 @@
 ##a[href^="https://quotationfirearmrevision.com/"]
 ##a[href^="https://random-affiliate.atimaze.com/"]
 ##a[href^="https://rixofa.com/"]
+##a[href^="https://s.deltraff.com/"]
 ##a[href^="https://s.ma3ion.com/"]
 ##a[href^="https://s.optzsrv.com/"]
 ##a[href^="https://s.zlink3.com/"]
@@ -13636,6 +13642,7 @@
 ##a[href^="https://www.sheetmusicplus.com/"][href*="?aff_id="]
 ##a[href^="https://www.sugarinstant.com/?partner_id="]
 ##a[href^="https://www.toprevenuegate.com/"]
+##a[href^="https://www8.smartadserver.com/"]
 ##a[href^="https://xbet-4.com/"]
 ##a[href^="https://zirdough.net/"]
 ##a[style="width:100%;height:100%;z-index:10000000000000000;position:absolute;top:0;left:0;"]
@@ -13686,6 +13693,7 @@
 ##div[id^="optidigital-adslot"]
 ##div[id^="pa_sticky_ad_box_middle_"]
 ##div[id^="rc-widget-"]
+##div[id^="st"][style^="z-index: 999999999;"]
 ##div[id^="sticky_ad_"]
 ##div[id^="vuukle-ad-"]
 ##div[id^="yandex_ad"]
@@ -13698,6 +13706,8 @@
 ##span[id^="ezoic-pub-ad-placeholder-"]
 ##topadblock
 ##zeus-ad
+! sellwild-loader
+###sellwild-loader
 ! 247slots.org/247checkers.com/247backgammon.org/247hearts.com etc
 ##.aspace-300x169
 ##.aspace-300x250
@@ -13729,6 +13739,7 @@
 ! Invideo advert: gizmodo.com,avclub.com,qz.com,lifehacker.com,theroot.com
 ##.js_related-stories-inset
 ! element specific
+##ins.adsbygoogle[data-ad-client]
 ##ins.adsbygoogle[data-ad-slot]
 ! (NSFW) club-rileyreid.com,clubmiamalkova.com,lanarhoades.mypornstarblogs.com
 ###mgb-container > #mgb

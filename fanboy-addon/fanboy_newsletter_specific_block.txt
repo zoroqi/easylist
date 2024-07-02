@@ -17,6 +17,7 @@
 ||irishstar.com/newsletter-preference-centre
 ||listrakbi.com^$script,domain=ruralking.com
 ||loader.wisepops.com^$domain=grist.org
+||news.atptour.com/p/$subdocument
 ||newsletter.bdnews24.com^
 ||nscreenmedia.com/wp-content/uploads/subscribe-nscreen-newsletter.jpg
 ||p.ynet.co.il^$subdocument
@@ -28,5 +29,5 @@
 ||subscriptions.cbc.ca^$xmlhttprequest
 ||theintercept.com/xbuilder/$script
 ||thejewishstar.com/images/enews-ad.png
-||tinypass.com/api/tinypass.min.js$script,domain=bbcgoodfood.com|rawstory.com|thedailybeast.com|theintercept.com
+||tinypass.com/api/tinypass.min.js$script,domain=bbcgoodfood.com|billboard.com|rawstory.com|rollingstone.com|sifted.eu|thedailybeast.com|theintercept.com|thenation.com|wwd.com
 ||waterfordwhispersnews.com/wp-content/themes/therex-child/js/_newsletter-article-signup.js

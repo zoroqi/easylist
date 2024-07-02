@@ -136,7 +136,6 @@ simpleswap.io##body,html:style(overflow: auto !important; position: initial !imp
 ! m.webtoons.com
 m.webtoons.com##.pop_download_home
 m.webtoons.com##.dim
-m.webtoons.com##body,html:style(overflow: auto !important; position: initial !important;)
 ! 9gag
 9gag.com##.open-in-app
 9gag.com##body:style(overflow: auto !important;)
@@ -182,8 +181,6 @@ thedp.com##body,html:style(overflow: auto !important; position: initial !importa
 ! emailnator.com
 emailnator.com##.modal
 emailnator.com##.modal-backdrop
-emailnator.com##+js(rc, modal-open, , stay)
-emailnator.com##html,body:style(position: static !important; overflow: auto !important; width: auto !important;)
 emailnator.com##.top-banner
 ! foundit.com.ph app download
 foundit.com.ph##+js(set-session-storage-item, isDownloadAppBannerClosed, true)
@@ -191,6 +188,15 @@ foundit.com.ph##+js(set-session-storage-item, isDownloadAppBannerClosed, true)
 flightradar24.com##+js(set-cookie, map_new_features_new_flightradar24_com_label_options, 1)
 ! https://github.com/uBlockOrigin/uAssets/issues/23164
 shop-apotheke.com##+js(set-session-storage-item, ErxModal, true)
+! m.youtube.com 
+m.youtube.com##.ytm-bottom-sheet-overlay-renderer-container[style="transform: translateY(0px);"]
+m.youtube.com##.YtWebScrimDialogContainer
+m.youtube.com##.YtWebScrimHostModernOverlay
+m.youtube.com##body:style(overflow: auto !important; position: initial !important;)
+! zillow.com
+zillow.com##.app-upsell-banner
+zillow.com###pfs-upsell:remove()
+zillow.com##.exposed-filters:style(top:0 !important)
 ! food.ndtv.com
 food.ndtv.com##+js(set-cookie, ndtvfood_isSubscribed_elex_v1, no)
 ! LaraPush

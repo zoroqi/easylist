@@ -6,6 +6,7 @@ thehindu.com,thehindubusinessline.com###gsi_overlay
 masrawy.com,yallakora.com###izooto-optin
 kizi.com###kizi-popover-dialog
 tdtube.net###main-fixed
+vk.com###page_bottom_banners_root
 iol.pt###popover
 livenation.co.nz###push-notifications-popup
 bigislandnow.com###pushNotifications
@@ -159,6 +160,7 @@ euronews.com###js-smart-banner
 kinarino-mall.jp###js-view-in-app
 twitter.com,x.com###layers div[class="css-1dbjc4n r-l5o3uw r-97e31f"]
 zillow.com###local-app-upsell
+adspecials.us,ajanlatok.hu,akcniletak.cz,catalogosofertas.cl,catalogosofertas.com.ar,catalogosofertas.com.br,catalogosofertas.com.co,catalogosofertas.com.ec,catalogosofertas.com.mx,catalogosofertas.com.pe,catalogueoffers.co.uk,catalogueoffers.com.au,flugblattangebote.at,flyerdeals.ca,folderz.nl,folhetospromocionais.com,folletosofertas.es,gazetki.pl,kundeavisogtilbud.no,ofertelecatalog.ro,offertevolantini.it,promocatalogues.fr,promotiez.be,promotions.ae,prospektangebote.de,reklambladerbjudanden.se,tilbudsaviseronline.dk###mobile-app-popup
 pixlr.com###mobile-variant
 consumerreports.org###mtRoundupPaywallPopup
 oneindia.com###open-app
@@ -242,6 +244,7 @@ qatarairways.com##.appstore
 ny1.com##.article-app-prompt
 msn.com##.articlePage_continueReadingButtonPrimary-DS-EntryPoint1-1
 nltimes.nl##.ath-phone
+atptour.com##.atp_apps
 bing.com##.b_bnp_bopc
 castbox.fm##.banner
 gibiru.com##.banner-button
@@ -262,13 +265,12 @@ map.baidu.com##.bottom-banner-float
 commaful.com##.bottom-section-signup
 ixigo.com##.bottom-sheet
 m.facebook.com##.bottom.fixed-container[data-actual-height="66"]
-al-monitor.com##.breaking-news-alert
 smocca.jp##.c-box-app_banner
 warbyparker.com##.c-hYggeK
-dailywire.com##.c-link
+filmarks.com##.c-header-download-banner
 ctvnews.ca##.c-text > ul > li
 cricbuzz.com##.cbz-leaderboard-banner
-apkpure.net##.chrome-install-pop
+apkpure.com,apkpure.net##.chrome-install-pop
 clayandbuck.com##.cnb-download-app-at-mobile
 coinpaprika.com##.coins-mobile-banner
 kijiji.ca##.container-3757608091
@@ -341,7 +343,9 @@ ticketmaster.com##.jDQUfz
 dietplus.jp##.js-app-bg
 tanp.jp##.js-appDownloadHeaderBanner
 duckduckgo.com##.js-atb-banner
+filmarks.com##.js-induce-banner
 duckduckgo.com##.js-open-in-app
+adspecials.us,ajanlatok.hu,akcniletak.cz,catalogosofertas.cl,catalogosofertas.com.ar,catalogosofertas.com.br,catalogosofertas.com.co,catalogosofertas.com.ec,catalogosofertas.com.mx,catalogosofertas.com.pe,catalogueoffers.co.uk,catalogueoffers.com.au,flugblattangebote.at,flyerdeals.ca,folderz.nl,folhetospromocionais.com,folletosofertas.es,gazetki.pl,kundeavisogtilbud.no,ofertelecatalog.ro,offertevolantini.it,promocatalogues.fr,promotiez.be,promotions.ae,prospektangebote.de,reklambladerbjudanden.se,tilbudsaviseronline.dk##.js-page-promotion-container
 my.mintmobile.com##.justify-content-end.rounded-1.g-0.p-3
 baby-calendar.jp##.l-anime-bana.js-bcweb-only
 soundcloud.com##.l-front-mobile-teaser
@@ -476,6 +480,7 @@ wpxi.com##[href="/mobile-apps/"]
 ctvnews.ca##[href="https://www.ctvnews.ca/app"]
 theapplepost.com##[href^="https://apps.apple.com/app/"]
 sherbrookerecord.com##[href^="https://apps.apple.com/ca/app/the-record-news/"]
+atptour.com##[href^="https://www.atptour.com/en/apps"]
 temu.com##[js-selector="mobile-download-ui"]
 reddit.com##[slot="use-app"]
 ozmall.co.jp##[style="display:table;background:#f3f3f3;padding:3%;"]
@@ -494,6 +499,7 @@ kraken.com##div[class^="fc-94f32b27"]
 barandbench.com##div[class^="header-two-m__download-links_"]
 temu.com##div[style="height: 0.66rem;"]
 temu.com##div[style="height:0.66rem"]
+app.famitsu.com##div[style^="position: absolute; z-index: 1000; width: 100%;"][style$="ease-out;"]
 fedex.com##fedex-smart-banner
 twitter.com,x.com##header[role="banner"] > ._3oxnid3o._3f2NsD-H
 9animetv.to##img[alt="App Download"]

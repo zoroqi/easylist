@@ -1,4 +1,5 @@
 ! German
+||1438976156.recolution.de^
 ||20min.ch/ana/
 ||aachener-zeitung.de/zva/drive.js
 ||aerzteblatt.de/inc/js/ga4.js
@@ -74,6 +75,7 @@
 ||jobs.ch/api/v1/public/product/track/
 ||js.tag24.de/main.js
 ||k-aktuell.de/monitoring?
+||kaufland.de/uts/events/
 ||leipziger-stadtplan.com/t.gif
 ||llntrack.messe-duesseldorf.de^
 ||lokalwerben.t-online.de^
@@ -220,6 +222,7 @@
 ||allocine.fr/_/geolocalize
 ||analytics.allovoisins.com^
 ||analytics.clubic.com^
+||api.doctolib.fr/nr_insert_
 ||api.odysee.com/locale/get
 ||api.ouedkniss.com^*&xTrackId=
 ||api.tacotax.fr/v2/amplitude_trackers
@@ -232,6 +235,7 @@
 ||clubic.com/tview
 ||compteur.developpez.com^
 ||courrierinternational.com/*&vtag=
+||datalayer.orange.fr^
 ||dd.leboncoin.fr^
 ||developpez.com/public/js/log.js
 ||donnons.org/log.js
@@ -271,6 +275,7 @@
 ||lemonde.fr/*&cts=
 ||lemonde.fr/*&stc=
 ||lemonde.fr/bucket/*/tagistan.
+||lemonde.fr^$ping
 ||leparking-moto.fr/jsV155/Tracker.js
 ||leparking.fr/*/Tracker.js
 ||lepoint.fr/img-l/$image
@@ -279,6 +284,7 @@
 ||ma-petite-recette.fr/visites
 ||marmiton.org/reloaded/errpix.php
 ||medoucine.com/tracking/
+||metrics-broker.prod.p.tf1.fr^
 ||neko-san.fr/stats
 ||ocular.dealabs.com^
 ||ouest-france.fr/v1/javascripts/*-googletag-
@@ -762,6 +768,7 @@
 ||libero.it/cgi-bin/ajaxtrace?
 ||libero.it/cgi-bin/cdcounter.cgi?
 ||libero.it/cgi-bin/cdcountersp.cgi?
+||libero.it/cgi-bin/twit?
 ||libero.it/search/abin/ajaxtrace?
 ||libero.it^*/counter.php?
 ||lupoporno.com/js/analytics
@@ -817,6 +824,7 @@
 ||yachtingnetwork.it/stat/
 ! Japanese
 ||abema-tv.com/v1/stats/
+||ad-platform.jmty.jp^
 ||amazonaws.com/ai-img/aia.js
 ||ameba.jp/cookie/
 ||ameblo.jp/accesslog/
@@ -914,6 +922,7 @@
 ||scinable.net/access?
 ||seesaawiki.jp/img/rainman.gif?
 ||service.webgoto.net/*?wAnalytics
+||shipping.jp/raa/rd.js
 ||so-zou.jp/js/ga.js
 ||ssai.api.streaks.jp/*/ad_info?
 ||stats.nhk.or.jp^
@@ -982,7 +991,6 @@
 ||stat.tiara.kakao.com^
 ||stat.tiara.tistory.com^
 ||stat.wanted.jobs^
-||t*.daumcdn.net/adfit/static/kp.js
 ||track.tiara.daum.net^
 ||track.tiara.kakao.com^
 ||tracker.cauly.co.kr^
@@ -1200,6 +1208,7 @@
 ||trk.mail.ru^$image,script
 ||vedomosti.ru/boom?
 ||vesti.ru/counter/
+||vstat.rtr-vesti.ru^
 ||xapi.ozon.ru^$ping
 ||xray.mail.ru^
 ||yandex.ru/log?
@@ -1238,6 +1247,7 @@
 ||gruporeforma.com/clickGrupoReforma.js
 ||hits.antena3.com^
 ||horizon-track.globo.com^
+||logs.openbank.com^
 ||matt.mercadolibre.
 ||mediaserver.emol.cl/rtracker/
 ||mega.promodescuentos.com^
@@ -1291,7 +1301,10 @@
 ||glami.com.tr/tracker/
 ||h.n11.com^
 ||haberler.com/dinamik/
+||hepsiburada.com/api/track
+||hit.cnbce.com^
 ||hstats.hepsiburada.com^
+||hstatstest.hepsiburada.com^
 ||iys.org.tr/mti-popts.js
 ||sahibinden.com/sbbi/
 ||stats.birgun.net^

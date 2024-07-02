@@ -40,6 +40,7 @@
 ||adobedc.net/collector/
 ||ads-trk.vidible.tv^
 ||adsolutions.com^$third-party
+||adv-analytics-collector.videograph.ai^
 ||adyen.com/checkoutshopper/images/analytics.png?
 ||adyen.com/checkoutshopper/v2/analytics/log?
 ||affiliate-api.raptive.com^
@@ -372,6 +373,7 @@
 ||bet365.de/Members/*&affiliate=$subdocument,third-party
 ||betano.de^*?btag=$subdocument,third-party
 ||bhphotovideo.com/imp/
+||bi.heyloyalty.com^
 ||bi.medscape.com^
 ||birdsend.co/assets/static/js/pixel/
 ||birdsend.email/pixel
@@ -441,6 +443,7 @@
 ||cdn.clkmc.com/cmc.js
 ||cdn.one.store/xdomain_cookie.html
 ||cdn.sourcesync.io/open-pixel/source-pixel.js
+||cdn.statically.io/gh/opcdn/analytics/main/script.js
 ||cdn.usefathom.com^
 ||cdnjs.work/metrics.js
 ||cdnma.com/apps/capture.js
@@ -471,6 +474,9 @@
 ||click.appinthestore.com^
 ||click360v2-ingest.azurewebsites.net^
 ||clickdimensions.com/ts.js
+||clickiocdn.com/clickiotag_log/
+||clickiocdn.com/consent/log/
+||clickiocdn.com/utr/
 ||clicks.dealer.com^
 ||clicks.tyuwq.com^
 ||clickthru.lefbc.com^$third-party
@@ -694,6 +700,7 @@
 ||data.queryly.com^
 ||data.tm-awx.com/smile-web-v2/
 ||data.tm-awx.com/smile-web.min.js
+||data.wiris.cloud/telemetry/
 ||data.woosmap.com^
 ||data2.gosquared.com^
 ||datadog-service.mvfglobal.com^
@@ -1312,6 +1319,7 @@
 ||lucid.mjhassoc.com^
 ||luminate.com/track/
 ||lycos.com/hb.js
+||m.clear.link/cpr/external/track
 ||m.stripe.com^$third-party,domain=~stripe.network
 ||ma.logsss.com^
 ||magento-recs-sdk.adobe.net^
@@ -1596,6 +1604,7 @@
 ||pixel.blivenyc.com^
 ||pixel.byspotify.com^
 ||pixel.condenastdigital.com^
+||pixel.driveniq.com^
 ||pixel.inforsea.com^
 ||pixel.lilystyle.ai^
 ||pixel.locker2.com^
@@ -1622,6 +1631,7 @@
 ||platform.twitter.com/impressions.js
 ||plausible.io/js/p.js
 ||plausible.io/js/plausible.
+||plausible.server.hakai.app^
 ||plausibleio.workers.dev^$third-party
 ||play.adtonos.com^
 ||play.ht/views/
@@ -1719,6 +1729,7 @@
 ||recart.com/tracking/
 ||receive.wmcdp.io^
 ||recipefy.net/analytics.js
+||recs-api.conde.digital^
 ||recs.richrelevance.com/rrserver/api/engage/trackExperienceEvent?
 ||recs.shareaholic.com^
 ||recurly.com/js/v1/events
@@ -1920,6 +1931,7 @@
 ||stats.edicy.com^
 ||stats.esecured.net^
 ||stats.externulls.com^$domain=beeg.com
+||stats.flixhq.live^
 ||stats.fomo.com^
 ||stats.gifs.com^
 ||stats.heyoya.com^
@@ -2129,6 +2141,7 @@
 ||track.digitalriver.com^
 ||track.emerse.com^
 ||track.hubspot.com^
+||track.hydro.online^
 ||track.juno.com^
 ||track.kinetiksoft.com^
 ||track.mailerlite.com^
@@ -2470,6 +2483,7 @@
 ||yimg.com/cx/vzm/cs.js
 ||yimg.com/ss/vops.js
 ||yimg.com/wi/ytc.js
+||yoast-schema-graph.com^$third-party
 ||yottaa.com/rapid.min.js
 ||yottaa.net/log-jh
 ||zapcdn.space/zapret.js
@@ -2513,7 +2527,6 @@
 ||d18p8z0ptb8qab.cloudfront.net^
 ||d191y0yd6d0jy4.cloudfront.net^
 ||d196fri2z18sm.cloudfront.net^
-||d1af033869koo7.cloudfront.net^
 ||d1cr9zxt7u0sgu.cloudfront.net^
 ||d1f0tbk1v3e25u.cloudfront.net^
 ||d1f1eryiqyjs0r.cloudfront.net^*/track.
@@ -2633,6 +2646,18 @@
 ||duu8lzqdm8tsz.cloudfront.net^
 ||dy2xcjk8s1dbz.cloudfront.net^
 ||dzgwautxzdtn9.cloudfront.net^
+! Goatcounter CNAMES https://github.com/AdguardTeam/cname-trackers/issues/99
+||anal.sataniskwijt.be^
+||analytics.code.dccouncil.gov^
+||count.vidsrc.pro^
+||goat.hepicgamerz.com^
+||goat.nhimmeo.cf^
+||goat.skeetstats.xyz^
+||goat.tailspace.net^
+||st.mapleranks.com^
+||stats.afrocave.com^
+||stats.boringproxy.io^
+||stats.how.wtf^
 ! optimizely.com
 ||optimizely.com/client_storage/
 ||optimizely.com/log

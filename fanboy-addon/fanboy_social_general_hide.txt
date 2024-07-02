@@ -1216,7 +1216,6 @@
 ###share-tools-title
 ###share-track-fb
 ###share-track-tw
-###share-trigger
 ###share-tweet
 ###share-twitter
 ###share-twitter-menu
@@ -4405,7 +4404,6 @@
 ##.fb-widget
 ##.fb-xfbml-parse-ignore
 ##.fbActivity
-##.fbBox
 ##.fbBtn
 ##.fbLike
 ##.fbLikeBox
@@ -5006,6 +5004,7 @@
 ##.gb-share
 ##.gc_social_floating
 ##.gd-newsletter-subscribe-sharelinks
+##.gd-social-share
 ##.gdhp-share
 ##.gdlr-social-share
 ##.geShareTool
@@ -5796,12 +5795,14 @@
 ##.js-share-facebook
 ##.js-share-linkedin
 ##.js-share-more
+##.js-share-open
 ##.js-share-pinterest
 ##.js-share-popup
 ##.js-share-property
 ##.js-share-social-sticky
 ##.js-share-this
 ##.js-share-to-facebook
+##.js-share-toggle
 ##.js-share-tracking
 ##.js-share-twitter
 ##.js-shareButton
@@ -5836,6 +5837,7 @@
 ##.js-wkis-social-share-bar
 ##.jsShare
 ##.js_follow-buttons
+##.js_share-button
 ##.js_socialMedia
 ##.js_staticShare
 ##.jsbd-gtm-footerSocialLink
@@ -6274,6 +6276,7 @@
 ##.mediaShare
 ##.mediaShareGroup
 ##.media__share
+##.megaphone-share-wrapper
 ##.mejs-share
 ##.mejs-share-button
 ##.meme-share-box
@@ -7845,7 +7848,6 @@
 ##.share-topic
 ##.share-total-top
 ##.share-tray
-##.share-trigger
 ##.share-tw
 ##.share-twitter
 ##.share-twitter-icon
@@ -9996,6 +9998,7 @@
 ##.story-top-social
 ##.story__share
 ##.story__social
+##.story__social-share
 ##.story_allsocial
 ##.story_share
 ##.story_share_blk
@@ -11122,6 +11125,7 @@
 ##a[href^="https://www.pinterest.com/pin/create/button?"]
 ##a[href^="https://www.pinterest.com/pin/create/link/"]
 ##a[href^="https://www.reddit.com/submit?"]
+##a[href^="whatsapp://send?text="]
 ##a[rel="share-on-facebook"]
 ##a[rel="share-on-twitter"]
 ##a[title="Condividi su Facebook"]

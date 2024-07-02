@@ -3,6 +3,7 @@
 ||342251b-beta.perplexity.ai/api/$xmlhttprequest
 ||40svintageporn.com/hit
 ||4hds.com/js/camstats.js
+||4kporn.xxx/static/analytics/
 ||4shared.com/js/d1VisitsCounter.4min.js
 ||9gag.com/event/
 ||9gag.com/track/
@@ -22,6 +23,7 @@
 ||about.me/track?
 ||abysscdn.com/cdn-cgi/trace
 ||academia.edu/record_hit
+||acast.com/api/stats
 ||accor.com/g/collect?
 ||accuterm.com/data/stat.js
 ||acronymfinder.com/~/tr.ashx
@@ -59,7 +61,6 @@
 ||aiv-delivery.net/v1/ReportEvent
 ||akamaihd.net/paay6hyr.gif?
 ||alb.reddit.com^
-||algolia.net/1/isalive?
 ||alicdn.com/AWSC/et/
 ||aliexpress.com/ts?
 ||alipay.com/web/bi.do?ref=
@@ -85,6 +86,7 @@
 ||analytics-api.dvdfab.
 ||analytics-batch.blitz.gg^
 ||analytics-proxy.springboard.com^
+||analytics-server.arras.cx^
 ||analytics-tracking.meetup.com^
 ||analytics-wcms.joins.net^
 ||analytics-zone-1.api.leadfamly.com^
@@ -145,6 +147,7 @@
 ||api.privacyguides.net^
 ||api.streamelements.com/science/
 ||api.takealot.com^$ping
+||api.vk.com/method/statEvents.
 ||app-bnkr.b-cdn.net/js/lv.js
 ||app.box.com/app-api/split-proxy/api/metrics
 ||app.box.com/gen204
@@ -466,6 +469,7 @@
 ||events2.www.edenfantasys.com^
 ||evs.icy-lake.kickstarter.com^
 ||evs.sgmt.loom.com^$script
+||excess.duolingo.com/batch
 ||expedia.*/cl/
 ||experiences.wyng.com/api/*/event-api/events
 ||expressvpn.com/__px.gif?
@@ -774,6 +778,7 @@
 ||lookawoman.com/t/
 ||lowes.com/gauge/
 ||lyft.com/api/track
+||lyngsat.com/system/loadclick.js
 ||m.facebook.com/ajax/weblite_load_logging/
 ||m.facebook.com/ajax/weblite_resources_timing_logging/
 ||ma.redhat.com^
@@ -963,6 +968,7 @@
 ||pixel.tuko.co.ke^
 ||pixelzirkus.gameforge.com^
 ||pixiedust.buzzfeed.com^
+||pks-analytics.raenonx.cc^
 ||pl.letsblock.it^
 ||planetradio.co.uk/crystal/log
 ||plausible.bots.gg^
@@ -1025,6 +1031,7 @@
 ||r.apkpure.net^
 ||r.bbci.co.uk^
 ||raenonx.cc/api/analytics
+||raenonx.cc/api/usage
 ||raindrop.io/pb/api/event
 ||rakuten.com/rmsgjs/soj2.js
 ||ranker.com/api/px
@@ -1409,7 +1416,6 @@
 ||tumblr.com/pop/js/modern/sentry-
 ||tumblr.com/services/bblog
 ||tunein.com/api/v1/log/
-||tweakers.net/ajax/$ping
 ||twitter.com/1.1/attribution
 ||twitter.com/1.1/jot
 ||twitter.com/9/measurement/
@@ -1461,6 +1467,11 @@
 ||vimeocdn.com/js_opt/logging_combined.min.js
 ||visualstudio.com/v2/track
 ||vizcloud.co/ping/
+||vk.com/al_video.php?act=ads_stat
+||vk.com/al_video.php?act=inc_view_counter
+||vk.com/al_video.php?act=live_heartbeat
+||vk.com/al_video.php?act=track_player_events
+||vk.com/al_video.php?act=watch_stat
 ||vk.com/js/lib/px.js
 ||vortex.hulu.com^
 ||vrbo.com/edap/elo/v1/event/beacon
