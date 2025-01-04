@@ -22,7 +22,6 @@
 ###AlertaCookies
 ###AllowCookieContainer
 ###AllowCookiesMessage
-###AllowCookiesModal
 ###AllowCookiesWrapper
 ###AnalyticsPrompt
 ###AppCookieBar
@@ -654,7 +653,6 @@
 ###ac_cookie_bar
 ###ac_cookiebanner
 ###ac_cookiesvalidation
-###acb-banner
 ###accept-cookie-bar
 ###accept-cookie-box
 ###accept-cookie-compliance-section
@@ -1377,7 +1375,6 @@
 ###capaAvisoCookies
 ###capaAvisoPoliticaCookies
 ###capa_acepta_cookies
-###capa_aviso_cookies
 ###capa_cookie
 ###capa_cookie_rgpd
 ###capa_cookies
@@ -2535,6 +2532,7 @@
 ###cookieBoxContainer
 ###cookieBoxOverlay
 ###cookieBoxWrapper
+###cookieBrownie
 ###cookieBs
 ###cookieC
 ###cookieCDkeys
@@ -6272,7 +6270,6 @@
 ###myLoaderCookies
 ###myModal.ccModal
 ###myModalCookie
-###myModalCookies
 ###myModalrgpd
 ###myUserConsent
 ###mybyte_media_cookiehinweis
@@ -9529,7 +9526,6 @@
 ##.consent-animation
 ##.consent-at-bottom
 ##.consent-background-overlay
-##.consent-banner
 ##.consent-bar
 ##.consent-bg-dark
 ##.consent-confirmation-banner
@@ -15608,7 +15604,6 @@
 ##.viacomcookiebar
 ##.viacomcookiebar-extended
 ##.vibrant-app_gdpr
-##.view-gdpr
 ##.viia-cookie
 ##.virtualgroup-cookie-notice-wrapper
 ##.visible-cookies:not(body)
@@ -16402,6 +16397,9 @@
 ##section.cookie-popup
 ##section.cookie__privacy
 ##section.cookies_banner
+! utreraweb.com/mmexpression.es/dicep.es
+###capa_aviso_cookies
+##.cookies_aviso_escudo
 ! wcc consents (Bottom/left/right) Not center.
 ##div.wcc-banner-bottom
 ##div.wcc-box-bottom-left

@@ -233,6 +233,7 @@
 ||brightside.me/metric-collector
 ||browse-privately.net/event/
 ||browsealoud.com/plus/scripts/$script
+||browserling.com/api/stats-browsing
 ||bugsnag.shopbop.amazon.dev^
 ||builder.io/api/v1/track
 ||buondua.com/hit/
@@ -568,6 +569,7 @@
 ||fdt.kraken.com^
 ||feedly.com/mxpnl/
 ||femetrics.grammarly.io^
+||feross.org/views
 ||fgn-plausible.serverable.com^
 ||figma.com/api/figment-proxy/
 ||figma.com/api/web_logger/
@@ -693,6 +695,8 @@
 ||healthline.com/api/metrics
 ||heap.drop.com^
 ||hellopeter.com/api/consumer-tracking/
+||hexed.it/js/error-reporting.
+||hexed.it/js/startup-error.
 ||hilton.com/zJbufaUX/
 ||hindustantimes.com/res/images/one-pixel.png
 ||hlogger.heraldcorp.com^
@@ -1012,6 +1016,7 @@
 ||npa.thetimes.com/stats
 ||nr-data.noelleeming.co.nz^
 ||nr.noelleeming.co.nz^
+||nslookup.io/pl.js
 ||ntvid.online/cdn-cgi/trace
 ||nyt.com/ads/tpc-check.html$domain=nytimes.com
 ||nytimes.com/v1/purr-cache
@@ -1623,6 +1628,7 @@
 ||vimeo.com/ablincoln/
 ||vimeocdn.com/js_opt/logging_combined.min.js
 ||visualstudio.com/v2/track
+||vitals.groww.in/collect
 ||vivaldi.*/rep/rep.js
 ||vizcloud.co/ping/
 ||vk.com/al_video.php?act=ads_stat
@@ -1819,6 +1825,7 @@
 ||citibank.com.sg/jso/js/fp.js
 ||citibank.com.sg/tmx/
 ||clear.wallapop.com^
+||content.canadiantire.ca^
 ||content22.bmo.com^
 ||content22.citi.eu^$script
 ||content22.citibank.com.au^
@@ -1833,7 +1840,7 @@
 ||ebaystatic.com/rs/v/klminxoj1uyzvo0p0qu4nhpg0qo.js
 ||ebaystatic.com/rs/v/s0hteylevy4bpkd12dvkd4yi5ms.js
 ||event.evtm.53.com^
-||feross.org/views
+||idhtm.bb.com.br^
 ||idstatus.sky.com^
 ||img2021.navyfederal.org^
 ||imgs.signifyd.com^

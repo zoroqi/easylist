@@ -306,7 +306,7 @@ pangleglobal.com##+js(set-cookie, cookie_banner_preference, reject)
 goindex.lt##+js(set-cookie, user_cookie_consent, 1)
 bigbank.nl##+js(set-cookie, _ck_decision, 1)
 berkeleygroup.digital##+js(set-cookie, BGDESKTOP_TERMS, 1)
-ally.com##+js(set-cookie, allycc, OK)
+ally.com##+js(set-cookie, allyccb, OK)
 rega.ch##+js(set-cookie, consentcookierega, 0)
 couplechallenge.com,gavelo.com,allgaeuer-wanderimkerei.de,kristallkraft-pferdefutter.de,everjump.fit,okimono.nl,snocks.com,pureness.se,quiet-books.com,pfotenmond.de,dynmcyou.com,geurwolkje.nl,hodalump-ratschkatl.de,mamm.ch,saricurls.de,snockscoffee.com,hodalump.com,alljigsawpuzzles.*##+js(set-cookie, _pandectes_gdpr, 1)
 shop.kurhessen-therme.de##+js(set-cookie, cookies_mandatory, true)
@@ -525,7 +525,10 @@ hannahgraaf.com##+js(set-cookie, confirmed-cookies, 1, , reload, 1)
 shop.elbers-hof.de##+js(set-cookie, cb_validCookies, 1)
 shop.elbers-hof.de##+js(set-cookie, cb_accepted, 1)
 woolsocks.eu##+js(set-cookie, ws-cookie-Techniques, true)
-uza.be##+js(set-cookie, cookie-agreed, 2)
+topuniversities.com,uza.be,5asec.ch,wizards.com##+js(set-cookie, cookie-agreed, 2)
+mandarinstone.com##+js(set-cookie, ud_accept_marketing_cookies, no)
+mandarinstone.com##+js(set-cookie, ud_accept_analytical_cookies, no)
+app.aave.com##+js(set-cookie, userAcceptedAnalytics, false)
 kitepackaging.co.uk##+js(set-cookie, cookie_consent, yes)
 kitepackaging.co.uk##+js(set-cookie, cookie_consent_options, 3)
 parkenflughafen.de##+js(set-cookie, consentIsSetByUser, true, , reload, 1)
@@ -752,9 +755,11 @@ rtu.lv##+js(set-cookie, uce-cookie, N)
 sysdream.com##+js(set-cookie, tarteaucitron, false)
 cinemarkca.com##+js(set-cookie, cookiePolicies, true)
 neander-zahn.de##+js(set-cookie, cookie_optin_q, false)
-thespaniardshampstead.co.uk,carsupermarket.com,theadelphileeds.co.uk,tobycarvery.co.uk,harvester.co.uk,stonehouserestaurants.co.uk,millerandcarter.co.uk,browns-restaurants.co.uk,thechampionpub.co.uk,therocketeustonroad.co.uk,thesheepheidedinburgh.co.uk,thejerichooxford.co.uk,hartsboatyard.co.uk,thesalisburyarmsedinburgh.co.uk,thelambchiswick.co.uk,barntgreeninn.co.uk,the-albany.co.uk,sonofsteak.co.uk,thewashingtonhampstead.co.uk,princessofwalespub.co.uk,harrycookcheltenham.co.uk,thegreenmantrumpington.com,queenandcastlekenilworth.co.uk,whitehorseradlett.co.uk,woolpackstokemandeville.co.uk,thewhitehartpirbright.co.uk,castleportobello.co.uk,theswanbroadway.co.uk,thederbyarmsepsom.co.uk,thedewdropinnoxford.co.uk,thejunctionharborne.co.uk,therailwayblackheath.co.uk,whitehartbrasted.co.uk,thewarrenwokingham.co.uk,thedukesheadcrawley.co.uk,thewhitehartse19.co.uk,thesunclapham.co.uk,thevolunteernw1.co.uk,theramsheaddisley.co.uk,thepalaceleeds.co.uk,edinborocastlepub.co.uk,arnosarms.co.uk,dehemspub.co.uk,dukeofdevonshireeastbourne.co.uk,flanagansappleliverpool.co.uk,fontbrighton.co.uk,hawkinsforge.co.uk,hopeandbearreading.co.uk,ploughandharrowaldridge.co.uk,radicalsandvictuallers.co.uk,redlionhandcross.co.uk,stgeorgeanddragon.co.uk,theanchorinnirby.co.uk,thearkley.co.uk,theappletreegerrardscross.co.uk,theashtonbristol.co.uk,thebankplymouth.co.uk,thebathamptonmill.co.uk,theblackbullyarm.co.uk,thebotanistbristol.co.uk,thebootmappleboroughgreen.co.uk,thebullislington.co.uk,thecavershamrosereading.co.uk,thecliffcanfordcliffs.co.uk,thecockinncockfosters.co.uk,theencorestratford.co.uk,theferry.co.uk##+js(set-cookie, ce-cookie, N)
+vintageinn.co.uk,thespaniardshampstead.co.uk,carsupermarket.com,theadelphileeds.co.uk,tobycarvery.co.uk,harvester.co.uk,stonehouserestaurants.co.uk,millerandcarter.co.uk,browns-restaurants.co.uk,thechampionpub.co.uk,therocketeustonroad.co.uk,thesheepheidedinburgh.co.uk,thejerichooxford.co.uk,hartsboatyard.co.uk,thesalisburyarmsedinburgh.co.uk,thelambchiswick.co.uk,barntgreeninn.co.uk,the-albany.co.uk,sonofsteak.co.uk,thewashingtonhampstead.co.uk,princessofwalespub.co.uk,harrycookcheltenham.co.uk,thegreenmantrumpington.com,queenandcastlekenilworth.co.uk,whitehorseradlett.co.uk,woolpackstokemandeville.co.uk,thewhitehartpirbright.co.uk,castleportobello.co.uk,theswanbroadway.co.uk,thederbyarmsepsom.co.uk,thedewdropinnoxford.co.uk,thejunctionharborne.co.uk,therailwayblackheath.co.uk,whitehartbrasted.co.uk,thewarrenwokingham.co.uk,thedukesheadcrawley.co.uk,thewhitehartse19.co.uk,thesunclapham.co.uk,thevolunteernw1.co.uk,theramsheaddisley.co.uk,thepalaceleeds.co.uk,edinborocastlepub.co.uk,arnosarms.co.uk,dehemspub.co.uk,dukeofdevonshireeastbourne.co.uk,flanagansappleliverpool.co.uk,fontbrighton.co.uk,hawkinsforge.co.uk,hopeandbearreading.co.uk,ploughandharrowaldridge.co.uk,radicalsandvictuallers.co.uk,redlionhandcross.co.uk,stgeorgeanddragon.co.uk,theanchorinnirby.co.uk,thearkley.co.uk,theappletreegerrardscross.co.uk,theashtonbristol.co.uk,thebankplymouth.co.uk,thebathamptonmill.co.uk,theblackbullyarm.co.uk,thebotanistbristol.co.uk,thebootmappleboroughgreen.co.uk,thebullislington.co.uk,thecavershamrosereading.co.uk,thecliffcanfordcliffs.co.uk,thecockinncockfosters.co.uk,theencorestratford.co.uk,theferry.co.uk##+js(set-cookie, ce-cookie, N)
 viajesatodotren.com##+js(set-cookie, NTCookies, 0)
 firsttable.co.uk##+js(set-cookie, CookieConsentFT, 1)
+colegiolamagdalena.clickedu.eu##+js(set-cookie, cookiescheck, true)
+swissas.teamtailor.com##+js(set-cookie, _ttCookiePermissions, no)
 ticketingcine.fr##+js(set-cookie, alertCookie, 1, , reload, 1)
 agenziavista.it##+js(set-cookie, gdpr, 1)
 bitecode.dev##+js(set-cookie, hideCookieBanner, true)
@@ -989,7 +994,6 @@ wamba.com##+js(set-cookie, appBannerPopUpRulesCookie, true)
 eurac.edu##+js(set-cookie, eurac_cookie_consent, true)
 akasaair.com##+js(set-cookie, akasaairCookie, accepted)
 rittal.com##+js(set-cookie, rittalCC, 1)
-5asec.ch,wizards.com##+js(set-cookie, cookie-agreed, 2)
 worstbassist.com##+js(set-cookie, ckies_facebook_pixel, deny)
 worstbassist.com##+js(set-cookie, ckies_google_analytics, deny)
 worstbassist.com##+js(set-cookie, ckies_youtube, allow)
@@ -1398,7 +1402,11 @@ posthog.com##+js(set-local-storage-item, cookie_consent, no)
 shop.ba.com##+js(set-local-storage-item, iag-targeting-consent, "no")
 shop.ba.com##+js(set-local-storage-item, iag-performance-consent, "no")
 uc.pt##+js(set-local-storage-item, userDeniedCookies, 1)
+leafly.com##+js(set-local-storage-item, viewedCookieConsent, true)
 geizhals.at##+js(set-local-storage-item, dnt_message_shown, 1)
+webhallen.com##+js(set-local-storage-item, necessaryConsent, true)
+webhallen.com##+js(set-local-storage-item, marketingConsent, false)
+webhallen.com##+js(set-local-storage-item, personalisationConsent, false)
 olx.com.br##+js(set-local-storage-item, open_modal_update_policy, 1)
 unobike.com##+js(set-local-storage-item, cookieinfo, 1)
 mod.io##+js(set-local-storage-item, cookies, 1)
@@ -1692,9 +1700,9 @@ pferdekaemper.de,davidoff.com,floridaeis.de,kommago.nl,miele.ca,shop.zoo-leipzig
 aurapol.com,digineb.eu,marshall.com,onehsn.com,magneticpoint.com,workbuster.com,grade.com,hetzner.com,onleihe.de##.modal-backdrop
 aurapol.com,digineb.eu,marshall.com,onehsn.com,magneticpoint.com,workbuster.com,grade.com,hetzner.com,onleihe.de##body:style(overflow: auto !important; position: initial !important;)
 !! .cli-modal-backdrop
-radiosilver.it,aibbricherasio.com,radioclub91.net,umbriasettegiorni.it,messinamagazine.it,funghimagazine.it,progrentis.com,factsd.com,cosasdeeducacion.es,videntetarotesmeralda.com,gildavenezia.it,benefit-plus.eu,hanwhasecurity.com,denia.com,management30.com,fantasyfootballgeek.co.uk,czyodebrac.pl,newfies-dialer.org,greatplacetowork.co.id,greatplacetowork.com.ph,ushio-staging.ewag.nl,ushio-staging.ewag.nl,moneris.pt,bluebird-europe.com,bluebird.hu,asimakopoulou.gr,demokracija.si,bessahotel.com,dragtaste.com,brnodaily.com,jobspin.cz,somme.fr,aquarius-divingtenerife.com,blackvoicenews.com,ajaxfanzone.nl##.cli-bar-popup
-radiosilver.it,aibbricherasio.com,radioclub91.net,umbriasettegiorni.it,messinamagazine.it,funghimagazine.it,progrentis.com,factsd.com,cosasdeeducacion.es,videntetarotesmeralda.com,gildavenezia.it,benefit-plus.eu,hanwhasecurity.com,denia.com,management30.com,fantasyfootballgeek.co.uk,czyodebrac.pl,newfies-dialer.org,greatplacetowork.co.id,greatplacetowork.com.ph,ushio-staging.ewag.nl,ushio-staging.ewag.nl,moneris.pt,bluebird-europe.com,bluebird.hu,asimakopoulou.gr,demokracija.si,bessahotel.com,dragtaste.com,brnodaily.com,jobspin.cz,somme.fr,aquarius-divingtenerife.com,blackvoicenews.com,ajaxfanzone.nl##.cli-modal-backdrop
-radiosilver.it,aibbricherasio.com,radioclub91.net,umbriasettegiorni.it,messinamagazine.it,funghimagazine.it,progrentis.com,factsd.com,cosasdeeducacion.es,videntetarotesmeralda.com,gildavenezia.it,benefit-plus.eu,hanwhasecurity.com,denia.com,management30.com,fantasyfootballgeek.co.uk,czyodebrac.pl,newfies-dialer.org,greatplacetowork.co.id,greatplacetowork.com.ph,ushio-staging.ewag.nl,ushio-staging.ewag.nl,moneris.pt,bluebird-europe.com,bluebird.hu,asimakopoulou.gr,demokracija.si,bessahotel.com,dragtaste.com,brnodaily.com,jobspin.cz,somme.fr,aquarius-divingtenerife.com,blackvoicenews.com,ajaxfanzone.nl##body,html:style(overflow: auto !important; position: initial !important;)
+mizunogolf.com,radiosilver.it,aibbricherasio.com,radioclub91.net,umbriasettegiorni.it,messinamagazine.it,funghimagazine.it,progrentis.com,factsd.com,cosasdeeducacion.es,videntetarotesmeralda.com,gildavenezia.it,benefit-plus.eu,hanwhasecurity.com,denia.com,management30.com,fantasyfootballgeek.co.uk,czyodebrac.pl,newfies-dialer.org,greatplacetowork.co.id,greatplacetowork.com.ph,ushio-staging.ewag.nl,ushio-staging.ewag.nl,moneris.pt,bluebird-europe.com,bluebird.hu,asimakopoulou.gr,demokracija.si,bessahotel.com,dragtaste.com,brnodaily.com,jobspin.cz,somme.fr,aquarius-divingtenerife.com,blackvoicenews.com,ajaxfanzone.nl##.cli-bar-popup
+mizunogolf.com,radiosilver.it,aibbricherasio.com,radioclub91.net,umbriasettegiorni.it,messinamagazine.it,funghimagazine.it,progrentis.com,factsd.com,cosasdeeducacion.es,videntetarotesmeralda.com,gildavenezia.it,benefit-plus.eu,hanwhasecurity.com,denia.com,management30.com,fantasyfootballgeek.co.uk,czyodebrac.pl,newfies-dialer.org,greatplacetowork.co.id,greatplacetowork.com.ph,ushio-staging.ewag.nl,ushio-staging.ewag.nl,moneris.pt,bluebird-europe.com,bluebird.hu,asimakopoulou.gr,demokracija.si,bessahotel.com,dragtaste.com,brnodaily.com,jobspin.cz,somme.fr,aquarius-divingtenerife.com,blackvoicenews.com,ajaxfanzone.nl##.cli-modal-backdrop
+mizunogolf.com,radiosilver.it,aibbricherasio.com,radioclub91.net,umbriasettegiorni.it,messinamagazine.it,funghimagazine.it,progrentis.com,factsd.com,cosasdeeducacion.es,videntetarotesmeralda.com,gildavenezia.it,benefit-plus.eu,hanwhasecurity.com,denia.com,management30.com,fantasyfootballgeek.co.uk,czyodebrac.pl,newfies-dialer.org,greatplacetowork.co.id,greatplacetowork.com.ph,ushio-staging.ewag.nl,ushio-staging.ewag.nl,moneris.pt,bluebird-europe.com,bluebird.hu,asimakopoulou.gr,demokracija.si,bessahotel.com,dragtaste.com,brnodaily.com,jobspin.cz,somme.fr,aquarius-divingtenerife.com,blackvoicenews.com,ajaxfanzone.nl##body,html:style(overflow: auto !important; position: initial !important;)
 !! .wt-cli-cookie-bar-container
 lahacienda.co.uk,clever-zoeger.de,frusoed.dk,toptravelsights.com,mobilabonnemang.se,covivio.eu,loparex.com,pasquet.fr,expira.de,ackstorm.com,sdsdrives.com,nygart.dk,evelb.es,uebex.com,gulf.lu,jardincelas.com,mobilitytechgreen.com,mccinnovations.com,lacomarca.net,gocollette.com,iwatson.com,hautsdefrance.cci.fr,nordcloud.com,hlpklearfold.es,codigocarnaval.com,urbana.ie,enact.co.uk,netnews.com.mt,tvmnews.mt,one.com.mt,maggioreosp.novara.it,tbs-education.com,tbs-education.fr,go-fit.es,aslbi.piemonte.it,impacthub.net##.wt-cli-cookie-bar-container
 lahacienda.co.uk,clever-zoeger.de,frusoed.dk,toptravelsights.com,mobilabonnemang.se,covivio.eu,loparex.com,pasquet.fr,expira.de,ackstorm.com,sdsdrives.com,nygart.dk,evelb.es,uebex.com,gulf.lu,jardincelas.com,mobilitytechgreen.com,mccinnovations.com,lacomarca.net,gocollette.com,iwatson.com,hautsdefrance.cci.fr,nordcloud.com,hlpklearfold.es,codigocarnaval.com,urbana.ie,enact.co.uk,netnews.com.mt,tvmnews.mt,one.com.mt,maggioreosp.novara.it,tbs-education.com,tbs-education.fr,go-fit.es,aslbi.piemonte.it,impacthub.net##body,html:style(overflow: auto !important; position: initial !important;)
@@ -2048,8 +2056,9 @@ vivantis.it,vivantis-shop.at,vivantis.hu,vivantis.ro,vivantis.cz,vivantis.sk##bo
 bulk.com##.amgdprjs-bar-template
 bulk.com##body,html:style(overflow: auto !important; position: initial !important;)
 ! #cookieModal
-argos-tradein.co.uk,maandag.be,flixable.com,nmsu.edu,higcapital.es###cookieModal
-argos-tradein.co.uk,maandag.be,flixable.com,nmsu.edu,higcapital.es##body,html:style(overflow: auto !important; position: initial !important;)
+argos-tradein.co.uk,limogeshabitat.fr###cookieModal
+argos-tradein.co.uk,limogeshabitat.fr##.modal-backdrop
+argos-tradein.co.uk,limogeshabitat.fr##body,html:style(overflow: auto !important; position: initial !important;)
 !! .sgpb-popup-overlay
 ematic.co.za##.sgpb-popup-overlay
 ematic.co.za##.sgpb-popup-dialog-main-div-wrapper
@@ -2695,6 +2704,9 @@ riceundspice.de##+js(rc, disabled, body, stay)
 ! budni.de
 budni.de##body:style(overflow:initial!important;position:initial!important)
 budni.de###grey-overlay
+! #cookies-popup
+hockerty.ch,hockerty.de,hockerty.es,hockerty.at,hockerty.it,hockerty.fr###cookies-popup
+hockerty.ch,hockerty.de,hockerty.es,hockerty.at,hockerty.it,hockerty.fr##body:style(height: auto !important; overflow: auto !important)
 ! ejobs.ro
 ejobs.ro##.CookiesPopup
 ejobs.ro##html,body:style(overflow: auto !important; position: initial !important;)
@@ -3281,10 +3293,6 @@ lovebookonline.com,varma.fi##body,html:style(overflow: auto !important; position
 ! lekarenvkocke.sk
 lekarenvkocke.sk##.modal
 lekarenvkocke.sk##.modal-backdrop
-! limogeshabitat.fr (using #cookieModal instead of modal to prevent fp)
-limogeshabitat.fr##.modal-backdrop
-limogeshabitat.fr###cookieModal
-limogeshabitat.fr##body,html:style(overflow: auto !important; position: initial !important;)
 ! kanalsportowy.pl
 kanalsportowy.pl##.app-cmp
 kanalsportowy.pl##body:style(overflow: auto !important; position: initial !important;)

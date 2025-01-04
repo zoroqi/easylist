@@ -687,7 +687,7 @@ apec.fr##.info-sanitaire
 toulousemetro3.fr##.janusbanner
 grand-hotel-dieu.com##.jinLyg
 bricomarche.com##.js-GlobalPopin
-bernard.fr##.js-otsdk
+bernard.fr,jpg.fr##.js-otsdk
 inshallah.com##.jss125
 aromatech.fr##.layout-cookies
 aromatech.fr##.layout-cookies__notice
@@ -2674,6 +2674,7 @@ valher.si##tr > td
 !
 ! ---------- Spanish ----------
 !
+gruposalinas.pandape.computrabajo.com###AllowCookiesModal
 almacen-informatico.com###Informacion
 northgate.es###WindowLoad
 ayudatpymes.com###__bg
@@ -2815,6 +2816,7 @@ solarventi.es##.mfp-bg
 solarventi.es##.mfp-wrap
 casafernando.es##.mobile-undersized-upper.mobile-forcehide
 karolviajes.es##.modal-avisos
+gruposalinas.pandape.computrabajo.com##.modal-backdrop
 servihabitat.com##.modal-condiciones
 rodilla.es##.modals-wrapper
 pcexpansion.es##.mostrar
