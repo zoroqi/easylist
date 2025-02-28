@@ -8,6 +8,7 @@ javgg.net###adlink
 eporner.com###admobileoutstream
 tnaflix.com###ads-under-video_
 h-flash.com###ads_2
+wetpussygames.com###adult-games > div[style*="250px;"]
 badassbitch.pics###adv
 flyingjizz.com###adv_inplayer
 xpaja.net###advertisement
@@ -31,6 +32,7 @@ lewdspot.com,mopoga.com###belowGameAdContainerPause
 cockdude.com###beside-video-ver2
 sexyandfunny.com###best-friends
 pussyspace.com###bhcr
+bgwp.cc###blk1
 18adultgames.com###block-105
 18adultgames.com###block-121
 euroxxx.net###block-15
@@ -154,6 +156,7 @@ youporngay.com###producer
 xvideos.name###publicidad-video
 celebjihad.com###pud
 bootyoftheday.co###random-div-wrapper
+h-flash.com###randomzone1
 cockdude.com###related-boxes-footer-ver2
 pornhub.com###relatedVideosCenter > li[class^="related"]
 freebdsmxxx.org###right
@@ -215,7 +218,6 @@ drtuber.com###video_list_banner
 dofap.com###video_overlay_banner
 hentaiplay.net###video_overlays
 redtube.com###video_right_col > .clearfix
-ryuugames.com###wpfront-notification-bar
 gosexpod.com###xtw
 porndroids.com##.CDjtesb7pU__video-units
 bellesa.co##.Display__RatioOuter-hkc90m-0
@@ -643,10 +645,7 @@ peekvids.com##.mediaPlayerSponsored
 efukt.com##.media_below_container
 lesbianbliss.com,mywebcamsluts.com,transhero.com##.media_spot
 visitmama.com##.menu-item > a:not([href^="https://www.visitmama.com/"])
-ryuugames.com##.menu-item > a[href^="https://l.erodatalabs.com/s/"]
-ryuugames.com##.menu-item-42245
 camcam.cc##.menu-item-5880
-ryuugames.com##.menu-item-94876
 thehentai.net##.menu_tags
 empflix.com,tnaflix.com##.mewBlock
 sopornmovies.com##.mexu-bns-bl
@@ -1067,10 +1066,12 @@ brazz-girls.com##[href^="/Site/Brazzers/"]
 footztube.com##[href^="/tp/out"]
 boobieblog.com##[href^="http://join.playboyplus.com/track/"]
 thotstars.com##[href^="http://thotmeet.site/"]
+otomi-games.com,ryuugames.com##[href^="https://aichattings.com/"]
 androidadult.com,homemoviestube.com##[href^="https://aoflix.com/Home"]
 hentai2read.com##[href^="https://camonster.com"]
 akiba-online.com##[href^="https://filejoker.net/invite"]
 sweethentai.com##[href^="https://gadlt.nl/"]
+ryuugames.com##[href^="https://golove.ai/"]
 usasexguide.nl##[href^="https://instable-easher.com/"]
 adultcomixxx.com##[href^="https://join.hentaisex3d.com/"]
 ryuugames.com,yaoimangaonline.com##[href^="https://l.erodatalabs.com/s/"] > img
@@ -1300,3 +1301,5 @@ redtube.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporn.com,youp
 redtube.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporn.com,youporngay.com#?#:-abp-properties(base64)
 redtube.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporn.com,youporngay.com#?#:-abp-properties(data:)
 redtube.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporn.com,youporngay.com#?#:-abp-properties(image/)
+! ABP CSS injection filters
+otomi-games.com##.clean-grid-grid-post:has(> [id^="otomi-"] + .clean-grid-grid-post-details-full) {remove:true;}

@@ -212,6 +212,7 @@
 ||bgro41vnmb.execute-api.us-east-2.amazonaws.com/production$domain=masterworks.com
 ||bhphotovideo.com/aperture/shared/js/dataLayer.js
 ||bi.banggood.com^
+||bicp-analytics.postscript.io^
 ||bigw.com.au/api/event/
 ||bigw.com.au/events/
 ||bing.com/fd/ls/GLinkPing.aspx?
@@ -1787,6 +1788,8 @@
 ||zion-telemetry.api.cnn.io^
 ||zoosk.com/cs/tp.png?
 ||zumper.com/events
+! Email trackers(for long urls, 9000+ chars not being filtered)
+||googleusercontent.com/*/wf/open?upn=$image
 ! OpenTable
 ://track.opentable.
 ! Vinted

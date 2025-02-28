@@ -2785,7 +2785,6 @@
 ###cookieOverlayNotify
 ###cookiePK
 ###cookiePane
-###cookiePanel
 ###cookieParag
 ###cookieParisien
 ###cookiePermission
@@ -6470,7 +6469,6 @@
 ###pnl-cookies-warning
 ###pnlApproveCookiesUsage
 ###pnlCookie
-###pnlCookieBanner
 ###pnlCookieBar
 ###pnlCookieConsent
 ###pnlCookieFooter
@@ -10536,7 +10534,6 @@
 ##.cookie__area
 ##.cookie__background
 ##.cookie__banner
-##.cookie__bar
 ##.cookie__block
 ##.cookie__box
 ##.cookie__callout
@@ -12136,7 +12133,6 @@
 ##.fworks_consent_bar_init
 ##.fws-cookie-container
 ##.fxs_alertCookies
-##.fxxl-cookie-mainmodal
 ##.fz-use-cookies
 ##.g-alert-cookie
 ##.g-consent-manager-banner

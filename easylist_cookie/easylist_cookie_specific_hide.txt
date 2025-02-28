@@ -739,7 +739,6 @@ bgextras.co.uk##.CB393_opts
 napaonline.com##.CCPA
 classicalarchives.com##.Cdiv
 2nt.com,say-move.org##.CoZ9Nu8Z
-anthropic.com##.ConsentBanner_consentBanner__bLexV
 nordpass.com,support.nordvpn.com##.ConsentWidget__container
 jksrestaurants.com##.Cookie-message
 weverse.io##.CookieAgreeView_container__qYaK3
@@ -1103,6 +1102,7 @@ bitrix24.com##.bx-main-cookie-policy-sidebar
 desiindian-brighton.co.uk,royalspiceworthing.com##.bxUGXS
 perlego.com##.bzGIHv
 shadowserver.org##.c--gdpr-message
+monopo.london##.c-AppCookies
 co-wheels.org.uk,livingnorth.com##.c-CookieConsent
 audiotag.info##.c-agree
 jobs.ch,jobup.ch##.c-alert
@@ -2117,6 +2117,7 @@ floydsbarbershop.com##.pop-content
 orbitaltoday.com##.pop-up
 thecrownestate.co.uk##.pop-up-banner
 arrowheadcu.org##.popbox
+cultivatebrands.co.za##.popi_bar
 maisonstandards.com##.popin_consent
 aboardtheworld.com##.popmake
 egglifefoods.com,goodtimesoakland.com,organicawines.co.uk##.popup--cookies
@@ -2184,7 +2185,7 @@ zmags.com##.privacyPrompt
 okaysou.com##.privacy_box
 mitu.tv##.privacy_check
 localrent.com##.privacy_policies
-blackbaud.com,jacquielawson.com,penguinrandomhouse.com##.privacy_prompt
+blackbaud.com,brother-usa.com,jacquielawson.com,penguinrandomhouse.com##.privacy_prompt
 crystalfontz.com##.privacy_statement
 turbovpn.com##.privacy_tips
 diotec.com##.privacyoption_overlay
@@ -2533,6 +2534,7 @@ plente.com##[class*="SnackbarMessages__snackbar_"]
 payback-ltd.com##[class*="cookiesPopUp"]
 noovo.ca##[class*="modalstyles__StyledModalContainer-"]
 weedmaps.com##[class*="styles__BannerContainer-"]
+anthropic.com##[class^="ConsentBanner_"]
 getunleash.io##[class^="CookieControl"]
 marineserre.com##[class^="CookiePopin_"]
 bitbrain.com##[class^="CookiesManager"]
@@ -2889,7 +2891,7 @@ antiquebike.se,davidsonsskomakeri.com,konstgjordavaxter.se,rocksmineral.se,small
 !! .notification-bar-container
 onepercentclub.com,samenvoordebuurt.nl##.notification-bar-container
 !! #gdpr-blocking-page-overlay
-kidly.com,loopearplugs.com,wearewild.com###gdpr-blocking-page-overlay
+kidly.com,loopearplugs.com,tedbaker.com,wearewild.com###gdpr-blocking-page-overlay
 !! .ch2
 bmwnibul.bmw.com.tr,cb.is,dice.fm,jobsinadtech.com,pcdiga.com,riddle.com##.ch2
 !! #popupDivC
@@ -2937,7 +2939,7 @@ brightree.com,cgtrader.com,configserverfirewall.com,cortesdecima.com,delo.si,dia
 !! GDPRConsent
 cambash.com,massivecams.com,nordforme.org,nordvpn.com,streamate.com##[class^="GDPRConsent"]
 !! .modal-overlay
-delfi.ee,fahrrad-xxl.de,maxict.nl,mook.com.tw,paposertanejo.com,plus.pl,plushbezlimitu.pl,rolfsbuss.se,solresor.se,starcar.de,tandfonline.com##.modal-overlay
+delfi.ee,maxict.nl,mook.com.tw,paposertanejo.com,plus.pl,plushbezlimitu.pl,rolfsbuss.se,solresor.se,starcar.de,tandfonline.com##.modal-overlay
 !! .cookie-wrapper
 pickmypostcode.com##.cookie-wrapper
 !! .cc
@@ -2963,7 +2965,7 @@ acast.com,bais.de,birgit-bittermann.de,builds.gg,catcat.com,checkyourmath.com,ci
 !! .consents
 audiotop.pl,bakeshop.pl,czerwonatwierdza.pl,dlabrodacza.pl,estetic-dent-sklep.pl,fitness-home.pl,fly-desk.com,militarymarket.pl,miodykrupiec.pl,modnakiecka.pl,niewiem.pl,pancernik.eu,planszostrefa.pl,profitechnik.pl,prorowery.pl,questsport.shop,retio.pl,skarbyroztocza.com,sklepkawa.pl,wkdzik.pl##.consents
 !! #consent
-agendatrad.org,alarabiya.net,alhadath.net,bagira.bg,cardzmania.com,chiccentre.com,cleverreisen.de,co.jpf.go.jp,datacite.org,digminecraft.com,drugstore.bg,e-confirm.de,eismoinfo.lt,encycolorpedia.fr,find-dvd.co.uk,framar.bg,ft.com,heathrowexpress.com,heroforge.com,hifi4you.de,holition.com,hospiz-bodhicharya.de,hospiz-horizont.de,hunsruecktouristik.de,itt.bg,jtl-software.de,kaeltewolf.de,kauppasatama.fi,kigu.nl,kinopolis.de,kunstnet.de,lacsiboltja.hu,lzf-lamps.com,mapcarta.com,notebookinfo.de,nperf.com,pardini.de,plasico.bg,produkt.easyweb.travel,reisebuero-marzian.de,reisetreff-muecke.de,schulthess.ch,stat.gov.lt,techonthenet.com,terminal-bgt.de,tourismos.net,touristikerfotos.net,wellnissimo.de,zitatezumnachdenken.com###consent
+agendatrad.org,alarabiya.net,alhadath.net,bagira.bg,buonmenu.com,cardzmania.com,chiccentre.com,cleverreisen.de,co.jpf.go.jp,datacite.org,digminecraft.com,drugstore.bg,e-confirm.de,eismoinfo.lt,encycolorpedia.fr,find-dvd.co.uk,framar.bg,ft.com,heathrowexpress.com,heroforge.com,hifi4you.de,holition.com,hospiz-bodhicharya.de,hospiz-horizont.de,hunsruecktouristik.de,itt.bg,jtl-software.de,kaeltewolf.de,kauppasatama.fi,kigu.nl,kinopolis.de,kunstnet.de,lacsiboltja.hu,lzf-lamps.com,mapcarta.com,notebookinfo.de,nperf.com,pardini.de,plasico.bg,produkt.easyweb.travel,pushpad.xyz,reisebuero-marzian.de,reisetreff-muecke.de,schulthess.ch,stat.gov.lt,techonthenet.com,terminal-bgt.de,tourismos.net,touristikerfotos.net,wellnissimo.de,zitatezumnachdenken.com###consent
 !! ^.cookiesBanner-
 interacty.me,wetaca.com##div[class^="cookiesBanner"]
 !! .cli-bar-popup
@@ -3034,7 +3036,7 @@ cote.co.uk,ennismore.com,gemini.pl,sallys-shop.de##.z-100
 !! .cookie-bar
 ansell.com.cn,bootstrapmade.com,karriartips.se,mastername.ru,smartocto.com,triodos.co.uk,umbler.com,zerounoweb.it##.cookie-bar
 !! #ws_eu-cookie-container
-absolut-canoe.de,adt-diamantwerkzeuge.de,aluscout.de,blasmusik-shop.de,deinsportsfreund.de,diekleinewerft.de,druckerpatronenexpress.de,duftfeeling.de,edesign24.de,ersatzteil-shop24.de,eurotabak.de,futterscheune.com,glitzerpueppi.de,growland.fr,joergs-sportladen.de,julido.de,kabelschuhe-shop.de,kartons24.de,lanade.de,meine-hochzeitsdeko.de,nmav.de,pflanzen-mauk.de,shop.cosch-edelstahl.de,tesla-lighter.de,watchband-berlin.com,wischmopps.de###ws_eu-cookie-container
+absolut-canoe.de,adt-diamantwerkzeuge.de,aluscout.de,blasmusik-shop.de,deinsportsfreund.de,diekleinewerft.de,druckerpatronenexpress.de,duftfeeling.de,edesign24.de,ersatzteil-shop24.de,eurotabak.de,futterscheune.com,glitzerpueppi.de,growland.fr,joergs-sportladen.de,julido.de,kabelschuhe-shop.de,kartons24.de,lanade.de,meine-hochzeitsdeko.de,nmav.de,pflanzen-mauk.de,sachsperformance.com,shop.cosch-edelstahl.de,tesla-lighter.de,watchband-berlin.com,wischmopps.de###ws_eu-cookie-container
 !! #banerRoot
 gessteel.com,institutrocafort.com,masllombart.com###banerRoot
 !! .legal-consent
@@ -3363,7 +3365,7 @@ onassis.org##.bottom-0.relative
 !! .bottom-0.fixed
 1password.com,70mai.com,aberrant.io,actievandedag.nl,adspower.com,aksam.com.tr,androidide.com,animalpolitico.com,aplikuj.pl,app.daily.dev,archive.ics.uci.edu,auf1.info,auf1.tv,auroracloud.dev,ausbildung-in-der-it.de,autodiiler.ee,avislease.sk,back4app.com,ballonvaartcentrumvanmanen.nl,barecollective.com,bbcrewind.co.uk,bcfc.com,bellevue-hamburg.de,bestsellers.hu,betapage.co,biljardihuolto.fi,blickers.com,blog.appsignal.com,blomus.com,bookiply.com,boords.com,britishrenewables.com,bsbfashion.com,bulldogjob.com,bulldogjob.pl,canal1.com.co,canaries.co.uk,chipcitycookies.com,clubmed.co.nz,clubmed.co.uk,clubmed.com.ar,clubmed.com.mx,clubmed.ru,clubmed.se,clubmed.us,codeclimate.com,confi.com.vc,count.co,cryptomaan.eu,curiositystream.com,czepeku.com,deepsource.io,delio.com.pl,dhakapost.com,discords.com,divvydiary.com,drank.nl,eluniverso.com,elvah.de,emergency.wa.gov.au,emiratespost.ae,epic.com,espres.so,everifin.com,evolutionary-insights.com,fanzo.com,femometer.com,fetch.ai,financestrategists.com,findaport.com,first-law.com,flakehub.com,focus-entmt.com,form3.tech,fvd.nl,garbanzo.io,gauss.hr,get.metro-fs.com,glideapps.com,goafricaonline.com,goflink.com,greenmatch.co.uk,ground.news,haproxy.com,hendy.co.uk,hrt.hr,hyte.com,ideo.com,idprotect.trendmicro.com,institute.global,institutoaocp.org.br,interdiscount.ch,invezz.com,iotworldtoday.com,ipon.hu,issf-sports.org,jdoodle.com,jimejinak.cz,jobicon.pracuj.pl,jobyaviation.com,jokerguide.com,keeb-finder.com,kick.com,klachtenkompas.nl,kyero.com,licenseglobal.com,lounges.tv,matkakeisari.fi,mclarenstore.com,medimagazin.com.tr,mein-apothekenmanager.de,mitec.net,moises.ai,munichmag.de,myvatnnaturebaths.is,nationalprivacytest.org,nativebase.io,nbg.gov.ge,nexcess.net,nitronationworldtour.com,npistanbul.com,oberlo.com,oko.press,oldspitalfieldsmarket.com,onsk.no,opening-hours.today,parqet.com,pazarama.com,penger.no,perille.fi,polkadot.network,prettylittlething.com,privee.ai,procrosshairs.com,prographers.com,propello.bike,publicsquare.com,puma.com,pump.fun,qogita.com,qwertee.com,ranzijn.nl,raport.pse.pl,regiojet.at,regiojet.com,regiojet.de,regiojet.hu,regiojet.pl,regiojet.sk,regiojet.ua,regiojethotels.at,regiojethotels.com,remarkable.com,runmercury.com,selfstock.com,shakuro.com,skyfi.com,skynet.ru,slimsaas.com,smartthingsfind.samsung.com,snoop.app,sportfondsenbadamsterdamoost.nl,spotlighttheatres.com,standwithcrypto.org,streamawards.de,stylesandpartners.com,synapse.patsnap.com,tekninen.fi,teltonika-gps.com,teltonika-networks.com,temporal.io,thehappytoolbox.com,tierschutzverein-muenchen.de,tina.io,truecar.com,truthsocial.com,tweetyai.com,twitchcon.com,uc.pt,unox.com,vantilburgonline.nl,vegetology.com,veryfront.com,wizzair.com,wyylde.com,zubi.swiss##.bottom-0.fixed
 !! .bottom-2
-argyle.com,artma-zaproszenia.pl,avif.io,claude.ai,lahella.fi,olecams.com,videochaterotico.com,youverify.co##.bottom-2
+argyle.com,artma-zaproszenia.pl,avif.io,claude.ai,getmerlin.in,lahella.fi,olecams.com,videochaterotico.com,youverify.co##.bottom-2
 !! .bottom-6
 app.houseofcb.com,boostroyal.nl,wimotic.fr##.bottom-6
 !! .bottom-5

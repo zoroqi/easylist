@@ -357,6 +357,7 @@ wort.lu##.footer-legal
 unifilm.de##.form-dsgvo
 frankonia.de##.fr-c-message
 frs-helgoline.de##.frs__overlay
+fahrrad-xxl.at,fahrrad-xxl.de##.fxxl-cookie-mainmodal
 melectronics.ch##.gArzUh
 galaxus.at,galaxus.de##.gIRfBN
 pfister.ch##.gTHyyR
@@ -427,6 +428,7 @@ hotel-metropol.at##.mod-cr
 euclaim.de##.modal--background
 dorda.at##.modal-backdrop
 koelner-philharmonie.de,konzerthaus.de##.modal-mask
+fahrrad-xxl.at,fahrrad-xxl.de##.modal-overlay
 bmfgroup.de,lagerbox.com##.modal-wrapper
 clark.de,goclark.at##.modal__overlay
 ibadual.com##.modalcomplete
@@ -642,7 +644,7 @@ talixo.fr##.TrackingInfoBox
 maprocuration.gouv.fr##.VoteDisclaimer_voteDisclaimerContainer__27qgl
 poool.fr##.Xj54sYVCrpQ88itWMgaP
 campingderozarmor.fr##._11VS8 > ._2obyY
-petitvallauris.fr##.acb-gdpr
+briau.com,petitvallauris.fr##.acb-gdpr
 euroterrasse.com,maatura.fr##.alert-cookie
 ants.gouv.fr##.ants-208
 carrefour.pf##.bBXpsZ
@@ -825,6 +827,7 @@ primetech.bg##div[style^="color: rgb(51, 51, 51); text-align: center;"]
 ! ---------- Chinese ----------
 !
 4gtv.tv,ftv.com.tw,ftvnews.com.tw###Allow
+gate.io###ComplianceLimitMessage
 fetnet.net###Cookie
 dailyview.tw###PrivacyAlert
 on.cc###acceptDisclaimer
@@ -2159,6 +2162,7 @@ portugalglobal.pt###barramensagem
 oantagonista.com.br###card-cookies
 assertivasolucoes.com.br###ck-container
 sempreupdate.com.br,tudosaladeaula.com###consent-box-lgpd
+editorajuspodivm.com.br###consent-google
 cliper.pt###cook
 ipn.pt###cookie-law-panel
 staples.pt###cookie-new-cconsent-bar
