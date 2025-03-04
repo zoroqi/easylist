@@ -260,6 +260,7 @@ getyourguide.com###newsletterBannerBlock
 sevendaysvt.com###newsletterBox
 trip101.com###newsletterCheckbox
 sciencefocus.com,trains.com###newsletterContainer
+founderoo.co###newsletterPopup-2
 ginospizza.ca###newsletterSignUp
 usafacts.org###newsletter__sticky
 messengernews.net,miningjournal.net,minotdailynews.com,salemnews.net###newsletter_article
@@ -1022,6 +1023,7 @@ breakingnews.ie##.flex.bg-gray-900.pt-12
 aclu.org##.floating-action-wrapper
 gazoo.com##.floating-banner
 thebulletin.be##.floorad
+cyberinsider.com##.florien-campaign
 lmld.org,reluctantentertainer.com,splashoftaste.com##.fluentform
 thedial.world##.fluid-engine
 bikerumor.com,gearjunkie.com,soaphub.com##.flyout_newsletter_center
@@ -1568,6 +1570,7 @@ mitsloan.mit.edu##.newsletter_form
 timeout.com##.newsletter_inline
 timeout.com##.newsletter_inline_banner
 fromthegrapevine.com##.newsletter_modal
+cknxnewstoday.ca##.newsletter_newsletterWrap__5DbOs
 fairplanet.org##.newsletter_popup
 venturebanc.com##.newsletter_row
 weareexplorers.co##.newsletter_sidebar_block
@@ -1985,7 +1988,7 @@ bitdegree.org,philadelphiaherald.com,reasonstobecheerful.world,thechainsaw.com##
 metro.us##.subscribe-section-container
 thefire.org##.subscribe-sticky
 semanticscholar.org##.subscribe-tile
-hartmannreport.com,spectator.org,splash247.com,thedefensepost.com,wonkette.com##.subscribe-widget
+developer-tech.com,hartmannreport.com,spectator.org,splash247.com,thedefensepost.com,wonkette.com##.subscribe-widget
 bikeexif.com##.subscribe-win
 press-start.com.au##.subscribe-wrap
 news.cornell.edu##.subscribe-wrapper

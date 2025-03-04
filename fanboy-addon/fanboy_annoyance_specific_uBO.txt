@@ -151,6 +151,8 @@ gmarket.co.kr##+js(set, document.onmousedown, noopFunc)
 ! For the overlay
 !www.youtube.com###ytd-watch-flexy[player-unavailable] #player-container-outer.ytd-watch-flexy:style(visibility: visible !important;)
 !www.youtube.com###yt-playability-error-supported-renderers:style(display: none !important;)
+! https://github.com/uBlockOrigin/uAssets/issues/20586#issuecomment-2695739357
+m.youtube.com##+js(json-prune, overlay.bottomSheetOverlayRenderer, overlay.bottomSheetOverlayRenderer.displayImmediately)
 ! https://github.com/uBlockOrigin/uAssets/issues/21076
 grammarly.com##.ReactModalPortal:has-text(confidence)
 grammarly.com##body:style(overflow: auto !important;)
@@ -239,7 +241,7 @@ accuradio.com##.ReactModal__Overlay--after-open.ReactModal__Overlay
 ! Mouse out nags
 10tv.com,kens5.com,newscentermaine.com,5newsonline.com,fox61.com,newscentermaine.com,wtol.com,wiz.io,winnipegfreepress.com,khou.com,abc10.com,12news.com,ksdk.com,whas11.com,wfmynews2.com,wbir.com,wzzm13.com,wltx.com,wqad.com,wnep.com,wgrz.com,cbs8.com,firstcoastnews.com,kare11.com,wtsp.com,ajc.com,wfaa.com,9news.com,fox2now.com,wcnc.com,13newsnow.com,wsvn.com,abc15.com,wwltv.com,wkyc.com,wthr.com,11alive.com,wcnc.com,wusa9.com,wfaa.com,9news.com,fox2now.com,abc15.com,wwltv.com,wkyc.com,king5.com,11alive.com##+js(aeld, /^(mouseout|mouseleave)$/)
 ! mouseout causes issues with hover-video
-x.com,facebook.com,instagram.com,alibaba.com,dhgate.com,aliexpress.com,temu.com##+js(aeld, mouseleave)
+x.com,instagram.com,alibaba.com,dhgate.com,aliexpress.com,temu.com##+js(aeld, mouseleave)
 ! rumble.com nag
 rumble.com##+js(set-cookie, premium_popup, 1)
 ! novafork

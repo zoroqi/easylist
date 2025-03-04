@@ -10,6 +10,9 @@
 ||1560807123.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
+||1wglkbv.com^
+||1wincdn.b-cdn.net^
+||1winpb.com^
 ||1wnurc.com^
 ||26216.stunserver.net/a8.js
 ||360playvid.com^$third-party
@@ -494,6 +497,7 @@
 ||storage.googleapis.com/adtags/
 ||storage.googleapis.com/ba_utils/stab.js
 ||streambeast.io/aclib.js
+||streambtwp.b-cdn.net/aclib.js
 ||stunserver.net/frun.js
 ||sunflowerbright109.io/sdk.js
 ||supply.upjers.com^
