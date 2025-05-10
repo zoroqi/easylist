@@ -6,6 +6,7 @@ akkogear.com.vn##.box_fixRight
 baoquocte.vn##.bqt-share-social
 360.cymru##.buttons
 gnttv.com##.social_tracking_home
+nova.bg##.subs-wrapper
 news.bg##.twitter-icon
 ||probook.bg/like?$third-party
 !
@@ -269,6 +270,12 @@ mingpao.com##.ssm
 takungpao.com.hk##.tkp_con_share
 ifeng.com##div[class^="index_share_box_"]
 !
+!---------- Czech Specific Social Media Elements ----------
+!
+jihlava.cz###volsocialhub
+idnes.cz,lidovky.cz,metro.cz##.artsum-social
+irozhlas.cz##.m-follow
+!
 !---------- Danish Specific Social Media Elements ----------
 !
 dr.dk##.dre-sticky-share-band
@@ -326,6 +333,7 @@ zeelandnet.nl##.zld-ftr__social
 sporza.be##[class*="_share_"]
 nieuwsblad.be##[class*="shareitemlist"]
 omroepbrabant.nl##[class^="shares_shares_"]
+rtl.nl##[data-testid="social-links-container"]
 vkmag.com##a[onclick*="facebookShare"]
 vkmag.com##a[onclick*="twitterShare"]
 gooieneemlander.nl,haarlemsdagblad.nl,leidschdagblad.nl,noordhollandsdagblad.nl##div[class*="sharesticky"]
@@ -660,9 +668,11 @@ srad.jp##.synd
 !
 !---------- Korean Site Specific Hiding Rules ----------
 !
+businesskorea.co.kr##.article-sns
 koreatimes.com##.fab
 auction.co.kr##.sare-sns
 koreatimes.com##.twit
+businesskorea.co.kr##.user-sns
 !
 !---------- Latvian Specific Social Media Elements ----------
 !
@@ -1029,8 +1039,10 @@ mvsnoticias.com,tribuna.com.mx##.btn-seguinos-gnews
 elplural.com##.btn-whatsapp
 eltiempo.com##.btn_googlelink
 eltiempo.com##.c-detail__info-share
-cmmedia.es,eldebate.com,eleconomista.com.mx,huffingtonpost.es,listindiario.com,segre.com##.c-detail__share
+cmmedia.es,diariodecastillayleon.es,diariodeleon.es,diariodevalladolid.es,elcorreodeburgos.com,eldebate.com,eleconomista.com.mx,heraldodiariodesoria.es,huffingtonpost.es,listindiario.com,segre.com##.c-detail__share
 eldebate.com,eleconomista.com.mx,listindiario.com##.c-footer__share
+atlanticohoy.com,consumidorglobal.com##.c-mainarticle__share
+consumidorglobal.com##.c-mainfooter__social
 los40.com##.c-sha
 adnradio.cl,cadenaser.com##.c-sn
 eltiempo.com##.c-subheader__social
@@ -1082,7 +1094,7 @@ totmedia.cat,totsantcugat.cat##.follow_panel
 tonica.la##.followvertical__home
 semana.com##.footer-google-news
 a24.com,perfil.com##.footer-redes
-ara.cat##.footer-rrss
+ara.cat,europapress.es##.footer-rrss
 rivanimation.com##.footer-social-wrapper
 elonce.com,portafolio.co##.footer__redes
 sport.es##.ft-mol-rrss
@@ -1108,7 +1120,7 @@ mdzol.com##.interacciones
 laprensa.hn##.joinWhatsapp
 voydeviaje.com.ar##.list-icons
 defensacentral.com##.list-inline-xs
-diario16plus.com,planetarealmadrid.com##.m-social-profile
+atlanticohoy.com,diario16plus.com,planetarealmadrid.com##.m-social-profile
 diario16plus.com##.m-social-share
 milanuncios.com##.ma-AdDetailShare
 perfil.com##.main-footer__redes
@@ -1175,7 +1187,9 @@ larazon.es##.social-wrapper
 rtve.es##.socialBox
 de10.com.mx,elgrafico.mx##.socialMediaBottom-Section
 elobservador.com.uy##.sociales
+clara.es##.socialmedia
 naciodigital.cat##.socialsharesnoticia
+cyltv.es##.srrss
 servimedia.es##.srvm-nw__share-wrapper
 concierto.cl,fmdos.cl##.ssd
 gestion.pe##.st-socialws__container-ws-news
@@ -1184,6 +1198,7 @@ canalnet.tv##.the-single-body__share
 theobjective.com##.tno-share
 cope.es##.toolbar
 cronicabalear.es##.top-bar-rrss
+nationalgeographic.com.es##.top-share-article
 elmundo.es##.ue-c-article__share-tools
 elpais.com##.w_rs
 noticiasrcn.com##.whatsapp-button

@@ -3,20 +3,26 @@
 fcutrecht.net###popup-overlay
 7games.bet.br,betao.bet.br##.content-manager.popup-holder-f-bc.popup-holder-bc
 ! porn/xxx
+imlive.com###Warning18
 webtoon.xyz###adult_modal
 dadcrush.com,daughterswap.com,familystrokes.com,fostertapes.com,freeusefantasy.com,mylf.com,pervdoctor.com,pervmom.com,pervz.com,shoplyfter.com,swappz.com,teamskeet.com###age-verification-container
+kellymadison.com,pornfidelity.com,teenfidelity.com###age-verification-modal
 pureplaymedia.com###agp__root
 hotbrazil.app.br###avisoMaioridade
 erhotica.it###banneradulti
 dads-banging-teens.com,home-xxx-videos.com,mature-chicks.com,pornbeauties.net,xnxx-deutsch.com,xxxgirls.cc###dclm_modal_content
 dads-banging-teens.com,home-xxx-videos.com,mature-chicks.com,pornbeauties.net,xnxx-deutsch.com,xxxgirls.cc###dclm_modal_screen
 absoluporn.com,bbcpie.com,cum4k.com,lubed.com,pornpros.com,spyfam.com###disclaimer
+woodmancastingx.com###disclaimerAjax
+woodmancastingx.com###disclaimerAjaxBackground
 animeworld.so###hentai-modal
 pornogratisdiario.com,videospornogratisx.net###html_edad
 bdsmsexcontact.nl,extreem.nl,gayplaats.nl,hete-profielen.nl,klapjesflirt.nl,maturewereld.nl,nieuweliefdes.nl,onenight-stand.be,sexdateafspraakje24.nl,sexklik.nl,xdirty.nl,xshemale.nl,zoekcougars.nl###importantnotification
 vssm.eu###jcdisclaimer
 amateursexteens.com,bitchstop.com,czasting.com,czechgfs.com,czechvr.com,czechvrcasting.com,czechvrfetish.com,lesbianpickups.com,mentalpass.com###modal
 tantralux.com###modal-plus-18
+jerkmate.com###modal-slot2
+jerkmate.com###overlay
 vssm.eu###popup
 moscarossa.biz###popup-maggiorenne
 moscarossa.biz###popup-maggiorenne-container
@@ -32,9 +38,11 @@ xgirls.agency##.age-verification
 sexervaringendelen.nl##.agl_wrapper
 escortforumit.xxx,loyalfans.com##.cdk-overlay-backdrop
 escortforumit.xxx,loyalfans.com##.cdk-overlay-container
+loverfans.com##.fixed.top-0.left-0.overflow-y-hidden.w-screen.h-screen.z-50.flex.items-center.justify-center
 pornx.ai##.flex.w-screen.h-\[100dvh\].fixed.inset-0.z-50.overflow-x-auto.justify-center.\[--scale-enter\:100\%\].\[--scale-exit\:100\%\].\[--slide-enter\:0px\].\[--slide-exit\:80px\].sm\:\[--scale-enter\:100\%\].sm\:\[--scale-exit\:103\%\].sm\:\[--slide-enter\:0px\].sm\:\[--slide-exit\:0px\].items-center.sm\:items-center
 1escorts.net##.gray_overlay
 erothots.co##.is-18
+escortadvisorworldwide.com##.legal_popup
 hotbrazil.app.br##.modal
 animeworld.so,mangaworldadult.net,webtoon.xyz##.modal-backdrop
 fansly.com##.modal-wrapper
@@ -72,6 +80,7 @@ jagermeister.com##.absolute.left-0.top-0.isolate.flex.h-fit.min-h-full.w-full.it
 global-wines.sk##.age-check-popup
 global-wines.sk##.age-check-popup__overlay
 vinearts.ca##.age-gate
+litovel.cz##.age-gate-overlay
 spirits24.co.uk##.age-verification
 trulyhardseltzer.com##.ageGate
 monkey47.com##.agegate
@@ -80,7 +89,7 @@ whiskysite.nl##.apopup
 whiskysite.nl##.apopup-bg
 lacasera.es,onlinewarehouse.com,sanvalero.com,thinkcanna.co##.avwp-av
 lacasera.es,onlinewarehouse.com,sanvalero.com,thinkcanna.co##.avwp-av-overlay
-carlsbergpolska.pl##.cbg_cp_root--hcpPp
+carlsberggroup.com,carlsbergpolska.pl,tuborg.com##.cbg_cp_root--hcpPp
 golanwines.co.il##.elementor-popup-modal
 pivoteka.sk##.js-restriction
 zubrowka.com##.m-AgeVerify
@@ -95,12 +104,14 @@ crowncellarandco.com.au##.site-age-gate
 bentspokebrewing.com.au##.splash
 vineonline.co.nz##.vineonline-gate-popup-0-x-modalOverlay
 vineonline.co.nz##.vineonline-gate-popup-0-x-portalContainer
+holba.cz,zubr.cz##.vm--container
 ! Tabacco/Vapes/hemp/thc
 risecannabis.com###age-verification
 vaperoyalty.com###vape-age-gate
 voopoo.com###warning-message
 vaporesso.com##.age-check
 caliva.com##.age_age__i5NS_
+st-group.com##.agegate
 goodvapes.com##.agp__wrapper
 onlinewarehouse.com##.avwp-av
 onlinewarehouse.com##.avwp-av-overlay

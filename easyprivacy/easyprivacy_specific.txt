@@ -1,5 +1,6 @@
 ||1024tera.com/api/analytics?
 ||123rf.com/apicore-index/traffic_log
+||1rer.hummel.net^
 ||1win.com^$ping
 ||40svintageporn.com/hit
 ||4hds.com/js/camstats.js
@@ -59,6 +60,7 @@
 ||agbi.com/kqmp6?
 ||agoda.net/v2/track
 ||aim.cloudflare.com/__log
+||airgreenland.com/tracking/
 ||airtable.com/internal/
 ||airtel.in/analytics/pixel?
 ||aitotop.com^*/collect.js?
@@ -72,6 +74,7 @@
 ||alipay.com/web/bi.do?ref=
 ||aljazeera.com/thirdparty/nr.js
 ||allaboutberlin.com/whoisthere.js
+||allbbwcams.com/api/metrics
 ||allevents.in/actracker/
 ||alljapanesepass.com/ascripts/gcu.js
 ||alljapanesepass.com/rstat
@@ -208,11 +211,13 @@
 ||beacon.shutterfly.com^
 ||beacon.walmart.com^
 ||beacon.wikia-services.com^
+||beacons.ai/api/next_api/rta_v1/
 ||beacons.digital.disneyadvertising.com^
 ||bearblog.dev/hit/
 ||beforeitsnews.com/core/ajax/counter/count.php^
 ||behance.net/log
 ||behance.net/v2/logs
+||beoecomapim.bang-olufsen.com^
 ||bestpornsites.tv/i/js/extra/metrics.js
 ||bfp.capitalone.com^
 ||bgro41vnmb.execute-api.us-east-2.amazonaws.com/production$domain=masterworks.com
@@ -228,6 +233,7 @@
 ||bing.com/rewardsapp/reportActivity?
 ||binocule21c.merriam-webster.com^
 ||biomedcentral.com/track/
+||biosolutions.tv/audience-proxy/
 ||bitchute.com/data/script.js
 ||blitz-analytics-batch-server.blitz.gg^
 ||blockworks.co/_vercel/insights/
@@ -270,6 +276,8 @@
 ||camgirls.casa/p.php
 ||cammodels.com/api/metrics
 ||campsaver.com/nelmio-js-logger/
+||cams.aebn.com/api/metrics
+||camxpress.com/api/metrics
 ||canstockphoto.com/server.php?rqst=track
 ||canva.com/_ajax/ae/createBatch
 ||capital.com^$ping
@@ -405,6 +413,7 @@
 ||data.barry-callebaut.com^
 ||data.cheatography.com/banana.js
 ||data.guide.photobucket.com^
+||data.jerkmate.com^
 ||data.torry.io^
 ||data.ublock-browser.com^
 ||data.webullfintech.com/event/
@@ -551,6 +560,7 @@
 ||events.privy.com^
 ||events.reddit.com^
 ||events.redditmedia.com^
+||events.s4long.com^
 ||events.santander.co.uk^
 ||events.squarespace.com^
 ||events.turbosquid.com^
@@ -699,6 +709,7 @@
 ||google.com/log^$domain=~meet.google.com
 ||google.com/pagead/1p-conversion/
 ||grabify.link/api/js
+||graylog.prod.cams.run^
 ||grgnsht.nzxt.com^
 ||groove.so/unlocker.js
 ||groupon.com/analytic/
@@ -816,6 +827,7 @@
 ||javhd.com/rstat
 ||javplayer.me/*/views^
 ||javynow.com/ajax/access.php
+||jerkmatelive.com/api/metrics
 ||jetbluevacations.com/apis/v2-analytics/
 ||jfapiprod.optimonk.com^
 ||jiji.co.ke/tag_event
@@ -929,6 +941,7 @@
 ||marketing.dropbox.com^
 ||marketing.taskus.com^
 ||marty.zappos.com^
+||massivecams.com/api/metrics
 ||mat6tube.com/api/stats?
 ||maximise.nyc3.cdn.digitaloceanspaces.com/mxmse.min.js$domain=essentiallysports.com
 ||mcc-tags.cisco.com^
@@ -1141,6 +1154,7 @@
 ||plausible.tubemagic.com^
 ||player-cdn.com/cdn-cgi/trace
 ||player-telemetry.vimeo.com^
+||player.javboys.cam/cdn-cgi/trace
 ||playvideohd.com/cdn-cgi/trace
 ||plenty.vidio.com^
 ||plushd.bio/cdn-cgi/trace
@@ -1234,6 +1248,7 @@
 ||roblox.com/report
 ||roblox.com/www/e.png?
 ||rome.api.flipkart.com/api/1/fdp
+||royalcams.com/tools/track.php?
 ||rps-p2.rockpapershotgun.com^
 ||rps-uk.rockpapershotgun.com^
 ||rs.mail.ru^
@@ -1289,6 +1304,7 @@
 ||sharesies.com/v1/track
 ||shavetape.cash/stat/
 ||shazam.com/services/metrics/
+||shemale.com/api/metrics
 ||shobiddak.com/logging/
 ||shopee.*/__t__$xmlhttprequest
 ||shopifysvc.com/v1/metrics
@@ -1394,6 +1410,7 @@
 ||stats.wwitv.com^
 ||stats2.mytuner.mobi^
 ||statsegg.cdngeek.com^
+||stayforlong.com/api/kafka/tracking
 ||stayz.com.au/cl/data/omgpixel.json
 ||stirr.com/api/stats
 ||stockanalysis.com/cfa/
@@ -1541,6 +1558,7 @@
 ||thisiswhyimbroke.com/api/user/gift-guide-thumbnail-homepage/tracking
 ||thisiswhyimbroke.com/api/user/tracking
 ||thriftbooks.com/scripts/sp.js
+||thronecdn.com/analytics/
 ||thtk.temu.com^
 ||tiendeo.*/_statsapi/
 ||tif.ionos.com^
@@ -1553,6 +1571,7 @@
 ||tiktokv.us/monitor_browser/
 ||tilanalytics.timesinternet.in^
 ||time.is/img/nod.png
+||tms.abconsent.com^
 ||tms.delta.com/privacy/$image
 ||tms.eharmony.ca^
 ||tms.hft.everyplate.com^
@@ -1631,6 +1650,7 @@
 ||truthsocial.com/instance/innovid.js
 ||trx3.famousfix.com^
 ||ts.delfi.lt^
+||tsmate.com/api/metrics
 ||tubepornstars.com/js/analytics
 ||tubi.io/datascience/logging?
 ||tubitv.com/oz/performance/
@@ -1687,6 +1707,7 @@
 ||v.ctrl.blog^
 ||vagrantup.com/api/auth/_log
 ||vanityfair.com/user-context?referrer
+||vbox7.com/aj/player-stats?
 ||vf.startpage.com^
 ||video.mobile.yahoo.com/log|$xmlhttprequest
 ||vidsrc.icu/js/script-custom.js
@@ -1699,6 +1720,7 @@
 ||visualstudio.com/v2/track
 ||vitals.groww.in/collect
 ||vivaldi.*/rep/rep.js
+||vixenlive.com/api/metrics
 ||vizcloud.co/ping/
 ||vk.com/al_video.php?act=ads_stat
 ||vk.com/al_video.php?act=inc_view_counter
@@ -1830,6 +1852,7 @@
 ||youtubekids.com/api/stats/qoe?
 ||youtubekids.com/ptracking?
 ||youtubekids.com/youtubei/v1/log_event?
+||ypmate.com/api/metrics
 ||z.cdp-dev.cnn.com^
 ||z737.thestar.com^
 ||za.qeeq.com^
@@ -1934,6 +1957,7 @@
 ||svc2.sc.com^
 ||tm-eps.neutrino.nu^
 ||tmetrix.my.chick-fil-a.com^
+||tmx.bestbuy.com^
 ||tmx.td.com^
 ||u47.pnc.com^
 ||w-profiling.cibc.com^$script

@@ -565,6 +565,9 @@
 ||gtm.mandesager.dk^
 ||ia.ekstrabladet.dk^
 ||jv.dk/assets/statistics/
+||matas.dk/internal/Tracking/
+||minetilbud.dk/api/web/logViewAdvertPage
+||minetilbud.dk^*/Statistics.asmx
 ||nrpukcsgboqr0gz2o8.www.bolighub.dk^
 ! French
 ||2ememain.be/c3650cdf-
@@ -1015,12 +1018,15 @@
 ||jutarnji.hr/template/js/eph_analytics.js
 ! Czech
 ||cc.dalten.cz^
+||insights.triad.sk^
 ||jslog.post.cz^
+||logapi.alza.cz^
 ||o2.cz^*-ga_o2cz_bundle.js?
 ||sa.kolik.cz^
 ||seznam.cz^$ping
 ||stat.super.cz^
 ||statistics.csob.cz^
+||xtv.cz/api/v3/log/
 ! Dutch
 ||2dehands.be/px/
 ||analytics.rambla.be^
@@ -1359,6 +1365,7 @@
 ||muragon.com/js/normal/gtag-event.js
 ||mwed.jp/assets/packs/js/measurements/
 ||next.rikunabi.com/api/logRecommendRealtimeI2AV2
+||nhk.or.jp/mpulse/boomerang/
 ||nhk.or.jp^*/bc.js
 ||nicoad.nicovideo.jp/*/instream/tracking/
 ||nicolive.cdn.nimg.jp/relive/sp/browser-logs.
@@ -1540,6 +1547,7 @@
 ||wtk.pl/js/WTKStats.js
 ||yctjw54slxrwwlh.trybawaryjny.pl^
 ! Portuguese
+||ab.g.globo/event
 ||audience-mostread.r7.com^
 ||click.afiliados.uol.com.br^
 ||click.uol.com.br^
@@ -1585,6 +1593,7 @@
 ||track.olx.com.br^
 ||tracker.bt.uol.com.br^
 ||tracker.publico.pt^
+||trackid.globoid.globo.com^
 ||uai.com.br^*/analytics.js
 ||udr.uol.com.br^
 ||uni7.uniplaces.com^
@@ -1770,6 +1779,7 @@
 ||pccomponentes.*/api/users/tracking/
 ||pixel.europapress.net^
 ||px-intl.ucweb.com^
+||rba.es/track.action
 ||realtime.bbcl.cl^
 ||rvv.emol.com^
 ||sst.cooperativa.cl^
@@ -1784,6 +1794,7 @@
 ||terra.com/js/metrics/
 ||terra.com^*/td.asp?bstat
 ||todomercadoweb.es/pixel
+||tracker.atrapalo.com^
 ||tracker.jkplayers.com^
 ||trrsf.com/metrics/
 ||ubeat.tv/api/v1/sda/

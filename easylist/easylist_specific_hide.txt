@@ -758,7 +758,7 @@ ugstandard.com###leader-wrap
 techgeek365.com###leader-wrapper
 pistonheads.com###leaderBoard
 whdh.com,wsvn.com###leader_1
-12tomatoes.com,allwomenstalk.com,bloomberg.com,datpiff.com,hockeybuzz.com,koreaboo.com,logotv.com,newcartestdrive.com,news.sky.com,news.tvguide.co.uk,onthesnow.ca,onthesnow.co.nz,onthesnow.co.uk,onthesnow.com,penny-arcade.com,publishersweekly.com,skysports.com,sportsnet.ca,thedrinknation.com,theserverside.com###leaderboard
+12tomatoes.com,allwomenstalk.com,bloomberg.com,datpiff.com,hockeybuzz.com,koreaboo.com,logotv.com,newcartestdrive.com,news.sky.com,news.tvguide.co.uk,onthesnow.ca,onthesnow.co.nz,onthesnow.co.uk,onthesnow.com,penny-arcade.com,publishersweekly.com,skysports.com,sportsnet.ca,thedrinknation.com,theserverside.com,vacations.info###leaderboard
 open.spotify.com###leaderboard-ad-element
 thebaltimorebanner.com###leaderboard-ad-v2
 vocm.com###leaderboard-area
@@ -2320,7 +2320,7 @@ forexlive.com,tass.com##.banner__wrapper
 asmag.com##.banner_ab
 hannity.com,inspiredot.net##.banner_ad
 snopes.com##.banner_ad_between_sections
-asmag.com##.banner_box
+asmag.com,businesskorea.co.kr##.banner_box
 news.am##.banner_click
 dosgamesarchive.com##.banner_container
 barnstormers.com##.banner_holder
@@ -2335,7 +2335,7 @@ mamul.am##.bannerb
 gamertweak.com##.bannerdiv
 flatpanelshd.com##.bannerdiv_twopage
 arcadebomb.com##.bannerext
-2merkato.com,2mfm.org,aps.dz,armyrecognition.com,cbn.co.za,dailynews.co.tz,digitalmediaworld.tv,eprop.co.za,finchannel.com,forums.limesurvey.org,i-programmer.info,killerdirectory.com,pamplinmedia.com,rapidtvnews.com,southfloridagaynews.com,thepatriot.co.bw,usedcarnews.com##.bannergroup
+2merkato.com,2mfm.org,aps.dz,armyrecognition.com,cbn.co.za,dailynews.co.tz,digitalmediaworld.tv,eprop.co.za,finchannel.com,forums.limesurvey.org,i-programmer.info,killerdirectory.com,pamplinmedia.com,rapidtvnews.com,soundstageultra.com,southfloridagaynews.com,thepatriot.co.bw,usedcarnews.com##.bannergroup
 saigoneer.com##.bannergroup-main
 convertingcolors.com##.bannerhead_desktop
 asianmirror.lk,catholicregister.org,crown.co.za,marengo-uniontimes.com,nikktech.com##.banneritem
@@ -2441,6 +2441,7 @@ autocar.co.uk##.block-autocar-ads-mpu1
 thescore1260.com##.block-content > a[href*="sweetdealscumulus.com"]
 indysmix.com,wzpl.com##.block-content > a[href^="https://sweetjack.com/local"]
 natlawreview.com##.block-content-ad_block
+commonwealmagazine.org##.block-custom-ad
 webbikeworld.com##.block-da
 whosdatedwho.com##.block-global-adDFP_HomeFooter
 mondoweiss.net##.block-head-c
@@ -3635,6 +3636,7 @@ inquirer.com##.inno-ad
 inquirer.com##.inno-ad__ad
 donegaldaily.com##.inpage_banner
 heise.de##.inread-cls-reduc
+allradio.net##.insWrap
 nintendolife.com,purexbox.com,pushsquare.com,timeextension.com##.insert
 nintendolife.com,purexbox.com,pushsquare.com,timeextension.com##.insert-label
 lithub.com##.insert-post-ads
@@ -4145,6 +4147,7 @@ aceshowbiz.com,cmr24.net##.ne-banner-layout1
 meilleurpronostic.fr##.ne4u07a96r5c3
 danpatrick.com##.needsclick
 newegg.com##.negspa-brands
+horriblevideos.com##.netloop-ad-banner-300-250
 nevadamagazine.com##.nevad-article-tall
 chaseyoursport.com##.new-adv
 play.typeracer.com##.newNorthWidget
@@ -6048,6 +6051,7 @@ circleid.com##[style*="995px;"]
 news.abs-cbn.com##[style*="background-color: rgb(236, 237, 239)"]
 nintendolife.com,purexbox.com,pushsquare.com,timeextension.com,videogameschronicle.com##[style*="content-visibility: visible;"]
 nintendolife.com,purexbox.com,pushsquare.com,timeextension.com,videogameschronicle.com##[style*="display: block !important; margin-bottom: 20px;"]
+kingmodapk.net,online-calculator.org##[style*="height:300px"]
 nintendolife.com,purexbox.com,pushsquare.com,timeextension.com,videogameschronicle.com##[style*="margin-left: auto; margin-right: auto;"]
 untapped.gg##[style*="min-height: 90px; box-sizing: content-box;"]
 nintendolife.com,purexbox.com,pushsquare.com,timeextension.com,videogameschronicle.com##[style*="min-height:250px;"]
@@ -6064,7 +6068,6 @@ forum.lowyat.net##[style="height:120px;padding:10px 0;"]
 imagecolorpicker.com##[style="height:250px"]
 forum.lowyat.net##[style="height:250px;padding:5px 0 5px 0;"]
 tenforums.com##[style="height:280px;"]
-kingmodapk.net##[style="height:300px"]
 geekzone.co.nz##[style="height:90px"]
 cycleexif.com,thespoken.cc##[style="margin-bottom: 25px;"]
 builtbybit.com##[style="margin-top: 20px; display: flex; justify-content: center;"]
@@ -6592,7 +6595,7 @@ wikiwand.com##div[style="min-height: 325px; max-width: 600px;"]
 gamereactor.asia,gamereactor.cn,gamereactor.com.tr,gamereactor.cz,gamereactor.de,gamereactor.dk,gamereactor.es,gamereactor.eu,gamereactor.fi,gamereactor.fr,gamereactor.gr,gamereactor.it,gamereactor.jp,gamereactor.kr,gamereactor.me,gamereactor.nl,gamereactor.no,gamereactor.pl,gamereactor.pt,gamereactor.se,gamereactor.vn##div[style="min-height: 600px; margin-bottom: 20px;"]
 disneydining.com##div[style="min-height:125px;"]
 theroar.com.au##div[style="min-height:260px;max-height:260px;overflow:hidden;"]
-askdifference.com##div[style="min-height:280px;"]
+askdifference.com,online-calculator.org##div[style="min-height:280px;"]
 newser.com##div[style="min-height:398px;"]
 etvbharat.com,flotrack.org##div[style="min-width: 300px; min-height: 250px;"]
 etvbharat.com,nicelocal.com##div[style="min-width: 300px; min-height: 600px;"]
@@ -6624,7 +6627,7 @@ point2homes.com,propertyshark.com##div[style^="margin-bottom: 10px;"]
 unionpedia.org##div[style^="margin-top: 15px; min-width: 300px"]
 gizbot.com,goodreturns.in,inc.com##div[style^="min-height: 250px"]
 point2homes.com,propertyshark.com##div[style^="min-height: 360px;"]
-add0n.com##div[style^="min-height:90px"]
+add0n.com,online-calculator.org##div[style^="min-height:90px"]
 latestly.com##div[style^="min-width: 300px; min-height: 250px;"]
 decrypt.co,metabattle.com##div[style^="min-width: 300px;"]
 gtaforums.com##div[style^="text-align: center; margin: 0px 0px 10px;"]
@@ -6836,7 +6839,6 @@ gtaforums.com###ipsLayout_mainArea div:has(> #pwDeskLbAtf)
 klz9.com###list-imga center:has(> a[id^="adLink"])
 klz9.com###list-imga center:has(a[href^="https://olimposcans.com/"])
 noon.com###modules-renderer:has([class*="sponsored"])
-indeed.com###mosaic-provider-jobcards li:has(.sponsoredJob)
 noon.com###noon-modules:has([class*="AdBrandVideo"])
 wsj.com###other-buckets > div > div:has(> .uds-ad-container)
 momondo.com###resultWrapper [role="group"]:has(> [class*="-adInner"])

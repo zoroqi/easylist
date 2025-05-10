@@ -113,13 +113,19 @@
 !
 ||cmp.vizus.cz^
 ||consent.t-mobile.cz^
+||consent.triad.sk^
+||cookies.giant.cz^
 ||h.seznam.cz/js/cmp2/scmp-int.js$domain=en.mapy.cz
+||h.seznam.cz/js/cmp2/scmp-lite.js$domain=mapy.com
 ||kbyqzt.xxxlutz.cz^
 ||me9ddf.moebelix.cz^
 ||profesia.cz/assets/js/cookie_consent_
+||skippay.cz/sdk/cookie/$script
 !
 ! ---------- Danish ----------
 !
+||cookiecontrol.bleau.dk^$third-party
+||pharmanord.com/javascript/cookieconsent/$script
 ||tv2a.dk/consent/
 ||tv2a.dk/oil.
 !
@@ -149,6 +155,7 @@
 ||cookielaw.org/scripttemplates/*/assets/*.json$xmlhttprequest,domain=elisa.fi
 ||cookielaw.org/scripttemplates/*/assets/otCommonStyles.css$xmlhttprequest,domain=elisa.fi
 ||elisa.fi/consent-management/
+||finnair.com/a/consent/v1/cookies/
 ||gravitocdn.blob.core.windows.net/lightcmp/$script,domain=veho.fi
 ||jimms.fi/Scripts/jimmsconsent3.js
 ||krookmedia.fi/wp-content/plugins/cookie-law-info/$script,domain=krookmedia.fi
@@ -296,6 +303,7 @@
 ||advgo.net/borostcf/
 ||amazonaws.com/sc-tagmanager/nox-formulatv.js$domain=formulatv.com
 ||atv.pe/wp-content/plugins/ned-cookies-form/
+||club.rba.es/v031/js/jquery.cookie.consent.js
 ||cookies.unidadeditorial.es^
 ||digitalmedia-comunicacion.com/cookie/v2/script2.js
 ||eldesconcierto.cl/vendor/statamic-cookie-dialog/cookie_dialog.js

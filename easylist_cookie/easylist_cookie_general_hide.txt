@@ -1252,6 +1252,7 @@
 ###bottomStickyCookiesBox
 ###bottom_cookie
 ###bottom_info_cookies
+###bottombar > #cookies
 ###box-accettazione-cookie
 ###box-agree-gdpr-id
 ###box-alert-cookie
@@ -6002,7 +6003,6 @@
 ###monitcookie
 ###moomoocookiealert
 ###moon-cookies
-###moove_gdpr_cookie_info_bar
 ###morph-cookie-bar
 ###moscacookie
 ###mostrar_aceptcookie
@@ -9143,7 +9143,6 @@
 ##.cmp-teaser__subcontent
 ##.cmpBoxWelcomeOptIn
 ##.cmp_cookies_usage_wr
-##.cmplz-cookiebanner
 ##.cmplz-show-banner
 ##.cmplz-tcf-banner-hidden
 ##.cms-cookie-layer
@@ -11505,7 +11504,6 @@
 ##.divCookieDisclaimer
 ##.divCookieWarning
 ##.divCookiebotTab
-##.divCookies
 ##.divCookiesWarning
 ##.divFooterCookie
 ##.divLeyCookies
@@ -14879,6 +14877,7 @@
 ##.web-cookies
 ##.web-cookies-inline
 ##.webgatha-cookies-info
+##.webona_gdpr_js-banner
 ##.webshop-cookie-warning
 ##.website-cookie-banner
 ##.website-cookie-notification
@@ -15644,7 +15643,6 @@
 ##.as-oil-content-overlay
 ##.bst-panel
 ##.c_i_container
-##.cmplz-soft-cookiewall
 ##.elisa-navi-cookie-and-consent-disclaimer
 ##.rcc-panel
 ##.recocliv2

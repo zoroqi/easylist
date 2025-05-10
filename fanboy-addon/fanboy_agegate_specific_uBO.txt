@@ -177,9 +177,9 @@ mikeadriano.com##.modal
 mikeadriano.com##.modal-backdrop
 mikeadriano.com##body,html:style(overflow: auto !important; position: initial !important;)
 ! dirtyauditions.com
-dirtyauditions.com###warning-modal
-dirtyauditions.com##.modal-backdrop
-dirtyauditions.com##body,html:style(overflow: auto !important; position: initial !important;)
+dirtyauditions.com,benefitmonkey.com,lezkey.com,z-filmz-originals.com###warning-modal
+dirtyauditions.com,benefitmonkey.com,lezkey.com,z-filmz-originals.com##.modal-backdrop
+dirtyauditions.com,benefitmonkey.com,lezkey.com,z-filmz-originals.com##body,html:style(overflow: auto !important; position: initial !important;)
 ! goldmedalbeer.com
 goldmedalbeer.com##.age-checker
 goldmedalbeer.com##.mfp-bg
@@ -199,3 +199,16 @@ jeedoo.com##body,html:style(overflow: auto !important; position: initial !import
 ! porngutter.com
 porngutter.com###entryModal
 porngutter.com##body,html:style(overflow: auto !important; position: initial !important;)
+! madbrosx.com
+madbrosx.com##.age-gate__wrapper
+madbrosx.com##body,html:style(overflow: auto !important; position: initial !important;)
+! beacons.ai
+beacons.ai##.MuiModal-root
+beacons.ai##body,html:style(overflow: auto !important; position: initial !important;)
+! 5kporn.com
+5kporn.com###age-verification-modal
+5kporn.com##.modal-backdrop
+5kporn.com##body,html:style(overflow: auto !important; position: initial !important;)
+! royalunibrew.dk
+royalunibrew.dk##div[class^="age-gate_component_"]
+royalunibrew.dk##body,html:style(overflow: auto !important; position: initial !important;)

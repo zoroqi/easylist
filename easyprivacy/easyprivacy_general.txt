@@ -101,6 +101,7 @@
 /_i?type=event&
 /_lib/ga.js
 /_owa.gif?
+/_servix/webid.aspx?$script
 /_sess/script.js
 /_stat/log/*
 /_stat/log_
@@ -358,6 +359,7 @@
 /AppMeasurement2.js
 /AppMeasurement_Module_ActivityMap.min.js
 /AppMeasurementCustom.min.js
+/apps/ba-rev/app_metrics
 /aptrk.js
 /ard.png?
 /aria-web-telemetry-
@@ -839,6 +841,7 @@
 /event_logger
 /event_logging/*
 /eventLog.ajax
+/EventLoggerV3.min.js
 /eventLogServlet?
 /eventproxy/track
 /events-collector.
@@ -880,6 +883,7 @@
 /facebook/pixel.js
 /facebook_fbevents.js
 /facebook_pixel_3_1_2.js
+/FacebookEvent/PageView$xmlhttprequest
 /facebookpixel.js
 /facebookproductad/views/js/pixel.
 /faciliti-tag.min.js
@@ -1287,6 +1291,7 @@
 /krux.js
 /kukulufinger2.js
 /LandingPageHitLog.aspx?
+/LandingPageInteractionLog.aspx?
 /lasso-ga.js
 /lead-tracking.min.js
 /leadgen/ga.js
@@ -1431,6 +1436,7 @@
 /marketing-analytics.js
 /martypixel?
 /master-amg-plugin/assets/js/page-view-ga.js
+/mati.gif?v=
 /matomo-tracking.js
 /matomo.js$domain=~github.com
 /matomo.php
@@ -1461,6 +1467,7 @@
 /metrics/statsd/*
 /metrics/survey/*
 /metrics/track/*
+/metrics/umd.min.js$script
 /metrics/v1/frontend/*
 /metrics/vanity/?
 /metrika.js?=
@@ -1939,6 +1946,7 @@
 /rwtag.js
 /s-pcjs.php
 /s.gif?
+/s.png?event=
 /s/js/ta-2.3.js?
 /s/vestigo/measure
 /s_code_global_context.js
@@ -1951,11 +1959,13 @@
 /scmetrics.*/b/ss/*
 /screencount?vcid=
 /scribd_events?
+/script.hash.outbound-links.pageview-props.tagged-events.js
 /script.tagged-events.js
 /script.tagged-events.outbound-links.js
 /script/pixel.js
 /scriptAnalytics.js
 /scripts.kissmetrics.com/*
+/scripts/click.js.php
 /scripts/clickjs.php
 /scripts/hbx.js
 /scripts/statistics/*
@@ -2120,6 +2130,7 @@
 /statistics.js?$third-party
 /statistics/pixel/*
 /statistics/visit?id=
+/StatProviderV2.min.js
 /StatRecorder.asp?
 /stats-collect
 /stats-js.cgi?
@@ -2767,6 +2778,7 @@
 ://posthog.$script,domain=~posthog.com
 ://segment-api.
 ://segment-cdn.
+://t.targito.
 ://track.*/collect
 ://track.*/dye
 ://track.*/visitor/
@@ -2885,10 +2897,12 @@ _WebVitalsReporter_
 &event_name=page_view&
 &ga_blocked=$image
 &l=dataLayer&cx=c
+&sst.sw_exp=
 .js?id=GTM-
 /*JmVu.js?sp=
 /*JmVu.js?tg=
 /ns.html?id=GTM-
+/send_ga4_params?
 /tag/proxy?id=G-
 ://gtm.*.js?st=
 ://load.*.js?st=$~third-party

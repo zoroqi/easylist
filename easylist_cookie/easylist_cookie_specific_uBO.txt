@@ -50,6 +50,8 @@ elliberal.cat##+js(set-cookie, wpl_viewed_cookie, no)
 ubuntu.com##+js(set-cookie,  _cookies_accepted, essential)
 mash.ru##+js(set-cookie, _mash_privacy_accepted, true)
 fromsmash.com##+js(set-cookie, _sucs, true)
+vivenu.com##+js(set-cookie, cookies-acknowledged, true, , reload, 1)
+sportsmetrics.football##+js(set-cookie, SportsMetrics_Privacy_Police_Cookie, true)
 chatgpt.com##+js(set-cookie, oai-allow-ne, false)
 enac.es##+js(set-cookie, lopd_medicion, 2)
 dtksoft.com,ecuavisa.com,exaktacreative.se,goindex.lt##+js(set-cookie, user_cookie_consent, 1)
@@ -318,7 +320,8 @@ kika.*,shop.humle.se,59northwheels.se,generalprepper.com##+js(set-cookie, cookie
 cancercentrum.se##+js(set-cookie, consentStored, true)
 cancercentrum.se##+js(set-cookie, analyticalConsent, false)
 noriel.ro##+js(set-cookie, isAgreed, no)
-varcevanje-energije.si,ibomair.com,garcia-ibanez.com,etbygg.com,dake.es,cometh-consulting.com,autocareslazara.es,aspock.com,arabesque-formation.org,acce.es,campergarage.es,aceitessatunion.com,napos.cz,apogeeagency.com,raypa.com,aiconsultores.com,produx.ch,focusonreproduction.eu,fantasyfootballgeek.co.uk,productosmanchegos.es,openfoam.org,ttisi.nl,akaanseutu.fi,lempaala.ideapark.fi,lvs.fi,juomaposti.fi,orivedensanomat.fi,pirmediat.fi,shl.fi,ylojarvenuutiset.fi,scholtenswerkplek.nl,krampouz.com##+js(set-cookie, cmplz_banner-status, dismissed)
+beerballer.com,varcevanje-energije.si,ibomair.com,garcia-ibanez.com,etbygg.com,dake.es,cometh-consulting.com,autocareslazara.es,aspock.com,arabesque-formation.org,acce.es,campergarage.es,aceitessatunion.com,napos.cz,apogeeagency.com,raypa.com,aiconsultores.com,produx.ch,focusonreproduction.eu,fantasyfootballgeek.co.uk,productosmanchegos.es,openfoam.org,ttisi.nl,akaanseutu.fi,lempaala.ideapark.fi,lvs.fi,juomaposti.fi,orivedensanomat.fi,pirmediat.fi,shl.fi,ylojarvenuutiset.fi,scholtenswerkplek.nl,krampouz.com##+js(set-cookie, cmplz_banner-status, dismissed)
+leo-pharma.*##+js(set-cookie, isCookiePolicySet, false)
 ani-one.com,insound.de,nurgutes.de,premium-hifi-shop.com,volksversand.de##+js(set-cookie, cookieDeclined, 1)
 meinspielplan.de##+js(set-cookie, _msp_cc, yes)
 meinspielplan.de,uhrzeit123.de##+js(set-cookie, ga-disable, true)
@@ -1839,7 +1842,6 @@ app.klarna.com##+js(set-local-storage-item, safe-storage/v1/tracking-consent/tra
 app.klarna.com##+js(set-local-storage-item, safe-storage/v1/tracking-consent/trackingConsentAnalyticsKey, false)
 instantspoursoi.fr##+js(set-local-storage-item, agreeToCookie, false)
 thealliance.ai##+js(set-local-storage-item, AI Alliance_ReactCookieAcceptance_hasSetCookies, true)
-vivenu.com##+js(set-local-storage-item, cookie-ack-2, true)
 librumreader.com##+js(set-local-storage-item, firstVisit, false)
 visnos.com##+js(set-local-storage-item, 2020-04-05, 1)
 polypane.app##+js(set-local-storage-item, dismissed, true)
@@ -1921,13 +1923,13 @@ beta.character.ai##+js(set-local-storage-item, OPTIONAL_COOKIES_ACCEPTED_0, true
 bittimittari.fi##+js(set-local-storage-item, storagePermission, true)
 aida64.co.uk,aida64.com.ua,aida64.de,aida64.hu,aida64.it,aida64russia.com##+js(set-local-storage-item, set_cookie_stat, false)
 aida64.co.uk,aida64.com.ua,aida64.de,aida64.hu,aida64.it,aida64russia.com##+js(set-local-storage-item, set_cookie_tracking, false)
+116.ru,14.ru,161.ru,164.ru,173.ru,178.ru,26.ru,29.ru,35.ru,43.ru,45.ru,48.ru,51.ru,53.ru,56.ru,59.ru,60.ru,63.ru,68.ru,71.ru,72.ru,74.ru,76.ru,86.ru,89.ru,93.ru,chita.ru,e1.ru,fontanka.ru,ircity.ru,izh1.ru,mgorsk.ru,msk1.ru,ngs.ru,ngs22.ru,ngs24.ru,ngs42.ru,ngs55.ru,ngs70.ru,nn.ru,sochi1.ru,sterlitamak1.ru,tolyatty.ru,ufa1.ru,v1.ru,vladivostok1.ru,voronezh1.ru,ya62.ru##+js(set-local-storage-item, UMP_CONSENT_NOTIFICATION, true)
 ! set-session-storage-item
 workwide.de##+js(set-session-storage-item, cookieModal2, 1)
 erco.com##+js(set-session-storage-item, cookieMessageDisagree, true)
 communitycrimemap.com##+js(set-session-storage-item, disclaimerOpened, 1)
 smartwielen.lu##+js(set-session-storage-item, terms-and-policy-accepted, true)
 remington-europe.com##+js(set-session-storage-item, cookies_dismissed, 1)
-116.ru,14.ru,161.ru,164.ru,173.ru,178.ru,26.ru,29.ru,35.ru,43.ru,45.ru,48.ru,51.ru,53.ru,56.ru,59.ru,60.ru,63.ru,68.ru,71.ru,72.ru,74.ru,76.ru,86.ru,89.ru,93.ru,chita.ru,e1.ru,fontanka.ru,ircity.ru,izh1.ru,mgorsk.ru,msk1.ru,ngs.ru,ngs22.ru,ngs24.ru,ngs42.ru,ngs55.ru,ngs70.ru,nn.ru,sochi1.ru,sterlitamak1.ru,tolyatty.ru,ufa1.ru,v1.ru,vladivostok1.ru,voronezh1.ru,ya62.ru##+js(set-session-storage-item, UMP_CONSENT_NOTIFICATION, true)
 html5games.com##+js(set-session-storage-item, fa-games-consent-given, true)
 shop-apotheke.com,redcare.it,shop-apotheke.at,farmaline.be##+js(set-session-storage-item, sae-conversational-consent-msg-closed, true)
 beenverified.com##+js(set-session-storage-item, privacyPopupShown, true)
@@ -1979,8 +1981,8 @@ g4vigilanza.it,omaggiomania.com,mizunogolf.com,radiosilver.it,aibbricherasio.com
 lahacienda.co.uk,clever-zoeger.de,frusoed.dk,toptravelsights.com,mobilabonnemang.se,covivio.eu,loparex.com,pasquet.fr,expira.de,ackstorm.com,sdsdrives.com,nygart.dk,evelb.es,uebex.com,gulf.lu,jardincelas.com,mobilitytechgreen.com,mccinnovations.com,lacomarca.net,gocollette.com,iwatson.com,hautsdefrance.cci.fr,nordcloud.com,hlpklearfold.es,codigocarnaval.com,urbana.ie,enact.co.uk,netnews.com.mt,tvmnews.mt,one.com.mt,maggioreosp.novara.it,tbs-education.com,tbs-education.fr,go-fit.es,aslbi.piemonte.it,impacthub.net##.wt-cli-cookie-bar-container
 lahacienda.co.uk,clever-zoeger.de,frusoed.dk,toptravelsights.com,mobilabonnemang.se,covivio.eu,loparex.com,pasquet.fr,expira.de,ackstorm.com,sdsdrives.com,nygart.dk,evelb.es,uebex.com,gulf.lu,jardincelas.com,mobilitytechgreen.com,mccinnovations.com,lacomarca.net,gocollette.com,iwatson.com,hautsdefrance.cci.fr,nordcloud.com,hlpklearfold.es,codigocarnaval.com,urbana.ie,enact.co.uk,netnews.com.mt,tvmnews.mt,one.com.mt,maggioreosp.novara.it,tbs-education.com,tbs-education.fr,go-fit.es,aslbi.piemonte.it,impacthub.net##body,html:style(overflow: auto !important; position: initial !important;)
 !! .avada-footer-scripts
-people-base-cbm.com,santander.pl,asbrav.org.br,resurja.com##.avada-footer-scripts
-people-base-cbm.com,santander.pl,asbrav.org.br,resurja.com##body,html:style(overflow: auto !important; position: initial !important;)
+people-base-cbm.com,santander.pl,asbrav.org.br,resurja.com,nordhavn.dk##.avada-footer-scripts
+people-base-cbm.com,santander.pl,asbrav.org.br,resurja.com,nordhavn.dk##body,html:style(overflow: auto !important; position: initial !important;)
 !! .ReactModal__Overlay
 bokadirekt.se,wildwestdomains.com,hosteurope.de,tsohost.com,systembolaget.se,martifer.fr,123-reg.co.uk,opngo.com,martifer.com,martifer.es,martifer.pt,df.eu,groupama.fr,remppatori.fi,srv.fi##.ReactModal__Overlay
 bokadirekt.se,wildwestdomains.com,hosteurope.de,tsohost.com,systembolaget.se,martifer.fr,123-reg.co.uk,opngo.com,martifer.com,martifer.es,martifer.pt,df.eu,groupama.fr,remppatori.fi,srv.fi##body,html:style(height: auto !important; overflow: auto !important)
@@ -2416,11 +2418,11 @@ ejobs.ro##html,body:style(overflow: auto !important; position: initial !importan
 aderferias.com,homing.com.pt,travelingtolisbon.com,bookadriatic.com,prescottcabinrentals.com,dimoreinsicily.com,destination-algarve.com,alpeslocation.com,alwayseasyrental.com,uniqueluxuryholidays.com,casasdelcaribe.com,urbanretreatapartments.com,benidormparaiso.com,travivel.com,admer.net,booking.alps-resorts.com,espatur.net,finquesballesta.com,espana-holiday.com,bellmon.com,mynice-vacances.fr,benneckerent.ru,turistcasa.it,alaparisienne.com,inmobiliariacanovas.com,hometown.ae,tranquilityvillarentals.com,rickettsluxury.com,blauhousealquileres.com,priorityvillas.com,solaga.co.uk,coroacoroa.com,iberorentapartments.com,kazaportugal.com,homesud.fr,dreamhomesrentals.com,vivalidays.com,alquilervacationesempuriabrava.com,solaga.es,webvillas.nl,vakantiewoninghuurcostabrava.com,alpineinspirations.com,playa-vacaciones.com,benneckerent.es,qtur.pt,zeusapartamentos.es,benneckerent.fr,solaga.dk,webvillas.net,mallorca4rent.com,lloguervacancesempuriabrava.com,villasduma.com,ferienwohnungmietencostabrava.com,vitivola.com,travelhabitat.es###its--container_cook
 aderferias.com,homing.com.pt,travelingtolisbon.com,bookadriatic.com,prescottcabinrentals.com,dimoreinsicily.com,destination-algarve.com,alpeslocation.com,alwayseasyrental.com,uniqueluxuryholidays.com,casasdelcaribe.com,urbanretreatapartments.com,benidormparaiso.com,travivel.com,admer.net,booking.alps-resorts.com,espatur.net,finquesballesta.com,espana-holiday.com,bellmon.com,mynice-vacances.fr,benneckerent.ru,turistcasa.it,alaparisienne.com,inmobiliariacanovas.com,hometown.ae,tranquilityvillarentals.com,rickettsluxury.com,blauhousealquileres.com,priorityvillas.com,solaga.co.uk,coroacoroa.com,iberorentapartments.com,kazaportugal.com,homesud.fr,dreamhomesrentals.com,vivalidays.com,alquilervacationesempuriabrava.com,solaga.es,webvillas.nl,vakantiewoninghuurcostabrava.com,alpineinspirations.com,playa-vacaciones.com,benneckerent.es,qtur.pt,zeusapartamentos.es,benneckerent.fr,solaga.dk,webvillas.net,mallorca4rent.com,lloguervacancesempuriabrava.com,villasduma.com,ferienwohnungmietencostabrava.com,vitivola.com,travelhabitat.es##body,html:style(overflow: auto !important; position: initial !important;)
 !! #cc--main
-bektv.plus,bgasecurity.com,edenjobs.de,lumie.com,no.sove.nu,teleperformance.com,folkbiblioteken.lund.se,traiteurmerenda.com,mediccentre.pl,abouthungary.hu,profesia.sk,systhen.com,offresasaisir.fr,sagicheck.jp,zaugg.swiss,enterprise.fi,imusic.se,imusic.de,imusic.no,imusic.dk,imusic.co,allmusicitalia.it,forzapalermo.it,weekendjeweg.nl,lw.com.pl,hearingaids.com.cy,alpsp.org###cc--main
-bektv.plus,bgasecurity.com,edenjobs.de,lumie.com,no.sove.nu,teleperformance.com,folkbiblioteken.lund.se,traiteurmerenda.com,mediccentre.pl,abouthungary.hu,profesia.sk,systhen.com,offresasaisir.fr,sagicheck.jp,zaugg.swiss,enterprise.fi,imusic.se,imusic.de,imusic.no,imusic.dk,imusic.co,allmusicitalia.it,forzapalermo.it,weekendjeweg.nl,lw.com.pl,hearingaids.com.cy,alpsp.org##body,html:style(overflow: auto !important; position: initial !important;)
+bektv.plus,bgasecurity.com,edenjobs.de,lumie.com,no.sove.nu,teleperformance.com,folkbiblioteken.lund.se,traiteurmerenda.com,mediccentre.pl,abouthungary.hu,profesia.sk,systhen.com,offresasaisir.fr,sagicheck.jp,zaugg.swiss,enterprise.fi,imusic.se,imusic.de,imusic.no,imusic.dk,imusic.co,allmusicitalia.it,forzapalermo.it,weekendjeweg.nl,lw.com.pl,hearingaids.com.cy,alpsp.org,yazio.com###cc--main
+bektv.plus,bgasecurity.com,edenjobs.de,lumie.com,no.sove.nu,teleperformance.com,folkbiblioteken.lund.se,traiteurmerenda.com,mediccentre.pl,abouthungary.hu,profesia.sk,systhen.com,offresasaisir.fr,sagicheck.jp,zaugg.swiss,enterprise.fi,imusic.se,imusic.de,imusic.no,imusic.dk,imusic.co,allmusicitalia.it,forzapalermo.it,weekendjeweg.nl,lw.com.pl,hearingaids.com.cy,alpsp.org,yazio.com##body,html:style(overflow: auto !important; position: initial !important;)
 !! #cc-main
-bliink.io,analytics-debugger.com,istories.media,kroo.com,shipoffoolsgame.com,wdp.eu###cc-main
-bliink.io,analytics-debugger.com,istories.media,kroo.com,shipoffoolsgame.com,wdp.eu##body,html:style(overflow: auto !important; position: initial !important;)
+bliink.io,analytics-debugger.com,istories.media,kroo.com,shipoffoolsgame.com,wdp.eu,zomaplast.cz,topnatur.cz###cc-main
+bliink.io,analytics-debugger.com,istories.media,kroo.com,shipoffoolsgame.com,wdp.eu,zomaplast.cz,topnatur.cz##body,html:style(overflow: auto !important; position: initial !important;)
 ! kidioui.fr
 kidioui.fr##.cookieACK
 kidioui.fr##body,html:style(overflow: auto !important; position: initial !important;)
@@ -2679,3 +2681,22 @@ youmoney.pl##body,html:style(overflow: auto !important; position: initial !impor
 ! apiformes.de
 apiformes.de###ws_eu-cookie-container
 apiformes.de##body,html:style(overflow: auto !important; position: initial !important;)
+! xxxcams.com.es
+xxxcams.com.es###disclaimer
+xxxcams.com.es##body,html:style(overflow: auto !important; position: initial !important;)
+! cesaer.org
+cesaer.org###js-brnln-ckwll-nw
+cesaer.org##body,html:style(overflow: auto !important; position: initial !important;)
+! cms-wheels.com
+cms-wheels.com###cookieModal
+cms-wheels.com##.modal-backdrop
+cms-wheels.com##body,html:style(overflow: auto !important; position: initial !important;)
+! danskebank.com
+danskebank.com##.cookie-consent-banner-modal
+danskebank.com##body,html:style(overflow: auto !important; position: initial !important;)
+! bsi.si
+bsi.si###cookie
+bsi.si##body,html:style(overflow: auto !important; position: initial !important;)
+! divadelniflora.cz
+divadelniflora.cz##.cookiebar
+divadelniflora.cz##body,html:style(overflow: auto !important; position: initial !important;)

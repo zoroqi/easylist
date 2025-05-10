@@ -91,6 +91,7 @@
 ||amazonaws.com^*/prod_analytics
 ||amazonpay.com/customerInsight?
 ||amp-error-reporting.appspot.com^
+||amp.vg/track/
 ||amplifypixel.outbrain.com^
 ||ampproject.org/preconnect.gif
 ||ams-pageview-public.s3.amazonaws.com^
@@ -100,6 +101,7 @@
 ||analytic.rollout.io^
 ||analytic.xingcloud.com^$third-party
 ||analyticcdn.globalmailer.com^
+||analyticcdn.wlmediahub.com^
 ||analytics-1.cavai.com^
 ||analytics-api.klickly.com^
 ||analytics-cf.bigcrunch.com^
@@ -300,6 +302,7 @@
 ||ariane.abtasty.com^
 ||arkoselabs.com/metrics/
 ||asayer.io/tracker.js
+||aservice.cloud/trc/mastertag
 ||assets.apollo.io/micro/website-tracker/
 ||assets.hearstapps.com/commerce/release/affiliate-bundle.
 ||assets.moneymade.io/js/fp.min.js
@@ -342,6 +345,7 @@
 ||az.nzn.io^
 ||az693360.vo.msecnd.net^
 ||azureedge.net/javascripts/Tracking.
+||azureedge.net/sdrive/zero-tracking.js
 ||azureedge.net/track
 ||azureedge.net^*/fnix.js
 ||azurewebsites.net/api/views?
@@ -505,6 +509,7 @@
 ||cityzen.io/Pixel/
 ||civicscience.com/jot?
 ||ck.connatix.com^
+||cl-pbr.cxr.skeepers.io^
 ||cleantalk.org/pixel/
 ||clearspring.com/at/
 ||clearspring.com/t/
@@ -715,6 +720,7 @@
 ||csp-reporting.cloudflare.com^
 ||csp.secureserver.net^
 ||csr.onet.pl^
+||ct-errs.cartrawler.com^
 ||ct.capterra.com^
 ||ct.corpusapp.com^
 ||ct.itbusinessedge.com^$third-party
@@ -1028,6 +1034,7 @@
 ||geoip.instiengage.com^
 ||geoip.nekudo.com^
 ||geolocation.outreach.com^
+||geoproapp.com/api/record
 ||geoservice.curse.com^
 ||geotags.refinery89.com^
 ||getelevar.com/shops/*/events.js
@@ -1047,6 +1054,7 @@
 ||gleam.io^$script,third-party
 ||global.localizecdn.com/api/lib/*.gif?
 ||global.ssl.fastly.net/native/
+||globale-analytics-sdk.global-e.com^
 ||globalservices.conde.digital/p77xzrbz9z.js
 ||gml-grp.com^*&affid=$subdocument,third-party
 ||go.activengage.com^
@@ -1117,6 +1125,7 @@
 ||highway.cablecar.sph.com.sg^
 ||highwebmedia.com/CACHE/js/output.92c98302d256.js
 ||hit.mybestpro.com^
+||hit.salesfire.co.uk^
 ||hits.dealer.com^
 ||hits.getelevar.com^
 ||hits.gokwik.co^
@@ -1721,6 +1730,8 @@
 ||pm.boostintegrated.com^
 ||pmi.flowplayer.com^
 ||pn.ybp.yahoo.com/ab/secure/true/imp/
+||polarbyte.com/scripts/latest/reach/pb-reach.iife.min.js
+||polarbyte.com/scripts/latest/survey/pb-survey.iife.min.js
 ||ponos.zeronaught.com^
 ||poool.fr/api/v3/access/event
 ||popup-static.unisender.com^
@@ -1812,6 +1823,8 @@
 ||rapidspike.com/static/js/timingpcg.min.js
 ||raven.adeptmind.ai^
 ||raygun.io/events?
+||raygun.io/ping?
+||rayn.io/contextual_targeting
 ||rbl.ms/res/users/tracking/
 ||reach-id.orbit.tm-awx.com^
 ||readcube.com/assets/track_
@@ -1891,6 +1904,7 @@
 ||sailthru.com/Sailthru_spacer_1x1.gif
 ||sajari.com/js/sj.js$third-party
 ||salescs.com/liveagent/scripts/track.js
+||salesforce.com/beacon/
 ||salesforce.com/sfga.js
 ||salesloft.com/sl.js
 ||salesmartly.com/client/log/
@@ -2099,12 +2113,14 @@
 ||storage.syncmedia.io/libs/sm_capture_
 ||stream-log.dditscdn.com^
 ||streamads.com/view?
+||streamate.icfcdn.com/dist/getPerformanceMetrics.$script
 ||streamoptim.com/log.js
 ||streamoptim.com/log/report?
 ||streams.cablecar.sph.com.sg^
 ||streamtheworld.com/imp?
 ||stripe.com/?event=
 ||sts.eccmp.com^
+||ststandard.com/adsf
 ||ststandard.com/ping
 ||stylitics.com/api/engagements
 ||su.pr/hosted_js$third-party
@@ -2303,6 +2319,7 @@
 ||track.zappos.com^
 ||trackdesk.com/tracking.js
 ||tracker-dot-optimeeze.appspot.com^
+||tracker-server.high-cdn.com^
 ||tracker-v4.gamedock.io^
 ||tracker.affirm.com^
 ||tracker.au.zitcha.app^

@@ -91,6 +91,7 @@ siebenbuerger.de###cookiehinweiscontainer
 degum.de###cookiemanager
 volkswagen-commercial-vehicles.be,volkswagen.be###cookiemgmt
 neumaerker.de###cookienote-bg-layer
+exklusivcamsex.com,livestrip.com###cookiepop
 sweez.ch###cookiesBanner_background
 sweez.ch###cookiesBanner_wrapper
 tech-review.de###cookiesInfosBackground
@@ -121,6 +122,7 @@ fussballmafia.de###fbm_ga_dlg
 femundo.de###femundo-cookie-bar
 gutfried.de###fog
 apotal.de###footer
+sumatronic.ch###fupi_cookie_notice
 dubaro.de###gdpr-cookie-message
 bluvista.tv###gdpr_footer
 pokewiki.de###gl-topbar-bg
@@ -254,6 +256,7 @@ kontist.com,refurbed.de##.bg-opacity-50
 fembio.org,natur.com##.bg-wg-modal
 inreifen.de##.bgDim
 hausschuh.com,hausschuhexperte.de##.blackBody
+blm.de##.blm-consent-modal__wrapper
 nijlen.be##.block-messages
 pott.de,wodka-gorbatschow.de##.blue-bg
 china-certification.com##.blueline-content-popup
@@ -848,6 +851,7 @@ farmhopping.com##.AcceptCondition
 tv.yettel.bg##.Gdpr_layout__w-Fse
 edmarkinternational.bg,ehype.bg,ledivin.bg,nedelya.com,visvitalisbg.com,zora.bg##.bottom-freezed-bar
 bittel.bg,carmen.bg##.c-website-notification
+bia-bg.com##.cookie_terms
 ozone.bg##.cookiepopup-container
 formabania.bg##.header-notice
 praktiker.bg##.info-message
@@ -961,11 +965,14 @@ ic2montecchio.edu.it##div[style^="z-index:9999;display:block"]
 !
 nejlevnejsi-barvy-laky.cz###Box1002
 peugeot-plzen.cz###RessCookieBox
+1hfkolomouc.cz###SklubCookiesContainer
+cd.cz###c22overlay
 mevatec.cz,vastap.cz###c_law
 nabrigadu.info###cc--main2
 lezec-shop.cz###ccmng
 ssls.cz###ckb
 chcemelepsicesko.cz###cookie-cover
+feetransport.cz###cookieOptOutForm
 fler.cz###cookies-bar-bottom
 drmcd.cz###cookies-bar-dialog
 levnapc.cz###cookies-lp-banner
@@ -981,6 +988,8 @@ bioconsult.cz###eu_cks
 etc-shop.cz###id-modal-backdrop
 prodejbrusiva.cz###js-cc-banner
 startujemeweby.cz###lista
+maxa.cz###modal-portal
+bistrono.cz###multiapp-home
 melodiecb.cz###myAlert2
 svcatlas-bios.cz###myConsentCookies
 vspj.cz###nastaveni-soukromi-banner
@@ -993,6 +1002,7 @@ fofrcz.cz###snippet-cookiesConfirmation-euCookiesSnp
 budpefak.pef.czu.cz###snippet-cookiesConsent-cookiesconsent
 osu.cz,osu.eu,zlatemince.cz###souhlas
 inetprint.cz###stickyFooter
+akce.chance.cz,akce.tipsport.cz###tscl-dialog
 abcsport.cz,aspshop.sk,diamantovekotouce.cz,grilguru.cz,grilguru.sk,palnas.cz,svitidla-led-lighting.cz,yshop.cz###wr-c
 akattyl.cz,aumedpharma.cz,ceskaapoteka.cz,ekolekaren.sk,eshopdisting.cz,lekarenthea.sk,lekarna-nanabrezi.cz,lekarnanova.cz,lekarnastmaria.cz,vsezlekarny.cz##.App-cookies
 tipsport.cz##.Consentstyled__Banner-sc-1csem4q-1
@@ -1016,13 +1026,16 @@ rychloseznamka.cz##.cok
 californianwines.eu##.commonPrivacy
 dejtip.eu##.conset-wrap
 fraus.cz##.container__body
+trepart.cz##.cookie-choices-bg
 autocont.cz##.cookie-fade-window
 bidli.cz,diadny.cz,domibags.cz,ibdkurz.cz,shop-wedrink.com##.cookies-canvas
 vzdelanibudoucnosti.cz##.cookies-dialog-wrapper
+alza.cz##.cookies-info
 realbonus.cz##.cookies-popup-short
 menicka.cz##.cookies_panel_wrp
 aquapalace.cz,obchod.crew.cz##.cs
 my2n-public.cz##.css-pv997c
+adsevcik.cz,restauracenarynku.cz##.edb_cookies
 gastrokuchyn.cz##.electro-overlay
 eshop.bmkco.cz##.es-cookies-bar-wrapper
 vzdusin.cz,wellmall.cz##.euc
@@ -1044,9 +1057,13 @@ robe.cz##.lgGaFu.sc-AxiKw
 interion.cz##.mcc-modal
 autodily-pema.cz,automedik.cz,dufy.cz##.modalBackdrop
 autodily-pema.cz,automedik.cz,dufy.cz##.modalWindow
+vosp.cz##.nt-cookie-notice
 pujckabingo.cz,pujckablesk.cz,pujckaliska.cz##.optinWrapper
+chance.cz,tipsport.cz##.sc-554939c0-1
+czechicehockey.tv##.show-modal
 stapety.cz##.site-msg
 30tidennivyzva.cz,akvarista.cz##.sm-wrapper
+dtexpert.cz##.ss-cookies
 spravazeleznic.cz##.szdc--modal
 seznamzpravy.cz##.szn-cmp-dialog-container
 sallyx.org##.topInfo
@@ -1065,7 +1082,7 @@ ceske-sjezdovky.cz##form[style^="display:block;position: fixed;"]
 goblue.dk###CookiePolicy
 shipadvisor.dk###POPUPS_ROOT
 el-klinikken.dk###c-l-widget
-turtlespeed.dk###consentUI
+cristalclubcph.com,turtlespeed.dk,vhi.dk###consentUI
 csgo.mtsl.dk###cookie-accepter
 autohjornet.com###cookiesAcceptWrapper
 bild-online.dk###fixedDiv2
@@ -1123,6 +1140,7 @@ pensioenleeftijdberekenen.nl###ckpol
 cdh.be###comp-jkmod7cm
 denhaagfm.nl,gld.nl,l1.nl,l1nieuws.nl,nieuwsplein33.nl,omroepwest.nl,omroepzeeland.nl,omropfryslan.nl,oost.nl,rtvdrenthe.nl,rtvnoord.nl,rtvoost.nl,rtvutrecht.nl###consent-plugin
 targetsupport.nl###consentModal
+wijzeringeldzaken.nl###consentbar
 nieuwbouw-borger-odoorn.nl###cookie-overlay
 ekoplaza.nl###cookie-prompt-modal___BV_modal_outer_
 keuze.nl###cookie_consent
@@ -1143,7 +1161,7 @@ medlon.nl###globalmessage_holder
 calorielijst.nl,dietenlijst.nl,koolhydratentabel.nl,receptentabel.nl###loading
 sicomputers.nl###mm-cc-wrap
 effeweg.nl###mp-popupoverlay1
-chillyhilversum.be###notice-cookie-block
+all4running.nl,chillyhilversum.be,electroworld.nl###notice-cookie-block
 trafficshare.nl###notification
 ardanta.nl###notification-bar
 sokkenenzo.nl###react_element__consent_banner
@@ -1248,6 +1266,7 @@ ingeschrier.nl##.mention
 ticket.energylandia.pl##.message-popup-cookie-lq
 mijn.ditzozorg.nl##.mijn-cookie-consent
 odido.nl##.modal-backdrop
+coolblue.nl##.modal-box
 ladybird.nl##.modals-overlay
 bibliotheeknijkerk.nl,bibliotheeknoord-veluwe.nl##.modalwindow
 wijn33.nl##.new_alert
@@ -1257,6 +1276,7 @@ ziggogo.tv##.notifications-manager
 zeelandhome.nl##.onderbalk
 hardware.info##.oreo
 broedersgezondheidswinkel.nl##.ot-cookie-bar
+ou.nl##.ou-privacy-portlet
 deurbeslag-expert.nl##.pin-b.fixed
 koentact.nl##.popmake
 myshipper.nl##.popup_main
@@ -1675,7 +1695,6 @@ maiescort.com##.accetta_cookies_me
 cerit.it,meteoeradar.it##.active
 intimerie.com##.alert-info
 bakecaincontrii.com##.alert-secondary
-mabuprofumerie.it,oliunid.it##.amgdprcookie-bar-container
 vocetempo.it##.animate__animated.animate__slideInUp
 almaviva.it##.background-popup
 papersera.net##.black_overlay
@@ -1783,6 +1802,7 @@ hyojito.co.jp###agreement-area
 jbpo.or.jp###c_policy_wrap
 jp.ign.com###consent-wrapper
 juken-mikata.net###cookieAlt
+wind.yamano-music.co.jp###cookieBox
 tokyostarbank.co.jp###floatArea
 wisdom.nec.com###func-cookie
 blog.livedoor.jp###gdpr-banner
@@ -1909,6 +1929,7 @@ ruter.no##.fixed-messages
 oslosportslager.no##.footerCurtainCookie
 online.no##.global-overlay-background
 sveip.no##.kake_wrap
+kicks.no##.km.q.r.kz.l0.cm.l1.l2.l3.az.j.l4
 nrk.no##.nrk-masthead__info-banner
 minnemi.no##.popup-overlay
 bighorn.no##.pp-announcement-bar-bottom
@@ -2251,7 +2272,7 @@ asf.com.pt###asfCookiesBar
 portugalglobal.pt###barramensagem
 oantagonista.com.br###card-cookies
 assertivasolucoes.com.br###ck-container
-sempreupdate.com.br,tudosaladeaula.com###consent-box-lgpd
+nossopalestra.com.br,sempreupdate.com.br,tudosaladeaula.com###consent-box-lgpd
 editorajuspodivm.com.br###consent-google
 ramirez.pt###consent-popup-background-lp
 cliper.pt###cook
@@ -2828,17 +2849,23 @@ podcrto.si###cc-note
 generali.si###cd-module-modal-main
 energijaplus.si###ck-overlay
 zps.si###cookieContainerWrap
+posta.si###cookieModals
 easistent.com###cookie_popup
+otpbanka.si###cookiepopupholder
+otpbanka.si###cookiepopupoverlay
 emporium.si###grayOut
 zps.si###preload_over
 xxxlesnina.si##._1zBP5ruymc38ND7B
+hse-invest.si##.cc-cookiesmessage
 dnevnik.si##.cc-wrapper
 generali.si##.cd-overlay
+dvk-rs.si##.cl_bar
 mojpsihoterapevt.si##.cookieCont
 malice.gorenjegostinstvo.si##.cookie_agreement_container
 lancom.si##.css-1e6ozjc
 uni-lj.si##.dark
 carmec.si,g-sport.si,thalasso-lepavida.si##.fff
+akrapovic.com##.fixed.w-full.bottom-\[80px\].xl\:bottom-0.left-0.bg-black.z-\[150\].ng-star-insertedd
 noah.si##.kuki
 dihslovenia.si,komunala-mozirje.si##.md-cookies
 dihslovenia.si,komunala-mozirje.si##.md-overlay
@@ -2924,6 +2951,7 @@ hora.com.es###ley
 fpcyl.es###lopd_off
 aviatsa-hn.com,telerama.ec###lopdgddd
 mountain.es###messagebar
+miravia.es###miravia_privacy_cookie_pop
 plusultra.es###modal-cookies-2021-horizontal
 gruporeds.es###modalContainer
 deutsche-bank.es###modalCookie
@@ -2984,6 +3012,7 @@ liverpool.com.mx##.cookiesMessage-wrapper
 servicios.utpl.edu.ec##.cookiesjsr-banner
 cienporciennatural.com##.cookietool-message
 portalento.es##.cpMainPanel
+smile2impress.com##.css-zo66wd
 eltiempo.es##.curtain_lightbox
 viagogo.com.mx##.dLymRk
 casatarradellas.es##.dark-filter
@@ -2999,6 +3028,7 @@ campusesport.com##.fue-modal
 campusesport.com##.fue-modal-backdrop
 movistar.es##.fullOpacity
 elplantelsemilleros.com##.fusion-row
+norautowash.es##.gdpr-cookies-warning-float-box
 promart.pe##.gh-info
 ganttpro.es##.global-statement
 tumi.com.mx##.glow-banner
@@ -3307,12 +3337,12 @@ casers.org##._2vwI89r3xy1E9vUpxC1-q
 casers.org##._3k10c1fUHhHZWUjcCu09Ve
 sport.ua##.adl_cmp_consent-dialog-module_backdrop
 volia.com##.agreeCookie\.component__cookieWrapper
+intertop.ua##.agreement
 kurs.com.ua##.background-popup
 ire.com.ua##.block
 booknet.ua##.bn_cookies
 carta.ua##.carta-policy-bottom
 alfa-tv.ua##.cook
-concert.ua##.cookie-consent-banner
 glavcom.ua,nv.ua##.cookie-label
 suspilne.media##.cookies-popup-suspilne
 gigatrans.ua##.coook

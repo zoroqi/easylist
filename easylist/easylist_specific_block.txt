@@ -131,6 +131,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||bscscan.com/images/gen/*.gif
 ||bugsfighter.com/wp-content/uploads/2020/07/malwarebytes-banner.jpg
 ||bullchat.com/sponsor/
+||businesskorea.co.kr/bannerpop/
 ||c21media.net/wp-content/plugins/sam-images/
 ||cafonline.com/image/upload/*/sponsors/
 ||calguns.net/images/ad
@@ -634,6 +635,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||sonichits.com/tf.php
 ||sorcerers.net/images/aff/
 ||soundcloud.com/audio-ads?
+||soundstageultra.com/images/banners/
 ||southfloridagaynews.com/images/banners/
 ||spike-plant.valorbuff.com^
 ||sponsors.vuejs.org^
