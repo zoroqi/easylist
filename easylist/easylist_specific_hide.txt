@@ -975,6 +975,7 @@ proxyium.com###proxyscrape_ad
 frequence-radio.com###pub_listing_top
 elevationmap.net###publift_home_billboard
 fxsforexsrbijaforum.com###pun-announcement
+pc-builds.com###pushdown_placeholder
 bobvila.com###pw-iab-leaderboard
 bobvila.com,outdoorlife.com,popsci.com,taskandpurpose.com,thedrive.com,twz.com###pw-top-right-sidebar-aib
 sparknotes.com###pwDeskLbAtf
@@ -1910,7 +1911,6 @@ cell.com##.adplaceholders
 1sale.com,1v1.lol,7billionworld.com,9jaflaver.com,achieveronline.co.za,bestcrazygames.com,canstar.com.au,canstarblue.co.nz,cheapies.nz,climatechangenews.com,cointribune.com,cryptonomist.ch,currencyrate.today,daily-sun.com,downloadtorrentfile.com,economictimes.com,energyforecastonline.co.za,esports.com,eventcinemas.co.nz,ezgif.com,flashx.tv,gamesadshopper.com,geo.tv,govtrack.us,gramfeed.com,hentaikun.com,hockeyfeed.com,i24news.tv,icons8.com,idiva.com,indiatimes.com,inspirock.com,islamchannel.tv,mangasect.com,marinetraffic.com,mb.com.ph,medicalxpress.com,mega4upload.com,mehrnews.com,meta-calculator.com,mini-ielts.com,miningprospectus.co.za,motogp.com,mugshots.com,nbc.na,news.nom.co,nsfwyoutube.com,onlinerekenmachine.com,ozbargain.com.au,piliapp.com,readcomicsonline.ru,recipes.net,robuxtousd.com,russia-insider.com,savevideo.me,sgcarmart.com,sherdog.com,straitstimes.com,teamblind.com,tehrantimes.com,tellerreport.com,thenews.com.pk,thestar.com.my,unb.com.bd,viamichelin.com,viamichelin.ie,vijesti.me,y8.com,yummy.ph##.ads
 moneycontrol.com##.ads-320-50
 dallasinnovates.com##.ads-article-body
-digg.com##.ads-aside-rectangle
 nationthailand.com##.ads-billboard
 founderoo.co##.ads-block_component
 dnaindia.com,wionews.com##.ads-box-300x250
@@ -2651,8 +2651,7 @@ techonthenet.com##.c79ee2c9
 sussexexpress.co.uk##.cIffkq
 filepuma.com##.cRight_footer
 fmforums.com##.cWidgetContainer
-digg.com,money.com##.ca-pcu-inline
-digg.com##.ca-widget-wrapper
+money.com##.ca-pcu-inline
 engadget.com##.caas-da
 thecable.ng##.cableads_mid
 encycarpedia.com##.cac
@@ -3801,6 +3800,7 @@ flava.co.nz,hauraki.co.nz,mixonline.co.nz,thehits.co.nz,zmonline.com##.layout__b
 racingtv.com##.layout__promotion
 mytempsms.com##.layui-col-md12
 flotrack.org##.lazy-leaderboard-container
+benzinga.com##.lazyload-wrapper[style="min-height:170px;width:100%"]
 iol.co.za##.lbMtEm
 trueachievements.com,truesteamachievements.com,truetrophies.com##.lb_holder
 leetcode.com##.lc-ads__241X
@@ -4593,6 +4593,7 @@ rappler.com##.rappler-ad-container
 benzinga.com##.raptive-ad-placement
 wdwmagic.com##.raptive-custom-sidebar1
 atlantablackstar.com,finurah.com,theshadowleague.com##.raptive-ddm-header
+benzinga.com##.raptive-header-banner
 leagueofgraphs.com##.raptive-log-sidebar
 epicdope.com##.raptive-placeholder-below-post
 epicdope.com##.raptive-placeholder-header
@@ -6570,7 +6571,7 @@ pixiv.net##div[id^="adsdk-"]
 antiguanewsroom.com##div[id^="antig-"]
 slidesgo.com##div[id^="article_ads"]
 business-standard.com##div[id^="between_article_content_"]
-digg.com,imggen.ai,iplogger.org,wallhere.com,webnots.com,wikitechy.com##div[id^="bsa-zone_"]
+imggen.ai,iplogger.org,wallhere.com,webnots.com,wikitechy.com##div[id^="bsa-zone_"]
 business2community.com##div[id^="busin-"]
 competenetwork.com##div[id^="compe-"]
 elfaro.net##div[id^="content-ad-body"]
@@ -7111,8 +7112,6 @@ aliexpress.com,aliexpress.us##a[class^="manhattan--container--"][class*="main--c
 aliexpress.com,aliexpress.us##a[class^="manhattan--container--"][class*="main--card--"]:has(span[style="background: rgba(0, 0, 0, 0.2); position: absolute; top: 8px; color: rgb(255, 255, 255); padding: 2px 5px; border-radius: 4px; right: 8px;"])
 manomano.*##a[href]:has(> .c4iHiiE)
 yandex.com##a[href^="https://yandex.ru/an/count/"]
-digg.com##article.fp-vertical-story:has(a[href="/channel/digg-pick"])
-digg.com##article.fp-vertical-story:has(a[href="/channel/promotion"])
 9gag.com##article:has(.promoted)
 mg.co.za##article:has(.sponsored-single)
 tympanus.net##article:has(header:has(.ct-sponsored))
@@ -7123,6 +7122,7 @@ cruisecritic.co.uk##article[data-sentry-component="ContentCard"]:has(a[href^="/s
 kijijiautos.ca##article[data-testid="SearchResultListItem"]:has(span[data-testid="PromotionLabel"])
 twitter.com,x.com##article[data-testid="tweet"]:has(path[d$="10H8.996V8h7v7z"])
 thetimes.com##article[id="article-main"] > div:has(#ad-header)
+costco.com##article[id][class]:has(img[alt*="Sponsored"])
 psychcentral.com##aside:has([data-empty])
 vidplay.lol##body > div > div[class][style]:has(> div > div > a[target="_blank"])
 wolt.com##button:has(> div > div > div > span:has-text(Sponsored))
@@ -7617,20 +7617,24 @@ yahoo.com##div[style="height:90px;width:728px"]
 mail.yahoo.com##li:has(a[href^="https://api.taboola.com/"])
 yahoo.com##li[data-test-locator="stream-related-ad-item"]
 ! youtube
-youtube.com###masthead-ad
-youtube.com###mealbar-promo-renderer
-youtube.com###player-ads
+! youtube.com###mealbar-promo-renderer
+youtube.com###below.ytd-watch-flexy.style-scope > ytd-merch-shelf-renderer.ytd-watch-flexy.style-scope > #main.style-scope.ytd-merch-shelf-renderer
+youtube.com###primary.ytd-two-column-browse-results-renderer.style-scope > ytd-rich-grid-renderer.ytd-two-column-browse-results-renderer.style-scope > #masthead-ad.ytd-rich-grid-renderer.style-scope
 youtube.com###shorts-inner-container > .ytd-shorts:has(> .ytd-reel-video-renderer > ytd-ad-slot-renderer)
-youtube.com##.YtdShortsSuggestedActionStaticHostContainer
-youtube.com##.ytd-merch-shelf-renderer
-www.youtube.com##.ytp-featured-product
+youtube.com##.ytReelMetapanelViewModelHost > .ytReelMetapanelViewModelMetapanelItem > yt-shorts-suggested-action-view-model.ytShortsSuggestedActionViewModelStaticHost
+youtube.com##ytd-item-section-renderer.ytd-section-list-renderer.style-scope > #contents.ytd-item-section-renderer.style-scope > ytd-search-pyv-renderer.ytd-item-section-renderer.style-scope
+youtube.com##ytd-watch-next-secondary-results-renderer.ytd-watch-flexy.style-scope > #items.ytd-watch-next-secondary-results-renderer.style-scope > ytd-ad-slot-renderer.ytd-watch-next-secondary-results-renderer.style-scope
+! www.youtube.com##.ytp-featured-product
 youtube.com##.ytp-suggested-action > button.ytp-suggested-action-badge
 m.youtube.com##lazy-list > ad-slot-renderer
-youtube.com##ytd-ad-slot-renderer
 youtube.com##ytd-rich-item-renderer:has(> #content > ytd-ad-slot-renderer)
-youtube.com##ytd-search-pyv-renderer
 m.youtube.com##ytm-companion-slot[data-content-type] > ytm-companion-ad-renderer
 m.youtube.com##ytm-rich-item-renderer > ad-slot-renderer
+!
+youtube.com##.grid.ytd-browse > #primary > .style-scope > .ytd-rich-grid-renderer > .ytd-rich-grid-renderer > .ytd-ad-slot-renderer
+youtube.com##.ytd-rich-item-renderer.style-scope > .ytd-rich-item-renderer > .ytd-ad-slot-renderer.style-scope
+youtube.com##ytd-item-section-renderer > .ytd-item-section-renderer > ytd-ad-slot-renderer.style-scope
+!
 ! Site Specific filters (used with $generichide)
 thefreedictionary.com###Content_CA_AD_0_BC
 thefreedictionary.com###Content_CA_AD_1_BC

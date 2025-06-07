@@ -68,6 +68,7 @@
 ||amazonaws.com/analytics.
 ||amazonaws.com/appmonitors/
 ||amazonaws.com/avsmetrics/
+||amazonaws.com/b2bjsstore/
 ||amazonaws.com/beacon^
 ||amazonaws.com/cdn.barilliance.com/
 ||amazonaws.com/frame-image-br/bg.png?
@@ -194,6 +195,7 @@
 ||analytics.pointdrive.linkedin.com^
 ||analytics.pop2watch.com^
 ||analytics.prezly.com^
+||analytics.propensity.com^
 ||analytics.pyksid.com^
 ||analytics.qualityunit.com^
 ||analytics.radiatemedia.com^
@@ -862,6 +864,7 @@
 ||event.api.drift.com^
 ||event.collector.scopely.io^
 ||event.instiengage.com^
+||event.syftdata.com^
 ||event.syndigo.cloud^
 ||event.webcollage.net^
 ||eventapi.libring.com^
