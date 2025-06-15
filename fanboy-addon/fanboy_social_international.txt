@@ -33,6 +33,7 @@ veganblatt.com##.Shares
 horizont.net##.SiteHeaderSticky_share
 niederrhein-nachrichten.de##.StoryActions
 urbia.de##.a-socialbar
+oberpfalzecho.de##.actions__button--share
 krone.at##.al__socials
 giga.de##.alice-push-channel
 pcgameshardware.de##.artSocialLinks
@@ -53,7 +54,6 @@ deutsche-startups.de##.connectButtons
 freizeit.at,kurier.at##.coral-comment-shareButton
 hornoxe.com##.custom-html-widget
 express.de##.dm-articleUserActions
-michaelsbund.de##.eapps-social-share-buttons
 evangelisch.de##.field-share
 auf1.tv##.flex.flex-row.w-80.justify-between.border-l-4.px-2.border-primary
 s3nnet.de##.follow
@@ -337,6 +337,7 @@ ditjesendatjes.nl##.mt-8.flex.gap-x-4
 micazu.nl##.rh-social-media
 schrijvenonline.org##.rrssb
 bnr.nl##.s__pb\+6.s__mb\+6
+hartstichting.nl##.sf__social
 rtvstichtsevecht.nl##.share-like
 wielerflits.be,wielerflits.nl##.share-post-container
 tweakers.net##.shareImage
@@ -500,6 +501,7 @@ valsusaoggi.it##.condividipagcatd
 valsusaoggi.it##.condividisottod
 unita.it##.condivisione
 primapaginanews.it##.condivisioni
+open.online##.container-meta-social
 altoadige.it,giornaletrentino.it##.default--toolbar
 altoadige.it,giornaletrentino.it##.default--toolbar-listitem[data-type="icon"]
 donnamoderna.com##.dm20-footer-social-link
@@ -650,6 +652,7 @@ agendadigitale.eu,corrierecomunicazioni.it,economyup.it##a[href="#condivisioni"]
 mag1861.it##div[class^="SocialBar_"]
 ilgiorno.it,ilrestodelcarlino.it,iltelegrafolivorno.it,lanazione.it,quotidiano.net##div[class^="SocialShare_"]
 ilgiorno.it,ilrestodelcarlino.it,iltelegrafolivorno.it,lanazione.it,quotidiano.net##div[class^="WhatsApp_"]
+ilpost.it##div[class^="_share_"]
 lacapitale.it##div[id^="post-social-actions_"]
 play.radionorba.it##share-view
 ||focus.it/images/embed/banner-canale-whats-up/
@@ -792,12 +795,16 @@ bcb.gov.br,folhape.com.br,ocioso.com.br,opoder.com.br,portalperifacon.com,sampi.
 econodata.com.br##.compartilhar-button
 estrelando.com.br##.compartilhar-interna
 estrelando.com.br##.compartilhar-noticia
-estudokids.com.br,radiorock.com.br##.compartilhe
+estudokids.com.br,radiorock.com.br,uai.com.br##.compartilhe
 gazetaweb.com##.content-share
 meiahora.com.br##.content-shares
 jovempan.com.br##.cta-model
 ndmais.com.br##.cta-whatsapp
 aventurasnahistoria.uol.com.br##.d-flex.col-12.col-sm-4.align-items-end.justify-content-end
+uai.com.br##.d-flex.flex-wrap.align-items-center.mt-4-5.mb-3-5
+em.com.br##.edm-bottom-social
+em.com.br##.edm-right
+em.com.br##.edm-social-networks
 supertvaovivo.co##.entry-share-link
 acheisudoeste.com.br##.er-social-share-tag
 abril.com.br##.f-social
@@ -813,6 +820,7 @@ oantagonista.com.br##.footer-content__social
 noticiasaominuto.com##.footer-info-social
 atoananet.com.br##.footer-redes-sociais
 vermelho.org.br##.footer-social-menu
+brasil247.com##.footer__social
 slatual.com.br##.footer_social_itens
 exame.com##.gGWTmb
 folha.uol.com.br##.gallery-widget-carousel__info-share
@@ -838,6 +846,7 @@ atoananet.com.br##.link-compartilhar
 brasil247.com##.links
 omelete.com.br##.links--social
 pinkluna.com.br##.lista-redes
+uai.com.br##.margen_icon
 canaltech.com.br##.mb-8.flex.flex-col.flex-wrap.justify-between.gap-3.tablet\:flex-row
 vermelho.org.br##.menu-social-networks
 folhape.com.br##.midias
@@ -913,6 +922,7 @@ nsctotal.com.br##.sociallink
 colunadofla.com##.socials-counter
 opto.sic.pt##.socials-networks
 uol.com.br##.solar-header-columnist-socialmedia-content
+brasil247.com##.sub-header__social
 cmjornal.pt##.subscrever_whatsapp
 gizmodo.uol.com.br##.sup-share-block__position
 gizmodo.uol.com.br##.sup-social
@@ -931,7 +941,6 @@ a12.com##.wg-share-hrz
 ndmais.com.br##.whats-box
 dcmais.com.br##.whatsapp-ch
 metro1.com.br##.whatsapp-link-metropole
-radar.news##.widget-social-b
 gaudiumpress.org##.widget_gaudium_social_links_widget
 centroculturalfcsn.org.br##.widget_jms_widget_social_menu
 nerdrecomenda.com.br##.widget_nr-socials-widget
@@ -1098,6 +1107,8 @@ sipse.com##.btn-share-social
 sipse.com##.btn-telegram
 sipse.com##.btn-whatsap
 elplural.com##.btn-whatsapp
+antojasai.com##.btn.bg-slate-50.w-12.h-12.rounded-full.text-xl.hover\:bg-slate-100.hover\:text-slate-800.dark\:bg-slate-800.dark\:hover\:bg-slate-700.dark\:hover\:text-slate-300
+antojasai.com##.btn.bg-slate-50.w-8.h-8.rounded-full.hover\:bg-slate-100.hover\:text-slate-800.dark\:bg-slate-800.dark\:hover\:bg-slate-700.dark\:hover\:text-slate-300
 eltiempo.com##.btn_googlelink
 eleconomista.com.mx##.c-detail__author__share
 eltiempo.com##.c-detail__info-share
@@ -1109,6 +1120,7 @@ atlanticohoy.com,consumidorglobal.com##.c-mainarticle__share
 consumidorglobal.com##.c-mainfooter__social
 los40.com##.c-sha
 adnradio.cl,cadenaser.com##.c-sn
+elplaneta.com##.c-social-icons
 eltiempo.com##.c-subheader__social
 los40.com##.c-w
 diez.hn##.canal-whatsapp
@@ -1194,6 +1206,7 @@ laprensa.hn##.joinWhatsapp
 km77.com##.js-share-block
 elliberal.com.ar##.links-social
 clublibertaddigital.com,libertaddigital.com,libremercado.com##.links_social
+sprinforma.mx##.list-actions
 voydeviaje.com.ar##.list-icons
 defensacentral.com##.list-inline-xs
 diariodemocracia.com##.list-social-media

@@ -9,6 +9,7 @@ digitalfernsehen.de###custom_html-3
 gamepro.de,gamestar.de###footer-bold
 kress.de###kress-express
 clever-tanken.de###newsletter-container
+zeit.de###newsletter-signup-ki
 efahrer.chip.de###newsletter-subscription-popup
 kress.de###nl-kressExpress
 50plus.de###nlNag
@@ -55,6 +56,7 @@ netzwelt.de##.subscribeboard
 falter.at##.subscription-note-wide
 n-tv.de##.teaser--newsletter
 happinez.de##.top-bar
+lr-online.de,moz.de,swp.de##.u-article-newsletter
 skylineatlas.de##.underlay
 vol.at##.vodl-widget-newsletter
 watson.ch##.watson-snippet__newsletter
@@ -301,6 +303,7 @@ auto.it##div[class^="ModalNewsletter_"]
 ilgiorno.it,ilrestodelcarlino.it,iltelegrafolivorno.it,lanazione.it,quotidiano.net##div[class^="Newsletter_"]
 ! Japanese
 bluetti.jp###dynamic-react-root + div:has(> div.needsclick input[id^="email_"])
+rocket-boys.co.jp##.fixed-bottom
 mastory.jp##.p-article-mail
 somu-lier.jp##.popup-mailmaga
 twilog.togetter.com##.subscription_banner
@@ -396,8 +399,10 @@ motor.elpais.com##.bloque-newsletter
 comunicacio21.cat,cultura21.cat,espai.media,espailinia.cat,exterior.cat,riverelmasgrande.com##.boletin
 elordenmundial.com##.boletin-wrapper
 europapress.es##.boletin_noticia
+elplaneta.com##.bottom-popup
 eldiario.es,eldiarioar.com##.bulletin-subscription
 eleconomista.com.mx##.c-boletin
+elplaneta.com##.c-mensaje
 huffingtonpost.es##.c-newsletter
 librotea.com##.close-popup-overlay
 economipedia.com##.cta-suscripcion
@@ -428,7 +433,6 @@ naiz.eus##.s-footer__newsletter
 efe.com##.site-footer
 tycsports.com##.subs-box
 lavozdegalicia.es##.subs_box
-debate.com.mx,elgrafico.com,laprensagrafica.com##.suscribe
 laganga.com##.suscribe-footer
 laverdadnoticias.com##.suscribehorizontal
 welife.es##.suscribete

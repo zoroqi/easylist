@@ -2628,6 +2628,15 @@
 ###gallery_header_ad
 ###galleryad1
 ###gam-ad-ban1
+###gam-ad-doubleMpu-1
+###gam-ad-mpu-1
+###gam-ad-mpu-2
+###gam-ad-mpu-3
+###gam-ad-mpu-4
+###gam-ad-mpuLeaderboard-leaderboard-1
+###gam-ad-mpuLeaderboard-leaderboard-2
+###gam-ad-mpuLeaderboard-leaderboard-3
+###gam-ad-topLeaderboard-1
 ###game-ad
 ###gamead
 ###gameads
@@ -9895,6 +9904,7 @@
 ##.f-ad
 ##.f-item-ad
 ##.f-item-ad-inhouse
+##.fah-btn__container
 ##.fbs-ad--ntv-home-wrapper
 ##.fbs-ad--top-wrapper
 ##.fbs-ad--topx-wrapper
@@ -13236,6 +13246,7 @@
 ##[data-testid="adBanner-wrapper"]
 ##[data-testid="ad_testID"]
 ##[data-testid="prism-ad-wrapper"]
+##[data-testid^="section-AdRowBillboard"]
 ##[data-type="ad-vertical"]
 ##[data-wpas-zoneid]
 ##[href$="/sexdating.php"]
@@ -13275,6 +13286,7 @@
 ##[href^="https://turtlebids.irauctions.com/"] img
 ##[href^="https://url.totaladblock.com/"]
 ##[href^="https://wct.link/click?"]
+##[href^="https://wwp.hoqodd.com/redirect-zone/"]
 ##[href^="https://www.avantlink.com/click.php"] img
 ##[href^="https://www.brighteonstore.com/products/"] img
 ##[href^="https://www.cloudways.com/en/?id"]
@@ -13531,6 +13543,7 @@
 ##a[href^="https://trk.softonixs.xyz/"]
 ##a[href^="https://turnstileunavailablesite.com/"]
 ##a[href^="https://twinrdsrv.com/"]
+##a[href^="https://twinrdsyte.com/"]
 ##a[href^="https://upsups.click/"]
 ##a[href^="https://vo2.qrlsx.com/"]
 ##a[href^="https://voluum.prom-xcams.com/"]

@@ -68,6 +68,7 @@
 ||amazonaws.com/analytics.
 ||amazonaws.com/appmonitors/
 ||amazonaws.com/avsmetrics/
+||amazonaws.com/b2bjsstore/
 ||amazonaws.com/beacon^
 ||amazonaws.com/cdn.barilliance.com/
 ||amazonaws.com/frame-image-br/bg.png?
@@ -114,6 +115,7 @@
 ||analytics-scripts.cablelabs.com^
 ||analytics-sg.tiktok.com^
 ||analytics-static.ugc.bazaarvoice.com^
+||analytics-tracker.thescore.com^
 ||analytics.30m.com^
 ||analytics.adobe.io^
 ||analytics.agoda.com^
@@ -194,6 +196,7 @@
 ||analytics.pointdrive.linkedin.com^
 ||analytics.pop2watch.com^
 ||analytics.prezly.com^
+||analytics.propensity.com^
 ||analytics.pyksid.com^
 ||analytics.qualityunit.com^
 ||analytics.radiatemedia.com^
@@ -411,6 +414,7 @@
 ||bizseasky.com/dc/
 ||bizseasky.com/mon
 ||bizseasky.com/tracker/
+||blackcrow.ai/v1/events/
 ||blend.com/event/
 ||blink.net/e/
 ||blip.bizrate.com^$script
@@ -512,6 +516,7 @@
 ||ck.connatix.com^
 ||cl-pbr.cxr.skeepers.io^
 ||cleantalk.org/pixel/
+||clearbuy.com/api/cookie
 ||clearspring.com/at/
 ||clearspring.com/t/
 ||clerk.io/static/clerk.js
@@ -862,6 +867,7 @@
 ||event.api.drift.com^
 ||event.collector.scopely.io^
 ||event.instiengage.com^
+||event.syftdata.com^
 ||event.syndigo.cloud^
 ||event.webcollage.net^
 ||eventapi.libring.com^
@@ -891,6 +897,7 @@
 ||events.missena.io^
 ||events.ocdn.eu^
 ||events.paramount.tech^
+||events.pickrr.com^
 ||events.realgravity.com^
 ||events.release.narrativ.com^$subdocument,xmlhttprequest
 ||events.shareably.net^
@@ -1264,6 +1271,7 @@
 ||juicer.io/api/page_views
 ||k.keyade.com^
 ||k.streamrail.com^
+||k5a.io/?i=
 ||kalstats.kaltura.com^
 ||kbb.com/partner/$third-party
 ||kelkoogroup.net/st?
@@ -1899,6 +1907,7 @@
 ||run.app/data.log
 ||run.app/events-receiver/get-web-event
 ||run.app/metrics/
+||run.app/track.js
 ||rw.marchex.io^
 ||s-microsoft.com/mscc/$~stylesheet
 ||s.autopilotapp.com^
@@ -2216,6 +2225,7 @@
 ||tag.rightmessage.com^
 ||tag.rmp.rakuten.com^
 ||tag.statshop.fr^
+||tag.unifyintent.com^
 ||tagger.opecloud.com^
 ||tagging.shiftdigitalapps.io^
 ||taggstar.com^*/taggstar.min.js
@@ -2501,6 +2511,7 @@
 ||units.knotch.it^
 ||unpkg.com/web-vitals?
 ||uptime.com/static/rum/$third-party
+||uptime.fastrr.com^
 ||upvert.io/api/v3/pixel/
 ||uriports.com/reports/$third-party
 ||urldefense.com^$image,third-party
