@@ -966,6 +966,7 @@ hbor.hr###JPO
 vobco.hr###blokDiv
 dokutv.net###cmp_overlay
 liberal.hr###footer
+vindija.hr###gdpr-overlay
 iarh.hr###kukijima
 tzdubrovnik.hr###mygdprPopupHR
 goe.irb.hr###ng-cc
@@ -984,6 +985,7 @@ hapih.hr,podravski.hr##.dialog-widget
 zagreb.mozemo.hr##.fs-consent_component-2
 hakom.hr,zagreb.hr##.gdc-container
 gumiimpex.hr,ljekarna-pablo.hr##.gdpr-container-wrapper
+vindija.hr##.gdpr-prompt
 buket.hr##.kukip
 agroproteinka.hr##.notice-container
 splendido.hr##.o-data
@@ -1511,20 +1513,24 @@ ertflix.gr##div[data-test="cookie-policy"]
 ! ---------- Hebrew ----------
 !
 maccabi4u.co.il###ZA_CAMP_BANNER_CONTAINER
+maccabi4u.co.il###ZA_CAMP_MOBILE_CONTAINER
 ivory.co.il###removeBannerCookie
 cal-online.co.il###wc-using-cookies
 iroads.co.il##.CookiePolicyDisclaimer
+lastprice.co.il##.PCConsent
 guidestar.org.il##.app-cookies-disclaimer-container
 israelpost.co.il##.cookie-agreement
 pais.co.il##.cookies_sec
 yad-mordechai.co.il##.eupopup-container
 diners.co.il##.message-container
+bankhapoalim.co.il##.muirtl-1cwm7gt
 colmobil.co.il##.popup-privacy
 iec.co.il##app-sticky-banner
 assuta.co.il##div[class^="CookieConsent_"]
 hyundaimotors.co.il##div[class^="StyledPopupPrivacyCookies-"]
 dutyfree.co.il##div[class^="cookieRestriction-module__root-"]
 dynamica.co.il##div[class^="cookiesPopup"]
+hb2.bankleumi.co.il##div[data-tid="cookies-banner"]
 postalfinance.co.il##float-window-alert
 tase.co.il##tase-cookies-policy
 !
@@ -1753,7 +1759,7 @@ automercatoavenoso.it##.boxContainer
 altreconomia.it##.c-cookie-banner
 masterinvendita.com,nuovenergiespa.it##.cboss_banner_container
 finanziariatosinvest.it##.cc-link
-buyon.it,codicesconto.com##.cc_placeholder
+assicurazioni.it,buyon.it,codicesconto.com,domaindirect.it,jekoo.com,lavoro.it,mutuo.it##.cc_placeholder
 transalbert.com##.ce_rsce_fixed_note
 likesx.com##.cent
 mivoq.it##.check-policy
@@ -1803,6 +1809,7 @@ tuttoamerica.it##.modal__overlay
 pasinigioielli.com##.modals-wrapper
 degoosta.com##.mpp-is-open.mpp-box
 pizzastories.le5stagioni.it##.mx-0.w-100.row
+mix-it.net##.next-cookies
 zerocode.sanita.toscana.it##.ngx-lib-privacy-cookie-banner-container
 initalia.it##.notice-wrap
 1950americandiner.it##.np-cookies__screen
@@ -1955,6 +1962,7 @@ ecobaltiavide.lv##.popup-filter
 aio.lv##.popup-message
 via-s.lv##.priv
 maminuklubs.lv##.set_cookie
+eparaksts.lv##usps-cookie-confirmation
 !
 ! ---------- Lithuanian  ---------
 !
@@ -2387,7 +2395,6 @@ weg.net###weg-privacy-tools
 em.guimaraes.pt###wm-cookie-bar
 sahisaudavel.com.br###wpconsent-root
 xalingo.com.br###wrng-agrmnt
-strongcloud.online##.--framer-cookie-banner-container
 tvt.org.br##.-policy
 extramercado.com.br,paodeacucar.com##.Alert-sc-ubrksr-0
 shopee.com.br##.BC_VN9
@@ -2421,6 +2428,7 @@ pr.gov.br##.block-celepar-mensagem-cookies
 idec.org.br##.block-region-footer
 afestas.com.br##.bottom-popup-wrapper
 ecclesiae.com.br,videeditorial.com.br##.box-aceite-privacidade
+tekdistribuidor.com.br##.box-lgpd
 costanorte.com.br##.bswTsr
 enjoei.com.br##.c-cookies-banner
 grupoccr.com.br,motiva.com.br##.c-dOELgn
@@ -2625,6 +2633,7 @@ bankinform.ru###bisCookieCompliance
 hh.ru###bottom-cookies-policy-informer
 yvid.ru###cbb
 mamba.ru###closeCookieBanner
+solgarvitamin.ru###consent-modal
 gorodperm.ru###cookb
 vladimir-city.ru###cookie_pp
 so-ups.ru###cookieagreement
@@ -2775,6 +2784,7 @@ friday.ru##.information
 wwf.ru##.is-header-message-dock
 bbr.ru##.is-message-ppd
 icenter-store.ru##.jqmWindow
+incanto.eu##.js-footer
 shatura.com##.js_cookie
 blablacar.ru##.kYSrqZ
 polenovo.ru##.lepopup-popup-container
@@ -2785,6 +2795,7 @@ investpay.ru##.main-user-consent-request
 torg-pc.ru##.marketing-popup
 kfim.com##.message
 bestradio.fm,iblitzmods.ru,kinoby.ru,tvguru.ru##.message-alert
+mosreg.ru##.metrica-warning
 merers.ru,strana.one,strana.today##.modal
 asna.ru##.modalCookies_root__356Q-
 shophair.ru##.modal_popup_sessid_box
@@ -2828,7 +2839,9 @@ nergb.ru##.spu-bottom-left
 forumdaily.com##.stpl_cookies_wrap
 tutu.ru##.style__disclaimer
 ingrad.ru##.styles-module__cookiesWarning--2mfHC
+auchan.ru##.styles_acceptCookieAlert__7Tijv
 lada.ru##.styles_container__1obM5
+1c.ru##.styles_root__Jht0k
 66.ru,gorodvo.ru##.t-i-agree
 cinemamedley.ru,cloudtips.ru##.t657
 omnidesk.ru##.t886
@@ -2897,7 +2910,6 @@ ctshop.rs##[style^="position: fixed; bottom: 0px;"]
 !
 sortec.sk###I6-cookieConsent
 vaschovatel.sk###cbar
-csob.sk###cookie-management
 akcneletaky.sk###infoCoo
 dubravka.sk###set-win-coo
 alkoshop.sk##.alkoshop-cookies-notice-bar

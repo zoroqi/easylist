@@ -10,6 +10,7 @@
 ||4251.tech^
 ||44.228.85.26^
 ||46rtpw.ru^
+||6dp0i7.ru^
 ||a1webstrategy.com^
 ||a47b.com^
 ||a8723.com^
@@ -42,6 +43,7 @@
 ||as3.io^
 ||aseads.com^
 ||astarsbuilding.com^
+||atmtd.com^
 ||australiarevival.com^
 ||avads.net^
 ||awmonitor.com^
@@ -89,6 +91,7 @@
 ||convertlink.com^
 ||counter247.live^
 ||cpx.to^
+||crossengage.io^
 ||crwdcntrl.net^
 ||cvlb.dev^
 ||cxense.com^
@@ -192,9 +195,11 @@
 ||gw-dv.vip^
 ||hbiq.net^
 ||hdmtools.com^
+||healthroundprince.com^
 ||heap-api.com^
 ||herbgreencolumn.com^
 ||hirsung.de^
+||histais.com^
 ||hs-analytics.net^
 ||hsadspixel.net^
 ||hsleadflows.net^
@@ -202,6 +207,7 @@
 ||hzstats.com^
 ||i218435.net^
 ||ia-dmp.com^
+||icg-in.com^
 ||iconmediapixel.com^
 ||iconnode.com^
 ||id-ward.com^
@@ -220,7 +226,6 @@
 ||jams.wiki^
 ||jcpclick.com^
 ||jubbie.de^
-||k5a.io^
 ||klarinsights.net^
 ||krxd.net^
 ||kspotson.de^
@@ -245,6 +250,7 @@
 ||markadver.com^
 ||matheranalytics.com^
 ||mathilde-ads.com^
+||matomo3.org^
 ||maxepv.com^
 ||mb-tracking.com^
 ||mbmgivexdvpajr.com^
@@ -311,6 +317,7 @@
 ||pzapi-kg.com^
 ||pzimff.com^
 ||q0losid.com^
+||qntm.pro^
 ||quickkoala.io^
 ||quickpcfixer.click^
 ||r42tag.com^
@@ -325,6 +332,7 @@
 ||robotflowermobile.com^
 ||rtactivate.com^
 ||rtgvwr.com^
+||rtmscl.com^
 ||rum-ingress-coralogix.com^
 ||rumt-sg.com^
 ||s-onetag.com^
@@ -431,6 +439,7 @@
 ||zenaps.com^
 ||zippyfrog.co^
 ||zjptg.com^
+||zodalt.com^
 ||zononi.com^
 ||zqtk.net^
 ||ztsrv.com^

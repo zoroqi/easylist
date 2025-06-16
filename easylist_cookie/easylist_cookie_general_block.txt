@@ -211,7 +211,6 @@
 /Cookie-popup-
 /cookie-popup.js
 /cookie-popup.min.js
-/cookie-popup?
 /cookie-privacy-
 /cookie-prompt.js
 /cookie-richtlinie.js
@@ -936,6 +935,7 @@
 /wp-content/cache/borlabs-cookie/*
 /wp-content/plugins/borlabs-cookie/*
 /wp-content/plugins/cookies-and-content-security-policy
+/wp-content/plugins/gdpr-cookie-compliance/*
 /wp-content/plugins/real-cookie-banner-pro/*
 /wp-content/plugins/webtoffee-cookie-consent/*
 /wp-content/plugins/wpconsent-premium/*

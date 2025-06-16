@@ -12,6 +12,7 @@
 @@||aticdn.net/piano-analytics.js$domain=stuttgarter-nachrichten.de
 @@||bilder-a.akamaihd.net/ip/js/ipdvdc/ipdvdc.min.js$domain=n-tv.de|toggo.de|vip.de
 @@||businessclick.ch/index.js$domain=finanzen.ch
+@@||cdn.bitmovin.com/analytics/web/*/bitmovinanalytics.min.js$script,domain=oe24.at
 @@||classic.comunio.de/clubImg.phtml/$image,~third-party
 @@||digitale-sammlungen.gwlb.de^*/pageview.js$script,domain=digitale-sammlungen.gwlb.de
 @@||dmp.theadex.com^*/adex.js$domain=kino.de
@@ -188,6 +189,7 @@
 @@||clarity.ms/tag/$script,domain=phileweb.com
 @@||cmn.gyro-n.com/js/gyr.min.js$domain=benesse-style-care.co.jp
 @@||cpt.geniee.jp/hb/*/wrapper.min.js$domain=hoyme.jp
+@@||cybozu.com/*/event.gif?$~third-party
 @@||delivery.satr.jp^$script,domain=mieru-ca.com
 @@||deteql.net/recommend/provision?$xmlhttprequest,domain=t-fashion.jp
 @@||disneyplus.disney.co.jp/view/vendor/analytics/$~third-party
@@ -217,6 +219,7 @@
 @@||linksynergy.com/minified_logic.js$xmlhttprequest
 @@||log000.goo.ne.jp/gcgw.js$domain=nttxstore.jp
 @@||logly.co.jp/recommend/$image,domain=benesse.ne.jp|sponichi.co.jp
+@@||matsukiyococokara-online.com/store/*/rtoaster.js
 @@||moneypartners.co.jp/web/*/fingerprint.js$~third-party
 @@||nakanohito.jp^*/bi.js$domain=kenko-tokina.co.jp|myna.go.jp
 @@||nittsu.com/Tracking/Scripts/Tracking/track.js
