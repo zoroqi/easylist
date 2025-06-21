@@ -64,6 +64,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||americanlookout.com////
 ||americanlookout.com/29-wE/
 ||ams.naturalnews.com^
+||ams.naturalnewsblogs.com^
 ||androidauth.wpengine.com/wp-json/api/advanced_placement/api-$domain=androidauthority.com
 ||animationmagazine.net/wordpress/wp-content/uploads/TWR_AM_
 ||animeland.tv/zenny/
@@ -215,6 +216,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||dev.to^*/billboards/post_comments^
 ||dev.to^*/billboards/post_sidebar^
 ||developer.mozilla.org/pong/
+||deviantart.com/_nsfgfb/?realEstateId=*&biClientIdSigned=
 ||devopscon.io/session-qualification/$subdocument
 ||dianomi.com/brochures.epl?
 ||dianomi.com/click.epl
@@ -223,6 +225,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||digitalmediaworld.tv/images/banners/
 ||diglloyd.com/js2/pub-wide2-ck.js
 ||dirproxy.com/helper-js
+||djpunjab.*/ads/
 ||dmtgvn.com/wrapper/js/manager.js$domain=rt.com
 ||dmxleo.dailymotion.com^
 ||dnslytics.com/images/ads/
@@ -333,6 +336,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||graphicdesignforums.co.uk/banners/
 ||greatandhra.com/images/landing/
 ||grow.gab.com/galahad/
+||gsmarena.com/*.php3|$xmlhttprequest
 ||gsmarena.com/deals-json.php3
 ||hamodia.co.uk/images/worldfirst-currencyconversion.jpg
 ||healthcentral.com/common/ads/generateads.js
@@ -394,6 +398,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||instagram.com/api/v1/injected_story_units/
 ||intersc.igaming-service.io^$domain=hltv.org
 ||investing.com/jp.php
+||iono.fm/ads/
 ||ip-secrets.com/img/nv
 ||islandecho.co.uk/uploads/*/vipupgradebackground.jpg$image
 ||isohunt.app/a/b.js
@@ -479,6 +484,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||moviekhhd.biz/images/DownloadAds
 ||mp3fiber.com/*ml.jpg
 ||mpgh.net/idsx2/
+||mr-jatt.im/ads/
 ||mrskin.com^$script,third-party,domain=~mrskincdn.com
 ||musicstreetjournal.com/banner/
 ||mutaz.pro/img/ba/

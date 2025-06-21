@@ -133,6 +133,7 @@
 ||analytics.pgncs.notion.so^
 ||analytics.plex.tv^
 ||analytics.productreview.com.au^
+||analytics.python.org^
 ||analytics.qogita.com^
 ||analytics.realestate.com.au^
 ||analytics.silktide.com^
@@ -383,6 +384,8 @@
 ||console-telemetry.oci.oraclecloud.com^
 ||consumer.org.nz/session/ping/
 ||containers.appdomain.cloud/api/send-log$domain=ibm.com
+||contentpass.net/error-tunnel
+||contentpass.net/stats
 ||cookpad.com/*/activity_logs
 ||copilot-telemetry.githubusercontent.com^
 ||count.all.biz^
@@ -452,7 +455,6 @@
 ||df.infra.sz.shopee.
 ||dhl.com/g8Dj6P8TAg/
 ||dhresource.com/dhs/fob/js/common/track/$domain=dhgate.com
-||digg.com/library/tracker.js
 ||digital.flytedesk.com/js/head.js
 ||discover-metrics.cloud.seek.com.au^
 ||dls-account.di.atlas.samsung.com^
@@ -539,6 +541,7 @@
 ||et.tidal.com^
 ||etsy.com/bcn/beacon
 ||etsy.com/clientlog
+||etsy.com/include/tags.js
 ||etui.fs.ml.com^
 ||etx.indiatimes.com^
 ||euclid.kuula.co^
@@ -700,6 +703,7 @@
 ||gnavi.co.jp/analysis/
 ||go.fap18.net/ftt2/js.php
 ||go.pardot.com^
+||go.thegrocer.co.uk^
 ||go.theregister.com^$image
 ||gobankingrates.com/fp/
 ||gofundme.com/track
@@ -714,7 +718,7 @@
 ||google.com/async/ddllog
 ||google.com/dssw.js
 ||google.com/images/phd/px.gif
-||google.com/log^$domain=~meet.google.com
+||google.com/log^
 ||google.com/pagead/1p-conversion/
 ||grabify.link/api/js
 ||graylog.prod.cams.run^
@@ -769,6 +773,7 @@
 ||ibtimes.com/front/js/counter.js
 ||icgp.ie/overview/js/tracker.php
 ||idiva.com/analytics_
+||ifunny.co/api/$ping
 ||iguazu.doordash.com^
 ||ih.newegg.com^
 ||iheart.com/api/v3/playback/reporting
@@ -925,7 +930,9 @@
 ||logx.optimizely.com^
 ||lolwot.com/B5xaqzSGvMTM.js
 ||lookawoman.com/t/
+||lookfantastic.ie/track
 ||loom.com/metrics/graphql
+||love.vidora.su^
 ||lowes.com/gauge/
 ||lowes.com/pharos/api/webTelemetry?
 ||lucida.su/api/event
@@ -1019,6 +1026,7 @@
 ||msn.com/collect/
 ||msn.com/OneCollector/
 ||mstm.motorsport.com^
+||mx.eneba.com^
 ||myanimelist.net/static/logging.html
 ||mybbc-analytics.files.bbci.co.uk/reverb-client-js/smarttag-
 ||myfreecams.com/php/tracking.php?
@@ -1248,6 +1256,7 @@
 ||reports.tunein.com^
 ||researchgate.net/track/
 ||reverbnation.com/api/user/app_events
+||revolut.com/api/t/errors
 ||rfk.biglots.com^
 ||rfk.dsw.com/api/init/1/init.js
 ||rgshows.me/js/logger.js
@@ -1684,6 +1693,7 @@
 ||typepad.com/t/stats?
 ||ua.financialexpress.com/api/capture
 ||ua.indianexpress.com^
+||ub.galaxus.
 ||uber.com/_events
 ||uber.com/_track
 ||uber.com/careers/apply/_log
@@ -1700,15 +1710,18 @@
 ||ultimate-guitar.com/components/ab/event?
 ||ultimedia.com/deliver/statistiques/
 ||um.contentstudio.io^
+||umami.vidfast.pro^
 ||umami.wakarimasen.moe^
 ||unibling.com/eclytics/
 ||unity3d.com/v1/events
 ||unl1zvy2zuyn.franchiseplus.nl^
 ||unsplash.com/nmetrics
 ||untappd.com/profile/impression?
+||up4stream.com/js/anti.js
 ||upi.com/story/stat/
 ||uprinting.com/muffins/UPTracker-
 ||ups.com/img/icp.gif
+||ups2up.fun/js/anti.js
 ||upstract.com/tokei/
 ||upwork.com/shasta/suit
 ||upwork.com/upi/jslogger

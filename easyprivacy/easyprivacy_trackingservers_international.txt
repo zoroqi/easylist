@@ -580,6 +580,7 @@
 ||aspservice.jp^$third-party
 ||bigmining.com^$third-party
 ||blogranking.net^$third-party
+||bownow.jp^$third-party
 ||canem-auris.com^$third-party
 ||caprofitx.com^$third-party
 ||catsys.jp^$third-party
@@ -808,7 +809,6 @@
 ||cszz.ru^$third-party
 ||culturaltracking.ru^$third-party
 ||detmir-stats.ru^$third-party
-||diginetica.net^$third-party
 ||dircont3.com^$third-party
 ||directcrm.ru^$third-party
 ||e-kuzbass.ru^$third-party

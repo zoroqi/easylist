@@ -226,6 +226,7 @@
 ||wikipedia.de/tracking.js
 ||witt-weiden.de^$ping
 ||wlw.de/unified_search_backend/api/v1/tracking/
+||wnoz.de/nieyohh8.js
 ||xing.com^$ping
 ||ymprove.gmx.net^
 ||ymprove.web.de^
@@ -689,6 +690,7 @@
 ||email.nautiljon.com/oo/$image
 ||europe1.fr/assets/europe1/estat.
 ||events-logs.doctolib.com^
+||events.verifymy.io^
 ||flow.kiloutou.fr^
 ||fourchette-et-bikini.fr/core/modules/statistics/
 ||fr.shopping.rakuten.com/rakuten-static-deliver/mob/*/js/track.js
@@ -790,6 +792,7 @@
 ||sncf-connect.com/apm
 ||sncf-connect.com/bff/api/v1/t/events
 ||space-blogs.net/include/counter/
+||sstm.sport2000.fr^
 ||sta.wawacity.
 ||sta.zone-telechargement.
 ||stats*.credit-cooperatif.coop^
@@ -806,6 +809,7 @@
 ||telerama.fr/*&ptag=
 ||tracker.mspy.com^
 ||tracking.cdiscount.com^
+||tss.sport2000.fr^
 ||unblog.fr/cu.js
 ||vinted.fr/relay/events
 ||wawacity.*/bypass
@@ -1177,6 +1181,7 @@
 ||tracking.gaslicht.com^
 ||tracking.voordeeluitjes.nl^
 ||tvgids.nl/collect
+||tweakers.net/ajax/clicks/
 ||tweakers.nl/track/
 ||two.tio.nl^
 ||txrx.bol.com^
@@ -1718,6 +1723,7 @@
 ||credistory.ru/api/v1/LiveMetrics/
 ||cs42.pikabu.ru^
 ||cs43.pikabu.ru^
+||cu.dzen.ru/?rn=
 ||cvt1.sibnet.ru^
 ||data.glamour.ru^
 ||drom.ru/dummy.
@@ -1795,6 +1801,7 @@
 ||superjob.ru/ws/
 ||sync.rambler.ru^
 ||t.sports.ru^
+||telemetry.dzen.ru^
 ||tes-game.ru/stat/
 ||tonkosti.ru/go.php?
 ||top-staging.mail.ru^
@@ -1805,6 +1812,7 @@
 ||umschool.net/_jts/api/s/track
 ||vedomosti.ru/boom?
 ||vesti.ru/counter/
+||vkvideo.ru/al_video.php?act=track
 ||vstat.rtr-vesti.ru^
 ||xapi.ozon.by/perf-metrics-collector/
 ||xapi.ozon.ru^$ping

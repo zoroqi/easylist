@@ -302,6 +302,7 @@
 /analyticsscript.ashx
 /analyticstrack.js
 /analyticstracking.js
+/analyticstrain.min.js
 /anametrix/cas.js
 /anclytic-ajax.html
 /anclytic.htm
@@ -485,7 +486,6 @@
 /brightedge.js
 /brightspot/analytics/*
 /brightTag-min.js
-/browserinfo?f.sid=
 /bsp-analytics.min.
 /bstat.js
 /btrack.php?
@@ -879,6 +879,7 @@
 /extendedanalytics.js
 /external-tracking.min.js
 /ezais/analytics?
+/ezoicanalytics.js
 /ezytrack.js
 /f.gif?
 /facebook-pixel-worker.js
@@ -1086,6 +1087,7 @@
 /googletrack.js
 /googleTracker.js
 /googleTracking.js
+/graphql/track-pageview$xmlhttprequest
 /grumi-ip.js
 /gs-analytics-init.js
 /gs-analytics.js
@@ -1232,6 +1234,7 @@
 /j.gif?
 /jgs_portal_log_bildschirm.php?
 /joomla-visites.php
+/jpuid?jsonp=
 /jquery-gatracker.js
 /jquery.analytics.js
 /jquery.audiencetarget.js
@@ -1369,7 +1372,7 @@
 /log?documentUrl=
 /Log?entry=
 /log?event=
-/log?format=$domain=~meet.google.com
+/log?format=
 /log?id=
 /log?kc=
 /log?method=
@@ -1383,6 +1386,7 @@
 /log_beacon.js
 /log_e.php?id=
 /log_h.jsp
+/log_js_error$ping
 /log_stats.php?
 /log_view.php
 /LogAction?
@@ -1583,6 +1587,7 @@
 /oo/*/l.js
 /oo/*/lsync.js
 /oo/cl*.js?rd=
+/oo/cl.js|$~third-party
 /opdc.js
 /ope-adalliance.js
 /open/log/*
@@ -2425,6 +2430,7 @@
 /tracking_pixel
 /tracking_unitary/*
 /trackingApi?type=
+/trackingClient.bundle.js
 /trackingCode-
 /trackingCode.js
 /trackingcookies.
@@ -2773,6 +2779,7 @@
 ://collector.*/event
 ://data.*/v1/interact?
 ://datacollector.*/event
+://dwh-prod.*/de.npg/
 ://elqtrk.
 ://fallback.*/collector
 ://fathom.$domain=~fathom.fm|~fathom.info|~fathom.io|~fathom.lib.uchicago.edu|~fathom.org|~fathom.video|~fathom.world|~fathomdelivers.com|~fathomseo.com|~usesfathom.com

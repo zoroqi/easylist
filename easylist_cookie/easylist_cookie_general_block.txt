@@ -211,7 +211,6 @@
 /Cookie-popup-
 /cookie-popup.js
 /cookie-popup.min.js
-/cookie-popup?
 /cookie-privacy-
 /cookie-prompt.js
 /cookie-richtlinie.js
@@ -866,6 +865,7 @@
 /sf-tagomo-privacy.js
 /si-cookie-manager.js
 /sibbo-cmp-core.js
+/silktide-consent-manager.js
 /silverstripe-dsgvo-cookies/js/cookies.js
 /simpler-cookie-consent.umd.js
 /sizzlegdpr.snippet.min.js
@@ -936,9 +936,10 @@
 /wp-content/cache/borlabs-cookie/*
 /wp-content/plugins/borlabs-cookie/*
 /wp-content/plugins/cookies-and-content-security-policy
+/wp-content/plugins/gdpr-cookie-compliance/*
 /wp-content/plugins/real-cookie-banner-pro/*
 /wp-content/plugins/webtoffee-cookie-consent/*
-/wp-content/plugins/wpconsent-premium/*
+/wp-content/plugins/wpconsent-premium/build/frontend-pro.js
 /wp-gdpr-compliance/assets/js/front.min.js
 /wp-tarteaucitron-js-self-hosted/js/main.js
 /wp-tarteaucitron-js/js/tarteaucitron/tarteaucitron.js

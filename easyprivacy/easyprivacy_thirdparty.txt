@@ -24,6 +24,7 @@
 ||a2z.com/sping?
 ||aan.amazon.com^$third-party
 ||accesswire.com/img.ashx
+||accounts.google.com/gsi/log
 ||activengage.com/overwatch/
 ||activity-flow.vtex.com^
 ||activity.wisepops.com^
@@ -68,6 +69,7 @@
 ||amazonaws.com/analytics.
 ||amazonaws.com/appmonitors/
 ||amazonaws.com/avsmetrics/
+||amazonaws.com/b2bjsstore/
 ||amazonaws.com/beacon^
 ||amazonaws.com/cdn.barilliance.com/
 ||amazonaws.com/frame-image-br/bg.png?
@@ -114,6 +116,7 @@
 ||analytics-scripts.cablelabs.com^
 ||analytics-sg.tiktok.com^
 ||analytics-static.ugc.bazaarvoice.com^
+||analytics-tracker.thescore.com^
 ||analytics.30m.com^
 ||analytics.adobe.io^
 ||analytics.agoda.com^
@@ -194,6 +197,7 @@
 ||analytics.pointdrive.linkedin.com^
 ||analytics.pop2watch.com^
 ||analytics.prezly.com^
+||analytics.propensity.com^
 ||analytics.pyksid.com^
 ||analytics.qualityunit.com^
 ||analytics.radiatemedia.com^
@@ -411,6 +415,7 @@
 ||bizseasky.com/dc/
 ||bizseasky.com/mon
 ||bizseasky.com/tracker/
+||blackcrow.ai/v1/events/
 ||blend.com/event/
 ||blink.net/e/
 ||blip.bizrate.com^$script
@@ -512,11 +517,13 @@
 ||ck.connatix.com^
 ||cl-pbr.cxr.skeepers.io^
 ||cleantalk.org/pixel/
+||clearbuy.com/api/cookie
 ||clearspring.com/at/
 ||clearspring.com/t/
 ||clerk.io/static/clerk.js
 ||clevertap-prod.com^$third-party
 ||click.appinthestore.com^
+||click.rypr.ru^
 ||click360v2-ingest.azurewebsites.net^
 ||click4assistance.co.uk/HeartBeat
 ||clickdimensions.com/ts.js
@@ -862,6 +869,7 @@
 ||event.api.drift.com^
 ||event.collector.scopely.io^
 ||event.instiengage.com^
+||event.syftdata.com^
 ||event.syndigo.cloud^
 ||event.webcollage.net^
 ||eventapi.libring.com^
@@ -871,6 +879,7 @@
 ||eventlog.chatlead.com^
 ||eventlog.inspsearchapi.com^
 ||events-endpoint.pointandplace.com^
+||events-proxy.mintlify.com
 ||events.air.tv^
 ||events.api.secureserver.net^
 ||events.attentivemobile.com^
@@ -891,6 +900,7 @@
 ||events.missena.io^
 ||events.ocdn.eu^
 ||events.paramount.tech^
+||events.pickrr.com^
 ||events.realgravity.com^
 ||events.release.narrativ.com^$subdocument,xmlhttprequest
 ||events.shareably.net^
@@ -971,6 +981,7 @@
 ||flixcdn.com^*/track.js
 ||flixgvid.flix360.io^
 ||flixster.com^*/analytics.
+||flocdn.com^*/dpl/
 ||flocktory.com^*/tracks/
 ||flux-cdn.com/plugin/common/analytics/
 ||flux.com/geo.html?
@@ -1264,6 +1275,7 @@
 ||juicer.io/api/page_views
 ||k.keyade.com^
 ||k.streamrail.com^
+||k5a.io/?i=
 ||kalstats.kaltura.com^
 ||kbb.com/partner/$third-party
 ||kelkoogroup.net/st?
@@ -1571,6 +1583,7 @@
 ||nwr.static.mmcdn.com^
 ||o.aolcdn.com/js/mg1.js
 ||o9tt6h08li.execute-api.eu-west-1.amazonaws.com^
+||obs.system1onesource.com^
 ||observe-nexus.pointandplace.com^
 ||observer.ip-label.net^
 ||obseu.netgreencolumn.com^
@@ -1771,7 +1784,6 @@
 ||providesupport.com/cmd/$image
 ||proxy.dzeio.com^
 ||proxy.trysavvy.com^
-||proxycheck.io/v2/
 ||pswec.com/px/$third-party
 ||pt.crossmediaservices.com^
 ||pt.ispot.tv^
@@ -1899,6 +1911,7 @@
 ||run.app/data.log
 ||run.app/events-receiver/get-web-event
 ||run.app/metrics/
+||run.app/track.js
 ||rw.marchex.io^
 ||s-microsoft.com/mscc/$~stylesheet
 ||s.autopilotapp.com^
@@ -1933,6 +1946,7 @@
 ||scribol.com/traffix/widget_tracker/
 ||script-api.kinja.com/script?
 ||scripts.psyma.com^
+||scripts.stay22.com/letmeallez.js
 ||scripts.swifteq.com/hc_events.js
 ||sd-tagging.azurefd.net^
 ||sdiapi.com/reporter/
@@ -2070,6 +2084,7 @@
 ||stats.fomo.com^
 ||stats.gifs.com^
 ||stats.heyoya.com^
+||stats.indianpornempire.com^
 ||stats.inergizedigitalmedia.com^
 ||stats.itweb.co.za^
 ||stats.kaltura.com^
@@ -2216,6 +2231,7 @@
 ||tag.rightmessage.com^
 ||tag.rmp.rakuten.com^
 ||tag.statshop.fr^
+||tag.unifyintent.com^
 ||tagger.opecloud.com^
 ||tagging.shiftdigitalapps.io^
 ||taggstar.com^*/taggstar.min.js
@@ -2501,6 +2517,7 @@
 ||units.knotch.it^
 ||unpkg.com/web-vitals?
 ||uptime.com/static/rum/$third-party
+||uptime.fastrr.com^
 ||upvert.io/api/v3/pixel/
 ||uriports.com/reports/$third-party
 ||urldefense.com^$image,third-party
@@ -2742,6 +2759,7 @@
 ||d1z3r0i09bwium.cloudfront.net^
 ||d1z9vm58yath60.cloudfront.net^
 ||d20kffh39acpue.cloudfront.net^
+||d20vwa69zln1wj.cloudfront.net^
 ||d21o24qxwf7uku.cloudfront.net^
 ||d21y75miwcfqoq.cloudfront.net^
 ||d22v2nmahyeg2a.cloudfront.net^

@@ -108,6 +108,7 @@
 ||creative.camonade.com^
 ||creative.camsplanetlive.com^
 ||creative.favy.cam^
+||creative.idolshow.live^
 ||creative.imagetwistcams.com^$subdocument
 ||creative.javhdporn.live^
 ||creative.kbnmnl.com^
@@ -129,6 +130,7 @@
 ||ddfcash.com^$third-party
 ||deliver.ptgncdn.com^
 ||dq06u9lt5akr2.cloudfront.net^
+||dscgirls.live/*/vast$third-party
 ||e.seksohub.com^
 ||elitepaysites.com/ae-banners/
 ||ero-labs.com/adIframe/
@@ -188,6 +190,7 @@
 ||iframe.adultfriendfinder.com^$third-party
 ||ifriends.net^$subdocument,third-party
 ||ifuckedyourgf.com/api/spots/
+||ignore.hot-bbw-tube.com^
 ||ihookup.com/configcreatives/
 ||images.elenasmodels.com/Upload/$third-party
 ||imctransfer.com^*/promo/
@@ -215,6 +218,7 @@
 ||mediacandy.ai^$third-party
 ||metartmoney.com^$third-party
 ||minus.akirashentai.com^
+||mjedge.net/js/customscript.js
 ||mrskin.com/affiliateframe/
 ||mrvids.com/network/
 ||my-dirty-hobby.com/?sub=$third-party

@@ -188,6 +188,7 @@
 @@||clarity.ms/tag/$script,domain=phileweb.com
 @@||cmn.gyro-n.com/js/gyr.min.js$domain=benesse-style-care.co.jp
 @@||cpt.geniee.jp/hb/*/wrapper.min.js$domain=hoyme.jp
+@@||cybozu.com/*/event.gif?$~third-party
 @@||delivery.satr.jp^$script,domain=mieru-ca.com
 @@||deteql.net/recommend/provision?$xmlhttprequest,domain=t-fashion.jp
 @@||disneyplus.disney.co.jp/view/vendor/analytics/$~third-party
@@ -217,6 +218,7 @@
 @@||linksynergy.com/minified_logic.js$xmlhttprequest
 @@||log000.goo.ne.jp/gcgw.js$domain=nttxstore.jp
 @@||logly.co.jp/recommend/$image,domain=benesse.ne.jp|sponichi.co.jp
+@@||matsukiyococokara-online.com/store/*/rtoaster.js
 @@||moneypartners.co.jp/web/*/fingerprint.js$~third-party
 @@||nakanohito.jp^*/bi.js$domain=kenko-tokina.co.jp|myna.go.jp
 @@||nittsu.com/Tracking/Scripts/Tracking/track.js
@@ -343,6 +345,8 @@
 @@||metrics.el-mundo.net/b/ss/$image,domain=expansion.com
 @@||mi.tigo.com.co/plugins/cordova-plugin-fingerprint-aio/$script,~third-party
 @@||spxl.socy.es^$script,xmlhttprequest,domain=3djuegosguias.com|3djuegospc.com|applesfera.com|compradiccion.com|directoalpaladar.com|espinof.com|genbeta.com|poprosa.com|trendencias.com|trendenciashombre.com|vidaextra.com|vitonica.com|xatakamovil.com
+@@||static-cdn.hotjar.com^$script,domain=mercadopublico.cl
+@@||static.hotjar.com/c/hotjar-$script,domain=mercadopublico.cl
 !
 !---------- Swedish ----------
 !

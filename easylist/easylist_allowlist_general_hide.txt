@@ -31,6 +31,7 @@ fcbarcelona.dk#@##article_ad
 catb.org#@##banner-ad
 hifi-forsale.co.uk#@##centerads
 wsj.com#@##footer-ads
+maxelevator.com,mcp79.com,olliemagic.com,stove-chijo.com#@##footer_ad
 deepgoretube.site,lewdgames.to#@##fwdevpDiv0
 developers.google.com#@##google-ads
 plaza.rakuten.co.jp#@##headerAd
@@ -84,7 +85,7 @@ gqjapan.jp#@#.ad-stickyhero-enable-mobile
 alliedwindow.com,isewanferry.co.jp,jreu-h.jp,junkmail.co.za,nexco-hoken.co.jp,version2.dk#@#.ad-text
 job.inshokuten.com#@#.ad-title
 gov.uk,videosalon.jp#@#.ad-widget
-honor.com#@#.ad-wrap:not(#google_ads_iframe_checktag)
+dailysportscar.com,honor.com#@#.ad-wrap:not(#google_ads_iframe_checktag)
 lifeinvader.com,marginalreport.net,spanishdict.com,studentski-servis.com#@#.ad-wrapper
 xda-developers.com#@#.ad-zone
 xda-developers.com#@#.ad-zone-container
@@ -200,6 +201,7 @@ anime-japan.jp#@#.display_ad
 humix.com#@#.ez-video-wrap
 thestudentroom.co.uk#@#.fixed_ad
 songlyrics.com#@#.footer-ad
+megumi-jyosanin.com#@#.footer_ad
 634929.jp,d-hosyo.co.jp#@#.footer_ads
 guloggratis.dk#@#.gallery-ad
 davidsilverspares.co.uk#@#.greyAd
@@ -207,7 +209,7 @@ deep-edge.net,forums.digitalspy.com,marketwatch.com#@#.has-ad
 si.com#@#.has-fixed-bottom-ad
 naver.com#@#.head_ad
 infosecurity-magazine.com#@#.header-ad-row
-mobiili.fi#@#.header_ad
+megumi-jyosanin.com,mobiili.fi#@#.header_ad
 iedrc.org#@#.home-ad
 thelincolnite.co.uk#@#.inline-ad
 elektro.info.pl,mashingup.jp#@#.is-sponsored
@@ -307,6 +309,7 @@ click2houston.com,clickondetroit.com,clickorlando.com,ksat.com,news4jax.com,wsls
 accuweather.com,cheddar.tv,deadline.com,elnuevoherald.com,heraldsun.com,olhardigital.com.br,tvinsider.com#@#.cnx-player-wrapper
 accuweather.com#@#.connatix-player
 huffpost.com#@#.connatix-wrapper
+newsnationnow.com#@#.nxs-player-wrapper
 carbuzz.com,screenrant.com#@#.w-adsninja-video-player
 !! ins.adsbygoogle
 advancedrenamer.com,androidrepublic.org,anonymousemail.me,apkmirror.com,cdromance.com,demos.krajee.com,epicbundle.com,korail.pe.kr,nextbigtrade.com,phcorner.net,pixiz.com,skmedix.pl,spoilertv.com,willyoupressthebutton.com#@#ins.adsbygoogle[data-ad-client]

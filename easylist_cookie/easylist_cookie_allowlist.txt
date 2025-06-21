@@ -74,7 +74,7 @@
 @@||cmp.inmobi.com/GVL-v3/$domain=adnkronos.com|cornwalllive.com|cyprus-mail.com|dailystar.co.uk|ilgiornale.it|informazione.it|mirror.co.uk|mymovies.it|tuttoeuropei.com|video.lacnews24.it
 @@||cmp.inmobi.com/tcfv2/$domain=adnkronos.com|cornwalllive.com|cyprus-mail.com|dailystar.co.uk|ilgiornale.it|informazione.it|mirror.co.uk|mymovies.it|tuttoeuropei.com|video.lacnews24.it
 @@||cmp.inmobi.com^*/choice.js$domain=adnkronos.com|cornwalllive.com|cyprus-mail.com|dailystar.co.uk|ilgiornale.it|informazione.it|mirror.co.uk|mymovies.it|tuttoeuropei.com|video.lacnews24.it
-@@||cmp.osano.com^$script,domain=account.bhvr.com|everand.com|guidepoint.com|lucidchart.com|scribd.com
+@@||cmp.osano.com^$script,domain=account.bhvr.com|everand.com|guidepoint.com|lucidchart.com|scribd.com|sonesta.com
 @@||cmp.osano.com^*/osano.js$domain=stltoday.com
 @@||cmp.sibbo.net^$domain=tivify.tv
 @@||collector.appconsent.io/hello^$xmlhttprequest,domain=linternaute.com
@@ -151,6 +151,7 @@
 @@||hktdc.com/resources/cookieconsent/$~third-party
 @@||honoku.com/_app/immutable/chunks/cookiebanner.$~third-party
 @@||hp.com^*/caas-privacy-cookie-$script
+@@||hvcgroep.nl/themes/custom/hvcgroep_theme/assets/cookie-consent.json$~third-party
 @@||ibadual.com/design/ibadual/javascript/cookieconsent.min.js$~third-party
 @@||idtech.com/_nuxt/CookieWarning.$script
 @@||ikea.com^*/cookieconsent-onetrust-js.js
@@ -310,6 +311,7 @@
 @@||areaclienti.generali.it/AreaClienti/plugins/
 @@||bien.no/marked-cookie-consent-web/$stylesheet
 @@||bstatic.com/libs/privacy-consent/*/cookie-banner.min.js$script,domain=booking.com
+@@||caib.es/webgoib/o/goib-theme/js/klaro-config.js$~third-party
 @@||candidat.pole-emploi.fr^*/modules/jquery-eu-cookie-law-popup.js$script
 @@||cdn.orangeclickmedia.com/tech/$script,domain=flash.gr
 @@||cdn.rp.pl/cmp/cmp.min.js

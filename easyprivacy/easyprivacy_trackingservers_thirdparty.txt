@@ -2011,6 +2011,8 @@
 ||srmdata-us.com^$third-party
 ||srmdata.com^$third-party
 ||srpx.net^$third-party
+||stape.io^$third-party
+||stapecdn.com^$third-party
 ||star-cntr-5.com^$third-party
 ||stat-track.com^$third-party
 ||stat.re^$third-party
@@ -2088,6 +2090,7 @@
 ||tag4arm.com^$third-party
 ||tagcommander.com^$third-party
 ||tagdatax.com^$third-party
+||taggrs.io^$third-party
 ||tagmngrs.com^$third-party
 ||tagsrvcs.com^$third-party
 ||tagstaticx.com^$third-party
