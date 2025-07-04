@@ -5320,6 +5320,7 @@ evilbeetgossip.com,kyis.com,thesportsanimal.com,wild1049hd.com,wky930am.com##.te
 tftcentral.co.uk##.tftce-adlabel
 thejakartapost.com##.the-brief
 vaughn.live##.theMvnAbvsLowerThird
+thecooldown.com##.theco-target
 thedefensepost.com##.thede-before-content_2
 steelersdepot.com##.theiaStickySidebar
 serverhunter.com##.this-html-will-keep-changing-these-ads-dont-hurt-you-advertisement
@@ -6172,6 +6173,7 @@ nintendolife.com,purexbox.com,pushsquare.com,timeextension.com,videogameschronic
 nintendolife.com,purexbox.com,pushsquare.com,timeextension.com,videogameschronicle.com##[style*="display: block !important; margin-bottom: 20px;"]
 kingmodapk.net,online-calculator.org##[style*="height:300px"]
 nintendolife.com,purexbox.com,pushsquare.com,timeextension.com,videogameschronicle.com##[style*="margin-left: auto; margin-right: auto;"]
+helpnetsecurity.com##[style*="max-height: 250"]
 untapped.gg##[style*="min-height: 90px; box-sizing: content-box;"]
 nintendolife.com,purexbox.com,pushsquare.com,timeextension.com,videogameschronicle.com##[style*="min-height:250px;"]
 tetris.com##[style*="min-width: 300px;"]
@@ -6218,6 +6220,7 @@ waifu2x.net##[style="width: 90%;height:120px"]
 law360.com##[style="width:100%;display:flex;justify-content:center;background-color:rgb(247, 247, 247);flex-direction:column;"]
 tennisworldusa.org##[style="width:300px;min-height:250px;"]
 newagebd.net##[style^="float:left; width:320px;"]
+helpnetsecurity.com##[style^="max-height: 90"]
 hsreplay.net##[style^="min-height: 90px;"]
 decrypt.co##[style^="min-width: 728px;"]
 perchance.org##[style^="position: fixed;"]
@@ -7508,7 +7511,7 @@ realclearpolitics.com###realclear_jwplayer_container
 mashable.com###related-video
 whoer.net###render-big-banners
 ispreview.co.uk###sidebar-slot-5
-wideopencountry.com###sv-video-container
+americansongwriter.com,wideopencountry.com###sv-video-container
 uproxx.com###upx-mm-player-wrap
 wideopencountry.com###video-header
 sportskeeda.com###video-player-container--
