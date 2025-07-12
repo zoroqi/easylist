@@ -668,6 +668,7 @@ bringatrailer.com##.bat-theme-widget-constant-contact
 heraldnet.com##.bc-newsletter-signup-container
 fastcompany.com,inc.com##.bcToaster
 captainaltcoin.com##.bee-page-container
+techtimes.com##.beehiiv-embed
 knowyourmeme.com##.beehiiv-newsletter-signup-container
 moneysavingmom.com##.before-content
 buzzfeednews.com##.bfp-newsletter-signup
@@ -736,6 +737,7 @@ abeautifulmess.com,afamilyfeast.com,airandspaceforces.com,autovisie.nl,bedrock.n
 bandainamcoent.eu##.block-views-blocknewsletter-block-3
 ttnews.com##.block-webform-block
 press-start.com.au##.block-wrap-mailing
+carnewschina.com##.block__newsletter
 bluetrain.ca##.block__newsletter-cta
 tuta.com##.blog-cta
 thehustle.co##.blog-hustle-form-config-wrapper
@@ -1533,6 +1535,7 @@ clubhouseforchefs.ca##.newsletter-cta-large-wrapper
 themodernproper.com##.newsletter-dialog
 health.com,lifewire.com##.newsletter-dialog-header-link
 sunrisegeek.com##.newsletter-div
+businessinsider.com##.newsletter-dynamic
 csmonitor.com##.newsletter-email-signup
 metro.co.uk##.newsletter-end-card
 carnewschina.com##.newsletter-for-scroll
@@ -2477,6 +2480,7 @@ dexerto.com##.mb-16:has-text(Sign up)
 commoncog.com##.md\:px-2.py-10:has-text(Subscribe to the newsletter)
 inverse.com##.msl:has-text(Subscribe for free)
 businessinsider.in##.mx-auto.container:has-text(NEWSLETTER)
+stuff.co.nz##.nl-container:has-text(inbox)
 bakerbynature.com##.optin:has-text(Sign Up)
 cockroachlabs.com##.p-4.bg-\[\#F5F5F5\]:has-text(Subscribe to our newsletter)
 weather.com##.p-5.bg-white.rounded-xl:has-text(Weather in your inbox)
@@ -2583,7 +2587,7 @@ kyliejennershop.com###shopify-section-newsletter-popup
 !! .subscription-widget-wrap
 emianalysis.com,hamiltonnolan.com##.subscription-widget-wrap
 !! .mailpoet_form
-chipsandcheese.com,chipwits.com,consummateathlete.com,exputer.com,logitheque.com,mixed-news.com,notionthings.com,phonandroid.com,portalpuentealto.cl,pstribune.com,sardiniapost.it,slaynews.com,tech4gamers.com,thedesk.net,tomshardware.fr##.mailpoet_form
+chipsandcheese.com,chipwits.com,consummateathlete.com,exputer.com,logitheque.com,mixed-news.com,notionthings.com,phonandroid.com,portalpuentealto.cl,pstribune.com,sardiniapost.it,slaynews.com,tech4gamers.com,thedesk.net,theklaxon.com.au,tomshardware.fr##.mailpoet_form
 !! signUpForm_
 fastxmovie.com,missionimpossible.com,teenagemutantninjaturtlesmovie.com,thesupermariobros.movie,transformersmovie.com##div[class^="signUpForm_"]
 !! .bottom-0.fixed

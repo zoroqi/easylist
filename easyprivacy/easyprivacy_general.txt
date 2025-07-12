@@ -112,6 +112,7 @@
 /_vercel/speed-insights/script.js
 /_visitcount?
 /a.gif?
+/a/elevar/static/*
 /a/performance_timing/*
 /a8c-analytics.js
 /aap/stats
@@ -620,7 +621,6 @@
 /collect/kf?
 /collect/pageview?
 /collect/pv?
-/collect/sdk?$domain=~iugu.com
 /collect/stats?
 /collect/view?
 /collect/view_count?
@@ -1215,6 +1215,7 @@
 /index.php/analytics/cookieAnalytics|$xmlhttprequest
 /index.track?
 /indextools.js
+/init?*&fallbackUserId=
 /inline-pixel.js
 /inpl.measure.jssc
 /insales_counter.js?
@@ -1802,6 +1803,7 @@
 /production/analytics.min.js
 /promo/impression?
 /propagate_cookie.php
+/providers/atLabel/load|
 /pt.gif?
 /pt?type=pv&
 /ptrack.js
@@ -2948,6 +2950,9 @@ _WebVitalsReporter_
 ://sgtm.*.js?
 ://tagging.*.js?aw=
 ://tagging.*/settings.js
+! Stape
+=aWQ9R1RNL*apiKey=$script,~third-party
+=aWQ9R1RNL*page=$script,~third-party
 ! Google
 ||adservice.google.
 ||google.*/url?$ping

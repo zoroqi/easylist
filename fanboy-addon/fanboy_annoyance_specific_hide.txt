@@ -529,6 +529,7 @@ newrepublic.com##.ad-container-house
 modrinth.com,twitchquotes.com##.ad-parent
 saturdayeveningpost.com##.ad-sponsored-inline
 thejakartapost.com##.ad-v-box
+carnewschina.com##.ad__custom_html_datatracker_article_top
 thenewhumanitarian.org##.addendum
 whowhatwhy.org##.ads
 scrippsnews.com##.ads-container
@@ -781,6 +782,7 @@ luzmedia.co##.indietech-support-widget
 theinertia.com##.inertia-contribute-home
 thespinoff.co.nz##.infinite-scroll-divider
 road.cc##.info-subscription-box
+pbs.org##.inline-invite
 mayoclinic.org##.internal-promo-stack-order
 opb.org##.internal_promotion
 mayoclinic.org##.internalads
@@ -820,6 +822,7 @@ civitai.com##.mantine-12fifls
 civitai.com##.mantine-qfspxw
 investors.com##.market-banner
 mayoclinic.org##.mayoad
+therecord.media##.mb-\[20px\]
 tedium.co##.md-adbox
 privacyguides.org##.md-banner
 themedialine.org##.mdl-section-donate-banner
@@ -846,6 +849,7 @@ last.fm##.mpu-subscription-upsell
 ia.acs.org.au##.mrec-conrainer-article
 urbandictionary.com##.mug-ad
 miraheze.org##.mw-dismissable-notice
+therecord.media##.my-\[40px\]
 dailyexpose.uk,nironmagnetics.com##.mysticky-welcomebar-fixed-wrap
 mozilla.org##.mzp-c-sticky-promo
 lbry.tv##.nag
@@ -1118,6 +1122,7 @@ softwarekeep.com##img[alt="Banner"]
 gettr.com##img[alt="GETTR coin"]
 msn.com##views-right-rail
 ! :has
+woolworths.co.nz###cartology-product-cig-tile:has-text(Start Free Trial)
 twitter.com,x.com###layers[style="z-index: 1;"]:has(div[role="dialog"] a[href="/i/premium_sign_up"][style])
 deviantart.com##.ReactModalPortal + div[class]:has(> iframe[title="DealerAdIframe"])
 airfry.pro##.bg-gradient-to-br:has-text(Cookbook)
@@ -1126,6 +1131,7 @@ jinxxy.com##.grid > .relative:has(.block[href^="https://"])
 theworld.org##.mui-style-9ulf7o-root:has-text(Donate today!)
 tripadvisor.*##a[href^="https://www.tripadvisor"][target="_blank"]:has(> section[aria-label])
 twitter.com,x.com##aside[role="complementary"]:has(> a[href="/i/premium_sign_up"])
+woolworths.co.nz##cdx-cta:has-text(Learn more)
 blitz.gg##div[class]:has(> .placeholder > [href^="/pro?utm_"])
 deviantart.com##div[role="complementary"] > div[class]:has(> div > iframe[title="DealerAdIframe"])
 ! :-abp-contains

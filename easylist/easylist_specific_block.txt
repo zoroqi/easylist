@@ -15,6 +15,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||2merkato.com/images/banners/
 ||2oceansvibe.com/?custom=takeover
 ||4f.to/spns/
+||80.lv/api/promos?
 ||a.1film.to^
 ||abcnews.com/assets/js/adCallOverride.js
 ||aboutmyarea.co.uk/images/imgstore/
@@ -382,6 +383,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||imgtaxi.com/ttb02673583fb.js
 ||imgur.com^$domain=ghostbin.me|up-load.io
 ||imgwallet.com/ea/
+||immovlan.be/*/widget/cbc/
 ||immoweb.be/*/dpg/
 ||imp-adedge.i-mobile.co.jp^
 ||imp.accesstra.de^
@@ -507,6 +509,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||navyrecognition.com/images/stories/customer/
 ||nemosa.co.za/images/mad_ad.png
 ||nesmaps.com/images/ads/$image
+||netgames.io/js/page-ads.js
 ||newagebd.net/assets/img/ads/
 ||newkerala.com/banners/amazon
 ||news.itsfoss.com/assets/images/pikapods.jpg

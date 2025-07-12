@@ -1021,6 +1021,7 @@
 ||icstats.nl^$third-party
 ||iculture.report^$third-party
 ||id-visitors.com^$third-party
+||identitymind.com^$third-party
 ||ideoclick.com^$third-party
 ||idio.co^$third-party
 ||idtargeting.com^$third-party
@@ -1633,6 +1634,7 @@
 ||precisioncounter.com^$third-party
 ||predicta.net^$third-party
 ||predictiveresponse.net^$third-party
+||preflect.com^$third-party
 ||premiumimpression.com^$third-party
 ||presage.io^$third-party
 ||privymktg.com^$third-party
@@ -2024,6 +2026,7 @@
 ||stathat.com^$third-party
 ||stathound.com^$third-party
 ||staticiv.com^$third-party
+||statinside.com^$third-party
 ||statisfy.net^$third-party
 ||statistiche-web.com^$third-party
 ||statowl.com^$third-party

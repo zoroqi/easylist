@@ -373,12 +373,6 @@
 @@||peacocktv.com^$generichide
 @@||photos.google.com^$generichide
 @@||pinterest.com^$generichide
-@@||pinterest.de^$generichide
-@@||pinterest.es^$generichide
-@@||pinterest.fr^$generichide
-@@||pinterest.it^$generichide
-@@||pinterest.jp^$generichide
-@@||pinterest.ph^$generichide
 @@||playcode.io^$generichide
 @@||proton.me^$generichide
 @@||publicwww.com^$generichide
@@ -572,6 +566,7 @@
 @@||friends.ponta.jp/app/assets/images/$~third-party
 @@||g.doubleclick.net/gampad/ads?$domain=blog.nicovideo.jp|edy.rakuten.co.jp|tv-tokyo.co.jp|voici.fr
 @@||gakushuin.ac.jp/ad/common/$~third-party
+@@||gammaplus.takeshobo.co.jp/img/ad/$~third-party
 @@||ganma.jp/view/magazine/viewer/pages/advertisement/googleAdSense.html|$~third-party,xmlhttprequest
 @@||getjad.io/library/$script,domain=allocine.fr
 @@||go.ezodn.com/beardeddragon/basilisk.js$domain=humix.com
@@ -630,6 +625,7 @@
 @@||suntory.co.jp/beer/kinmugi/img/ad/$image,~third-party
 @@||tdn.da-services.ch/libs/prebid8.$script,domain=20min.ch
 @@||tenki.jp/storage/static-images/top-ad/
+@@||totalvene.fi/media/yendifvideoshare/adverts/$~third-party
 @@||tpc.googlesyndication.com/archive/$image,subdocument,xmlhttprequest,domain=adstransparency.google.com
 @@||tpc.googlesyndication.com/archive/sadbundle/$image,domain=tpc.googlesyndication.com
 @@||tpc.googlesyndication.com/pagead/js/$domain=googleads.g.doubleclick.net
