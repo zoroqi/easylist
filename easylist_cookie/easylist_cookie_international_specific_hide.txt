@@ -844,6 +844,7 @@ edmarkinternational.bg,ehype.bg,ledivin.bg,nedelya.com,visvitalisbg.com,zora.bg#
 bittel.bg,carmen.bg##.c-website-notification
 bia-bg.com##.cookie_terms
 ozone.bg##.cookiepopup-container
+zamunda.net##.gdprcookie
 formabania.bg##.header-notice
 praktiker.bg##.info-message
 bagira.bg,hit-electronics.com##.js-consent
@@ -1071,6 +1072,7 @@ transformacni-technologie.cz##.upozorneni
 cernilov.cz##.userSettings
 esotravel.cz##.warning-modal
 forendors.cz##.wrapper_dhhcz
+tesco.cz##[aria-label="consent-banner"]
 coalsoft.cz##[style^="position: fixed; left: 0px;"]
 nacesty.cz##div.popup-shade
 studentagency.cz##div[aria-labelledby="cookiesTitle"]
