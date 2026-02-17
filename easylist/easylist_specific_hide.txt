@@ -579,6 +579,7 @@ en.numista.com###fiche_buy_links
 getyarn.io###filtered-bottom
 finbold.com###finbold\.com_middle
 investing.com###findABroker
+gonintendo.com###first-leaderboard
 healthshots.com###fitnessTools
 healthshots.com###fitnessToolsAdBot
 thisismoney.co.uk###fiveDealsWidget
@@ -4728,7 +4729,6 @@ highspeedinternet.com##.provider-ads
 football365.com,planetf1.com,planetrugby.com,tennis365.com##.ps-block-a
 indiabusinessjournal.com##.pt--20
 kathmandupost.com##.pt-0
-gonintendo.com##.pt-5
 steamladder.com##.pt-large
 getyarn.io##.pt3p > div
 1980-games.com,coleka.com,gameslol.net,theportugalnews.com,tolonews.com##.pub
