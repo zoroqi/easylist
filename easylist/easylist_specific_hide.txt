@@ -2793,6 +2793,7 @@ top.gg##.chakra-stack.css-15xujv4
 tlgrm.eu##.channel-card--promoted
 thetimes.com##.channel-header-ad
 crn.com##.chartbeat-wrapper
+chaser.com.au##.chaser-banner-ad
 bintvs.fun##.chat-overlay-ad
 cheknews.ca##.chek-advertisement-placeholder
 sevenforums.com,tenforums.com##.chill
