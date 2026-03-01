@@ -7016,7 +7016,6 @@ everythingrf.com,natureworldnews.com##label
 tellows-au.com,tellows-tr.com,tellows.*##li > .comment-body[style*="min-height: 250px;"]
 cgpress.org##li > div[id^="cgpre-"]
 bestbuy.com##li.embedded-sponsored-listing
-engadget.com##li.lg\:min-h-\[234px\]
 cultbeauty.co.uk,dermstore.com##li.sponsoredProductsList
 laredoute.*##li[class*="sponsored-"]
 linkedin.com##li[data-is-sponsored="true"]
