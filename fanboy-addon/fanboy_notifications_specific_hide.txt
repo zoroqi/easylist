@@ -579,7 +579,6 @@ ctvnews.ca##[href="https://www.ctvnews.ca/app"]
 sherbrookerecord.com##[href^="https://apps.apple.com/ca/app/the-record-news/"]
 atptour.com##[href^="https://www.atptour.com/en/apps"]
 temu.com##[js-selector="mobile-download-ui"]
-x.com##[role="dialog"]:has-text(See this post in the app)
 reddit.com##[slot="use-app"]
 timesofindia.indiatimes.com##[text="Continue On App"]
 asahi.com##[x-component-name="SmartBanner"]
