@@ -1009,6 +1009,7 @@
 ||lnkd.in/li/track
 ||load.tm.all3dp.com/rqlevydw.js
 ||log-gateway.zoom.us^
+||log.arkansasonline.com^
 ||log.china.cn^
 ||log.genyt.net^
 ||log.hypebeast.com^
