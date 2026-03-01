@@ -21,7 +21,6 @@ al.com,allkpop.com,calendarpedia.co.uk,ccn.com,cinemablend.com,cleveland.com,com
 claritin.ca##+js(aopr, cookieconsent.Popup)
 elgiganten.dk,elgiganten.se,gigantti.fi,historianet.fi,tieku.fi##+js(set, cicc.cookie_cat_statistic, true)
 fimfiction.net##+js(set, config.requireCookieConsent, false)
-spotify.com##div > div[aria-live="polite"]:not([data-testid="top-result-card"])
 ! Generichide fixes
 stadium.fi###cookie-bar
 nvidia.com###cookiePolicy-layer
