@@ -1767,7 +1767,6 @@ groupon.de,groupon.fr###spotlight
 vansoestklassiekers.nl##.cc-FloatingButtonBarContainer-button-scroll
 ! Popout videos
 gamereactor.eu###videoContainer.playersmall[style^="position: relative; aspect-ratio: initial; background: black; margin-bottom:"]
-abcnews.go.com##.StickyVideoPlayer.VideoPlayer[style=""]
 thehill.com##.cross-sign
 thehill.com##.desktop-floating-player
 ! Used with generichide
