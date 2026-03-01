@@ -1489,6 +1489,7 @@ gesher-theatre.co.il##.cookies-approval-strip-wrapper
 easy.co.il##.cookies-consent-banner
 bug.co.il##.cookies-policy-modal-container
 pazgas.co.il##.cookies-popup-overlay
+eliasi.co.il##.cookies13wrap
 landwercafe.co.il##.cookies_modal_container
 pais.co.il##.cookies_sec
 tel-aviv.gov.il##.customerAgreement
