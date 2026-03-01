@@ -1080,6 +1080,7 @@ opb.org##.sustainer
 restofworld.org##.sustainer_campaign
 food.com##.sweeps-promo
 toucharcade.com##.ta_patreonWidget
+wired.com##.table-container:has-text(Got a Tip?)
 thedrum.com##.td-miso
 marketscreener.com##.teasing_widget_surtop_light
 swissinfo.ch##.temp-sticky-banner
