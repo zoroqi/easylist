@@ -2629,6 +2629,7 @@ volnamobile.ru###message-block-cookie
 belgazprombank.by###modal-cookies
 readovka.news###modalCookie
 alfazdrav.ru###modalcookie
+www.vtbnpf.ru###notify-container
 online-kassa.ru###ok-cookie
 stentex.ru###overlay
 verno-info.ru###overlaycookie
@@ -2734,6 +2735,7 @@ mnogo.ru##.cook_LFPnK
 propb.ru##.cooke
 invitro.ru##.cookie--popup
 supersamsev.ru##.cookie-consent-container-wrap
+lk-new.vtbnpf.ru##.cookie-layout
 rutube.ru##.cookie-message-module__cookie-consent
 1cbit.ru##.cookie-panel
 sponsr.ru##.cookie-site-alert
