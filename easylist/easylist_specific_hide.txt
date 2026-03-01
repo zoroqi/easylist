@@ -6009,6 +6009,7 @@ cumbriacrack.com,euromaidanpress.com##[data-hbwrap]
 tvzoneuk.com##[data-hook="HtmlComponent"]
 blackbeltmag.com##[data-hook="bgLayers"]
 hackster.io##[data-hypernova-key="ModularAd"]
+forbes.com##[data-id="ad-container"]
 health.clevelandclinic.org##[data-identity*="billboard-ad"]
 health.clevelandclinic.org##[data-identity="leaderboard-ad"]
 igraal.com##[data-ig-ga-cat="Ad"]
@@ -7741,6 +7742,7 @@ onlyinyourstate.com###video1-1
 autoevolution.com###vidiv
 newseveryday.com###vplayer_large
 newsweek.com##.FeaturedMedia_articleFeaturedMedia__LEpVY
+forbes.com##.MWrh7
 cubbyathome.com##.Post__inPostVideoAdDesktop
 apartmenttherapy.com##.Post__inPostVideoAdMobile
 ratemyprofessors.com##.VideoPlayer__StyledPlayer-sc-2xyxn3-0
