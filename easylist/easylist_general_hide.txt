@@ -13221,6 +13221,9 @@
 ##span[id^="ezoic-pub-ad-placeholder-"]
 ##topadblock
 ##zeus-ad
+! various popups
+###modal[doskip][prclck]
+##in-page-message[doskip]
 ! katv.com/cbs12.com/abergavennychronicle.com/tenby-today.co.uk
 ##.DisplayAd_Native__XCll3
 ##.MPUstyled__MPUWrapper-sc-100o0l7-0
