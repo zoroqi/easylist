@@ -884,6 +884,7 @@ weather.com##.min-h-12:has-text(Sign in to see fewer ads)
 motherjones.com##.mj-adblock-widget
 allrecipes.com##.mntl-notification-banner
 moneyweb.co.za##.mny-promo-popup
+search.brave.com##.mobile-promo-content-wrapper
 banggood.com##.modal-newbie
 propublica.org##.module-donate
 darkreading.com##.more-insights
