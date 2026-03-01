@@ -24174,6 +24174,7 @@
 ||jsxzwxheeytpd.online^
 ||jsyfwuqiwanqd.online^
 ||jszxpgqtwmdkv.site^
+||jtatovqvkzlqs.site^
 ||jtdkmjuiogidh.site^
 ||jtegqwmjfxu.site^
 ||jtep4zeoe6ehcnz.rest^
@@ -45715,6 +45716,7 @@
 ||trafficmediaserver.com^
 ||trafficmoose.com^
 ||trafficshop.com^
+||traffmovie.com^
 ||trafforsrv.com^
 ||traffprogo20.com^
 ||trafget.com^
