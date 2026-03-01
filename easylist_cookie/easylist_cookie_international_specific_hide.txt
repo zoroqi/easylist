@@ -1493,6 +1493,7 @@ bug.co.il##.cookies-policy-modal-container
 pazgas.co.il##.cookies-popup-overlay
 landwercafe.co.il##.cookies_modal_container
 pais.co.il##.cookies_sec
+tel-aviv.gov.il##.customerAgreement
 drushim.co.il##.dr-cookie-banner
 mtoys.co.il##.e2w-cookie-popup
 xphone.co.il##.elementor-element-7f094b47
