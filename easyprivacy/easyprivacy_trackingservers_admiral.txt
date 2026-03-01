@@ -37,6 +37,7 @@
 ||adorableattention.com^
 ||adventurousamount.com^
 ||aerialapps.com^
+||affectionknit.com^
 ||afraidlanguage.com^
 ||agencysignals.com^
 ||agileformer.com^
@@ -1228,6 +1229,7 @@
 ||obscenesidewalk.com^
 ||obscurespace.com^
 ||obsidiangems.com^
+||oceancloudhosts.com^
 ||octaneblood.com^
 ||offerniche.com^
 ||offgridcrops.com^
