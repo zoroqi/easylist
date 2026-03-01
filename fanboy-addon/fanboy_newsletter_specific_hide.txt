@@ -1981,7 +1981,7 @@ altpress.com,caribjournal.com,invisibleoranges.com##.sidebar-form
 hamodia.com##.sidebar-form-wrap
 youcouldtravel.com##.sidebar-item-subscribe-form
 happymoneysaver.com,sugarandsoul.co,togetherasfamily.com##.sidebar-newsletter
-taskandpurpose.com,thedrive.com##.sidebar-newsletter-container
+popsci.com,taskandpurpose.com,thedrive.com##.sidebar-newsletter-container
 starttv.com##.sidebar-newsletter-signup-wrap
 magazine.artstation.com##.sidebar-newslttr
 techgenix.com##.sidebar-optin
