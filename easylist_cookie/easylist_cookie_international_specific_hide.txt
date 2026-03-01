@@ -315,7 +315,6 @@ planet-beruf.de##.coo-con
 webcountdown.de##.cooBubble
 der-ersatzteile-profi.de##.coockie_poliy
 dreieich.de,koenigstein.de##.cookie-consent-dialogue
-gcli.li##.cookie-consent-popup
 horeca-hero.com##.cookie-consent-root
 boesendorfer.com##.cookie-consent-wrapper
 crossnative.com##.cookie-consent_overlay__SIXMM
@@ -1472,7 +1471,6 @@ maccabi4u.co.il###ZA_CAMP_MOBILE_CONTAINER
 foodsdictionary.co.il###cookie-consent
 tambour.co.il###cookie-consent-acf-backdrop
 tambour.co.il###cookie-consent-acf-modal
-halalit.co.il,pccenter.co.il,rsm.co.il###cookie-consent-popup
 zinger-organic.com###cookie-consent-wrapper
 019mobile.co.il###cookie-except-banner
 madlan.co.il###cookie-root
@@ -1749,7 +1747,6 @@ ebible.it##.clm
 bontempi.it##.colaw-div
 centrogamma.com##.contPopup
 unirc.it##.content
-almaviva.it##.cookie-consent-popup
 automercatoavenoso.it##.cookieBox-Main
 bioinsuedtirol.it,esselungajob.it##.cookiePolicy
 parmacalcio1913.com##.cookie_window
@@ -2611,7 +2608,6 @@ solgarvitamin.ru###consent-modal
 gorodperm.ru###cookb
 gazprombank.ru###cookie-accept
 cardiovascular.elpub.ru###cookie-banner-wrapper
-finam.ru###cookie-consent-popup
 ria-m.tv###cookie-msg
 companies.rbc.ru###cookie-popup
 aeroflot.ru###cookieInfo
