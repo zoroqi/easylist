@@ -1137,6 +1137,7 @@ wcny.org###soliloquy-12716
 toumpano.net###sp-feature
 hilltimes.com###sp-mini-box
 toumpano.net###sp-right
+gamegpu.com###sp-top-banners
 vuejs.org###special-sponsor
 fastpeoplesearch.com###speedbumpWidgets
 coingape.com###spinbtn
