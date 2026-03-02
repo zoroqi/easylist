@@ -298,8 +298,6 @@
 ||spearmint4334.gb.net^
 ||st.asiaxbit.com^
 ||st.ipornia.com^$third-party
-||static.twincdn.com/special/license.packed
-||static.twincdn.com/special/script.packed
 ||streamen.com/exports/$third-party
 ||stripchat.com/api/external/
 ||stripchat.com^*/widget/$third-party
@@ -321,6 +319,9 @@
 ||tools.bongacams.com^$third-party
 ||track.cam4tracking.com^
 ||track.xtrasize.nl^$third-party
+||twincdn.com/channels/
+||twincdn.com/special/
+||twincdn.com/video/
 ||undress.app/ad_banners/
 ||unpin.hothomefuck.com^
 ||unpkg.com/videojs-vast-vpaid@
