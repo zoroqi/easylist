@@ -136,6 +136,7 @@
 ||bluehost.com/track/
 ||bluehost.com/web-hosting/domaincheckapi/?affiliate=
 ||bluepromocode.com/images/widgets/
+||blufm.de/pr/$third-party
 ||bookingdragon.com^$subdocument,third-party
 ||bs-adserver.b-cdn.net^
 ||btguard.com/images/
@@ -637,6 +638,7 @@
 ||widget.searchschoolsnetwork.com^
 ||widget.sellwild.com^
 ||widget.shopstyle.com^
+||widget.spoods.io^
 ||widgets.business.com^
 ||widgets.lendingtree.com^
 ||widgets.monito.com^$third-party

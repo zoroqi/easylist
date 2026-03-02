@@ -775,6 +775,7 @@ friv.com###lba
 friv.com###lbaTop
 irishnews.com###lbtop
 piraproxy.info,unblockedstreaming.net###lbxUR99472
+ebab.com###lcg-banner
 dailydooh.com###leaddiv
 sansabanews.com###leader
 techrepublic.com###leader-bottom
