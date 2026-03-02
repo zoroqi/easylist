@@ -283,6 +283,7 @@
 ||gameustalks.com/js/common_ad.js
 ||ganjingworld.com/pbjsDisplay.js
 ||ganjingworld.com/v1s/adsserver/
+||gayguide.travel/scripts/images.js
 ||generalblue.com/js/pages/shared/lazyads.min.js
 ||gentent.stre4mplay.one^
 ||getconnected.southwestwifi.com/ads_video.xml
