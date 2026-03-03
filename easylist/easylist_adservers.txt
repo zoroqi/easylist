@@ -39463,6 +39463,7 @@
 ||smartadserver.com^
 ||smartadtags.com^
 ||smartcpatrack.com^
+||smartierougeot.cfd^
 ||smarttds.org^
 ||smarttopchain.nl^
 ||smartytech.io^
