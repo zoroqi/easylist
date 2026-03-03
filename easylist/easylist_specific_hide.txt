@@ -4337,6 +4337,7 @@ seura.fi##.nativead:not(.list)
 fortune.com##.nativo-wrapper
 vice.com##.nav-bar__article-spacer
 foobar2000.org##.navad
+ford-trucks.com##.navbar_notice
 notebookcheck.net##.nbc-right-float
 vocm.com##.nccBigBox
 aceshowbiz.com,cmr24.net##.ne-banner-layout1
@@ -5241,7 +5242,7 @@ mynorthwest.com##.sponsored_block
 hannaford.com##.sponsored_product
 canadiantire.ca##.sponsoredproductcarousel
 meijer.com##.sponsoredproducts
-ar15.com,armageddonexpo.com,audiforums.com,f1gamesetup.com,ferrarichat.com,hotrodhotline.com,jaguarforums.com,pypi.org,smashingmagazine.com,thebugle.co.za,wbal.com,webtorrent.io##.sponsors
+ar15.com,armageddonexpo.com,audiforums.com,f1gamesetup.com,ferrarichat.com,ford-trucks.com,hotrodhotline.com,jaguarforums.com,pypi.org,smashingmagazine.com,thebugle.co.za,wbal.com,webtorrent.io##.sponsors
 vuejs.org##.sponsors-aside-text
 salixos.org##.sponsors-container
 libhunt.com##.sponsors-list-content
@@ -7378,6 +7379,7 @@ thesun.co.uk##.sun-grid-container:has([class*="ad_widget"])
 ulta.com##.swiper-slide:has(.pal-c-ProductCardFooter__sponsored)
 myrgv.com##.td_block_wrap:has(a[href*="/ask-the-expert/"])
 independent.co.uk,standard.co.uk,the-independent.com##.teads:has(.third-party-ad)
+ford-trucks.com##.text-center:has([style])
 sfyimby.com##.textwidget:has-text(ADVERTISEMENT)
 trademe.co.nz##.tm-display-s-listing__cards-flex:has(tm-sponsored-listings-tag)
 trademe.co.nz##.tm-stripe__SL-card-container:has([class^="tm-sponsored-"])
