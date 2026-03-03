@@ -2897,6 +2897,8 @@ wirexapp.com##wx-cookie-policy-notification
 ! history.com
 history.com,yunexpress.com##.p11s5o4
 history.com##[data-sentry-component="Box"]:has-text(Legal Terms and Privacy)
+! wildcard
+wildberries.*##.fixed-block__cookies
 ! Interest-Based Ads Notice
 amazon.ca,amazon.co.uk,amazon.com,amazon.com.au,amazon.de,amazon.es,amazon.fr,amazon.ie,amazon.pl###sp-cc-wrapper
 !
