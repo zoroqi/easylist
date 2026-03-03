@@ -3352,6 +3352,7 @@ letsrun.com##.forum-page-right-bar
 permies.com##.forum-top-banner
 newsroom.co.nz##.foundingpartners
 freepresskashmir.news##.fpkdonate
+thefpsreview.com##.fps-supporter
 the-express.com##.fr-container
 mathgames.com##.frame-container
 ranobes.top##.free-support-top
