@@ -13,6 +13,7 @@
 ! ||deeplink.xeropan.com^
 ! ||app.naga.com^
 ! ||t.vrbo.io^
+! ||join.tlon.io^
 !
 ! Company name: Branch.io
 !
@@ -2368,7 +2369,6 @@
 ||join.stuypend.com^
 ||join.talker.network^
 ||join.thekrishi.com^
-||join.tlon.io^
 ||join.travelxp.com^
 ||join.vibely.io^
 ||join.vtail.co^
