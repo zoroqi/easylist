@@ -2133,6 +2133,7 @@ theloadout.com##.advertising_slot_video_player
 gadgets360.com##.advertisment
 satdl.com##.advertizement
 hurriyetdailynews.com##.advertorial-square-type-1
+svd.se##.advertory-svd-panorama-wrapper__longread
 technologynetworks.com##.adverts_footer_scrolling_advert
 148apps.com##.advnote
 swisscows.com##.advrts--text
