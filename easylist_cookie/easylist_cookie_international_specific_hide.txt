@@ -2739,6 +2739,7 @@ lk-new.vtbnpf.ru##.cookie-layout
 rutube.ru##.cookie-message-module__cookie-consent
 1cbit.ru##.cookie-panel
 sponsr.ru##.cookie-site-alert
+fc-baltika.ru##.cookie-wrap
 korusconsulting.ru##.cookieConfirm
 rusnano.com##.cookie__in
 gostest.com##.cookie__open
