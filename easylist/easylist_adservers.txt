@@ -27160,6 +27160,7 @@
 ||miniature-gate.pro^
 ||miniature-injury.pro^
 ||miniature-movie.pro^
+||miniaturereality.pro^
 ||minikenungiddy.qpon^
 ||minimumomnipotentintern.com^
 ||minimumshortest.com^
