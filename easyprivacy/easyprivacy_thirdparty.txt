@@ -1960,6 +1960,7 @@
 ||popup-static.unisender.com^
 ||porpoise.azettl.net^
 ||postageapp.com/receipt/$third-party
+||posthog.com/*/?retry_count
 ||poweredbyeden.com/widget/tracker/
 ||ppx.com/tracking/
 ||pr-bh.ybp.yahoo.com^
