@@ -2619,8 +2619,8 @@ revijahak.hr##html:style(overflow: auto !important)
 e-glamour.pl,fotoskoda.cz###template-container_cookie-consent
 e-glamour.pl,fotoskoda.cz##body,html:style(overflow: auto !important; position: initial !important;)
 !! .cookies
-asincar.com,genserenergy.com,graftonplc.com,iledefrance-mobilites.fr,intergen.com,morsesclubplc.com,oru.se,resolutionlife.com##.cookies
-asincar.com,genserenergy.com,graftonplc.com,iledefrance-mobilites.fr,intergen.com,morsesclubplc.com,oru.se,resolutionlife.com##body,html:style(overflow: auto !important; position: initial !important;)
+asincar.com,genserenergy.com,graftonplc.com,hitdiscount.by,iledefrance-mobilites.fr,intergen.com,morsesclubplc.com,oru.se,resolutionlife.com##.cookies
+asincar.com,genserenergy.com,graftonplc.com,hitdiscount.by,iledefrance-mobilites.fr,intergen.com,morsesclubplc.com,oru.se,resolutionlife.com##body,html:style(overflow: auto !important; position: initial !important;)
 !! pracodawcy.pracuj.pl/www.pracuj.pl/robota.pracuj.pl/zarobki.pracuj.pl
 pracuj.pl##+js(set-cookie, gpc_ad, 0)
 pracuj.pl##+js(set-cookie, gpc_analytic, 0)
