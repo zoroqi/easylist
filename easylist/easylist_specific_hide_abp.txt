@@ -126,6 +126,7 @@ nordstrom.com#?#ul[style^="padding: 0px; position: relative;"] > li[class]:-abp-
 nzherald.co.nz#?#section.section-chain--triple-image:has-text(Property news from OneRoof)
 nzherald.co.nz#?#section:has-text(Partner content)
 perplexity.ai#?#.py-sm.group:-abp-contains(Sponsored)
+pexels.com#?#[data-testid="column"] [data-testid="item"]:-abp-contains(Sponsored)
 producthunt.com#?#.text-12:-abp-contains(Promoted)
 property24.com#?#.p24_tileContainer:-abp-contains(Sponsored)
 psprices.com#?#.creative:has-text(remove advertising)
