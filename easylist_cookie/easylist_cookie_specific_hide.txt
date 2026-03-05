@@ -1721,6 +1721,7 @@ cognizantee.tekstac.com##.eupopup-container
 kromgaming.com##.eupouY
 bojoko.com##.evt-notification-bottom
 ezil.me##.ew776696
+matrixify.app##.ex-cookies
 exidegroup.com##.exide-gtm-scripts-modal-wrapper
 exitlag.com##.exl-cookie-banner
 parcelsonline.postoffice.co.uk##.explicit-cookie-banner-wrapper
