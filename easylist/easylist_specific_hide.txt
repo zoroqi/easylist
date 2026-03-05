@@ -4585,6 +4585,7 @@ bintv.net##.pinned-ad
 pricespy.co.nz,pricespy.co.uk##.pjra-w-\[970px\]
 carsized.com##.pl_header_ad
 redgifs.com##.placard-wrapper
+atlasobscura.com##.place-body-ad
 meteofor.com,nofilmschool.com,protothema.gr##.placeholder
 advocate.com,bestlifeonline.com,good.is,pride.com##.placeholder-a-block
 bucksco.today##.placeholder-block
