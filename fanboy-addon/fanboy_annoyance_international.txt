@@ -488,6 +488,7 @@ tokfm.pl##how_much-component
 !
 ! ---------- Portuguese Site Specific Hiding Rules ----------
 !
+correiodoestado.com.br###botao-fixo
 maisfutebol.iol.pt###goUp
 gayflix.me###marketing-banner
 sapo.pt###redesSociais
