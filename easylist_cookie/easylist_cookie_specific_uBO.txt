@@ -2981,3 +2981,6 @@ anjunadeep.co##.privacy-notice-gdpr-container
 gpiaaf.gov.pt##+js(set-cookie, WarningsAndPolicyAccepted, true)
 ! bpstat.bportugal.pt
 bpstat.bportugal.pt##+js(set-cookie, bdp_use_cookies, notagree)
+! klimahotelmilano.com
+klimahotelmilano.com###body,html:style(overflow: auto !important; position: initial !important;)
+klimahotelmilano.com##.tpl-cookie
