@@ -200,7 +200,6 @@ cesky-sport.cz,napojecerveny.cz,teplickedorty.cz##+js(set-cookie, DmCookiesAccep
 easyjet.com##+js(set-cookie, EASYJET_ENSIGHTEN_PRIVACY_BANNER_VIEWED, 1)
 easyjet.com##+js(set-cookie, EASYJET_ENSIGHTEN_PRIVACY_MODAL_VIEWED, 1)
 easyjet.com##+js(set-cookie, EASYJET_ENSIGHTEN_PRIVACY_easyJet_Marketing, 0)
-service-public.gouv.fr##+js(set-cookie, EA_cookie_intermediaire, 0, , , domain, .www.service-public.gouv.fr)
 emr.ch##+js(set-cookie, EMR-CookieConsent-Advertising, 0)
 emr.ch##+js(set-cookie, EMR-CookieConsent-Analytical, 0, , reload, 1)
 polycomp.bg##+js(set-cookie, EU_COOKIE_LAW_CONSENT_POLY, true)

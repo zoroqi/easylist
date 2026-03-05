@@ -565,7 +565,7 @@ pollylingu.al###opt-form
 atlantic.money###opt-in
 accenture.com###optanon-minimize-wrapper
 harvester.co.uk###optin-optout
-gouvernement.lu,merics.org###orejime
+gouvernement.lu,merics.org,service-public.gouv.fr###orejime
 baltimoresun.com,chicagotribune.com,nydailynews.com###osanoCustomDialogDiv
 omegatheme.com###ot-cookie__banner
 b1tv.ro,harveynorman.ie,zdnet.com###ot-sdk-btn
