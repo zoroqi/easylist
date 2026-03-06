@@ -2603,7 +2603,7 @@ yaledailynews.com##.border-gray-200
 standardmedia.co.ke##.border-thick-branding
 myanimelist.net##.border_top
 appleinsider.com##.bottom
-downforeveryoneorjustme.com,health.clevelandclinic.org,technomusicworld.com##.bottom-0.fixed
+capwages.com,downforeveryoneorjustme.com,health.clevelandclinic.org,technomusicworld.com##.bottom-0.fixed
 theblock.co##.bottom-5
 indiatimes.com##.bottom-ad-height
 agar.live##.bottom-banner
@@ -7302,6 +7302,7 @@ morrisons.com##.fops-item:has([title="Advertisement"])
 pigglywigglystores.com##.fp-item:has(.fp-tag-ad)
 slickdeals.net##.frontpageGrid__feedItem:has(.dealCardBadge--promoted)
 alibaba.com##.gallery-card:has(.searchx-card-e-ad)
+capwages.com##.gap-1.items-center.flex-col.flex:has-text(Remove Ads)
 detectiveconanworld.com##.generated-sidebar[style="background: #ffffff;"]
 bestbuy.com##.generic-morpher:has(.spns-label)
 sainsburys.co.uk##.gridItem:has(.citrusAdproduct)
