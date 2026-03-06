@@ -86,6 +86,7 @@
 ||anigo.to^$third-party
 ||answers.sg/embed/
 ||any.gs/visitScript/
+||aoneroom.com/wefeed-h5-bff/ad/$xmlhttprequest
 ||api-player.globalsun.io/api/publishers/player/content?category_id=*&adserver_id=$xmlhttprequest
 ||api.140proof.com^
 ||api.bitp.it^
