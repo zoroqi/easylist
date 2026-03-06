@@ -20,7 +20,7 @@ bafin.de#@##cookiebanner
 e-newspaperarchives.ch#@##cookieconfirm
 cdenv.be#@##cookieconsent-banner
 sacyr.com#@##cookies-bar
-groshyk.by#@##cookiesAgreementNotice
+groshyk.by,hitdiscount.by#@##cookiesAgreementNotice
 n26.com#@##gdpr-notice
 pathe.nl#@##js-cookie-popup
 beko.com,thetrainline.com#@##onetrust-banner-sdk
