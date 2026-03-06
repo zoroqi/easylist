@@ -1545,8 +1545,8 @@ kentonline.co.uk##.PSDRGC
 newatlas.com##.Page-above-content
 newatlas.com##.Page-aside
 govtech.com##.Page-billboard
-newson6.com##.Page-footer-Ad-overlay
-newson6.com##.Page-header-Ad-Slot
+news9.com,newson6.com##.Page-footer-Ad-overlay
+news9.com,newson6.com##.Page-header-Ad-Slot
 afar.com##.Page-header-hat
 apnews.com##.Page-header-leaderboardAd
 chronicle.com##.PageHeaderMegaHat
