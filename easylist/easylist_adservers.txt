@@ -7656,6 +7656,7 @@
 ||cdnativ.com^
 ||cdnbanleksagq.online^
 ||cdnbit.com^
+||cdndot.fans^
 ||cdnfimgs.com^
 ||cdnflex.me^
 ||cdnfreemalva.com^
@@ -18715,6 +18716,7 @@
 ||hagnutrient.com^
 ||hagplpqxuqunw.store^
 ||hagrodesulphas.qpon^
+||hagueseenmashies.qpon^
 ||haguewavelet.qpon^
 ||haibinashust.net^
 ||haichupich.net^
