@@ -12041,7 +12041,6 @@
 ##.sponsor_label
 ##.sponsor_line
 ##.sponsor_links
-##.sponsor_logo
 ##.sponsor_placement
 ##.sponsor_popup
 ##.sponsor_post
