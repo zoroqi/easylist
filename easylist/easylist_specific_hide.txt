@@ -1714,6 +1714,7 @@ ip-address.org##.ad-2-336
 ip-address.org##.ad-3-728
 ip-address.org##.ad-5-300
 geotastic.net##.ad-970x250
+advrider.com##.ad-align
 ndtvgames.com##.ad-art_dsk
 buzzfeed.com##.ad-awareness
 kurocore.com##.ad-b1
@@ -5719,6 +5720,8 @@ versus.com##.vs-ads
 thegearpage.net##.vsBB
 thegearpage.net##.vsBBAdhesion
 thegearpage.net##.vsLB
+advrider.com##.vsLBBottom
+advrider.com##.vsLBTop
 thegearpage.net##.vsRRPremium
 vaughn.live##.vs_v9_LTabvsLowerThirdWrapper
 vaughn.live##.vs_v9_LTabvsLower_beta
@@ -6848,6 +6851,7 @@ timeout.com##div[id^="ad-promo-"]
 timeout.com##div[id^="ad-side-"]
 javacodegeeks.com##div[id^="adngin-"]
 agoda.com##div[id^="ads-"]
+advrider.com##div[id^="ads_"]
 pixiv.net##div[id^="adsdk-"]
 antiguanewsroom.com##div[id^="antig-"]
 check-host.net##div[id^="antpeayvraea"]
