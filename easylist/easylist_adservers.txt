@@ -2152,6 +2152,7 @@
 ||adtags.mobi^
 ||adtaily.com^
 ||adtaily.pl^
+||adtarget.biz^
 ||adtelligent.com^
 ||adtival.com^
 ||adtlgc.com^
