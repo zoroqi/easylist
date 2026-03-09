@@ -146,6 +146,7 @@ duckduckgo.com##button[title="Ask Duck.ai"][data-ssg-id="ai-searchbox-chat-submi
 msn.com##codex-bing-chat[instance-id="CodexBingChat"]
 outlook.office.com##div#CopilotCommandCenterButton
 search.brave.com##div.ai-digest
+bloomberg.com##div[class^="SummaryOnlyTakeaways_takeaways__"]
 google.com##div[data-rp-placement-id="gemkick-pep-icon-callout-id"]
 new.express.adobe.com##label#switch-label.assistant-switch-label
 duckduckgo.com##li:first-child:has([data-testid="duckassist-answer-content"])
