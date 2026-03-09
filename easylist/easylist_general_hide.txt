@@ -10934,6 +10934,7 @@
 ##.mm-ads-adhesive-ad
 ##.mm-ads-gpt-adunit
 ##.mm-ads-leaderboard-header
+##.mm-ads-leaderboard-spacer
 ##.mmads
 ##.mntl-gpt-adunit
 ##.mntl-sc-block-adslot
