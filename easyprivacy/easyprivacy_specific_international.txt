@@ -701,6 +701,7 @@
 ||clubic.com/tview
 ||compteur.developpez.com^
 ||courrierinternational.com/*.pa.js
+||courses.monoprix.fr/events
 ||datalayer.orange.fr^
 ||dd.bellesdemeures.com^
 ||dd.leboncoin.fr^
