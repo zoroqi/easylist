@@ -767,6 +767,7 @@ mythical.market,mythicalgames.com##+js(set-cookie, cookie-preferences-mythical, 
 eurosupps.nl##+js(set-cookie, cookie-preferences-submitted20190710, true)
 deltatre.com##+js(set-cookie, cookie-preferences-technical, yes)
 hifitest.de##+js(set-cookie, cookie-set-popup, 0, , reload, 1)
+animaldiversity.org##+js(set-cookie, cookie-settings, reject)
 prageru.com##+js(set-cookie, cookie-status-analytics, false)
 sugi-net.jp##+js(set-cookie, cookie-use-accept, false)
 fizz.hu##+js(set-cookie, cookie.consent.finished, 1)
