@@ -2356,7 +2356,6 @@
 ###cookieConsentOverlay
 ###cookieConsentPanel
 ###cookieConsentPanelUp
-###cookieConsentPopup
 ###cookieConsentPrompt
 ###cookieConsentWindow
 ###cookieConsentWrap
