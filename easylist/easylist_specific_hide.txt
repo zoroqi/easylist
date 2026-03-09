@@ -3084,6 +3084,7 @@ dollargeneral.com##.dgsponsoredcarousel
 decripto.org##.dialog-lightbox-widget
 politicspa.com##.dialog-type-lightbox
 financefeeds.com##.dialog-widget
+oilprice.com##.dianomi_context
 kiplinger.com##.dianomi_gallery_wrapper
 kmplayer.com##.dim-layer
 temporary-phone-number.com##.direct-chat-messages > div[style="margin:15px 0;"]
