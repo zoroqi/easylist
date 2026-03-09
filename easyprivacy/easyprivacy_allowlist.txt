@@ -382,7 +382,6 @@
 @@||tm.regions.com/tags.js$~third-party
 @@||tms.oracle.com/main/prod/utag.sync.js$~third-party
 @@||tntdrama.com/modules/custom/ten_video/js/analytics_v2.js$~third-party
-@@||tokbox.com/prod/logging/ClientEvent$domain=examroom.ai
 @@||tools.pinpoll.com^$script,subdocument,domain=iframely.net
 @@||toyota.com/recall/static/js/custom/facebookPixel.js$~third-party
 @@||traceparts.com/lib/piano-analytics/piano-analytics.js$script,~third-party

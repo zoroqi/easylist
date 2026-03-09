@@ -1449,7 +1449,6 @@
 /logger.ashx?
 /logger.dll/*
 /logger/?referer=
-/logging/ClientEvent
 /logging/log.do
 /logging/logjs
 /logging/pageView
