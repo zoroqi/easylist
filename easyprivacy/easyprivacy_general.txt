@@ -102,7 +102,6 @@
 /__utm.js
 /__wsm.gif
 /_assets/oply/public/*
-/_astro/useProtonTelemetry.$script
 /_blazor/*$ping
 /_events/api/setEvent$xmlhttprequest
 /_ga?send&
@@ -1450,7 +1449,6 @@
 /logger.ashx?
 /logger.dll/*
 /logger/?referer=
-/logging/ClientEvent
 /logging/log.do
 /logging/logjs
 /logging/pageView
@@ -2630,7 +2628,6 @@
 /v1/log/web-vitals$xmlhttprequest
 /v1/pixel.js
 /v1/pixel?
-/v1/rgstr^
 /v1/stats/track
 /v1/tracker.js
 /v1/viewport_events

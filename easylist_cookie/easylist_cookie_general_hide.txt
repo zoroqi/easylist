@@ -584,7 +584,6 @@
 ###acceptance_of_cookies
 ###acceptcookie
 ###acceptcookiealert
-###acceptcookies
 ###acceptcookiesWrapper
 ###acceptcookieswrapper
 ###accepteCookies
@@ -2356,7 +2355,6 @@
 ###cookieConsentOverlay
 ###cookieConsentPanel
 ###cookieConsentPanelUp
-###cookieConsentPopup
 ###cookieConsentPrompt
 ###cookieConsentWindow
 ###cookieConsentWrap
@@ -3060,7 +3058,6 @@
 ###cookie_wrapper2
 ###cookie_yes_info
 ###cookieabfrage
-###cookieacceptance
 ###cookieaccepter
 ###cookieacceptlayer
 ###cookieadd

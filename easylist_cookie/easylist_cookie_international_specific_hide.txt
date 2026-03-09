@@ -356,6 +356,7 @@ spaetzlesuche.de##.dialog-no-close
 siedlungswerk.de##.dimmer
 meinwomo.net##.divb
 laboremus.de##.drawer-cook
+slody.de##.dsa-cookie-notice
 mfgroup.ch##.dsgvo
 la-palma24.info##.dvcookies
 ethno-klamotten.de,guru-shop.de,kolonialstilmoebel.com,tagesdecken.org##.dwlightbox-wrap
@@ -1841,7 +1842,8 @@ hyojito.co.jp###agreement-area
 jbpo.or.jp###c_policy_wrap
 jp.ign.com###consent-wrapper
 juken-mikata.net###cookieAlt
-etvos.com,marna.jp,naturesway.jp,noevirgroup.jp,online.tutuanna.jp,plazastyle.com,right-on.co.jp,store.kadokawa.co.jp,wind.yamano-music.co.jp###cookieBox
+etvos.com,marna.jp,naturesway.jp,noevirgroup.jp,online.tutuanna.jp,plazastyle.com,right-on.co.jp,store.kadokawa.co.jp,store.yoga-lava.com,wind.yamano-music.co.jp,y-aoyama.jp###cookieBox
+keisei.co.jp###cookiePolicy
 tokyostarbank.co.jp###floatArea
 wisdom.nec.com###func-cookie
 blog.livedoor.jp###gdpr-banner
@@ -2820,6 +2822,7 @@ culture.ru##.notify-bar
 33-news.ru,news-komi.ru##.notifycation__wrap
 pg11.ru,pg12.ru,progorod58.ru,progorod62.ru,progoroduhta.ru,usolie.info##.notifycation_notifycation__BeRRP
 onlinepbx.ru##.onlinepbx__cookie__modal
+otpbank.ru##.p-cookies-notification
 lamoda.ru,lamoda.ua##.page > [class*="widget"]
 russia-tv.online##.page-footer__popup-cookie
 q-shopp.ru##.panel-warning
@@ -2907,6 +2910,7 @@ dom.ria.com##div[class^="GdprComponent"]
 stoloto.ru##div[class^="Provider_container"]
 aliexpress.ru##div[class^="SnowPrivacyPolicyBanner_"]
 bb.market##div[class^="_cookies_"]
+pulsesync.dev##div[class^="cookieConsent-module-"]
 asna.ru##div[class^="modalCookies_"]
 rencredit.ru##div[data-attention-id="3420"]
 yoomoney.ru##div[data-qa="gdpr"]

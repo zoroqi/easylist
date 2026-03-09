@@ -100,6 +100,7 @@
 @@||cookielawinfo.com^$~third-party
 @@||cookiemanager.onm.de^$domain=eurobaustoff.com
 @@||cookiemonsterteam.github.io/CookieMonster/dist/CookieMonster.js$domain=orteil.dashnet.org
+@@||cookietractor.com/cookietractor.js$domain=proffsmagasinet.se|staypro.dk|staypro.fi|staypro.no
 @@||cormarcarpets.co.uk/Scripts/cookieconsent.min.js$~third-party
 @@||crazy-factory.com/ajax_box_cookie_banner.php$~third-party
 @@||d1jw64rotemwd9.cloudfront.net/js/cookieconsent-config.js$domain=istores.sk
@@ -173,6 +174,7 @@
 @@||joska.com/typo3conf/ext/dsgvo_manager/Resources/Public/javascript/cookie-consent.js
 @@||jurga.lt/vendor/orestbida/cookieconsent/dist/cookieconsent.umd.js$~third-party
 @@||khl.ru^*/cookieconsent.min.js
+@@||kinetico.co.uk/app/plugins/upperdog-analytics/assets/js/cookie-popup.js$~third-party
 @@||kontostand.at/WebportalAPK/js/cookie-banner.js$~third-party
 @@||krainz-loipersdorf.at/statics/js/cookieconsent.js$~third-party
 @@||kuechencenterweber.de/js/cookiebanner.js$~third-party

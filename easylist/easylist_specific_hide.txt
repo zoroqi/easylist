@@ -1714,6 +1714,7 @@ ip-address.org##.ad-2-336
 ip-address.org##.ad-3-728
 ip-address.org##.ad-5-300
 geotastic.net##.ad-970x250
+advrider.com##.ad-align
 ndtvgames.com##.ad-art_dsk
 buzzfeed.com##.ad-awareness
 kurocore.com##.ad-b1
@@ -2603,7 +2604,7 @@ yaledailynews.com##.border-gray-200
 standardmedia.co.ke##.border-thick-branding
 myanimelist.net##.border_top
 appleinsider.com##.bottom
-downforeveryoneorjustme.com,health.clevelandclinic.org,technomusicworld.com##.bottom-0.fixed
+capwages.com,downforeveryoneorjustme.com,health.clevelandclinic.org,technomusicworld.com##.bottom-0.fixed
 theblock.co##.bottom-5
 indiatimes.com##.bottom-ad-height
 agar.live##.bottom-banner
@@ -3083,6 +3084,7 @@ dollargeneral.com##.dgsponsoredcarousel
 decripto.org##.dialog-lightbox-widget
 politicspa.com##.dialog-type-lightbox
 financefeeds.com##.dialog-widget
+oilprice.com##.dianomi_context
 kiplinger.com##.dianomi_gallery_wrapper
 kmplayer.com##.dim-layer
 temporary-phone-number.com##.direct-chat-messages > div[style="margin:15px 0;"]
@@ -3208,6 +3210,7 @@ esports.net##.esports-ad
 alevelgeography.com,shtfplan.com,yournews.com##.et_pb_code_inner
 strategicenergy.eu##.et_pb_text_inner > [href] > [src]
 navajotimes.com##.etad
+meyka.com##.etoro-ad-scroll
 evoke.ie##.evoke_billboard_single
 pcgamebenchmark.com##.evolve-cta
 appleinsider.com##.exclusive-wrap
@@ -5719,6 +5722,8 @@ versus.com##.vs-ads
 thegearpage.net##.vsBB
 thegearpage.net##.vsBBAdhesion
 thegearpage.net##.vsLB
+advrider.com##.vsLBBottom
+advrider.com##.vsLBTop
 thegearpage.net##.vsRRPremium
 vaughn.live##.vs_v9_LTabvsLowerThirdWrapper
 vaughn.live##.vs_v9_LTabvsLower_beta
@@ -6060,6 +6065,7 @@ trakt.tv##[data-snigel-id]
 amp.theguardian.com##[data-sort-time="1"]
 timesofindia.indiatimes.com##[data-sp-click="stpPgtn(event)"]
 claudelog.com##[data-sponsor-tip="true"]
+linkedin.com##[data-sponsored-tracking-url]
 theinertia.com##[data-spotim-module="tag-tester"]
 vrbo.com##[data-stid="meso-ad"]
 si.com##[data-target="ad"]
@@ -6847,12 +6853,13 @@ timeout.com##div[id^="ad-promo-"]
 timeout.com##div[id^="ad-side-"]
 javacodegeeks.com##div[id^="adngin-"]
 agoda.com##div[id^="ads-"]
+advrider.com##div[id^="ads_"]
 pixiv.net##div[id^="adsdk-"]
 antiguanewsroom.com##div[id^="antig-"]
 check-host.net##div[id^="antpeayvraea"]
 slidesgo.com##div[id^="article_ads"]
 business-standard.com##div[id^="between_article_content_"]
-imggen.ai,iplogger.org,wallhere.com,webnots.com,wikitechy.com##div[id^="bsa-zone_"]
+imggen.ai,iplogger.org,jsonlint.com,wallhere.com,webnots.com,wikitechy.com##div[id^="bsa-zone_"]
 business2community.com##div[id^="busin-"]
 competenetwork.com##div[id^="compe-"]
 elfaro.net##div[id^="content-ad-body"]
@@ -7255,6 +7262,7 @@ bestbuy.com##.atwa-ninja-carousel:has(div[data-testid="sponsored-sbb"])
 bjs.com##.banner-cta-wrap:has([src="//retailmedia-static.criteo.com/"])
 bjs.com##.banner-cta-wrap:has(img[src*="criteo.com"])
 outsports.com##.bg-gray-100:has(.adb-os-lb-incontent)
+weather.com##.bg-gray-100:has-text(Advertisement)
 magazine.raspberrypi.com##.bg-rpi-grey-100:has-text(Advertisement)
 atlanticsuperstore.ca,fortinos.ca,maxi.ca,newfoundlandgrocerystores.ca,nofrills.ca,provigo.ca,realcanadiansuperstore.ca,valumart.ca,yourindependentgrocer.ca,zehrs.ca##.block-wrapper:has(.element-header__sponsoredLabel)
 loblaws.ca##.block-wrapper:has([data-track-product-component="carousel||rmp_sponsored"])
@@ -7301,6 +7309,7 @@ morrisons.com##.fops-item:has([title="Advertisement"])
 pigglywigglystores.com##.fp-item:has(.fp-tag-ad)
 slickdeals.net##.frontpageGrid__feedItem:has(.dealCardBadge--promoted)
 alibaba.com##.gallery-card:has(.searchx-card-e-ad)
+capwages.com##.gap-1.items-center.flex-col.flex:has-text(Remove Ads)
 detectiveconanworld.com##.generated-sidebar[style="background: #ffffff;"]
 bestbuy.com##.generic-morpher:has(.spns-label)
 sainsburys.co.uk##.gridItem:has(.citrusAdproduct)

@@ -557,6 +557,7 @@
 ||storage.googleapis.com/adtags/
 ||storage.googleapis.com/ba_utils/stab.js
 ||storage.googleapis.com/global-attribution/global_attribution.js
+||storage.googleapis.com/vs-scripts/primis/primisSlide.js
 ||streambeast.io/aclib.js
 ||streambtwp.b-cdn.net/aclib.js
 ||stunserver.net/frun.js

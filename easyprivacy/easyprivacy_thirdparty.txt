@@ -590,6 +590,7 @@
 ||cdns.brsrvr.com^
 ||cdp.sph.com.sg/activation/activation.js
 ||ceros.com/a?data
+||cert.tryggehandel.net/ping
 ||cf-pixelfront-analytics.widencdn.net^
 ||cf.api.instant.one^
 ||cf.overblog.com^
@@ -2384,6 +2385,7 @@
 ||storage.googleapis.com/nchq-dj-nid/prod/sp_v1.js
 ||storage.googleapis.com/snowplow-cto-office-tracker-bucket/
 ||storage.googleapis.com/tm-frend-graffiti/
+||storage.googleapis.com/vs-scripts/intentiq/vsintentiq.js
 ||storage.syncmedia.io/libs/sm_capture_
 ||stormgate.production.raptive.com^
 ||stream-log.dditscdn.com^

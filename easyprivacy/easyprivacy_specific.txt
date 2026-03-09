@@ -1542,6 +1542,7 @@
 ||srv.plesk.com^
 ||ss.esade.edu^
 ||ss.photospecialist.co.uk^
+||ssl-images-amazon.com/images/I/21auWwkMYgL.js$domain=imdb.com
 ||sst.brodo.com^
 ||sst.bwt.com^
 ||sst.carwow.

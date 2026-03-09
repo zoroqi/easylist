@@ -214,6 +214,7 @@
 ||breakfastboat.com^
 ||breezybright.com^
 ||breezygrove.com^
+||brewthing.com^
 ||brianwould.com^
 ||briefstem.com^
 ||brighttoe.com^
@@ -1385,6 +1386,7 @@
 ||promiseair.com^
 ||propertypotato.com^
 ||propsynergy.com^
+||protectpool.com^
 ||protestcopy.com^
 ||psychedelicarithmetic.com^
 ||pubfs.com^

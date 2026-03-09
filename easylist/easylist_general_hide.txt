@@ -10934,6 +10934,7 @@
 ##.mm-ads-adhesive-ad
 ##.mm-ads-gpt-adunit
 ##.mm-ads-leaderboard-header
+##.mm-ads-leaderboard-spacer
 ##.mmads
 ##.mntl-gpt-adunit
 ##.mntl-sc-block-adslot
@@ -12041,7 +12042,6 @@
 ##.sponsor_label
 ##.sponsor_line
 ##.sponsor_links
-##.sponsor_logo
 ##.sponsor_placement
 ##.sponsor_popup
 ##.sponsor_post
