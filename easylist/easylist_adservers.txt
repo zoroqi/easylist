@@ -40117,6 +40117,7 @@
 ||shapesdivide.shop^
 ||shapo.fun^
 ||share-server.com^
+||sharepenknife.com^
 ||shareresults.com^
 ||sharesceral.uno^
 ||sharkfirelife.com^
