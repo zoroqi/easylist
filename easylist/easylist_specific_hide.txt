@@ -2758,6 +2758,7 @@ clutchpoints.com##.cafemedia-clutchpoints-header
 challonge.com##.cake-unit
 apkcombo.com##.calc-container
 calculat.io##.calc67-container
+calcalistech.com##.calcalist_banner
 skylinewebcams.com##.cam-vert
 thedalesreport.com##.cap-container
 dllme.com##.captchabox > div
