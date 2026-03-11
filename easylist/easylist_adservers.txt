@@ -12183,6 +12183,7 @@
 ||downloading-addon.com^
 ||downloadyt.com^
 ||downnora.me^
+||downright-map.pro^
 ||downright-soup.com^
 ||downrightcable.pro^
 ||downrightfootball.com^
