@@ -41655,6 +41655,7 @@
 ||special-offers.online^
 ||special-promotions.online^
 ||specialberth.com^
+||specific-band.pro^
 ||specific-card.pro^
 ||specificallycries.com^
 ||specificallyfollowsbraid.com^
