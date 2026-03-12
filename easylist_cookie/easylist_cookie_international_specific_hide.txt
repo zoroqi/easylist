@@ -2761,6 +2761,7 @@ texet.ru##.cookies-win
 syrovarnya.com##.cookiesMessage_cookiesmessage__jAFno
 bml.ru##.cookiesModal
 maximonline.ru##.cookiesPopup
+uxfeedback.ru##.cookies_notification_cookiesContainer__YcD5G
 atol.ru##.cooks_k
 myapples.ru##.copyright_fixed
 peterburg2.ru,restate.ru##.cow
