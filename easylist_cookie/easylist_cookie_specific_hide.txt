@@ -1357,7 +1357,7 @@ fancentro.com##.consent-message
 justwatch.com##.consent-notification
 sportskeeda.com##.consent-pop-up
 gla.ac.uk##.consent-switch
-app.traderepublic.com##.consentCard
+app.traderepublic.com,vdo.ai##.consentCard
 sony.co.id##.consent__overlayHandler
 fullscript.com##.consent__popup
 remotly.com##.consent_container
