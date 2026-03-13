@@ -1637,6 +1637,7 @@
 /oo/cl-$~third-party
 /oo/cl.js|$~third-party
 /op/analytics.js?domain=
+/op/op1.js?v=$script
 /opdc.js
 /ope-adalliance.js
 /open/log/*
