@@ -431,6 +431,7 @@
 ||cryptvalue.com^
 ||crystalboulevard.com^
 ||cubchannel.com^
+||cubeglobal.net^
 ||cubepins.com^
 ||cuddlycake.com^
 ||cuddlylab.com^
