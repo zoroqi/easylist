@@ -1122,6 +1122,7 @@
 /googletrack.js
 /googleTracker.js
 /googleTracking.js
+/gosquared.js$script
 /graphql/track-pageview$xmlhttprequest
 /grumi-ip.js
 /gs-analytics-init.js
