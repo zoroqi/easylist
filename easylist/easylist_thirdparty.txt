@@ -12,6 +12,7 @@
 ||360playvid.com^$third-party
 ||360playvid.info^$third-party
 ||a-delivery.rmbl.ws^
+||a.bids.ws^
 ||a.blendernation.com^
 ||a.ucoz.net^
 ||a1.consoletarget.com^
@@ -620,6 +621,7 @@
 ||videosvc.ezoic.com^
 ||vidoomy.com/api/adserver/
 ||vidsrc.pro/uwu-js/binged.in
+||viously.com^$domain=9gag.com
 ||viralize.tv/t-bid-opportunity/
 ||virool.com/widgets/
 ||vpnrice.com/a/p.js
