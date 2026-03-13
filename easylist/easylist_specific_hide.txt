@@ -491,7 +491,7 @@ mostlyblogging.com,tvarticles.me###custom_html-3
 godisageek.com###custom_html-4
 mangaread.org###custom_html-48
 comicsheatingup.net###custom_html-5
-colombiareports.com,filmschoolrejects.com,hongkongfp.com,phoneia.com,weatherboy.com###custom_html-6
+citymagazine.si,colombiareports.com,filmschoolrejects.com,hongkongfp.com,phoneia.com,weatherboy.com###custom_html-6
 medievalists.net###custom_html-7
 theteche.com###custom_html-8
 wsj.com###cx-deloitte-insight
@@ -1635,6 +1635,7 @@ carscoops.com,younghollywood.com##._ap_apex_ad
 vscode.one##._flamelab-ad
 semafor.com##._homeMiddleAd_x95p9_29
 timeout.com##._inlineAdContainer_1nxd6_60
+citymagazine.si##._iprom_inStream
 365scores.com##._main-content_ad__ifF3C
 365scores.com##._main-content_prediction__Gwi2c
 observer.co.uk##._minH-_md_90px
@@ -2554,7 +2555,7 @@ thescore1260.com##.block-content > a[href*="sweetdealscumulus.com"]
 indysmix.com,wzpl.com##.block-content > a[href^="https://sweetjack.com/local"]
 natlawreview.com##.block-content-ad_block
 commonwealmagazine.org##.block-custom-ad
-webbikeworld.com##.block-da
+citymagazine.si,webbikeworld.com##.block-da
 whosdatedwho.com##.block-global-adDFP_HomeFooter
 mondoweiss.net##.block-head-c
 imginn.com##.block-sulvo
