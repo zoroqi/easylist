@@ -519,6 +519,7 @@
 ||metrics.find.gr^
 ||stats-real-clients.zentech.gr^
 ! Hebrew
+||selectika.com/selectika-pixel.min.js
 ||tag.weezmo.com^
 ||walla.co.il/stats/
 ! Hungarian
