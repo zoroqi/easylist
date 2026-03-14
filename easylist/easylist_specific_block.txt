@@ -656,6 +656,7 @@
 ||surfmusic.de/anz
 ||survivalblog.com/marketplace/
 ||survivalservers.com^$subdocument,domain=adfoc.us
+||sweetalert2.github.io/images/sponsors/
 ||swncdn.com/ads/$domain=christianity.com
 ||sync.amperwave.net/api/get/magnite/auid=$xmlhttprequest
 ||szm.com/reklama
