@@ -160,6 +160,7 @@
 ||wukongsch.com/kaamel.js
 ||yelp.*/eu_cookie_notice?
 ||yimg.com^*/guce.js
+||zed.dev/docs/theme/c15t@2.0.0-rc.3.js
 ! bonprix consent
 ||hc.bonprix.hu^
 ||hc.bonprix.ro^
