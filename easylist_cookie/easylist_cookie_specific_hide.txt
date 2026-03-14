@@ -3116,7 +3116,7 @@ bdonline.co.uk,eutelsat.com,fieldsofskibbereen.ie,fullraces.com,gamesontvtoday.c
 !! .custom-consent
 emerald-heizijde.be,rivo.be,upperleft.be,vooruitzicht.be##.custom-consent
 !! #CookiePolicy
-drugdiscoverynews.com,fruskov.dk###CookiePolicy
+drugdiscoverynews.com,fruskov.dk,the-scientist.com###CookiePolicy
 !! landal.*
 landal.at,landal.be,landal.ch,landal.co.uk,landal.com,landal.de,landal.dk,landal.no##consent-slide-in-component
 !! .cookies-modal
