@@ -1506,7 +1506,7 @@ prashkovsky.co.il##.elementor-element-71e69a7
 xphone.co.il##.elementor-element-7f094b47
 yad-mordechai.co.il##.eupopup-container
 cinema-city.co.il,peamitstore.co.il##.gdpr-module
-castro.com,delta.co.il,fixfixfixfix.co.il,lilit.co.il,panta-rei.com##.idus_popup_widget_cookie_popup
+bathandbodyworks.co.il,castro.com,delta.co.il,fixfixfixfix.co.il,lilit.co.il,panta-rei.com##.idus_popup_widget_cookie_popup
 ksp.co.il##.ltr-1075xo6
 mdyo.co.il##.mdyo-cookie
 diners.co.il##.message-container
