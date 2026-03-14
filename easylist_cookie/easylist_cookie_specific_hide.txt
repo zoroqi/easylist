@@ -474,6 +474,7 @@ gainesvillecoins.com###jsGDRP
 glashuette-original.com###js_dataNnoticeBackdrop
 glashuette-original.com###js_dataNnoticeBtns
 juno.co.uk,junodownload.com###juno-cookie-consent
+chipotle.com###ketch-consent-banner
 forbes.com###ketch-consent-overlay
 carmax.com###kmx-privacy-popup
 shanebarker.com###kt-layout-id_e3c48e-e4
