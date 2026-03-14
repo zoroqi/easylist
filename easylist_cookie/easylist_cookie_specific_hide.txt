@@ -2788,6 +2788,7 @@ sard.ac##app-cookie-status
 iryo.eu##app-cookies-manager
 e-aperam.com##app-privacy-policy
 duelz.com##app-tiny-alert
+thomasnet.com##aside[data-sentry-component="CookieBanner"]
 essential.gg##banner-content
 cherytr.com,cine-max.sk##body .cc-nb-main-container
 facebook.com##body:not([style^="margin-bottom"]) div[data-testid="cookie-policy-banner"]
