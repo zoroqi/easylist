@@ -1140,6 +1140,8 @@
 ||mstm.motorsport.com^
 ||mtg.macpaw.com^
 ||mtm.bondagevalley.cc^
+||musescore.com/components/data?
+||musescore.com/score/stats/
 ||mx.eneba.com^
 ||myanimelist.net/static/logging.html
 ||myfreecams.com/php/tracking.php?
