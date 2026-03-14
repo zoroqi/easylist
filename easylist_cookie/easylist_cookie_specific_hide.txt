@@ -763,6 +763,7 @@ stingray.com###tracking-popup
 privacy.org.nz###trackingmessage
 visionworks.com###transcend-consent-manager
 undercurrentnews.com###ucn-gdpr-overlay
+uconn.edu###uconn-c-notice
 strikermanager.com###ue
 netflix.com###uma > div > .message
 mcdonalds.com###usTnCBanner
