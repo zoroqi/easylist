@@ -10,6 +10,7 @@ wineinvestmentfund.com###Contentplaceholder1_TAEB3815A051_Col00
 fruugo.co.nz###CookieBanner
 mauldineconomics.com###CookieControl
 audiot.co.uk###CookieRequester
+target.com.au###CookieUseAgreement
 lttstore.com###Cookies-wrapper
 cardmarket.com###CookiesConsent
 saleappliancesltd.co.uk###CybotCookiebotDialogWrapper
