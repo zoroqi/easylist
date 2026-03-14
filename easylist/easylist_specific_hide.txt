@@ -3693,6 +3693,7 @@ hometheaterreview.com##.homet-sidebars
 mensxp.com##.hometop-ads
 radiocity.in##.horiozontaladd
 stuff.co.nz,thepost.co.nz##.horizontal-ad-slot
+mustsharenews.com##.horizontal-adspace
 2conv.com,flv2mp3.by,flvto.biz,flvto.com.mx##.horizontal-area
 getmyuni.com##.horizontalRectangle
 nofilmschool.com##.horizontal_ad
