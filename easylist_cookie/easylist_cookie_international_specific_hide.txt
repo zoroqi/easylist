@@ -1481,6 +1481,7 @@ soltam.co.il###dfwt-gdpr-overlay
 bigelectric.co.il###gdprCookieBar
 dunietz-elad.co.il###privacy_policy_popup
 ivory.co.il###removeBannerCookie
+ipo.co.il###rg-privacy-wrap
 gadgety.co.il###upnext-cookie-notice
 cal-online.co.il###wc-using-cookies
 iroads.co.il##.CookiePolicyDisclaimer
