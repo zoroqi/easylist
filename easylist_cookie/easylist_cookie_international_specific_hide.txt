@@ -1517,6 +1517,7 @@ super-pharm.co.il##.phcBlockCookiesWrap
 colmobil.co.il##.popup-privacy
 comedyclub.co.il##.ppb-banner
 delek-motors.co.il##.privacy-info-banner
+electra-danko.co.il,electra-elco-cs.co.il,electra-elevators.co.il,electra-infrastructures.co.il,electra-me.co.il,electra.co.il,electrainfrastructure-environment.co.il,electraparking.co.il,electrausa.com,etco-nigeria.com##.pupup_cookies
 ksp.co.il##.rtl-1075xo6
 letlive.org.il##.site-consent-banner
 cts.co.il##.upnext-cookie-notice
