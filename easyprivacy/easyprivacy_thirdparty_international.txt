@@ -519,6 +519,7 @@
 ||metrics.find.gr^
 ||stats-real-clients.zentech.gr^
 ! Hebrew
+||callindex.co.il/campaign/send_analytics.js
 ||selectika.com/selectika-pixel.min.js
 ||tag.weezmo.com^
 ||walla.co.il/stats/
