@@ -1518,7 +1518,6 @@ bathandbodyworks.co.il,castro.com,delta.co.il,fixfixfixfix.co.il,lilit.co.il,pan
 ksp.co.il##.ltr-1075xo6
 mdyo.co.il##.mdyo-cookie
 diners.co.il##.message-container
-falafelbaribua.co.il,pizzangel.co.il##.mishloha-gdpr-popup
 ksp.co.il##.mui-b13abt.MuiBox-root
 bankhapoalim.co.il##.muirtl-1cwm7gt
 ksp.co.il##.muirtl-b13abt.MuiBox-root
