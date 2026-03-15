@@ -562,6 +562,7 @@
 ||streambeast.io/aclib.js
 ||streambtwp.b-cdn.net/aclib.js
 ||stunserver.net/frun.js
+||succeedscene.com/openads/
 ||sunflowerbright109.io/sdk.js
 ||supabase.co/rest/v1/promos_available
 ||supply.upjers.com^

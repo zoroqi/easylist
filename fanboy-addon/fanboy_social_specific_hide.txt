@@ -1148,7 +1148,7 @@ idlprocycling.com,indeleiderstrui.nl,twenteinsite.nl##.share_item
 cbsnews.com##.sharebar
 mirror.co.uk,themirror.com##.sharebar-icon
 nj.com##.sharebar-impact
-silive.com##.sharebarBetaWrapper
+al.com,cleveland.com,lehighvalleylive.com,masslive.com,mlive.com,newyorkupstate.com,nj.com,oregonlive.com,pennlive.com,silive.com,syracuse.com##.sharebarBetaWrapper
 thehackernews.com##.sharebelow-twitter
 searchenginejournal.com##.sharebtn
 econotimes.com##.sharebutton
