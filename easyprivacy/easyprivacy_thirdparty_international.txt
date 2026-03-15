@@ -981,6 +981,7 @@
 ||d.wi-fi.ru^
 ||dbex-tracker-v2.driveback.ru^
 ||dp.ru/counter.gif?
+||dspgate.ru/pixel?
 ||error.videonow.ru^
 ||events.auth.gid.ru^
 ||events.plus.yandex.net^
