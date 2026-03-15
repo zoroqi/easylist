@@ -2777,7 +2777,7 @@ ruwiki.ru##.cookies-terms
 texet.ru##.cookies-win
 syrovarnya.com##.cookiesMessage_cookiesmessage__jAFno
 bml.ru##.cookiesModal
-maximonline.ru##.cookiesPopup
+maximonline.ru,starhit.ru##.cookiesPopup
 uxfeedback.ru##.cookies_notification_cookiesContainer__YcD5G
 atol.ru##.cooks_k
 myapples.ru##.copyright_fixed
@@ -2907,7 +2907,7 @@ ktostroit.ru##.widget_cookie
 warthunder.ru##.wt-cb
 yasno.live##.y-gdpr
 uralkarcher.ru##.zalupa
-ctc.ru##[class^="AcceptCookie_"]
+crowd.mos.ru,ctc.ru##[class^="AcceptCookie_"]
 connectgas.ru##[class^="cookieAgreement"]
 4game.com##[class^="fcw-wrap-"]
 sberindex.ru##[class^="styles_Layout__cookiePanel_"]
@@ -2928,6 +2928,7 @@ novayagazeta.eu##div[class^="CookiesInformer_"]
 dom.ria.com##div[class^="GdprComponent"]
 stoloto.ru##div[class^="Provider_container"]
 aliexpress.ru##div[class^="SnowPrivacyPolicyBanner_"]
+tv.starhit.ru##div[class^="_cookieConsent_"]
 bb.market##div[class^="_cookies_"]
 pulsesync.dev##div[class^="cookieConsent-module-"]
 asna.ru##div[class^="modalCookies_"]
