@@ -3203,7 +3203,7 @@ eestipank.ee,visitsweden.de##div[class^="Cookiebar"]
 !! .mst-gdpr__cookie-bar-overlay
 sklepmartes.pl##.mst-gdpr__cookie-bar-overlay
 !! cookies-banner
-latribune.ca,lesoleil.com,livejournal.com,px.dev,takealot.com##[class^="cookies-banner"]
+latribune.ca,leaan.co.il,lesoleil.com,livejournal.com,px.dev,takealot.com##[class^="cookies-banner"]
 !! .notification-banner
 foxbusiness.com,foxnews.com,trulyhardseltzer.com,vgchartz.com##.notification-banner
 !! #cookieSettings
