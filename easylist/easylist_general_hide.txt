@@ -13325,6 +13325,7 @@
 ! dailypost.co.uk/dailystar.co.uk  https://github.com/easylist/easylist/issues/9657
 ##.click-track.partner
 ##.click-track.shop-window-affiliate
+##.click-track.teaser
 ! local12.com/bakersfieldnow.com/katv.com
 ##.index-module_adBeforeContent__UYZT
 ##.interstory_first_mobile
