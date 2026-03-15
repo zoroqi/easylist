@@ -1497,6 +1497,7 @@ ladaat.co##.ck-cookie-banner
 israelpost.co.il##.cookie-agreement
 yad2.co.il##.cookie-implementation-disclaimer_popupRoot__CLI1m
 deasy.co.il##.cookieMessage
+novelsat.com##.cookiepopup
 gesher-theatre.co.il##.cookies-approval-strip-wrapper
 easy.co.il##.cookies-consent-banner
 bug.co.il##.cookies-policy-modal-container
