@@ -3302,6 +3302,7 @@ whosdatedwho.com##.ff-adblock
 gq.com.au##.ffNDsR
 filecrypt.cc##.fiIItheadblockqueue4
 newser.com##.fiavur2
+crash.net##.field
 webmd.com##.fifth-para-ad
 filecrypt.cc##.filItheadbIockgueue3
 filecrypt.cc,filecrypt.co##.filItheadbIockqueue3
@@ -4298,6 +4299,7 @@ radioyacht.com##.mpc-carousel__wrapper
 news.sky.com##.mpu-1
 edarabia.com##.mpu-300
 physicsworld.com##.mpu-300x250
+crash.net##.mpu-block
 arabiaweather.com##.mpu-card
 dailymail.co.uk##.mpu_puff_wrapper
 4rfv.co.uk##.mpus
