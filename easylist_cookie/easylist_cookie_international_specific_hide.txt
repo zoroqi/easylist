@@ -1512,6 +1512,7 @@ prashkovsky.co.il##.elementor-element-71e69a7
 xphone.co.il##.elementor-element-7f094b47
 yad-mordechai.co.il##.eupopup-container
 amigo.co.il,creative.co.il,drnireyal.co.il,ncl-lawyers.com,playmobil.co.il,sagol-ad.co.il,sheffer-cbt.co.il,web-skipper.co.il##.footerpopup
+boutiquecentral.co.il,herzliyamuseum.co.il,jerusalemwineries.co.il,otzarot.org.il,telavivfoundation.org##.fotpopup
 cinema-city.co.il,peamitstore.co.il##.gdpr-module
 bathandbodyworks.co.il,castro.com,delta.co.il,fixfixfixfix.co.il,lilit.co.il,panta-rei.com,urbanica-wh.com##.idus_popup_widget_cookie_popup
 ksp.co.il##.ltr-1075xo6
