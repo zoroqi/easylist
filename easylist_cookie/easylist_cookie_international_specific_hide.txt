@@ -1481,6 +1481,7 @@ globes.co.il###cookiesConfirmDiv
 soltam.co.il###dfwt-gdpr-overlay
 bigelectric.co.il###gdprCookieBar
 davidson.org.il###gnb
+wine-eilat.com###mcc-cookie-bar
 dunietz-elad.co.il###privacy_policy_popup
 ivory.co.il###removeBannerCookie
 ipo.co.il###rg-privacy-wrap
