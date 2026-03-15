@@ -798,6 +798,8 @@
 ||grabify.link/api/js
 ||graylog.prod.cams.run^
 ||grgnsht.nzxt.com^
+||grokipedia.com/api/analytics
+||grokipedia.com/api/ev
 ||groove.so/unlocker.js
 ||groupon.com/analytic/
 ||groupondata.com/tracky
