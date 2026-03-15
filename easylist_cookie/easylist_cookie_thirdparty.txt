@@ -186,6 +186,7 @@
 ||privacy-api-eu1.clym.io^
 ||privacy-cdn.sixfifty.com^
 ||privacy-center.org^$third-party
+||privacy.acbj.com/fides.js
 ||privacy.advancelocal.com/fides.js
 ||privacy.clion.agency^$third-party
 ||privacy.condenastdigital.com/fides.js
