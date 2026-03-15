@@ -968,6 +968,7 @@ webnovelworld.org###pfvidad
 premierguitar.com###pg_leaderboard
 tutorialspoint.com###pg_top_ads
 radiocaroline.co.uk###photographsforeverDiv
+jigsawplanet.com###pl25 + div[id]
 accuradio.com###pl_leaderboard
 giantfreakinrobot.com###playwire-homepage-takeover-leaderboard
 issuu.com###playwire-video
@@ -6428,6 +6429,7 @@ ntd.com##[style="min-height:296px"]
 mydramalist.com##[style="min-height:327px;"]
 cnbctv18.com##[style="min-height:4000px"]
 mydramalist.com##[style="min-height:600px;"]
+jigsawplanet.com##[style="min-height:90px"]
 edgegamers.com##[style="padding-bottom:10px;height:90px;"]
 pahe.ink##[style="padding-top: 0; padding-bottom: 90px;"]
 dvdsreleasedates.com##[style="padding:15px 0 15px 0;width:728px;height:90px;text-align:center;"]
