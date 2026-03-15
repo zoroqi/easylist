@@ -1466,6 +1466,15 @@
 ||searchiq.co/api/tr?
 ||secretbenefits.com/js/script.js
 ||secure.checkout.visa.com/logging/
+||secure.cricket365.com/tag/
+||secure.football365.com/tag/
+||secure.golf365.com/tag/
+||secure.loverugbyleague.com/tag/
+||secure.planetf1.com/tag/
+||secure.planetfootball.com/tag/
+||secure.planetrugby.com/tag/
+||secure.teamtalk.com/tag/
+||secure.tennis365.com/tag/
 ||seekingalpha.com/mone_event
 ||segapi.whop.com^
 ||service.techzine.eu^

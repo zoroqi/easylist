@@ -4739,7 +4739,7 @@ ipfighter.com##.promotion_promotion__08xl_
 bostonreview.net##.promotop
 insauga.com##.proper-content-dynamic
 highspeedinternet.com##.provider-ads
-football365.com,planetf1.com,planetrugby.com,tennis365.com##.ps-block-a
+cricket365.com,football365.com,golf365.com,loverugbyleague.com,planetf1.com,planetfootball.com,planetrugby.com,teamtalk.com,tennis365.com##.ps-block-a
 indiabusinessjournal.com##.pt--20
 kathmandupost.com##.pt-0
 steamladder.com##.pt-large

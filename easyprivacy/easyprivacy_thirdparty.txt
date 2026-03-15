@@ -2485,6 +2485,7 @@
 ||tag.digops.sincro.io^
 ||tag.elevaate.io^
 ||tag.flagship.io^
+||tag.gendiscover.com^
 ||tag.getamigo.io^
 ||tag.imagino.com^
 ||tag.lexer.io^
