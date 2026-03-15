@@ -2120,6 +2120,7 @@
 ||rtc.hibuwebsites.com/feature/metrics
 ||rtc.multiscreensite.com^
 ||rtxpx-a.akamaihd.net^
+||rudder-server-prd.arena.im/v1/track
 ||rudder-tracking.rudderstack.com^
 ||rum-collector.leaderint.workers.dev^
 ||rum.azion.com^
