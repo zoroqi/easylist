@@ -4232,7 +4232,6 @@
 ##.Ads-slot
 ##.Ads-sticky
 ##.AdsBottom
-##.AdsBox
 ##.AdsBoxBottom
 ##.AdsBoxSection
 ##.AdsBoxTop
