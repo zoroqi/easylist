@@ -1270,6 +1270,7 @@
 ||pdfforge.org/api/kd-gdpr-cc
 ||pelisfree.site/cdn-cgi/trace
 ||pendo.scopus.com/data/ptm.gif
+||pepin.padlet.com^
 ||perf.mouser.com^
 ||performance-logger.minted.com^
 ||perplexity.ai/rest/event/analytics
