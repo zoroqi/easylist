@@ -359,6 +359,7 @@ openculture.com###big-bottom-ad-single-posts
 thefrisc.com###block-23
 dcreport.org###block-3
 thebarbedwire.com###block-33
+austinchronicle.com###block-90
 startpage.com,startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion###block-display
 fflogs.com,warcraftlogs.com###bottom-banner-fallback
 aeon.co,psyche.co###bottom-portal

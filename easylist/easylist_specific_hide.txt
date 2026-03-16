@@ -1464,6 +1464,10 @@ bbcearth.com##.Advertisement_container__K7Jcq
 phoenixnewtimes.com##.AirBillboard
 dallasobserver.com,houstonpress.com##.AirBillboardInlineContentresponsive
 browardpalmbeach.com,dallasobserver.com,miaminewtimes.com,phoenixnewtimes.com,westword.com##.AirLeaderboardMediumRectanglesComboInlineContent
+calendar.austinchronicle.com##.AirMedRectComboInlineResults1responsive
+calendar.austinchronicle.com##.AirMedRectComboInlineResults2responsive
+calendar.austinchronicle.com##.AirMedRectComboInlineResults3responsive
+calendar.austinchronicle.com##.AirMedRectComboInlineResults4responsive
 browardpalmbeach.com,dallasobserver.com,miaminewtimes.com,phoenixnewtimes.com,westword.com##.AirMediumRectangleComboInlineContent
 technicalarp.com##.Arpian-ads
 rankedboost.com##.Article-A-Align

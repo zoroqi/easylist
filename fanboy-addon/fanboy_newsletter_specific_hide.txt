@@ -1752,7 +1752,7 @@ almanac.com##.newsletters-signup-wrapper
 cooking.nytimes.com##.newslettersignupmodule_newsletterSignupModule__pT3BJ
 bocanewsnow.com##.newsletterwidgetminimal-6
 washingtoninformer.com##.newspack-lightbox-overlay
-missionlocal.org,orlandoweekly.com##.newspack-newsletters-subscribe
+austinchronicle.com,missionlocal.org,orlandoweekly.com##.newspack-newsletters-subscribe
 thefrisc.com##.newspack-pattern
 cardinalnews.org,washingtoninformer.com##.newspack-popup-container
 recipetips.com##.newsshort
