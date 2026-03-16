@@ -1851,7 +1851,7 @@ bigislandnow.com##.adBreak
 sitelike.org##.adCLS
 kijiji.ca##.adChoices-804693302
 economist.com##.adComponent_advert__kPVUI
-forums.sufficientvelocity.com,isp.netscape.com,m.economictimes.com,someecards.com,trailspace.com,wabetainfo.com##.adContainer
+economictimes.indiatimes.com,forums.sufficientvelocity.com,isp.netscape.com,m.economictimes.com,someecards.com,trailspace.com,wabetainfo.com##.adContainer
 etymonline.com##.adContainer--6CVz1
 graziadaily.co.uk##.adContainer--inline
 cbc.ca##.adContainer-F11hw
@@ -5340,6 +5340,7 @@ thechinaproject.com##.sticky-spacer
 oilcity.news##.sticky-sponsors-large
 jpost.com##.sticky-top-banner
 litecoin-faucet.com##.sticky-top1
+economictimes.indiatimes.com##.stickyAd
 theblock.co##.stickyFooter
 everythingrf.com##.stickyRHSAds
 cnet.com##.stickySkyboxSpacing
@@ -7794,6 +7795,7 @@ sportskeeda.com###video-player-container--
 onlyinyourstate.com###video1-1
 autoevolution.com###vidiv
 newseveryday.com###vplayer_large
+economictimes.indiatimes.com###vplayer_vdoai
 newsweek.com##.FeaturedMedia_articleFeaturedMedia__LEpVY
 forbes.com##.MWrh7
 cubbyathome.com##.Post__inPostVideoAdDesktop
