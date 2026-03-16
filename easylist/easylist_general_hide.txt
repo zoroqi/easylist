@@ -10955,6 +10955,7 @@
 ##.mobile-instream-ad-holder-single
 ##.mobileAd
 ##.mobileAdWrap
+##.mobileAds
 ##.mobileAppAd
 ##.mobile_ad_banner
 ##.mobile_ad_container
@@ -12424,6 +12425,7 @@
 ##.topAdWrapper
 ##.topAdd
 ##.topAds
+##.topAdsArticle
 ##.topAdsWrappper
 ##.topAdvBox
 ##.topAdvert
@@ -13677,6 +13679,7 @@
 ##.taboola_container
 ##.taboola_lhs
 ##.taboola_module
+##.taboolaads
 ##.taboolaloader
 ##.trb_taboola
 ##.trc-first-recommendation
