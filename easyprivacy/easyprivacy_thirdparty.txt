@@ -603,6 +603,7 @@
 ||channelexco.com/ppx/
 ||chaport.com/api/public/v1/stats/
 ||chargebee.com/api/internal/track_info_error
+||chat.vica.gov.sg/api/v1/unleash/proxy/client/metrics
 ||check.ddos-guard.net^$third-party
 ||checkout.com/logger/
 ||checkout.com/logging
