@@ -497,6 +497,7 @@
 ||deliveroo.com^*/events
 ||deliveryrank.com/drapp070eb2deb1932e2101e6.js
 ||delta.com/datacollect
+||deno.com/i/
 ||deovr.com/api_logs/
 ||desmos.com/analytics/js/
 ||dev.to/fallback_activity_recorder
