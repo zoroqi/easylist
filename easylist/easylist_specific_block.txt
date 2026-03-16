@@ -794,7 +794,7 @@
 ||fwcdn1.com/js/storyblock.js
 ||g.ibtimes.sg/sys/js/minified-video.js
 ||geo.dailymotion.com^$script,domain=wol.gg
-||go.trvdp.com^$domain=~canaltech.com.br|~ig.com.br|~monitordomercado.com.br|~noataque.com.br|~oantagonista.com.br|~omelete.com.br
+||go.trvdp.com^$domain=~canaltech.com.br|~ig.com.br|~monitordomercado.com.br|~noataque.com.br|~oantagonista.com.br|~olhardigital.com.br|~omelete.com.br
 ||imgix.video^$domain=inverse.com
 ||innovid.com/media/encoded/*.mp4$rewrite=abp-resource:blank-mp4,domain=ktla.com
 ||interestingengineering.com/partial/connatix_desktop.html
