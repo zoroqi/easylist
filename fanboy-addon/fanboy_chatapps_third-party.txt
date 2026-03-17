@@ -207,6 +207,7 @@ m1.com.sg##div:has(> [class^="ChatWindow"])
 ||replain.cc^$third-party
 ||richpanel.com^$third-party
 ||salesiq.zoho.com^$third-party
+||script.ask.gov.sg/widget.js
 ||selfservice.robinhq.com^
 ||sendinblue.com^$third-party
 ||serviceform.com^$third-party
