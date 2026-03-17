@@ -1744,6 +1744,7 @@ aeza.net##.fVImSL
 factorialhr.com##.fac-cookiebot
 lightinthebox.com##.fade-in
 marshall-leasing.co.uk##.fadeMe
+plastalger.com##.fairtrade-provider-cookie-banner-content-element
 avid.com##.fancybox-opened
 avid.com,editus.lu,trenes.com##.fancybox-overlay
 editus.lu##.fancybox-wrap
