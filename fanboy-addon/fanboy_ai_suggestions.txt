@@ -137,11 +137,14 @@ duckduckgo.com##[data-testid="aichat-button"]
 mail.google.com##[data-tooltip*="Help me write"]
 www.google.com##[role="listitem"]:has(a[href*="aep=1&ntc=1"])
 yandex.com##a.HeaderNav-Tab[href$="&promo=force_neuro"]
+www.yahoo.co.jp##a.yMWCYupQNdgppL-NV6sMi._3sAlKGsIBCxTUbNi86oSjt:has(svg[aria-label="AIアシスタント"])
+www.yahoo.co.jp##a.ygDfdPUPK5OPiqKG4UtuU[aria-label="AIアシスタントで検索"]
 duckduckgo.com##a[class][href*="ia=chat"]
 bing.com##a[href="/chat?FORM=hpcodx"]
 duckduckgo.com##a[href^="/?ia=chat&"]
 search.brave.com##a[href^="/ask?q="]
 duckduckgo.com##a[href^="https://duckduckgo.com/?ia=chat"]
+www.yahoo.co.jp##button#aichat
 search.brave.com##button#submit-llm-button
 kagi.com##button.quick-answer-trigger-link
 www.google.com##button:has(path[d^="M17.5 12c0-3.04 2.46-5.5"])
@@ -150,10 +153,12 @@ search.brave.com##button[aria-label="Ask"]
 duckduckgo.com##button[title="Ask Duck.ai"][data-ssg-id="ai-searchbox-chat-submit"]
 msn.com##codex-bing-chat[instance-id="CodexBingChat"]
 outlook.office.com##div#CopilotCommandCenterButton
+search.yahoo.co.jp##div.AiAssistant
 search.brave.com##div.ai-digest
 bloomberg.com##div[class^="SummaryOnlyTakeaways_takeaways__"]
 google.com##div[data-rp-placement-id="gemkick-pep-icon-callout-id"]
 new.express.adobe.com##label#switch-label.assistant-switch-label
+search.yahoo.co.jp##li.VerticalTab__aiAssistButton
 duckduckgo.com##li:first-child:has([data-testid="duckassist-answer-content"])
 www.google.com##li[data-attrid$="Prediction"]:has([aria-description="AI Mode"])
 yandex.com##li[data-fast-name="neuro_answer"]
