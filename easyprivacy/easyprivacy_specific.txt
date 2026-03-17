@@ -1143,6 +1143,7 @@
 ||mtg.macpaw.com^
 ||mtm.bondagevalley.cc^
 ||musescore.com/components/data?
+||musescore.com/components/log/$ping
 ||musescore.com/score/stats/
 ||mx.eneba.com^
 ||myanimelist.net/static/logging.html
