@@ -166,6 +166,7 @@ yandex.com##li[data-fast-name="neuro_answer"]
 homedepot.ca##magic-apron-bot-wrapper-component
 op.gg##section:has-text("AI Chatbot")
 www.youtube.com##yt-video-description-youchat-section-view-model
+www.youtube.com##ytd-talk-to-recs-flow-renderer
 ! Network items
 ||askmiso.com^$third-party
 ||asus-brand-assistant.asus.com/brand-assistant.js
