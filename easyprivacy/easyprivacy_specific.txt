@@ -429,6 +429,7 @@
 ||consent.trustarc.com/bannermsg?
 ||consent.trustarc.com/noticemsg?
 ||console-telemetry.oci.oraclecloud.com^
+||console.deno.com/_fresh/js/*/Posthog.js
 ||consumer.org.nz/session/ping/
 ||containers.appdomain.cloud/api/send-log$domain=ibm.com
 ||contentpass.net/error-tunnel
