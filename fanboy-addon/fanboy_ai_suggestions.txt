@@ -156,6 +156,8 @@ msn.com##codex-bing-chat[instance-id="CodexBingChat"]
 outlook.office.com##div#CopilotCommandCenterButton
 search.yahoo.co.jp##div.AiAssistant
 search.brave.com##div.ai-digest
+www.reddit.com##div.label-container > hr.trailing-divider
+www.reddit.com##div.label-container > span.trailing-content-container.has-trailing-content
 bloomberg.com##div[class^="SummaryOnlyTakeaways_takeaways__"]
 google.com##div[data-rp-placement-id="gemkick-pep-icon-callout-id"]
 new.express.adobe.com##label#switch-label.assistant-switch-label
