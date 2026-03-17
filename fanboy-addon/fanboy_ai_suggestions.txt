@@ -105,12 +105,15 @@ healio.com##.healio-ai-component-inline
 support.google.com##.helpPanelContainerRoot:has-text(Help guide)
 androidpolice.com,backyardboss.net,carbuzz.com,cbr.com,collider.com,dualshockers.com,fextralife.com,footballfancast.com,footballleagueworld.co.uk,gamerant.com,givemesport.com,hotcars.com,makeuseof.com,movieweb.com,pocket-lint.com,screenrant.com,simpleflying.com,thegamer.com,therichest.com,thesportster.com,thethings.com,thetravel.com,topspeed.com,xda-developers.com##.i-sensa
 develop.sentry.dev,docs.sentry.io##.kapa-ai-class
+vercel.com##.mt-3 button:has-text("Ask AI")
+vercel.com##.mt-3 div:has(+ button:has-text("Ask AI"))
 docs.posit.co##.nav-item:has-text(Ask AI)
 amazon.com##.nav-rufus-disco
 olivela.com##.oli-chat-bubble-popup
 olivela.com##.oli_popup_button
 ecosia.org##.omnibox-search-form__ai-search
 docs.github.com##.prc-ActionList-GroupHeadingWrap-pfbd9:has-text(Ask Copilot)
+vercel.com##.right-section-module__J7WNxW__nonPrimaryContent > button[data-cdp-track*="\"header_ask_ai_clicked\""]
 op.gg##.rounded.size-\[40px\]
 amazon.com##.rufus-panel-container
 amazon.com##.s-ask-rufus-mshop-suggestion-container
@@ -124,6 +127,7 @@ techedt.com##.teqr-quick-read
 britannica.com##.toc-sticky-header-ai-container
 businesstimes.com.sg##.tracking-\[0\.02em\].\!text-gray-850:has-text(Summarise)
 pcmag.com##.w-\[110vw\]:has-text(Hello!)
+vercel.com##[aria-label="Ask AI"]
 meyka.com##[aria-label="Get AI Summary"]
 support.spotify.com##[data-encore-id="box"]
 support.github.com##[data-fs="copilot_chat_nav"]
