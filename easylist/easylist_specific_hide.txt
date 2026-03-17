@@ -3569,6 +3569,7 @@ cyclonis.com##.has-banner
 whistleout.com.au##.has-hover
 defence-industry.eu##.has-small-font-size.has-text-align-center
 apps.npr.org##.has-sponsorship
+maxroll.gg##.hasAdhesion
 itpro.com,tomsguide.com##.hawk-base
 windowscentral.com##.hawk-deal-widget-hero
 tomsguide.com##.hawk-main-editorialised
