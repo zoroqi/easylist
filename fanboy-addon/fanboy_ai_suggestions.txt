@@ -82,6 +82,7 @@ digg.com##.bg-background-ai-tertiary
 stackoverflow.com##.bg-white.wmx7:has-text(AI Assist)
 news.yahoo.co.jp##.bjevXT.sc-c89yjt-3
 learn.microsoft.com##.border-color-ask-learn
+rule34video.com##.button_fav.ai
 britannica.com##.category-link-CHATBOT
 bing.com##.cdxCopilotIconBg
 docs.kits.ai##.chat-assistant-floating-input
