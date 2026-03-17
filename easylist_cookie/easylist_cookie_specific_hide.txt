@@ -18,6 +18,7 @@ epdf.tips###EPDFTIPS_cookie_box
 franchisegator.com###EUWarning
 ecufiles.com###EcufilesCookie
 firstcallmotorbreakdown.co.uk,pattheduck.com###FISLCC
+teams.live.com###GATHER_COOKIE_BANNER
 megabus.com###GB_overlay
 gamivo.com###GTM-cookie-consent
 idoc.tips###IDOCTIPS_cookie_box
