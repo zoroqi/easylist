@@ -1,7 +1,7 @@
 ! easylist_cookie_specific_ABP.txt
 !#if ext_abp
 wildberries.ru###Portal-warning-cookies-modal
-revolut.com##div[role="dialog"]:has-text(/Cookies|cookies/)
+revolut.com#?#div[role="dialog"]:has-text(/Cookies|cookies/)
 minhaconexao.com.br##section[id][class]:has(:scope > div[class] > button[class][onclick^="onClickCookiesBannerWeb"])
 ! Scripts
 eduface.ru,edumsko.ru#@#.cookies_popup
