@@ -2987,7 +2987,7 @@ _WebVitalsReporter_
 /unagi.amazon.
 /usage/Clickstream?
 /usage/ReportEvent?
-! hellofresh / greenchef / everyplate
+! hellofresh / greenchef / everyplate / grok
 /otlp/traces
 ! Pinterest
 /_/_/logClientError/*
