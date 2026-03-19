@@ -3202,6 +3202,7 @@ sashares.co.za##.elementor-48612
 cryptopolitan.com##.elementor-element-094410a
 avitrader.com##.elementor-element-31aeedc
 hilltimes.com##.elementor-element-5818a09
+whakatakitimes.nz##.elementor-element-97aca2d
 optimyz.com,ringsidenews.com##.elementor-shortcode
 canyoublockit.com##.elementor-widget-container > center > p
 vedantbhoomi.com##.elementor-widget-smartmag-codes
