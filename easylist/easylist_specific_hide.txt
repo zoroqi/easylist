@@ -2933,6 +2933,7 @@ nationalmemo.com##.content_nm_placeholder
 insta-stories-viewer.com##.context
 usedcarnews.com##.continut
 metar-taf.com##.controls-right
+savvytime.com##.converter-ad
 traderie.com##.cool-slot
 live-tennis.eu##.copyright
 imdb.com##.cornerstone_slot
