@@ -1470,7 +1470,7 @@ ertflix.gr##div[data-test="cookie-policy"]
 hongqi.co.il###C_popup
 malamteam.com###MavilixCookiesBox
 calendar.2net.co.il###UseCookies
-maccabi4u.co.il,mg-israel.co.il###ZA_CAMP_BANNER_CONTAINER
+citroen.co.il,dsautomobiles.co.il,maccabi4u.co.il,mg-israel.co.il,opel.co.il,peugeot.co.il###ZA_CAMP_BANNER_CONTAINER
 maccabi4u.co.il###ZA_CAMP_MOBILE_CONTAINER
 meitav.co.il###ZA_CAMP_SLIDEIN_CONTAINER
 myofer.co.il###bottom-toasts-layer
