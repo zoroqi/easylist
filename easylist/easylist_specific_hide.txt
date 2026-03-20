@@ -5404,7 +5404,7 @@ cifraclub.com##.styles_advertising__nZwCO
 egamersworld.com##.styles_bb__hb10X
 autoblog.com##.styles_container__C9F6R
 politico.com##.styles_container__zuzL0
-parade.com##.styles_headerAdSlot__f4Z0n
+parade.com,pethelpful.com##.styles_headerAdSlot__f4Z0n
 producthunt.com##.styles_item__hNPI1
 egamersworld.com##.styles_sidebar__m6yLy
 troypoint.com##.su-box
@@ -7830,6 +7830,7 @@ techwalla.com##.component-article-section-jwplayer-wrapper
 familystylefood.com##.email-highlight
 taskandpurpose.com##.empire-unit-prefill-container
 europeanpharmaceuticalreview.com##.europ-fixed-footer
+pethelpful.com##.exco-player-wrapper
 goal.com##.fco-fc-video-player
 accuweather.com##.feature-tag
 pagesix.com##.featured-image__wrapper > .nyp-video-player
