@@ -1491,6 +1491,7 @@ ivory.co.il###removeBannerCookie
 ipo.co.il###rg-privacy-wrap
 gadgety.co.il###upnext-cookie-notice
 cal-online.co.il###wc-using-cookies
+talronbatt.co.il###www-cookies-consent-banner
 iroads.co.il##.CookiePolicyDisclaimer
 amot.co.il##.Cookies__StyledSnackbar-sc-1o4gw82-1
 lastprice.co.il##.PCConsent
