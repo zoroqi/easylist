@@ -2227,7 +2227,7 @@ torquemag.io,wpengine.com##.opt-in-modal
 tafelberg.co.za,waltons.co.za##.optin-sdk-root
 eventix.io##.ot-cookies
 cbsnews.com##.ot-fade-in
-stevemadden.com##.ot-sdk-container
+maalot.co.il,stevemadden.com##.ot-sdk-container
 sinparty.com##.ot-sdk-row
 amazfit.com,cabletimetech.com##.otCookiesNotification
 3dviewer.net##.ov_bottom_floating_panel
