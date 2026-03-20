@@ -2765,6 +2765,7 @@
 /whisper?event=
 /white_pixel.gif?
 /wildfire/i/CIMP.gif?
+/wix-code-telemetry-collector/*
 /wix-engage-visitors-
 /wlexpert_tracker.js
 /wmxtracker.js
