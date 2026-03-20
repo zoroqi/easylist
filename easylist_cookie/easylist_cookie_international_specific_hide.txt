@@ -1481,6 +1481,7 @@ zinger-organic.com###cookie-consent-wrapper
 019mobile.co.il###cookie-except-banner
 madlan.co.il###cookie-root
 globes.co.il###cookiesConfirmDiv
+nathan-yochel.co.il###cui-banner
 soltam.co.il###dfwt-gdpr-overlay
 bigelectric.co.il###gdprCookieBar
 davidson.org.il###gnb
