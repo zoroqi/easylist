@@ -1467,7 +1467,7 @@ ertflix.gr##div[data-test="cookie-policy"]
 !
 ! ---------- Hebrew ----------
 !
-hongqi.co.il###C_popup
+alfaromeo.co.il,hongqi.co.il###C_popup
 malamteam.com###MavilixCookiesBox
 calendar.2net.co.il###UseCookies
 citroen.co.il,dsautomobiles.co.il,maccabi4u.co.il,mg-israel.co.il,opel.co.il,peugeot.co.il###ZA_CAMP_BANNER_CONTAINER
