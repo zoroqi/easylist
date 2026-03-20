@@ -1474,6 +1474,7 @@ citroen.co.il,dsautomobiles.co.il,maccabi4u.co.il,mg-israel.co.il,opel.co.il,peu
 maccabi4u.co.il###ZA_CAMP_MOBILE_CONTAINER
 meitav.co.il###ZA_CAMP_SLIDEIN_CONTAINER
 myofer.co.il###bottom-toasts-layer
+lubinskitrade.co.il###ccm-cookie-banner
 cmotors.co.il###cm-consent-banner
 tambour.co.il###cookie-consent-acf-backdrop
 impress-stores.co.il,tambour.co.il###cookie-consent-acf-modal
