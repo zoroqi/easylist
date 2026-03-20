@@ -183,6 +183,7 @@
 !
 ! ---------- Hebrew ----------
 !
+||img.zapgroup.co.il/policy/
 ||tp.triple.co.il^
 !
 ! ---------- Hungarian ----------
