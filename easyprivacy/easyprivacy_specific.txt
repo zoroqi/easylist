@@ -1721,6 +1721,7 @@
 ||t810.ctpost.com^
 ||tagger.ope.scmp.com^
 ||tagging.steelseries.com^
+||tags-event.woolworths.co.nz^
 ||tags.air1.com^
 ||tags.aljazeera.com^
 ||tags.johnlewis.com^
