@@ -512,7 +512,7 @@ scrippsnews.com##.Campaign.sewaren-campaign
 wbur.org##.Campaign__innerWrapper
 nyctourism.com##.Container_newsletterBlock__LRiMf
 westword.com##.ContentFooterNewsletterSignup
-aftermath.site,defector.com##.ContentGate_wrapper__tNtjt
+aftermath.site,defector.com,sf.gazetteer.co##.ContentGate_wrapper__tNtjt
 brighteon.com##.CoverDark
 sourcegraph.com##.CustomHubspotForm_blogForm__6LtFv
 popsugar.com,thedodo.com##.EmailAcquisitonstyles__EmailAcquisitionOuterContainer-sc-1b9duud-0
