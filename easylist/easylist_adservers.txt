@@ -16717,6 +16717,7 @@
 ||forcefulpacehauled.com^
 ||forcefulwest.com^
 ||forcepsfavissa.qpon^
+||forcepsmappensteele.qpon^
 ||forcertollon.help^
 ||fordjuly.com^
 ||fordletze.com^
@@ -41243,6 +41244,7 @@
 ||sarcasticnotarycontrived.com^
 ||sarcastscriptoechevin.cyou^
 ||sarclerwene.shop^
+||sardanaboxful.cfd^
 ||sardineabstract.com^
 ||sardineoctoberconnecting.com^
 ||sardonic-wind.com^
