@@ -46496,6 +46496,7 @@
 ||trafficmediaserver.com^
 ||trafficmoose.com^
 ||trafficshop.com^
+||traffmgnt.name^
 ||traffmovie.com^
 ||trafforsrv.com^
 ||traffprogo20.com^
