@@ -2663,6 +2663,7 @@ sibur.ru###privacyPolicy
 dzen.ru###recommend-tech-snackbar
 blsspainrussia.ru###removeCookie
 rgs.ru###rgs-main-context-bar
+sport-express.net###se-cookie-popup
 softline.ru###stripe_permission_use_cookie
 dobrodel.mosreg.ru###toast-container
 keysight-technologies.ru###uni-notification
