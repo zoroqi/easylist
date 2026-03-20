@@ -7253,6 +7253,7 @@
 ||buoyant-most.pro^
 ||buoyantbug.pro^
 ||buoyantspecial.com^
+||buoysods.qpon^
 ||bupatp.com^
 ||buphagadsnames.help^
 ||bupmqseu.com^
