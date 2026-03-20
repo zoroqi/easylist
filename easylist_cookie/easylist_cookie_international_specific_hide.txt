@@ -1478,6 +1478,7 @@ lubinskitrade.co.il###ccm-cookie-banner
 cmotors.co.il###cm-consent-banner
 tambour.co.il###cookie-consent-acf-backdrop
 impress-stores.co.il,tambour.co.il###cookie-consent-acf-modal
+ngsoft.com###cookie-consent-strip
 zinger-organic.com###cookie-consent-wrapper
 019mobile.co.il###cookie-except-banner
 madlan.co.il###cookie-root
