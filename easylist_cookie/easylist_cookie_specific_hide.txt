@@ -793,6 +793,7 @@ iflicks.in###welcome
 taiwanplus.com###welcomeMsg
 weverse.io###wevConsentManagerLayer
 johnfrederick.co.uk###wp-notification
+funnyordie.com###wpautoterms-bottom-fixed-container
 f1forgottendrivers.com###wpcg-box
 acoup.blog###wpconsent-root
 wpx.net###wpx-cookie-agreement
