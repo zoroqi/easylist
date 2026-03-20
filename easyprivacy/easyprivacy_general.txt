@@ -1565,6 +1565,7 @@
 /mpulse.min.js
 /ms-widgets/tracking-cookies/*
 /ms.analytics-web-3.min.js
+/msq.tracker.min.js
 /mtc.js
 /mtifonttracker.js
 /mtiFontTrackingCode.js

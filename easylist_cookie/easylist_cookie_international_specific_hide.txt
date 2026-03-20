@@ -1469,7 +1469,7 @@ ertflix.gr##div[data-test="cookie-policy"]
 !
 malamteam.com###MavilixCookiesBox
 calendar.2net.co.il###UseCookies
-maccabi4u.co.il###ZA_CAMP_BANNER_CONTAINER
+maccabi4u.co.il,mg-israel.co.il###ZA_CAMP_BANNER_CONTAINER
 maccabi4u.co.il###ZA_CAMP_MOBILE_CONTAINER
 meitav.co.il###ZA_CAMP_SLIDEIN_CONTAINER
 myofer.co.il###bottom-toasts-layer
