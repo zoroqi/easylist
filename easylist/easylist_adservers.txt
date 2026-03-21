@@ -1108,6 +1108,7 @@
 ||7d77f23c90.com^
 ||7d7a497317.com^
 ||7d93f9d2f5.com^
+||7de1da816b.com^
 ||7e36f9k3emnqe9xzz5xtmz.cfd^
 ||7e84b34fea.com^
 ||7e8bf019d5.com^
@@ -15431,6 +15432,7 @@
 ||f6xxn9717b1z41ipq7whw4ee.cfd^
 ||f7170e601a.com^
 ||f761efe176.com^
+||f792df8437.com^
 ||f7dcc97ce6.com^
 ||f864fdc049.com^
 ||f8ab1064b8.com^
