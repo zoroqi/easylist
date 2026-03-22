@@ -2935,6 +2935,7 @@
 ||webgames.io/imp/
 ||webmasters.ksalsocial.online/pixel/
 ||websdk.appsflyer.com^
+||onelinksmartscript.appsflyer.com^
 ||websdk.appsflyersdk.com^
 ||webservices.websitepros.com^
 ||webstats.thaindian.com^
