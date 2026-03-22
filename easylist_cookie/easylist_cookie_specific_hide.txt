@@ -1114,7 +1114,7 @@ tiltingpoint.com##.banner-217
 oceanrepublik.com##.banner-block-screen
 bitpay.com##.banner-container
 makeprintable.com##.banner-hints
-calgaryhomes.ca##.banner-message
+calgaryhomes.ca,thecrag.com##.banner-message
 nuget.org##.banner-notice
 aboutcookies.org,pinsentmasons.com##.banner-overlay
 moma.org##.banner-tray
