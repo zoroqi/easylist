@@ -8236,6 +8236,7 @@ bing.com##.b_adPATitleBlock
 bing.com##.b_algo:has(> .b_title > h2 > .b_ads1line)
 bing.com##.b_spa_adblock
 bing.com##.br-poleoffcarousel
+bing.com##.dgControl_list > li:has(.ad-label)
 bing.com##.mapsTextAds
 bing.com##.mma_il
 bing.com##.nad_ctn
