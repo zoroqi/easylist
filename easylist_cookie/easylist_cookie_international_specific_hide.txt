@@ -2383,6 +2383,7 @@ quimis.com.br###politica-box
 caixa.gov.br###politicaPrivacidade
 vagalume.com.br###privacy-policy-div
 gauchazh.clicrbs.com.br###privacy-tools-banner
+unesp.br###pu-analytics-consent-bar
 webmotors.com.br###root > .sc-bdVaJa
 rtp.pt###rtpgeralcookiecontent
 porque.com.br###termos_analytics
