@@ -2090,7 +2090,7 @@ thenewdaily.com.au##.slide-in-from-bottom
 blog.resy.com##.slot1
 fanatical.com##.small-usp-bar
 eurogamer.net,thepopverse.com,vg247.com,www.rockpapershotgun.com##.smart-slot
-thestreet.com##.smart-slot-newsletters
+athlonsports.com,mensjournal.com,thestreet.com##.smart-slot-newsletters
 suomenmaa.fi##.smm-newsletter
 secretchicago.com##.smn-banner-newsletter
 secretchicago.com##.smn-header-subscribe
