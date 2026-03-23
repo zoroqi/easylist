@@ -2459,6 +2459,7 @@
 ||t.id.net/log
 ||t.irtyc.com^
 ||t.jobsyn.org^
+||t.ltiquery.com^
 ||t.mail.sony-europe.com/r/?
 ||t.menepe.com^
 ||t.metrilo.com^

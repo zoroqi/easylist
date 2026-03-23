@@ -1481,6 +1481,7 @@
 /logviewedpage?
 /ls.gif?
 /lst/universal-script?ph=
+/lti-analytics-$script
 /lunametrics-
 /m.gif?
 /madAnalytics.js
