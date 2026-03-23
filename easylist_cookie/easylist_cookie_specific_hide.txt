@@ -832,6 +832,7 @@ classicalarchives.com##.Cdiv
 anthropic.com##.ConsentBanner-module-scss-module__0uauWW__container
 sportsnet.ca##.ConsentModal-module_consent-modal-container__nDtVX
 nordpass.com,support.nordvpn.com##.ConsentWidget__container
+wolt.com##.ConsentsBannerOverlay
 humanizeai.pro##.CoockiesBanner_cookies_container__3epvo
 jksrestaurants.com##.Cookie-message
 weverse.io##.CookieAgreeView_container__qYaK3
