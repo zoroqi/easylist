@@ -141,6 +141,8 @@ search.yahoo.co.jp##div.AiAssistant
 search.brave.com##div.ai-digest
 www.reddit.com##div.label-container > hr.trailing-divider
 www.reddit.com##div.label-container > span.trailing-content-container.has-trailing-content
+studio.youtube.com##div.screen-banners-container.yta-screen:has(button[aria-label="Go to Inspiration"])
+studio.youtube.com##div.suggestion-chips-container:has(> ytcp-creator-chat-entrypoint-chips)
 bloomberg.com##div[class^="SummaryOnlyTakeaways_takeaways__"]
 google.com##div[data-rp-placement-id="gemkick-pep-icon-callout-id"]
 docs.github.com#?#.prc-ActionList-GroupHeadingWrap-pfbd9:has-text(Ask Copilot)
@@ -163,6 +165,7 @@ republicworld.com#?#.desktop\:my-4:has-text(Show Quick Read)
 search.yahoo.com#?#.disclaimerBadge:has-text(Summaries)
 stackoverflow.com#?#.as-start.fd-column:has-text(Get instant answers)
 stackoverflow.com#?#.bg-white.wmx7:has-text(AI Assist)
+studio.youtube.com#?#ytcp-menu-service-item-renderer:has-text("Brainstorm video ideas")
 search.brave.com#?##submit-llm-button:has-text(Ask)
 support.google.com#?#.helpPanelContainerRoot:has-text(Help guide)
 vercel.com#?#.mt-3 button:has-text("Ask AI")
@@ -173,6 +176,7 @@ www.google.com#?#[data-hveid="CAIQAQ"]:has-text(Gemini, an AI assistant)
 www.reddit.com#?#.search-answers-preview-section:has-text(Answers)
 www.yahoo.com#?#.dark\:bg-\[\#1d2228\].leading-5:has-text(See a mistake?)
 www.youtube.com##yt-video-description-youchat-section-view-model
+studio.youtube.com##ytcp-creator-chat-trigger
 www.youtube.com##ytd-talk-to-recs-flow-renderer
 ! Network items
 ||askmiso.com^$third-party

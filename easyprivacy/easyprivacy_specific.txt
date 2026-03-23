@@ -1227,6 +1227,7 @@
 ||online-umwandeln.de/analytics.js
 ||online.marketing/a.js
 ||ontraport.com/opt_assets/static/js/logging.js
+||op.dragonfru.it^
 ||opendesktop.org/l/fp
 ||ophan.theguardian.com^
 ||oppo.com/api/country
@@ -1315,7 +1316,6 @@
 ||plausible.bots.gg^
 ||plausible.corsme.com^
 ||plausible.dragonfru.it^
-||op.dragonfru.it^
 ||plausible.omgapi.org^
 ||plausible.safing.io^
 ||plausible.tubemagic.com^
