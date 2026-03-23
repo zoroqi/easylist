@@ -3808,6 +3808,8 @@ acogo.pl,alcatelmobile.com,alpedhuez.com,apotheke-villingen.de,audirvana.com,ban
 elfshare.com,tickazilla.com##.uk-notify-message
 !! sellpy
 sellpy.at,sellpy.com,sellpy.de,sellpy.dk,sellpy.fi,sellpy.nl,sellpy.se##.gUbXEK
+!! .cm-overlay
+viennapte.pl##.cm-overlay
 ! .z-50
 bairesdev.com,bootstrap.academy,doppelherz.com,energydashboard.co.uk,freelway.com,help.adjust.com,livecounts.io,natron.energy,perspectives.plus##.z-50
 ! groupon
