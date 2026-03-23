@@ -101,6 +101,7 @@
 ||jzzo.com/jss/cp01.js
 ||kayak.*/privacy/
 ||kotaku.com/wrapper/*/gdpr/$xmlhttprequest,domain=kotaku.com
+||kwik-fit.com/js/cookie-settings.js
 ||lacompagnie.com/Content/dist/templates/common/popupCookies/
 ||lilysilk.com^*/cookie.min.js
 ||liquidweb.com/ajax/dataconsentcookies

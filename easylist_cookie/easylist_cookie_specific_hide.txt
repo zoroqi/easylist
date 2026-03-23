@@ -1467,6 +1467,7 @@ eagle.cool##.cookie-promt
 lenovo.com##.cookie-remind-warpper
 mymetpolicepension.equiniti.com##.cookie-section-fixed-top
 loods5.nl,outfit7.com,tkhgroup.com##.cookie-settings
+kwik-fit.com##.cookie-settings-message
 snappyshopper.co.uk##.cookie-snackbar
 cloud.vmware.com##.cookie-usage-banner
 chatspin.com,flingster.com##.cookie-use-notice
