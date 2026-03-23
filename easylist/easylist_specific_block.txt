@@ -118,6 +118,7 @@
 ||calmclinic.com/srv/
 ||caranddriver.com/inventory/
 ||cards.thriftytraveler.com/widget/
+||castoola.tv^*/ads/$domain=sabc-plus.com
 ||cd.thecontentserver.com^$domain=ratemyprofessors.com
 ||cdn.dmtgvn.com/wrapper/js/manager.js$domain=rt.com
 ||cdn.http.anno.channel4.com/m/1/$media,domain=uktvplay.co.uk
