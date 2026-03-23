@@ -2221,6 +2221,7 @@ boredpanda.com,todayonline.com##.subscription-block
 cnevpost.com##.subscription-container
 placenorthwest.co.uk##.subscription-cta__wrapper
 blog.phylum.io,newyorker.com##.subscription-form
+ibm.com##.subscription-form-inline
 tripsavvy.com##.subscription-island--home
 broadsheet.com.au##.subscription-modal
 takimag.com##.subscription-section
