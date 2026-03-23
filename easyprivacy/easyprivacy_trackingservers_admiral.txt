@@ -673,6 +673,7 @@
 ||firstendpoint.com^
 ||firstscreenshot.com^
 ||fishersfinds.com^
+||fishingtoolsbox.com^
 ||fitmessage.com^
 ||fitnessmapper.com^
 ||fivesidedsquare.com^
