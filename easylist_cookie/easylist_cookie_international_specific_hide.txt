@@ -293,7 +293,6 @@ foodjobs.de##.ckOuter
 boley.de##.ckmsg
 sberbankdirect.de##.cm
 alex-fm.de,nahkampfkunst.de,naturheilpraxis-schweig.de##.cm-cookie-container
-landkreis-mittelsachsen.de##.cm-overlay
 hifi-janssen.de##.cm-wp-container
 immoscout24.ch##.cmOzGN
 ihk-weiterbildung.de##.cmnstr
@@ -2197,7 +2196,6 @@ discovereurope.esn.pl##.c__cake
 prohibita.pl##.ciachbtm-wrap-container
 vod.warszawa.pl##.cjcVDw
 forumrowerowe.org##.ckg
-agora.pl##.cm-overlay
 aterima-work.pl##.cm-popup-wrapper
 pracuj.pl##.cmulq7z
 sklep.szprychy.com##.config-messages
