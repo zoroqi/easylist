@@ -1075,6 +1075,7 @@
 /geoip_cc
 /geoLocationData/v1/*
 /geov2.js
+/get/live/web/_/*$script,~third-party
 /get_geoip?
 /get_site_data?requestUUID=
 /getbglog.js
