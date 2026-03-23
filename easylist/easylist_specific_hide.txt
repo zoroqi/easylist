@@ -1521,6 +1521,7 @@ goodmenproject.com##.GMP_728_top
 yiv.com##.GUIAdvertisement
 harveynorman.com.au##.GelBrickHomePage_gam360-homepage-top-promo-banner-container__DKVgi
 meduza.io##.GeneralMaterial-module-aside
+inforum.com##.GoogleDfpAd-advertisement
 coin360.com##.GuYYbg
 seattletimes.com##.H0FqVZjh86HAsl61ps5e
 news18.com##.Had262x218
