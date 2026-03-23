@@ -1956,6 +1956,7 @@
 ||play.adtonos.com^
 ||play.ht/views/
 ||player-metrics.instaread.co^
+||player.mangomolo.com/stats/
 ||player.ooyala.com/errors/report?
 ||player.target-video.com/player/build/plugins/googleanalytics/
 ||playhop.com/clck/
