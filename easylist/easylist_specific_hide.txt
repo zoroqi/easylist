@@ -3073,6 +3073,7 @@ medscape.com##.desktop-ad-position
 cricketnmore.com##.desktop-ad-wrapper
 ixbt.games##.desktop-c
 vitalmtb.com##.desktop-header-ad
+datetimego.com##.desktop-only
 rok.guide##.desktop-promo-banner
 tiermaker.com##.desktop-sticky
 buzzfeed.com,buzzfeednews.com##.desktop-sticky-ad_desktopStickyAdWrapper__a_tyF
@@ -4261,6 +4262,7 @@ bhg.com,eatingwell.com,realsimple.com,southernliving.com##.mntl-notification-ban
 thoughtco.com##.mntl-outbrain
 procyclingstats.com##.mob-ad
 businessplus.ie##.mobile-mpu-widget
+datetimego.com##.mobile-only
 forbes.com##.mobile-sticky-ed-placeholder
 wordreference.com##.mobileAd_holderContainer
 pcmacstore.com##.mobileHide
