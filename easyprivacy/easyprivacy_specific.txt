@@ -142,6 +142,7 @@
 ||analytics.ml.homedepot.ca^
 ||analytics.morphe.software^
 ||analytics.mouthshut.com^
+||analytics.netralex.com^
 ||analytics.nike.com^
 ||analytics.ovh.com^
 ||analytics.oyorooms.com^
