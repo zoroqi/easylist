@@ -3057,7 +3057,7 @@ adshares.net,emerald.com,fadc.org.br,forit.ro,my-twist.tempurl.co.il,tece.co.il#
 !! #cookies-policy
 libre-media.com,pharmacyclub.net,zonaprop.com.ar###cookies-policy
 !! __tealiumModalParent
-calvinklein.ca,calvinklein.us###__tealiumModalParent
+calvinklein.ca,calvinklein.us,tommy.com###__tealiumModalParent
 !! __tealiumGDPRcpPrefs
 austrian.com,comparethemarket.com,gsk.com,pepperl-fuchs.com###__tealiumGDPRcpPrefs
 !! .cookie-consent-banner
