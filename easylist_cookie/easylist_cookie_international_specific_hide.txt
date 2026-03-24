@@ -3439,7 +3439,7 @@ hosting.com.tr##.contract-popup
 soneksbilgisayar.com##.cookie-agreement-module
 hepsijet.com##.cookie-policy_cookiePolicy__9xbaz
 pinarsu.com.tr##.cookieContent
-beinsports.com.tr##.cookie_cookieConsentWrapper__jDLdN
+beinsports.com.tr##div[class*="cookie_cookieConsentWrapper"]
 ensonhaber.com##.cookiepolicy-banner
 e-bargello.com,pt.com.tr##.cp
 neredekal.com##.css-1fl0mfv
