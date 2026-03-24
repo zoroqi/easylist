@@ -1426,6 +1426,7 @@ anycubic.com##.cookie-drawer
 evoto.ai##.cookie-drawer-container
 tachyon.eco##.cookie-exp
 beautybay.com##.cookie-focus
+finder.com##.cookie-footer-bar
 amu.edu.pl##.cookie-information
 spacenighthotel.top##.cookie-locker
 answerthepublic.com##.cookie-main
