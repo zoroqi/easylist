@@ -1694,6 +1694,7 @@
 ||t.9gag.com^
 ||t.airasia.com^
 ||t.allmodern.com^
+||t.almayadeen.net^
 ||t.appsflyer.com^
 ||t.av.st^
 ||t.birchlane.com^
