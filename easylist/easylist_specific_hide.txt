@@ -8008,6 +8008,7 @@ yahoo.com##.Feedback
 www.yahoo.com##.ad-container
 finance.yahoo.com##.ad-lrec3
 yahoo.com##.ads
+yahoo.com##.bg-marshmallow:has(.ad-container)
 sports.yahoo.com##.btm-sda
 yahoo.com##.caas-da
 yahoo.com##.col-fullbleed.md\:invisible.md\:overflow-hidden
@@ -8031,6 +8032,7 @@ yahoo.com##.searchCenterBottomAds
 yahoo.com##.searchCenterTopAds
 search.yahoo.com##.searchRightBottomAds
 search.yahoo.com##.searchRightTopAds
+yahoo.com##.sticky.bottom-0:has(.ad-container)
 yahoo.com##.sys_shopleguide
 yahoo.com##.top-\[92px\]
 yahoo.com##.viewer-sda-container
