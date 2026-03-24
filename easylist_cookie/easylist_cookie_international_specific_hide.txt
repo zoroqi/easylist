@@ -1820,6 +1820,7 @@ stihl.it##.optin
 figuredart.it##.otCookiesNotification
 oggi-in-tv.it##.privacy-msg
 italradio.org##.privacyStatement
+metooo.io##.privacybottombar
 peer.tv##.rain1-cp-container
 rds.it##.rds-modal-popup
 casevacanza.it##.react-onclickoutside
