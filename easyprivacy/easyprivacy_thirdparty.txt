@@ -790,6 +790,7 @@
 ||convertflow.co^*/visitors/
 ||convertkit.com^*/visit
 ||cookie-guard-erdee.ey.r.appspot.com^
+||cookiechimp.com/api/v1/visitors
 ||cookies.livepartners.com^
 ||cookiex.ngd.yahoo.com^
 ||copyrightcontent.org/e/
