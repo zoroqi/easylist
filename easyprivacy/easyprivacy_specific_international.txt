@@ -1873,6 +1873,7 @@
 ||servernews.ru/track?
 ||sibnet.ru/counter.php?
 ||ssp.rambler.ru^
+||st.nic.ru^
 ||st.ozone.ru/s3/ozon-tag-manager/
 ||start.ru/logger/
 ||stat.5-tv.ru^
