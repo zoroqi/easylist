@@ -827,6 +827,7 @@ guilded.gg##.BottomFixedBanner-container
 revolut.com##.Box-rui__sc-1g1k12l-0.Position-rui__sc-nh2ik7-0.OverlayBase__InternalOverlayBase-rui__sc-1722mr-0.hENskt.esoueV.hszaeV
 bgextras.co.uk##.CB393_opts
 napaonline.com##.CCPA
+christianbook.com##.CCPA-Drawer
 classicalarchives.com##.Cdiv
 2nt.com,say-move.org##.CoZ9Nu8Z
 anthropic.com##.ConsentBanner-module-scss-module__0uauWW__container
