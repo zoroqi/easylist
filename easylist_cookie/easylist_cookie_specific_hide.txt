@@ -1838,6 +1838,7 @@ keyboard.cool##.gdpr-nag
 ecwid.com,liberties.eu##.gdpr-window
 terro.com,woodstreambrands.ca##.gdpr-wrap
 curacao.com##.gdprConsent
+vagaro.com##.gdprCookies-banner
 doteasy.com,mochahost.com##.gdprTheme
 chillychiles.com,shop.animalbiome.com##.gdpr__holder
 mitac.com##.gdpr_block
