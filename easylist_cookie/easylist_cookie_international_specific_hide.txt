@@ -2894,6 +2894,7 @@ datasystem.ru##.specialAlert
 nergb.ru##.spu-bottom-left
 forumdaily.com##.stpl_cookies_wrap
 tutu.ru##.style__disclaimer
+sberbank.ru##.style_cookieContainer__YEzG_
 zr.ru##.styled__CookieDisclaimerContainer-sc-43a78382-7
 cloud.ru##.styles-module-scss-module__7mbI1G__cookie_policy
 ingrad.ru##.styles-module__cookiesWarning--2mfHC
