@@ -2340,7 +2340,7 @@ powerreviews.com##.prd-wrap
 ultimaker.com##.preferences-bar
 alhambrafabrics.com##.preview-cookies-alert
 easyeda.com##.priv-tips
-ambassador-enterprises.com,aweray.com,cbc.ca,dailyselect.co.uk,febrasgo.org.br,ferrerocareers.com,focustaiwan.tw,habitatgfw.com,lcsc.com,ridegoshare.com##.privacy
+ambassador-enterprises.com,aweray.com,cbc.ca,dailyselect.co.uk,febrasgo.org.br,ferrerocareers.com,focustaiwan.tw,habitatgfw.com,lcsc.com,ridegoshare.com,trashbox.ru##.privacy
 shoppersdrugmart.ca##.privacy-agreement
 flyscoot.com##.privacy-bar
 luisaviaroma.com##.privacy-box
