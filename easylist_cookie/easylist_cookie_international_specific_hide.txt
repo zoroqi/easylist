@@ -2645,6 +2645,7 @@ iz.ru###cookies-panel
 pridegym.fit###cookinfowin
 moscow-newbalance.ru###form-accept-cookie
 bki-okb.ru###indexis-cookies-consent-wrapper
+nic.ru###inform-notification
 patee.ru###informer2
 rarus.ru###js-section__policy
 fastbox.su###jsUsePersonalDataBlock
