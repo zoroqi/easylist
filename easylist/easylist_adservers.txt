@@ -3318,6 +3318,7 @@
 ||b4c73f11d0.com^
 ||b51zi8k55mmo5wq6qkpmbwyjt8xfmxogt2r3y.cfd^
 ||b58ncoa1c07f.com^
+||b5bgvrouookzff.rest^
 ||b5e17bdf06.com^
 ||b60756935f.com^
 ||b681514051.com^
@@ -5172,6 +5173,7 @@
 ||cancannicolas.com^
 ||cancanswimble.qpon^
 ||canceltrustingunderuse.com^
+||candelaislebespit.qpon^
 ||candid-cell.pro^
 ||candid-dress.com^
 ||candiddugprecedent.com^
