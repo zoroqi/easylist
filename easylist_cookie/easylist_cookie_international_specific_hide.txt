@@ -3439,7 +3439,6 @@ hosting.com.tr##.contract-popup
 soneksbilgisayar.com##.cookie-agreement-module
 hepsijet.com##.cookie-policy_cookiePolicy__9xbaz
 pinarsu.com.tr##.cookieContent
-beinsports.com.tr##div[class*="cookie_cookieConsentWrapper"]
 ensonhaber.com##.cookiepolicy-banner
 e-bargello.com,pt.com.tr##.cp
 neredekal.com##.css-1fl0mfv
@@ -3472,6 +3471,7 @@ womm.com.tr##.style_cookie__UNiBi
 sozcu.com.tr##.using-cookie
 fikriyat.com,sabah.com.tr,yeniasir.com.tr##.veriAltBar
 yenisafak.com##.ys-cookie-modal
+beinsports.com.tr##div[class*="cookie_cookieConsentWrapper"]
 sekerbank.com.tr##div[class^="cookiebox_cookieBox"]
 trtspor.com.tr##div[class^="cookies-info_"]
 macrocenter.com.tr,migros.com.tr,tazedirekt.com##fe-product-cookie-indicator
