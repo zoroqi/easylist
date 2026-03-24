@@ -2961,6 +2961,7 @@ chapelle.co.uk,mtis.by,museum.nl,pyszne.pl##.cookie-overlay
 ! wildcard
 cam4.*##.EEoPD
 evertiq.*##.cc-container
+twinkl.*##.cookie-consent-popup-container
 alza.*##.cookies-info
 wildberries.*##.fixed-block__cookies
 track.amazon.*##.wfbHK2
