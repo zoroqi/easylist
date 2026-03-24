@@ -1731,7 +1731,7 @@ airproducts.co.uk##.eu-dp
 componentsearchengine.com##.eu-message
 hotelesmares.com,niedersteinhof.it,skinmc.net##.eu-popup
 prospan.com.au##.eu-privacy
-cognizantee.tekstac.com##.eupopup-container
+cognizantee.tekstac.com,xbox-store-checker.com##.eupopup-container
 kromgaming.com##.eupouY
 bojoko.com##.evt-notification-bottom
 ezil.me##.ew776696
