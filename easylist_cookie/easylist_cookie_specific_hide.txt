@@ -1459,7 +1459,7 @@ vmock.com##.cookie-policy-modal
 oddsscanner.com##.cookie-policy-pop-up
 chicco.co.uk##.cookie-pop-up-wrapper
 slidelizard.com##.cookie-popup-dialog
-acquire.io,adelphi.ai,brkfree.com,casey-tanner.com,dfine.at,esim.guru,kiron.ngo##.cookie-popup_component
+acquire.io,adelphi.ai,bibliocommons.com,brkfree.com,casey-tanner.com,dfine.at,esim.guru,kiron.ngo##.cookie-popup_component
 up.ac.za##.cookie-preferences-container
 lavueltaholanda.com##.cookie-prefs-wrapper
 ixl.com##.cookie-privacy-banner-container
