@@ -684,6 +684,7 @@ larksuite.com###sc-cookie-banner
 gizmodo.com###sd-cmp
 seetickets.com###seeGdprCookieConsent
 fcc-group.eu###set-win-coo
+halara.com###set_cookies_module
 sentaifilmworks.com###sfw-msg
 nac-philippines.org###sgcboxWrapper
 neuroleadership.com###sgcolorbox
