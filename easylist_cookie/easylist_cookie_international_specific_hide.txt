@@ -2766,7 +2766,6 @@ invitro.ru##.cookie--popup
 supersamsev.ru##.cookie-consent-container-wrap
 lk-new.vtbnpf.ru##.cookie-layout
 rutube.ru##.cookie-message-module__cookie-consent
-1cbit.ru,timeweb.com##.cookie-panel
 sponsr.ru##.cookie-site-alert
 fc-baltika.ru##.cookie-wrap
 korusconsulting.ru##.cookieConfirm
