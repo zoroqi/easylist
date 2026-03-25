@@ -2627,7 +2627,6 @@ startsmile.ru###access_cookie
 spbtvonline.ru###agreeC
 clinic3.ru###agreedBanner
 gazeta-n1.ru###bdModalCookie
-smi2.ru##div[data-sentry-component="CookieBtn"]
 ecolipetsk.ru###bg_popup
 bankinform.ru###bisCookieCompliance
 hh.ru###bottom-cookies-policy-informer
@@ -2958,6 +2957,7 @@ asna.ru##div[class^="modalCookies_"]
 rencredit.ru##div[data-attention-id="3420"]
 yoomoney.ru##div[data-qa="gdpr"]
 youdo.com##div[data-sentry-component="AccessCookies"]
+smi2.ru##div[data-sentry-component="CookieBtn"]
 russianfield.com##div[data-storage-item^="t886cookiename_"]
 knmoloko.ru##div[data-storage-item^="t887cookiename_"]
 litres.ru##div[data-testid="cookieAcceptPopup"]
