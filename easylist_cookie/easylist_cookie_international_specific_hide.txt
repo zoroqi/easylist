@@ -2354,6 +2354,7 @@ trf4.jus.br###divDetalhesPoliticaPrivacidade
 bairroarte.com###dvcookie
 conhecimento.fgv.br,portal.fgv.br###fgv-lgpd
 goldpet.pt###goldpopup
+simplic.com.br###home-page--how-it-works
 ibp.org.br###ibp-container-footer
 abitam.com.br###jsContentLGPD
 infopedia.pt###klaro-pe-overlay
