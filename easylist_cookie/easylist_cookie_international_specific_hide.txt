@@ -2264,6 +2264,7 @@ dlapacjenta.pl,lomixshop.pl##.notice_bar
 urbancity.pl##.notification-alert-wrapper
 ucando.pl##.notifications
 eltrox.pl##.overlay-gdpr
+wtp.waw.pl##.page-consent
 bilkom.pl##.policy
 mein-schauinsland.de##.popup-top-header
 masz.eu##.popupContent
