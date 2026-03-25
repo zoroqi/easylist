@@ -2627,6 +2627,7 @@ startsmile.ru###access_cookie
 spbtvonline.ru###agreeC
 clinic3.ru###agreedBanner
 gazeta-n1.ru###bdModalCookie
+smi2.ru##div[data-sentry-component="CookieBtn"]
 ecolipetsk.ru###bg_popup
 bankinform.ru###bisCookieCompliance
 hh.ru###bottom-cookies-policy-informer
