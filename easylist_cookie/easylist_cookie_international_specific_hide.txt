@@ -3155,6 +3155,7 @@ risketosnomaschetos.es##.barraCookies
 ciudadanos-cs.org##.basic--draw-cookie-message-bar-notice
 ciudadanos-cs.org##.basic--draw-cookie-message-bar-notice--page-content-layer
 queway.es##.basicLightbox
+viabcp.com##.bcp_politica_uso_cookieAdobe
 sinfonicadegalicia.com##.bg-overlay
 franquiciasmalvon.com,malvon.es##.bg_popup
 resultados-futbol.com##.blur-cookies
