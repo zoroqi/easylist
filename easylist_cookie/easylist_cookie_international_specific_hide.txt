@@ -3533,6 +3533,7 @@ myorbit.id##[style="align-items: center; background-color: rgb(237, 245, 252); p
 !
 vdes.vn##.cookieBanner_show__1E8Dj
 ants.vn##.sg-popup-content
+fptshop.com.vn##[data-cookie-consent-modal="true"]
 !
 ! ---------- Welsh ----------
 !
