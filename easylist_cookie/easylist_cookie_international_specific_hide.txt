@@ -2639,6 +2639,7 @@ gazprombank.ru###cookie-accept
 cardiovascular.elpub.ru###cookie-banner-wrapper
 ria-m.tv###cookie-msg
 companies.rbc.ru###cookie-popup
+violity.com###cookieConsentPopup
 aeroflot.ru###cookieInfo
 abok.ru###cookieNotice
 itweek.ru###cookie_notification
