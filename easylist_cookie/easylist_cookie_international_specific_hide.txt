@@ -2560,6 +2560,7 @@ shopee.com.br##.zsav9a
 plurall.net##[class^="PrivacyFooter_"]
 toyota.com.br##[class^="styles_molecule__cookies-"]
 ferreiracosta.com##[data-cy="container-modal-cookie"]
+havan.com.br##[data-role="gdpr-cookie-container"]
 autocompara.com.br##ac-cookie-consent
 privacy.com.br##alert
 band.com.br##app-opt-in
