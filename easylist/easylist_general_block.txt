@@ -84,6 +84,7 @@
 .today/process.js?id=
 .top/cuid/?$third-party
 .top/gd/*?md=$third-party
+/88/tag.min.js
 /?abt_opts=1&
 /?fp=*&poru=$subdocument
 /?view=ad
