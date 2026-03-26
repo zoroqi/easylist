@@ -3134,6 +3134,7 @@ lacentral.com###page-overlay
 scherzo.es###pdcc-modal-bg
 compartamos.com.mx###polCook
 palma.es###popupConsent
+portal.edu.gva.es###portaledu-policy-banner
 tusclasesparticulares.com###pp
 esenviseu.net###qLtempOverlay
 montepiedad.com.mx###static-cover
