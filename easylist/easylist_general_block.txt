@@ -792,7 +792,6 @@
 ://s.*.com/venor.php$third-party
 ://sli.*/imp?s=$image
 ://uads.$third-party,xmlhttprequest
-?ab=1&zoneid=
 ?adl=1*&id=$script,subdocument,~third-party
 ?adspot_$domain=~sponichi.co.jp
 ?advertiser_id=$domain=~ads.pinterest.com
