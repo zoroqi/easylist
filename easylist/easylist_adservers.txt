@@ -48275,6 +48275,7 @@
 ||visitstats.com^
 ||visitweb.com^
 ||visorystey.cyou^
+||visswajang.cyou^
 ||vistaseventhunkind.com^
 ||vistoolr.net^
 ||visualbowlaaband.qpon^
