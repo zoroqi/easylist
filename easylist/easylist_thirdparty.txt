@@ -424,6 +424,7 @@
 ||omguk.com/impression/
 ||onlinepromogift.com^
 ||onnetwork.tv/widget/
+||onrender.com/api/ads/
 ||ooproxy.azurewebsites.net^$xmlhttprequest,domain=imasdk.googleapis.com
 ||opti-digital.com/js/presync.html
 ||optimizer.apiswidget.com^
