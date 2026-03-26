@@ -96,6 +96,7 @@
 /ad--unit.htm|
 /ad-choices-$image
 /ad-choices.png$image
+/ad-container-bundle.js
 /ad-scripts--$script
 /ad-scroll.js$script
 /ad-server.$~script
