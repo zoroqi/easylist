@@ -3202,7 +3202,7 @@ freshcart.se,ninelife.no,store.pw.live##.FeatureBar_root___INU8
 !! .v-overlay
 abnt.org.br,adressen.schober.de,andyguitar.co.uk,bimedis.ru,ichbindeinauto.de,order.fiveguys.fr,promotionbasis.de,rypsv.scot,trustpid.com##.v-overlay
 !! Cookie_
-10x.co.za,appmetrica.yandex.com,sook.space##[class^="Cookie_"]
+10x.co.za,afpintegra.pe,appmetrica.yandex.com,sook.space##[class^="Cookie_"]
 !! .tws-accept-cookies--wrapper
 antiquebike.se,davidsonsskomakeri.com,rocksmineral.se,smallgarden.hu,talkymode.com##.tws-accept-cookies--wrapper
 !! .cookie123-popup
