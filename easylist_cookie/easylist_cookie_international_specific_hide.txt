@@ -3485,6 +3485,7 @@ womm.com.tr##.style_cookie__UNiBi
 sozcu.com.tr##.using-cookie
 fikriyat.com,sabah.com.tr,yeniasir.com.tr##.veriAltBar
 yenisafak.com##.ys-cookie-modal
+trt1.com.tr##[class^="cookies-info_cookies-info-wrapper"]
 beinsports.com.tr##div[class*="cookie_cookieConsentWrapper"]
 sekerbank.com.tr##div[class^="cookiebox_cookieBox"]
 trtspor.com.tr##div[class^="cookies-info_"]
