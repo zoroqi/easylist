@@ -836,6 +836,8 @@ _reklama_$domain=~youtube.com
 /d3d3LnNtaXRoc29uaWFubWFnLmNvbQ.js$third-party
 /d3d3Lnplcm9ncHQuY29t.js$third-party
 /dGhlZnJlZWJpZWd1eS5jb20.js$third-party
+://0.*.*.com/papi/$script,xmlhttprequest
+://0.*.*.com/player/$script,xmlhttprequest
 ://0.www.*/player/*/a/$third-party,xmlhttprequest
 ://0.www.*/player/*/m/$script,third-party
 ://0.www.*/players/*/-1/$script,third-party,xmlhttprequest
