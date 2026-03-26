@@ -895,7 +895,6 @@ news.pts.org.tw##.cookie-flex
 sf-express.com##.cookie-policy_cookiePolicyWrapper__cwbwV
 bewildcard.com##.cookie-policy_cookiePolicy__iVL65
 hozonauto.com##.cookie-tips
-cht.com.tw##.cookie-wrap
 hkbu.edu.hk##.cookies-consent-banner
 unity.cn##.cookies-permission_2kEyTVGb
 news.tvb.com##.cookiesAgreeContainer
@@ -2772,7 +2771,6 @@ supersamsev.ru##.cookie-consent-container-wrap
 lk-new.vtbnpf.ru##.cookie-layout
 rutube.ru##.cookie-message-module__cookie-consent
 sponsr.ru##.cookie-site-alert
-fc-baltika.ru,sterlegrad.ru##.cookie-wrap
 korusconsulting.ru##.cookieConfirm
 rusnano.com##.cookie__in
 gostest.com##.cookie__open
