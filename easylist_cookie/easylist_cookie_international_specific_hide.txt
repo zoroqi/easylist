@@ -1938,6 +1938,8 @@ vroid.com##div[class^="GDPR__Container-"]
 ! ---------- Korean ----------
 !
 kayak.co.kr###Ag6p
+aion2.plaync.com###gCookieConfirmDimmed
+aion2.plaync.com###gCookieConfirmToast
 kotra.or.kr##.cookiePopArea
 !
 ! ---------- Latvian ----------
