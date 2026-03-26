@@ -4343,6 +4343,7 @@ marijuanamoment.net##.mvp-widget-ad
 malwaretips.com##.mwt_ads
 invezz.com##.mx-auto
 smallseotools.com##.mx-auto.d-block
+mangapill.com##.mx-auto.m-3.z-0
 theawesomer.com##.mxyptext
 decrypt.co##.my-10.xl\:flex.justify-center
 standardmedia.co.ke##.my-2
