@@ -284,7 +284,7 @@ bulgarianproperties.com###cookie_bar_new
 1fichier.com###cookie_box
 semiconductor.samsung.com###cookie_component
 semiconductor.samsung.com###cookie_component_emea
-comscore.com,domainname.shop,givengain.com,kiwi.com,mkchulin.cz,mzanzisolutions.co.za,uscareerinstitute.edu###cookie_consent
+betsapi.com,comscore.com,domainname.shop,givengain.com,kiwi.com,mkchulin.cz,mzanzisolutions.co.za,uscareerinstitute.edu###cookie_consent
 khronos.org###cookie_decline
 sendgb.com###cookie_disabled
 halcyon.net,santionduty.com###cookie_info
