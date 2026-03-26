@@ -1280,6 +1280,7 @@
 ||adat.travelo.hu^
 ||adat.veol.hu^
 ||adat.videa.hu^
+||arukereso.hu/*.impression?tt=
 ||beam.telex.hu^
 ||events.ingatlan.com^
 ||hirtv.hu/ajaxx/_stat/
