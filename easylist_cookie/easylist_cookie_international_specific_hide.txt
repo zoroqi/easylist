@@ -164,7 +164,6 @@ blauarbeit.de###messages-container
 meinegirokarte.de,vimpay.eu###modalBackground
 meinegirokarte.de,vimpay.eu###modalCookieAcceptance
 starmix.de###muffin
-roehnfried.de###myCookie
 hartz.info###my_privacy_policy
 newsaktuell.de###nacc-container
 newsaktuell.de###nacc-overlay
@@ -938,7 +937,6 @@ dokutv.net###cmp_overlay
 liberal.hr###footer
 vindija.hr###gdpr-overlay
 iarh.hr###kukijima
-m.hak.hr###myCookie
 tzdubrovnik.hr###mygdprPopupHR
 goe.irb.hr,istra24.hr###ng-cc
 biserzagorja.hr,charlotte.hr,eper.com.hr,interpreta.hr###page-disable

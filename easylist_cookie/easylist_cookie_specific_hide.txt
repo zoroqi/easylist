@@ -3193,6 +3193,8 @@ acierto.com,boozt.com,cws.com,jcb.com,postcodelottery.co.uk,visitbritainshop.com
 blueislands.com,dmas.virginia.gov,eduroam.ba,ewswa.org,getselfhelp.co.uk,haltonpolice.ca,lethbridge.ca,merthyr.ac.uk,mfy.org.uk,netsupportdemo.nl,pedicurereinajansen.nl,povv.be##.usn-notification
 !! #modal
 global.jcb,jcbeurope.eu,lueur.org,picnic.app###modal
+!! #myCookie
+m.hak.hr,roehnfried.de###myCookie
 !! #cookie_dialog
 iospress.com###cookie_dialog
 !! .consent-manager
