@@ -1282,6 +1282,7 @@
 ||adat.videa.hu^
 ||arukereso.hu/*.impression?tt=
 ||beam.telex.hu^
+||checkout.arukereso.hu^$ping
 ||events.ingatlan.com^
 ||hirtv.hu/ajaxx/_stat/
 ||hirtv.hu/nx_general_stat.jpg?
