@@ -3106,7 +3106,7 @@ action.pl,appartementamsterdam.nl,bestbuycyprus.com,cambridge.org,deakin.edu.au,
 !! .cookie-accept
 autocango.com##.cookie-accept
 !! #cookie-popup
-creamher.com,dorotheum.com,inform-ua.info,klops.ru,mrluckyraw.com,rospotrebnadzor.ru,spizoo.com###cookie-popup
+creamher.com,dorotheum.com,inform-ua.info,klops.ru,mrluckyraw.com,rospotrebnadzor.ru,spizoo.com,supersport.hr###cookie-popup
 !! #consentManager
 privateproperty.co.za###consentManager
 !! aria-label="cookieconsent"
