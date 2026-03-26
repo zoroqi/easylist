@@ -7932,7 +7932,6 @@ thepinknews.com##.video-player__container
 tasty.co##.video-wrap
 miamiherald.com##.videoInstance
 dpreview.com##.videoWrapper
-consequence.net##.video_container
 gbnews.com,marketscreener.com##.vsly-player
 destructoid.com,wegotthiscovered.com##.wp-block-gamurs-ad
 f1oversteer.com##.wp-block-grvmedia-grv-video
