@@ -2985,6 +2985,7 @@ twinkl.*##.cookie-consent-popup-container
 alza.*##.cookies-info
 wildberries.*##.fixed-block__cookies
 track.amazon.*##.wfbHK2
+jumia.*##[data-pop-id="consentPopup"]
 ripley.*##div[class^="cookiesMessage_"]
 wayfair.*##div[data-hb-id="Modal"] > div > [data-test-id="CookiePreferenceNotification"]
 !! .cookiesBanner
