@@ -1276,6 +1276,7 @@ currencyrate.today##.cc-alert
 citymapia.com##.cc-backdrop
 viralnova.com##.cc-banner
 coopsleepgoods.com,dirdirect.com,koodous.com,nuts.com,rotapanel.com##.cc-bottom
+speedof.me##.cc-consent-toast
 cambridgeinternational.org,cattoiauto.com,myo.it,trafficengland.com##.cc-cookies
 wallpapershome.com##.cc-dialog
 download.pixelexperience.org##.cc-dismiss.cc-btn
