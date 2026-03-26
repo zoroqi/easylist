@@ -3399,6 +3399,7 @@ newser.com##.fs-sticky-footer
 bossip.com##.fsb-desktop
 bossip.com##.fsb-toggle
 ghacks.net##.ftd-item
+speedof.me##.ftl-zone
 familytreenow.com##.ftn_detail_mid_one
 familytreenow.com##.ftn_detail_mid_two
 newser.com##.fu4elsh1yd
