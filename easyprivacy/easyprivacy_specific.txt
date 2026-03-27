@@ -222,6 +222,8 @@
 ||autoblog.com/.api/admiral
 ||autotrader.com/*/pep?pixallId
 ||autotrader.com/pixall/
+||aviasales.*-analytics.
+||aviasales.*/analytics_pv.
 ||avitop.com/aviation/hitlist.asp
 ||b2c-unleash-proxy.fresha.com^
 ||b629.electronicdesign.com^
