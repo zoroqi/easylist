@@ -6792,6 +6792,7 @@
 ||colasduskaedine.cyou^
 ||colauxereplait.shop^
 ||cold-foot.pro^
+||cold-telephone.pro^
 ||colderembost.cyou^
 ||coldflownews.com^
 ||coldnessswarthyclinic.com^
