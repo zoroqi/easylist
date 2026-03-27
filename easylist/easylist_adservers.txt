@@ -1629,6 +1629,7 @@
 ||adstook.com^
 ||adstoppedtotalkto.com^
 ||adstreampro.com^
+||adstub.net^
 ||adsupply.com^
 ||adsupplyssl.com^
 ||adsurve.com^
