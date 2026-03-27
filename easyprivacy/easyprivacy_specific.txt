@@ -224,6 +224,7 @@
 ||autotrader.com/pixall/
 ||aviasales.*-analytics.
 ||aviasales.*/analytics_pv.
+||aviasales.*/sentry-replay.
 ||avitop.com/aviation/hitlist.asp
 ||b2c-unleash-proxy.fresha.com^
 ||b629.electronicdesign.com^
