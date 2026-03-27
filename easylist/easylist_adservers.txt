@@ -50392,6 +50392,7 @@
 ||wommerasires.qpon^
 ||woncherish.com^
 ||wondenthaitings.org^
+||wonderadblock.com^
 ||wonderblockoffer.com^
 ||wonderful-sector.pro^
 ||wonderfulborder.com^
@@ -54612,6 +54613,7 @@
 ||wewearegogogo.com^$document
 ||wheceelt.net^$document
 ||wintrck.com^$document
+||wonderadblock.com^$document
 ||wuujae.com^$document
 ||x2tsa.com^$document
 ||x3os.com^$document
