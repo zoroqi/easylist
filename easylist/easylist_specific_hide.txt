@@ -2584,6 +2584,7 @@ wowhead.com##.blocks
 mail.com##.blocks-3
 blackview.hk##.blog-ad-banner
 failory.com##.blog-column-ad
+blog.hubspot.com##.blog-cta-with-form
 oxygen.com,syfy.com##.blog-post-section__zergnet
 blogto.com##.blogto-sticky-banner
 waterworld.com##.blueconic-recommendations
