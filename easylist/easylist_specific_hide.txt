@@ -6679,6 +6679,7 @@ rottentomatoes.com##ad-unit
 cryptodaily.co.uk##advert
 cooljugator.com##amp-auto-ads
 extraetf.com##app-ad-block
+reverso.net##app-ads-block
 unmatched.gg##app-advertising
 arkadiumhosted.com##ark-top-ad
 facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##article[data-ft*="\"ei\":\""]
