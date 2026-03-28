@@ -320,6 +320,7 @@
 ||api.visitorapi.com^$third-party
 ||api.wipmania.com^
 ||apibaza.com/pixel/
+||aplus.alibaba.com^
 ||apm-engine.meteor.com^$third-party,xmlhttprequest
 ||app.abralytics.com/assets/tracker/index.js
 ||app.adjust.com^$third-party
