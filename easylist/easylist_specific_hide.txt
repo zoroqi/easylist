@@ -7660,6 +7660,7 @@ nme.com###taboola-below-article
 oneindia.com###taboola-mid-article-thumbnails
 the-independent.com###taboola-mid-article-thumbnails-ii
 independent.co.uk,the-independent.com###taboola-mid-article-thumbnails-iii
+indianexpress.com###taboola-right-article-personalisation
 lifeandstylemag.com###taboola-right-rail-thumbnails
 ndtv.com##.TpGnAd_ad-cn
 hindustantimes.com##.ht_taboola
