@@ -67,6 +67,7 @@
 ||cookies.lmt.lv^
 ||cookies.truecaller.com/consent/$script,~third-party
 ||corporate.modivo.com/layout/default/dist/js/cmp.js
+||cp.insideevs.com^
 ||credit-suisse.com/media/assets/aep/ot-cmp/
 ||cscript-cdn-irl.abb.com^
 ||dam.bbcchannels.com^*/outside-iframe.js
