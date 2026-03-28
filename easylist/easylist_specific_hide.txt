@@ -2887,6 +2887,7 @@ hunker.com##.component-article-section-jwplayer-wrapper
 techwalla.com##.component-article-section-votd
 coasttocoastam.com##.component-header-ad
 techwalla.com##.component-header-sticky-ad
+goal.com##.component-open-web-ad-with-lngtd-fallback
 binnews.com,iheart.com,jessekellyshow.com,steveharveyfm.com##.component-pushdown
 binnews.com,iheart.com,jessekellyshow.com,steveharveyfm.com##.component-recommendation
 kqed.org##.components-Ad-__Ad__ad
