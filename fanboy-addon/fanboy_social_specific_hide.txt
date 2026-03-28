@@ -507,6 +507,7 @@ sonomamag.com##.cph-gallery-share-button
 handletheheat.com##.creator-recipe-footer
 overwolf.com##.creator-social
 retire.ly##.cs-footer-social-links
+euromaidanpress.com##.cs-meta-google-news
 bloomberg.com##.css--social-wrapper-outer
 economist.com##.css-11yt5xn
 chatelaine.com##.css-1uko8nb-ShareButtons
