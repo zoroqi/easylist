@@ -1356,6 +1356,7 @@
 ||impdesk.com/smartpix/
 ||impel.io/releases/analytics/
 ||impress.vcita.com^
+||impression.appsflyer.com^
 ||impressionmedia.cz/statistics/
 ||in.treasuredata.com^
 ||inbound-analytics.pixlee.co^
@@ -1802,6 +1803,7 @@
 ||ondigitalocean.app/insight-analytics.js
 ||one.store/v1/analytics/
 ||onecount.net/onecount/oc_track/
+||onelinksmartscript.appsflyer.com^
 ||onelinksmartscript.appsflyersdk.com^
 ||onescreen.net/os/static/pixels/
 ||onesignal.com/api/v*/apps/
@@ -2200,6 +2202,7 @@
 ||sdiapi.com/reporter/
 ||sdk-service.nsureapi.com/events
 ||sdk.51.la^$third-party
+||sdk.appsflyer.com^
 ||sdk.mrf.io/statics/marfeel-sdk.js
 ||sdrive.skoda-auto.com^
 ||sdtagging.azureedge.net^
