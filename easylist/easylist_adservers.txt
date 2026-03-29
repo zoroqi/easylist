@@ -1165,6 +1165,7 @@
 ||accessirreparableenvironment.com^
 ||accidentallyrussian.com^
 ||acclaimedhost.pro^
+||acclaimedpermission.pro^
 ||acclalmeddate.net^
 ||accmgr.com^
 ||accoladeadulterysubqueries.com^
