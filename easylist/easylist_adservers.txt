@@ -12950,6 +12950,7 @@
 ||excitedteam.com^
 ||excitementeverybody.com^
 ||exciting-meetcasual.com^
+||excitinginformscarrot.com^
 ||exclkplat.com^
 ||exclplatmain.com^
 ||exclusivelearnt.com^
@@ -33315,6 +33316,7 @@
 ||palaychataka.cyou^
 ||palayfianced.cyou^
 ||palecount.com^
+||palelitistsnick.com^
 ||palelotwars.com^
 ||palelouisalife.com^
 ||palermooperand.cfd^
