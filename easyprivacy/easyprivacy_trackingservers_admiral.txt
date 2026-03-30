@@ -2136,6 +2136,7 @@
 ||whoogled.com^
 ||whymaze.com^
 ||widgethouse.com^
+||wikiquotations.com^
 ||wikiwhatwhere.com^
 ||wildcommittee.com^
 ||wildwoodavenue.com^
