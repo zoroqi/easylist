@@ -2640,6 +2640,7 @@ solgarvitamin.ru###consent-modal
 gorodperm.ru###cookb
 gazprombank.ru###cookie-accept
 cardiovascular.elpub.ru###cookie-banner-wrapper
+finambank.ru###cookie-consent-popup
 ria-m.tv###cookie-msg
 companies.rbc.ru###cookie-popup
 violity.com###cookieConsentPopup
@@ -2765,6 +2766,7 @@ web-axioma.ru##.confform
 aquagrunt.ru##.confidentalInfo
 atlant-minsk.ru##.confirm-panel
 darina.su##.container-coocke
+tastycoffee.ru##.container__content
 2x2tv.ru##.cook-web
 mnogo.ru##.cook_LFPnK
 propb.ru##.cooke
@@ -2861,6 +2863,7 @@ gorodkirov.ru,ngzt.ru##.notifycation
 33-news.ru,news-komi.ru##.notifycation__wrap
 lipetsknews.ru,ngnovoros.ru,pg02.ru,pg11.ru,pg12.ru,pg21.ru,pg37.ru,pg46.ru,pgn21.ru,pgr76.ru,prochepetsk.ru,prodzer.ru,progorod33.ru,progorod43.ru,progorod58.ru,progorod62.ru,progorodnn.ru,progoroduhta.ru,prosaratov.ru,usolie.info,youtvnews.com##.notifycation_notifycation__BeRRP
 newskrasnodar.ru,pg11.ru,pg13.ru,vladivostoktimes.ru##.notifycation_notifycation__X6Fsx
+sberbank-insurance.ru##.ns-cookie
 kubnews.ru##.onetrust-banner
 onlinepbx.ru##.onlinepbx__cookie__modal
 otpbank.ru##.p-cookies-notification
@@ -2917,6 +2920,7 @@ cloud.ru##.styles_root__NF3YF
 66.ru,gorodvo.ru##.t-i-agree
 cinemamedley.ru,cloudtips.ru##.t657
 omnidesk.ru##.t886
+shop.tastycoffee.ru##.tc-cookies
 atlex.ru##.terms-popup
 credistory.ru##.toast-message
 vplaboratory.ru##.top-message
