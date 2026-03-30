@@ -651,6 +651,7 @@ revmed.ch###ng-cc
 giappo.com###normativa
 altaprofits.com###notification
 store-opart.fr###ocw_conteneur
+vie-publique.fr###orejime
 ameliconnect.ameli.fr###pageConsentement
 cleasite.fr###panel-user-info
 pharmasimple.com###pharmabiscuit-popin
