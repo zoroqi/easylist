@@ -935,6 +935,7 @@ lotusantwerp.wacs.online,ol-webshop.com##+js(set-cookie, cookie_consent_user_acc
 pazarama.com##+js(set-cookie, cookie_consent_v2, true)
 crosig.hr##+js(set-cookie, cookie_control_consent, true)
 crosig.hr##+js(set-cookie, cookie_control_enabled_cookies, required)
+supporthub.experian.co.uk##+js(set-cookie, cookie_declined, true)
 amzs.si,epilog.net,skb-leasing.si##+js(set-cookie, cookie_gdpr, true, , reload, 1)
 sanswiss.pl##+js(set-cookie, cookie_info, 1, , reload, 1)
 bialettikave.hu##+js(set-cookie, cookie_jog, 1)
