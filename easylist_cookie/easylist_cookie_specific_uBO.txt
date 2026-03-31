@@ -627,6 +627,7 @@ acce.es,aceitessatunion.com,aiconsultores.com,akaanseutu.fi,apogeeagency.com,ara
 statisticsanddata.org##+js(set-cookie, cmplz_marketing, allow)
 huddle.today##+js(set-cookie, cmplz_rt_banner-status, dismissed)
 cms-wheels.com##+js(set-cookie, cmswheels_cookie, no)
+gansel-rechtsanwaelte.de##+js(set-cookie, cnp_consent, true)
 g-star.com##+js(set-cookie, coco, 00011)
 codecamps.com##+js(set-cookie, codecamps.cookiesConsent, true)
 anastore.com##+js(set-cookie, cok, 1, , reload, 1)
