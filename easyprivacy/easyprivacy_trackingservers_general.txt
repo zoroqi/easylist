@@ -355,6 +355,7 @@
 ||procroanalytics.com^
 ||proftrafficcounter.com^
 ||progmxs.com^
+||protechts.net^
 ||purple-hit.com^
 ||pushvisit.xyz^
 ||pxlstat.com^

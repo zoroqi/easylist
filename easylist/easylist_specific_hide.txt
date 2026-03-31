@@ -7067,6 +7067,7 @@ kazwire.com##h3.tracking-widest
 drive.com.au##hr
 linkedin.com##iframe[componentkey$="_ad"]
 nordstrom.com##iframe[data-revjet-options]
+linkedin.com##iframe[height="250"][width="300"]
 pixiv.net##iframe[height="300"][name="responsive"]
 pixiv.net##iframe[height="520"][name="expandedFooter"]
 yourbittorrent.com##iframe[src]
