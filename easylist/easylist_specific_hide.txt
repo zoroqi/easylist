@@ -935,6 +935,7 @@ streetdirectory.com###offers_splash_screen
 gizbot.com###oi-custom-camp
 outlooktraveller.com###olkoverdiv
 nzherald.co.nz###oneroof_nzh_homepage
+majorgeeks.com###op1-ad
 kohls.com###open-drawer
 op.gg###opgg-kit-house-image-banner
 livestreamfails.com###oranum_livefeed_container_0
