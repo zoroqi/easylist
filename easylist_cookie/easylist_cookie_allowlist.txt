@@ -289,6 +289,7 @@
 @@||tiom.pl/static/js/cookieconsent.min.js$~third-party
 @@||tiwag.at/typo3conf/ext/bh/Resources/*/cookie-popup.$~third-party
 @@||topocentras.lt/js/CookieConsent-$~third-party
+@@||tradefixdirect.com/app/plugins/upperdog-analytics/assets/js/cookie-popup.js$script,~third-party
 @@||trafficengland.com/resources/
 @@||trinitymedia.ai/player/$script,subdocument
 @@||tripcdn.com/modules/ibu/online-flight/common-cookie-banner.$domain=trip.com
