@@ -855,6 +855,7 @@ formabania.bg##.header-notice
 praktiker.bg##.info-message
 bagira.bg,hit-electronics.com##.js-consent
 icap.bg##.mpp-container
+candykids.bg##.noty_cont
 adamieva.info##.overlay
 audio-guide.bg,medspa.bg##.popup-policy
 primetech.bg##div[style^="color: rgb(51, 51, 51); text-align: center;"]
