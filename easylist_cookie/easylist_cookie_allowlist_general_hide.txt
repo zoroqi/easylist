@@ -76,6 +76,7 @@ xsports.lv#@##notice-cookie-block
 api.newsguardtech.com#@##optanon
 ign.com#@##policyNotice
 ibkrcampus.com#@##privacy-bar
+ihrlabor.befundpost.at#@##privacyConsent
 fortune.com,lighting.philips.de#@##teconsent
 forgeandfortune.com#@##toasts > #toastsWrapper
 kna-bild.de#@##uiCookieConsent
