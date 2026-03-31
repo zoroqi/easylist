@@ -831,6 +831,7 @@
 ||8bhx8rf3bnpvklf5w5j.rest^
 ||8c3fcf6b0d.com^
 ||8c66b76e9b.com^
+||8c67cu652j6jhej.rest^
 ||8c814e6744.com^
 ||8d46e91bf0.com^
 ||8d4755add2.com^
@@ -934,6 +935,7 @@
 ||9m5kp8e5r687jn1w3t3.cfd^
 ||9mjkg4uqmcpxe7.cfd^
 ||9nizbbyf774vm14cp4e797zk.cfd^
+||9nmv95m7jl2wx31kk79p7648.cfd^
 ||9oic2m9no7jn7i.cfd^
 ||9pub.io^
 ||9s4l9nik.de^
@@ -1788,6 +1790,7 @@
 ||adxsrver.com^
 ||adxtag.online^
 ||adxxx.biz^
+||adyxnckaseupgmk.com^
 ||adzcivwjgktmz.site^
 ||adziff.com^
 ||adzilla1.name^
