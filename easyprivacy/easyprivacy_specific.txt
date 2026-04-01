@@ -1196,6 +1196,7 @@
 ||nextdoor.com/events/
 ||nflshop.com/api/track
 ||ngds.sap.com^
+||nid.barrons.com/prod/sp/nid_sp.js
 ||nid.mansionglobal.com^
 ||nid.thesun.co.uk^
 ||nid.thetimes.com^
@@ -1272,6 +1273,7 @@
 ||paypal.com/credit-presentment/log
 ||paypal.com/platform/tealeaftarget
 ||pb.ytmp3tube.com/js/script.js$domain=yt1s.com.co
+||pbc.barrons.com^
 ||pc-optimum.ada.support/api/business_events/track$domain=pcoptimum.ca
 ||pcgamesn.com/cdn-cgi/trace
 ||pcmag.com/js/ga.js
@@ -1742,6 +1744,7 @@
 ||tags-event.woolworths.co.nz^
 ||tags.air1.com^
 ||tags.aljazeera.com^
+||tags.barrons.com^
 ||tags.johnlewis.com^
 ||tags.klove.com^
 ||tags.news.com.au^$script
