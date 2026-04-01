@@ -524,6 +524,8 @@
 ||pelisfree.site/js/script_
 ||petrolplaza.net/AdServer/
 ||pexels.com^*/sponsored-media/
+||ph-files.imgix.net/381feabc-7331-4b7e-a5be-1d606cf38c06.png$domain=producthunt.com
+||ph-files.imgix.net/c160f39d-096a-4679-a8ef-eb68c537359c.png$domain=producthunt.com
 ||phonearena.com/js/ops/taina.js
 ||picrew.me/vol/ads/
 ||pimpandhost.com/mikakoki/
