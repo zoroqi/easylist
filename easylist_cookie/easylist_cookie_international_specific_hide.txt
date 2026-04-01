@@ -1542,7 +1542,7 @@ ksp.co.il##.rtl-1075xo6
 letlive.org.il##.site-consent-banner
 cts.co.il##.upnext-cookie-notice
 dominos.co.il##[class^="CloseableDisclaimer_"]
-dynamica.co.il,kfar.co.il,wineandmore.co.il,workimhi.co.il##[class^="cookiesPopup"]
+dynamica.co.il,kfar.co.il,mnmltd.co.il,wineandmore.co.il,workimhi.co.il##[class^="cookiesPopup"]
 alljobs.co.il##[id^="ZA_CAMP_BUBBLE_CONTAINER_CID_"]
 lastminute.co.il##app-notifications-container
 iec.co.il##app-sticky-banner
@@ -2981,7 +2981,6 @@ russianfield.com##div[data-storage-item^="t886cookiename_"]
 knmoloko.ru##div[data-storage-item^="t887cookiename_"]
 litres.ru##div[data-testid="cookieAcceptPopup"]
 detmir.ru##div[data-testid="notification"]
-sberdevices.ru##div[data-testid="snackbar"]:has-text(cookie)
 7dach.ru##div[style^="background-color:#fff3cd; color: #856404;"]
 chaynikam.info##div[style^="position: fixed; bottom: 0px;"]
 delimobil.ru##footer
@@ -2989,6 +2988,7 @@ lenta.com##lu-cookie-agree
 mvideo.ru##mvid-cookie-notification
 postnauka.ru##notifications
 remontnik.ru##rtk-cookies-notice
+sberdevices.ru#?#div[data-testid="snackbar"]:has-text(cookie)
 kion.ru##ui-web-alert
 v1.yaoilib.net#?#.ey_ez:has-text(cookie)
 !
