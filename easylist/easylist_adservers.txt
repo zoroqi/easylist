@@ -35064,6 +35064,7 @@
 ||playinghissed.shop^
 ||playintegrityrailing.com^
 ||playmmogames.com^
+||playmogo.com^
 ||playonlinegames.space^
 ||playsnourishbag.com^
 ||playstream.media^
@@ -48343,6 +48344,7 @@
 ||unseenprovisionsparts.com^
 ||unseenreport.com^
 ||unselfisheducation.com^
+||unselfishinspector.pro^
 ||unsethalutz.cyou^
 ||unsettledbrazenqueue.com^
 ||unsewntaled.cfd^
