@@ -1103,6 +1103,7 @@
 ||galotop1.com^$popup
 ||gamdom.com/?utm_source=$popup
 ||gamerhit.co^$popup
+||gamezon.top^$popup
 ||gaming-adult.com^$popup
 ||gamingadlt.com^$popup
 ||gamingonline.top^$popup
