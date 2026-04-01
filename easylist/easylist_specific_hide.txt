@@ -2528,6 +2528,7 @@ bhamnow.com##.bhamn-story
 investmentweek.co.uk##.bhide-768
 blackhatworld.com##.bhw-advertise-link
 blackhatworld.com##.bhw-banners
+apkaward.com##.bidgear728
 ipolitics.ca,qpbriefing.com##.big-box
 cbc.ca##.bigBoxContainer
 newzit.com##.big_WcxYT
@@ -2695,6 +2696,7 @@ htmldog.com##.bsa_it_ad
 arydigital.tv,barakbulletin.com##.bsac
 doge-faucet.com##.bspot
 businesstoday.in##.btPlyer
+apkaward.com##.btcccc
 indiatimes.com##.btf_ads
 cricwaves.com##.btm728
 snaptik.app##.btn-download-hd[data-ad="true"]
