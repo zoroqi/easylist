@@ -1542,7 +1542,7 @@ ksp.co.il##.rtl-1075xo6
 letlive.org.il##.site-consent-banner
 cts.co.il##.upnext-cookie-notice
 dominos.co.il##[class^="CloseableDisclaimer_"]
-dror-tools.co.il,dynamica.co.il,kfar.co.il,mnmltd.co.il,wineandmore.co.il,workimhi.co.il##[class^="cookiesPopup"]
+dror-tools.co.il,dynamica.co.il,espressobar.com,kfar.co.il,mnmltd.co.il,wineandmore.co.il,workimhi.co.il##[class^="cookiesPopup"]
 alljobs.co.il##[id^="ZA_CAMP_BUBBLE_CONTAINER_CID_"]
 lastminute.co.il##app-notifications-container
 iec.co.il##app-sticky-banner
