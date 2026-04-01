@@ -3093,7 +3093,7 @@ agados.cz,allmyfaves.com,charlesandcolvard.com,concert.ua,delfortgroup.com,githu
 !! .cookie-consent-popup
 015.co.il,almaviva.it,cos.com,expireddomains.com,gcli.li,hm.com##.cookie-consent-popup
 !! #cookie-consent-popup
-bagina.co.il,finam.ru,halalit.co.il,pccenter.co.il,rsm.co.il,shop-now14.co.il,zulacasino.com###cookie-consent-popup
+bagina.co.il,finam.ru,halalit.co.il,pccenter.co.il,rsm.co.il,shop-now14.co.il,vero-cafe.co.il,zulacasino.com###cookie-consent-popup
 !! .cookiebar
 ammeraalbeltech.com,asst-lecco.it,community.dyson.com,community.jamf.com,mahle-aftermarket.com,mega-monheim.de,nautadutilh.com,purejingles.com,sigmanet.lv,trtcocuk.net.tr,um.edu.mt##.cookiebar
 !! #cliSettingsPopup
