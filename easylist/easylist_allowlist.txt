@@ -295,9 +295,7 @@
 @@||zeebiz.com/ads/$image,~third-party
 @@||zohopublic.com^*/ADManager_$subdocument,xmlhttprequest,domain=manageengine.com|zohopublic.com
 ! Webcompat fixes (Avoid any potential filters being applied to non-ad domains)
-@@||bing.com^$generichide
 @@||challenges.cloudflare.com/turnstile/$script
-@@||gmail.com^$generichide
 @@||google.com/recaptcha/$csp,subdocument
 @@||google.com/recaptcha/api.js
 @@||google.com/recaptcha/api2/
@@ -321,6 +319,7 @@
 @@||adsmanager.facebook.com^$generichide
 @@||apple.com^$generichide
 @@||atlassian.net^$generichide
+@@||bing.com^$generichide
 @@||bitbucket.org^$generichide
 @@||browserbench.org^$generichide
 @@||builder.io^$generichide
@@ -353,6 +352,7 @@
 @@||github.com^$generichide
 @@||github.io^$generichide
 @@||gitlab.com^$generichide
+@@||gmail.com^$generichide
 @@||icloud.com^$generichide
 @@||instagram.com^$generichide
 @@||instapundit.com^$generichide
