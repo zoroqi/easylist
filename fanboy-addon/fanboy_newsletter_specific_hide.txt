@@ -486,7 +486,6 @@ bitcoinmagazine.com###tpbr_topbar
 masteringemacs.org###try-book
 autodesk.com###uf-cta-beside
 ultimate-guitar.com###ug-article-email-subscribe
-gamesradar.com,techradar.com###utilitybar__button--newsletter
 semafor.com###vertical-signup-form
 ozbargain.com.au###visitor-notice
 matomo.org###wbounce-modal
