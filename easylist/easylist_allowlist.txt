@@ -8,6 +8,7 @@
 @@||adap.tv/redir/javascript/vpaid.js
 @@||addicted.es^*/ad728-$image,~third-party
 @@||adjust.com/adjust-latest.min.js$domain=anchor.fm
+@@||adlyticmarketing.com/s/portfoliofilter.$script,stylesheet,domain=lightningkeyboards.com
 @@||adm.fwmrm.net^*/TremorAdRenderer.$object,domain=go.com
 @@||adm.fwmrm.net^*/videoadrenderer.$object,domain=cnbc.com|go.com|nbc.com|nbcnews.com
 @@||adnxs.com/ast/ast.js$domain=zone.msn.com
