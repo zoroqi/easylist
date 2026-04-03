@@ -1056,6 +1056,7 @@ crimereads.com,lithub.com##.subscriber-drive-container
 thesaturdaypaper.com.au##.subscriber-push-end
 indianexpress.com##.subscriber_hide
 spectator.co.uk##.subscription-banner
+scientificamerican.com##.subscriptionPleaContainer-D09dM
 artscanvas.org##.suggestion-box
 newhumanist.org.uk##.super-button
 golem.de##.supplementary
