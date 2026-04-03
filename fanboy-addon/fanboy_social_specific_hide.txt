@@ -306,6 +306,7 @@ kyodonews.net##.article-sns
 newrepublic.com,thetech.com##.article-social
 browardpalmbeach.com,dallasobserver.com,miaminewtimes.com,phoenixnewtimes.com,westword.com##.article-social-share-buttons
 yalereview.org##.article-social-share-icon
+coloradopolitics.com##.article-social-share-icons
 nbcnews.com##.article-social-share-top
 heraldscotland.com##.article-sticky-social
 jpost.com##.article-subline-inner-share-buttons
@@ -1476,7 +1477,7 @@ techlila.com##.tl-social
 techlila.com##.tl-social-share
 methodshop.com##.tm-click-to-tweet
 velo.outsideonline.com##.tm-o-toast
-coloradopolitics.com,denvergazette.com##.tnt-share-link
+denvergazette.com##.tnt-share-link
 xbiz.com##.tool-list
 risk.net,waterstechnology.com##.tools-container
 decrypt.co##.top-20.sticky
