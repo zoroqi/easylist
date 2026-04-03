@@ -511,6 +511,7 @@ retire.ly##.cs-footer-social-links
 euromaidanpress.com##.cs-meta-google-news
 bloomberg.com##.css--social-wrapper-outer
 economist.com##.css-11yt5xn
+chatelaine.com##.css-1nfrk0o-ShareButtons
 chatelaine.com##.css-1uko8nb-ShareButtons
 onedayonly.co.za##.css-p1ns9f
 fashionmagazine.com##.css-zh7gar-ShareButtons

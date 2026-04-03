@@ -2321,7 +2321,7 @@ decrypt.co##.aspect-video
 postandcourier.com,theadvocate.com##.asset-breakout-ads
 macleans.ca##.assmbly-ad-block
 chatelaine.com##.assmbly-ad-text
-fashionmagazine.com##.assmbly-ad-wrapper
+chatelaine.com,fashionmagazine.com##.assmbly-ad-wrapper
 releasestv.com##.ast-above-header-wrap
 attitude.co.uk##.at-advert
 animalcrossingworld.com##.at-sidebar-1
