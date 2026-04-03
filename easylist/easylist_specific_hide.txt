@@ -893,7 +893,6 @@ atlantatribune.com,footballleagueworld.co.uk,ioncinema.com,marijuanamoment.net,s
 europeangaming.eu###mvp-leader-wrap > a[href^="https://www.softswiss.com/"]
 twinfinite.net###mvp-main-content-wrap
 hotklix.com###mvp-main-nav-top > .mvp-main-box
-dailyboulder.com###mvp-post-bot-ad
 fileproinfo.com###myNav
 mediaupdate.co.za###mycarousel
 usmagazine.com###nativeAdMosaicBreakingNews
@@ -1779,6 +1778,7 @@ business-standard.com##.ad-height-desktop
 roadtovr.com##.ad-height-sidebar
 carsauce.com##.ad-holder
 local10.com##.ad-htl-slot
+dailyboulder.com##.ad-image-wrap
 statnews.com##.ad-in-article
 wago.io##.ad-in-search
 symbl.cc##.ad-incontent-rectangle
@@ -1835,7 +1835,7 @@ wapt.com,wyff4.com##.ad-track
 forbes.com,sdxcentral.com,windowscentral.com##.ad-unit
 sofascore.com##.ad-unit-container
 ndtvprofit.com##.ad-with-placeholder-m__place-holder-wrapper__--JIw
-news.ssbcrack.com,trueachievements.com##.ad-wrap
+dailyboulder.com,news.ssbcrack.com,trueachievements.com##.ad-wrap
 intechopen.com##.ad-wraper
 gbnews.com,smithsonianmag.com,tasty.co##.ad-wrapper
 uncrate.com##.ad-wrapper-970
@@ -4827,7 +4827,7 @@ euronews.com##.qa-dfpLeaderBoard
 infoq.com##.qcon_banner
 thegatewaypundit.com##.qh1aqgd
 revolution935.com##.qt-sponsor
-coingape.com,dailyboulder.com,townflex.com##.quads-location
+coingape.com,townflex.com##.quads-location
 surfline.com##.quiver-google-dfp
 dagens.com##.r-1
 allthatsinteresting.com##.r-11rk87y
@@ -5872,7 +5872,7 @@ mypunepulse.com,optimyz.com##.widget_smartslider3
 permanentstyle.com##.widget_sow-advertisements
 androidpctv.com,brigantinenow.com,downbeachbuzz.com,thecatholictravelguide.com##.widget_sp_image
 gamertweak.com##.widget_srlzycxh
-captainaltcoin.com,dailyboulder.com,freedesignresources.net,utahgunexchange.com,webkinznewz.ganzworld.com,webpokie.com##.widget_text
+captainaltcoin.com,freedesignresources.net,utahgunexchange.com,webkinznewz.ganzworld.com,webpokie.com##.widget_text
 pacenewsonline.com##.widget_webads_displayads_widget
 carpeludum.com##.widget_widget_catchevolution_adwidget
 cryptoreporter.info##.widget_wpstealthads_widget
