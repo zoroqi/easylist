@@ -975,9 +975,9 @@ euromaidanpress.com##.cs-row-top
 aerotime.aero,foreigndesknews.com,hackread.com##.cs-site-subscribe
 evmagz.com##.cs-subscribe
 patch.com##.css-1at62qq
-zecar.com##.css-1l59vvo
 fashionmagazine.com##.css-1l5w1v0-NewsletterSignup
 scientificcoder.com##.css-e2xo3p
+zecar.com##.css-er318f
 bet.com##.css-mha66v-Box-Flex-StyledNewsletterLayout
 gwr.com##.css-pfotuc
 chatelaine.com##.css-zk005z-NewsletterSignup
