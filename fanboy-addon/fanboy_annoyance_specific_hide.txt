@@ -1062,7 +1062,7 @@ newhumanist.org.uk##.super-button
 golem.de##.supplementary
 codastory.com##.support
 artstation.com##.support-artstation
-gbnews.com,ubn.news##.support-banner
+advocate.com,gbnews.com,ubn.news##.support-banner
 novaramedia.com##.support-bar
 cepr.net##.support-cepr-sec
 windowslatest.com##.support-dropdown-wrapper
