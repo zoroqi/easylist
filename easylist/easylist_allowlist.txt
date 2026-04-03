@@ -322,6 +322,7 @@
 @@||atlassian.net^$generichide
 @@||bing.com^$generichide
 @@||bitbucket.org^$generichide
+@@||boot.dev^$generichide
 @@||browserbench.org^$generichide
 @@||builder.io^$generichide
 @@||calendar.google.com^$generichide
