@@ -805,6 +805,7 @@
 ||count.me.uk^
 ||count.paycounter.com^
 ||count.xxxssk.com^
+||counter-growthbook.minute-ly.com^
 ||counter.bloke.com^
 ||counter.cam-content.com^
 ||counter.hyipexplorer.com^
