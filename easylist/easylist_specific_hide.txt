@@ -4717,6 +4717,7 @@ bangpremier.com##.presentation-space
 bangpremier.com##.presentation-space-m-panel
 outsideonline.com##.prestitial-ad
 manutd.com##.primary-header-sponsors
+economictimes.indiatimes.com##.primeDW
 tech.hindustantimes.com##.primeDay
 advfn.com##.primis-container
 astrology.com##.primis-video-module-horoscope
@@ -7687,7 +7688,7 @@ financialexpress.com##.ie-network-taboola
 indianexpress.com##.o-taboola-story
 businesstoday.in##.right_side_tabola
 sportskeeda.com##.sk-ads-taboola-container
-6abc.com,abcnews.com,goodmorningamerica.com##.taboola
+6abc.com,abcnews.com,economictimes.indiatimes.com,goodmorningamerica.com##.taboola
 india.com##.taboola-bottom
 firstpost.com##.taboola-div
 indianexpress.com##.taboola-parent
