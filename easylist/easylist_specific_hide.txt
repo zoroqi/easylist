@@ -2506,6 +2506,7 @@ mindbodygreen.com##.bftiFX
 theepochtimes.com##.bg-\[\#f8f8f8\]
 hotnewhiphop.com##.bg-ad-bg-color
 hotnewhiphop.com##.bg-ad-text
+english.mathrubhumi.com##.bg-adBackground
 batimes.com.ar##.bg-ads-space
 bgr.com##.bg-black
 whatismyisp.com##.bg-blue-50
@@ -7637,6 +7638,7 @@ flipkart.com##div[style="max-width:1200px;width:100%"]:has(source[srcset^="https
 thisday.app##div[style="min-height: 340px;"]:has(div.ad)
 robtex.com##div[style]:has(> ins.adsbygoogle[data-ad-slot])
 dribbble.com##drb-infinite-scroll div[data-username]:has(drb-tooltip[data-promoted-badge])
+english.mathrubhumi.com#?#.psd\:px-0.px-\[10px\]:has-text(To advertise here)
 90min.com##figure:has(> div > #mm-player-placeholder-large-screen)
 5dariyanews.com##h2:has(a[href*="sponsored-ads"])
 streeteasy.com##li [class^="ListingCard-module"]:has([class*="sponsoredTag"])
