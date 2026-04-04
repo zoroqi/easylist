@@ -30572,6 +30572,7 @@
 ||news-site1.xyz^
 ||news-universe1.xyz^
 ||news-weekend1.xyz^
+||news-xcasume.com^
 ||news-xjixere.cc^
 ||news-xrofobi.com^
 ||news-xvuwabi.live^
