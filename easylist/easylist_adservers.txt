@@ -58064,6 +58064,7 @@
 ||sceno.ru^$third-party
 ||scootloor.com^$third-party
 ||scrap.me^$third-party
+||scriptwrapper.com^$third-party
 ||sedoparking.com^$third-party
 ||seedtag.com^$third-party
 ||selectad.com^$third-party
