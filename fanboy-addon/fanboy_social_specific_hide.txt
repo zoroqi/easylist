@@ -734,6 +734,7 @@ alarabiya.net##.google-news-callout
 dailygalaxy.com,glassalmanac.com##.google-news-card
 cybernews.com,sammobile.com##.google-news-cta
 phonearena.com,quiverquant.com##.google-news-follow
+kyivpost.com##.google-news-preffer-button
 bleedingcool.com##.google-news-source
 ringsidenews.com,tmz.com##.google-preferred-btn
 sammobile.com##.google-preferred-news-source-cta
