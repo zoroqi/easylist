@@ -178,6 +178,7 @@
 ||tapi.kaufda.de^
 ||tarnkappe.info^$ping
 ||taz.de/count/
+||telemetry.portal.voltdeutschland.org^
 ||teltarif.de/scripts/ttt.js
 ||teltarif.de/scripts/ttt.v2.js
 ||teltarif.de^$ping
