@@ -1462,7 +1462,7 @@
 ||klarnaservices.com^$image,third-party
 ||klaviyo.com/onsite/js/sentry.
 ||klaviyo.com/onsite/track-analytics?
-||klickly.com/track
+||klickly.com^$third-party
 ||kmib.co.kr/ref/
 ||kochava.com/track/$third-party
 ||kumo.network-n.com/configs/sites/

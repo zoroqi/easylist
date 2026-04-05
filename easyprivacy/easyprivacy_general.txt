@@ -112,6 +112,8 @@
 /_i?type=event&
 /_lib/ga.js
 /_mzblank.gif?
+/_nostra/batch
+/_nostra/identity/*
 /_owa.gif?
 /_servix/webid.aspx?$script
 /_sess/script.js
