@@ -2958,6 +2958,7 @@
 ||webzel.com/counter/
 ||weglot.com/pageviews?
 ||wetpaint.com^*/track?
+||wf-box.net/sandboxed_ad_vendor_iframe.html
 ||wf.typesquare.com^
 ||wgs.wgs-static.com^
 ||whooshkaa.com/identify
