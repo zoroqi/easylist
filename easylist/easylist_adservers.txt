@@ -50042,6 +50042,7 @@
 ||whippedsines.help^
 ||whiprayoutkill.com^
 ||whirlclick.com^
+||whirlwind-expression.com^
 ||whirlwind-leather.pro^
 ||whirlwindincrease.com^
 ||whirlwindobject.pro^
