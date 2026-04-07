@@ -2,8 +2,6 @@
 ###AD_160
 ###AD_300
 ###AD_468x60
-###AD_G
-###AD_L
 ###AD_ROW
 ###AD_Top
 ###AD_text
@@ -8762,8 +8760,6 @@
 ##.banner-468x60
 ##.banner-728
 ##.banner-728x90
-##.banner-ad
-##.banner-ad-b
 ##.banner-ad-below
 ##.banner-ad-block
 ##.banner-ad-bottom-fixed
@@ -9339,7 +9335,6 @@
 ##.contains-ad
 ##.contains-advertisment
 ##.content--right-ads
-##.content-ad
 ##.content-ad-article
 ##.content-ad-box
 ##.content-ad-container
@@ -9381,7 +9376,6 @@
 ##.contentTopAds
 ##.content__ad
 ##.content__ad__content
-##.content_ad
 ##.content_ad_728
 ##.content_ad_head
 ##.content_ad_side
@@ -12672,7 +12666,6 @@
 ##.well-ad
 ##.werbungAd
 ##.wfb-ad
-##.wg-ad-square
 ##.wh-advert
 ##.wh_ad
 ##.wh_ad_inner

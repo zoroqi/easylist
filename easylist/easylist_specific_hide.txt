@@ -2395,7 +2395,7 @@ puzzlegarage.com##.banner--inside
 dayspedia.com##.banner--main
 onlineradiobox.com##.banner--vertical
 euroweeklynews.com##.banner-970
-kingmods.net##.banner-ad
+kingmods.net,tappedout.net##.banner-ad
 img2go.com,online-convert.com##.banner-ad-size
 headlineintime.com##.banner-add
 freepik.com##.banner-adobe
