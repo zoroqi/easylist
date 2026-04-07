@@ -373,6 +373,7 @@
 @@||myaccount.google.com^$generichide
 @@||nebula.tv^$generichide
 @@||netflix.com^$generichide
+@@||notebooklm.google.com^$generichide
 @@||notion.so^$generichide
 @@||oisd.nl^$generichide
 @@||onedrive.live.com^$generichide
