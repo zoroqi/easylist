@@ -3945,6 +3945,7 @@ physicsworld.com##.key-suppliers
 gamertweak.com##.kfzyntmcd-caption
 overkill.wtf##.kg-blockquote-alt
 itsfoss.com,linuxhandbook.com##.kg-bookmark-card
+duffelblog.com##.kg-cta-content
 hltv.org##.kgN8P9bvyb2EqDJR
 thelibertydaily.com,toptenz.net##.kgbwvoqfwag
 koreaherald.com##.kh_ad
