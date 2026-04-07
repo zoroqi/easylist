@@ -56161,6 +56161,7 @@
 ||offerforge.net^$third-party
 ||offerserve.com^$third-party
 ||okanjo.com^$third-party
+||omni-dex.io^$third-party
 ||onetag-sys.com^$third-party
 ||onlyalad.net^$third-party
 ||onscroll.com^$third-party
