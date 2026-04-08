@@ -351,6 +351,7 @@
 ||js.mangalove.top^
 ||js.mangaraw.bid^
 ||js.phoenixmanga.com^
+||js.rev.iq^
 ||js.surecart.com/v1/affiliates?
 ||jsdelivr.net/gh/InteractiveAdvertisingBureau/
 ||jsdelivr.net/gh/qxomer/reklam@master/reklam.js
