@@ -79,6 +79,7 @@ tec7.com###cookie-manager
 peax.ch###cookie-note-id
 hyla-germany.de###cookie-overlay
 pokalkoenig.de###cookie-permission-modal
+companies.rbc.ru,xmedia-recode.de###cookie-popup
 waidhofen.at###cookie-settings-wrapper
 brf.be###cookieDashboard
 waldbuehne-berlin.de###cookieManager
@@ -1151,6 +1152,7 @@ cdh.be###comp-jkmod7cm
 denhaagfm.nl,gld.nl,l1.nl,l1nieuws.nl,nieuwsplein33.nl,omroepwest.nl,omroepzeeland.nl,omropfryslan.nl,oost.nl,rtvdrenthe.nl,rtvnoord.nl,rtvutrecht.nl###consent-plugin
 targetsupport.nl###consentModal
 wijzeringeldzaken.nl###consentbar
+finambank.ru,wijnhaven.nl###cookie-consent-popup
 nieuwbouw-borger-odoorn.nl###cookie-overlay
 ekoplaza.nl###cookie-prompt-modal___BV_modal_outer_
 keuze.nl###cookie_consent
@@ -1872,6 +1874,7 @@ jasis.jp###agreePanel
 lyrics.imicomweb.com###agreement
 hyojito.co.jp###agreement-area
 jbpo.or.jp###c_policy_wrap
+shop.lashinbang.com###cookie-notice
 juken-mikata.net###cookieAlt
 bunka-salon.d-kintetsu.co.jp,daytona-park.com,etvos.com,marna.jp,naturesway.jp,noevirgroup.jp,online.tutuanna.jp,plazastyle.com,right-on.co.jp,store.kadokawa.co.jp,store.yoga-lava.com,wind.yamano-music.co.jp,y-aoyama.jp###cookieBox
 keisei.co.jp###cookiePolicy
