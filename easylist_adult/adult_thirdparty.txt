@@ -231,6 +231,7 @@
 ||n.clips4sale.com^$third-party
 ||n2.clips4sale.com^$third-party
 ||naked.com/promos/
+||nakedly.ai^$third-party
 ||nakedswordcashcontent.com/videobanners/
 ||naughtycdn.com/public/iframes/
 ||netlify.app/tags/ninja_$subdocument
