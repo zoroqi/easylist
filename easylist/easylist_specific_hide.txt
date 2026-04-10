@@ -7908,6 +7908,7 @@ pedestrian.tv##.find-dream-job
 foodbible.com,gamingbible.com,ladbible.com,sportbible.com,unilad.com,uniladtech.com##.floating-video-player_container__u4D9_
 flashbak.com##.fluid-width-video-wrapper
 dailymail.co.uk##.footballco-container
+tweaktown.com##.fusevidad
 redboing.com##.fw-ad
 foxsports.com##.fwAdContainer
 thestar.co.uk##.gOoqzH
