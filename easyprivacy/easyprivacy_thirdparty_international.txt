@@ -539,6 +539,7 @@
 ||tvid.in/log/
 ! Indonesian
 ||beacon.coofis.com^
+||mediagroupnetwork.com/js/ua.js
 ||mediaquark.com/tracker.js
 ||oval.id/tracker/
 ||parsley.detik.com^
