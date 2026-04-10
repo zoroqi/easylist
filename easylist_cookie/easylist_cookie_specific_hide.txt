@@ -2943,7 +2943,7 @@ beatstars.com##mp-snackbar-info-messages
 moovitapp.com##mv-cookie-banner
 nakedwines.co.uk##nkd-cookie-banner
 weatherbug.com##notification-footer
-huntington.northwell.edu##nwhlit-gdpr-banner
+huntington.northwell.edu,northwell.edu##nwhlit-gdpr-banner
 1inch.com##oi-cookies-popup
 playpaxdei.com##paxdei-cookie-consent
 proactua.com##proactua-cookie-consent
