@@ -1738,6 +1738,7 @@ tvblackbox.com.au#?#.tdm-descr:has-text(Share)
 twitch.tv#?#.tw-balloon:has-text(Share To)
 !! top-level domain wildcard
 royalqueenseeds.*##.social-media-icons-footer
+miruro.*##section[class^="_noticeSection_"]
 !! .socialmedia
 agfk-bw.de,clara.es,hcb.net,travel.state.gov##.socialmedia
 !! .social-sharing

@@ -7210,6 +7210,7 @@ checkfelix.com,kayak.*,momondo.*,swoodoo.*##.Tl2M-contentInner:has(.c_3eP-badge-
 momondo.*##.WTQR-ad-card
 momondo.*##.YnaR:has([class$="ProviderAdBanner"])
 yandex.*##._view_advertisement
+miruro.*##.a-ads
 bier-universum.*##.abc-wrapper
 leroymerlin.*##.arm-dss-content-sponsored
 flashscore.*,flashscoreusa.com,livescore.*,soccer24.com##.banner
