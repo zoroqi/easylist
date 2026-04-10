@@ -11543,6 +11543,7 @@
 ||farfelzodiacaurin.cyou^
 ||farflung-switch.com^
 ||fargwyn.com^
+||farineiridium.cyou^
 ||farioaudible.cyou^
 ||farnessowenian.cyou^
 ||faroffgodsentmuskets.cyou^
@@ -30446,6 +30447,7 @@
 ||parlingescrod.shop^
 ||parlouroutlayfavor.com^
 ||parloursixty.com^
+||parlouscomdg.cyou^
 ||parlovercow.cfd^
 ||parodostald.cfd^
 ||paroduscoiny.cyou^
