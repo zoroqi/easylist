@@ -368,6 +368,7 @@ tenerife-guided-walks.com###dmPopupMask
 dobbies.com###dobbies_cookie_widget
 uga.edu###dp-cookie-notification
 drupal.org###drupalorg-crosssite-gdpr
+demandsphere.com###ds-consent-banner
 duke.edu###duke-cookie-consent
 oberlo.com,shopify.com###dux-privacy
 dyclassroom.com###dy-cookieInfo-container
