@@ -4402,6 +4402,7 @@ horriblevideos.com##.netloop-ad-banner-300-250
 chaseyoursport.com##.new-adv
 play.typeracer.com##.newNorthWidget
 pcgamesn.com##.new_affiliate_embed
+pcgamesn.com##.new_menu_item
 firstpost.com##.newadd
 farminguk.com##.news-advert-button-click
 hurriyetdailynews.com##.news-detail-adv
