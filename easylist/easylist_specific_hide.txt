@@ -3515,6 +3515,7 @@ africanadvice.com,pspad.com,sudantribune.com##.google
 apkmirror.com##.google-ad-leaderboard
 secretchicago.com##.google-ad-manager-ads-header
 safeway.com##.google-adManager
+dicoall.com##.googleAdMain
 manabadi.co.in##.googleAdsdiv
 mediamass.net##.googleresponsive
 css3generator.com##.gotta-pay-the-bills
