@@ -19,7 +19,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '18'
+          node-version: '22'
 
       - name: Run EasyList monitor
         id: monitor
@@ -52,6 +52,7 @@ jobs:
               owner: 'easylist',
               repo: 'easylist',
               state: 'open',
+              labels: 'infrastructure',
             });
             
             console.log(`Found ${issues.length} total infrastructure issues`);
