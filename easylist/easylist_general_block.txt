@@ -1011,5 +1011,4 @@ _prebid.js$script
 /anti-adblock/*$~stylesheet
 /blockblock/blockblock.jquery.js$script
 /jgcabd-detect-$script
-/js/adblockdetect.js$script
 /no-adblock/*$script,stylesheet
