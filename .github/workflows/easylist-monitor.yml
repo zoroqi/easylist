@@ -37,10 +37,12 @@ jobs:
       - name: Create or update EasyList infrastructure issue
         if: steps.monitor.outputs.files_stale == 'true'
         uses: actions/github-script@v7
+        env:
+          STALE_DETAILS: ${{ steps.monitor.outputs.stale_details }}
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            const staleDetails = JSON.parse('${{ steps.monitor.outputs.stale_details }}');
+            const staleDetails = JSON.parse(process.env.STALE_DETAILS);
             const currentTime = new Date().toISOString();
             
             // Check for existing open infrastructure issues
