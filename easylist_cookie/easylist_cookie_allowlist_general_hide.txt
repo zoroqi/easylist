@@ -21,6 +21,7 @@ bbc.com,kleinanzeigen.de#@##consentBanner
 wacom.com#@##consent_blackbar
 voas.fi#@##coockie-modal
 br-dge.to,citaalen.com,feierabend.de,gpiaaf.gov.pt,hoesjesdirect.nl,huellendirekt.de,kmudigital.at,kontostand.at,mazda-autohaus-volz-saarbruecken.de,serveminecraft.net,spares2repair.co.uk,vrtranspoint.fi,zukunft-jetzt.deutsche-rentenversicherung.de#@##cookie-banner
+caixabank.com#@##cookie-form
 notify.events#@##cookie-gdpr
 bike-supply.de#@##cookie-jar
 mypensiontracker.co.uk#@##cookie-law
@@ -50,7 +51,7 @@ gruenderservice.at#@##cookiehint
 stadtwerke-weilburg.de#@##cookiehinweis
 eid.gov.mt#@##cookienotice
 regiobahn.de#@##cookiepopup
-elrow.com#@##cookies-banner
+caixabank.com,elrow.com#@##cookies-banner
 mikolow.geoportal-krajowy.pl,setasdesevilla.com#@##cookies-bar
 asda-photo.co.uk#@##cookies-nag
 marcopanconesi.com#@##cookies-popup
@@ -175,6 +176,7 @@ tee.at#@#.cookies-info-box
 mydealz.de#@#.cookies-message
 diy.com#@#.cookies-policy
 abp.nl#@#.cookies-pop-up
+caixabank.com#@#.cookies-region
 epayitalia.it##.cookies-text
 dominospizza.pl#@#.cookies-visible
 logon.slc.co.uk#@#.cookies-wrap
