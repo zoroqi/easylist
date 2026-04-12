@@ -66,7 +66,7 @@ jobs:
             echo "Committing sorted files..."
             git config --global user.email "github-actions@github.com"
             git config --global user.name "GitHub Actions"
-            git add -A
+            git add -- '*.txt'
             git commit -m "M: Auto-sort filter lists"
             # Push to the actual PR branch
             git push origin pr-branch:${{ github.head_ref }} || {
