@@ -3208,6 +3208,7 @@ gfinityesports.com##.ecommerceUnit
 newagebd.net##.editorialMid
 editpad.org##.edsec
 theepochtimes.com##.eet-ad
+vecteezy.com##.eezy-sponsored-results
 cryptorank.io##.egJLJA
 clutchpoints.com##.ehgtMe.sc-ed3f1eaf-1
 filmibeat.com##.ele-ad
@@ -4789,6 +4790,7 @@ ipfighter.com##.promotion_promotion__08xl_
 bostonreview.net##.promotop
 insauga.com##.proper-content-dynamic
 highspeedinternet.com##.provider-ads
+vecteezy.com##.prtnr-sponsored-results
 cricket365.com,football365.com,golf365.com,loverugbyleague.com,planetf1.com,planetfootball.com,planetrugby.com,teamtalk.com,tennis365.com##.ps-block-a
 indiabusinessjournal.com##.pt--20
 kathmandupost.com##.pt-0
