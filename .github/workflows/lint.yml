@@ -46,9 +46,11 @@ jobs:
 
       - name: Run FOP
         if: steps.changed.outputs.files != ''
+        env:
+          CHANGED_FILES: ${{ steps.changed.outputs.files }}
         run: |
           chmod +x fop-linux
-          for file in ${{ steps.changed.outputs.files }}; do
+          for file in $CHANGED_FILES; do
             if [ -f "$file" ]; then
               echo "Sorting: $file"
               ./fop-linux --no-commit --check-file="$file"
