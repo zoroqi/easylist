@@ -958,7 +958,7 @@ rba.hr,rbainvest.hr##.cd-module-main
 flair.hr##.css-8g6x3l
 hapih.hr,podravski.hr##.dialog-widget
 zagreb.mozemo.hr##.fs-consent_component-2
-hakom.hr,zagreb.hr,zgh.hr##.gdc-container
+gov.hr,hakom.hr,zagreb.hr,zgh.hr##.gdc-container
 gumiimpex.hr,ljekarna-pablo.hr,mobyfix.hr##.gdpr-container-wrapper
 eid.hr,vindija.hr##.gdpr-prompt
 buket.hr##.kukip
