@@ -33,6 +33,7 @@
 ||chartsurfer.de/js/mtm.js
 ||chartsurfer.de/uscoll.php?
 ||chefkoch-cdn.de/agf/agf.js
+||chefkoch-cdn.de/search/tracking/
 ||chefkoch.de/search/tracking/
 ||chefkoch.de/tracking/
 ||cinestar.de/collect/
