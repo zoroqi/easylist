@@ -4183,6 +4183,7 @@ ctinsider.com##.md\:block.y100
 op.gg##.md\:max-w-\[1080px\]
 bmj.com##.md\:min-h-\[250px\]
 medibang.com##.mdbnAdBlock
+global.morningstar.com##.mdc-top-ad__container__mdc
 online-translator.com##.mddlAdvBlock
 livejournal.com##.mdspost-aside__item--banner
 thestar.com.my##.med-rec
