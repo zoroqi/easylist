@@ -24,6 +24,7 @@ bing.com###b_copilot_search
 cloud.boldbi.com###bold-ai
 docs.kits.ai###chat-assistant-textarea
 bing.com###chat_upsell_bubble_icon
+ttlc.intuit.com###chip-wrapper
 geneticliteracyproject.org###chtl-open-chat-icon
 baidu.com###con-ar > [tpl="ai_accompanies"]
 baidu.com###content_left > .c-group-wrapper:has([tpl="ai_ask"])
