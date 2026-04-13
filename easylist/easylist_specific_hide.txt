@@ -2030,6 +2030,7 @@ theasianparent.com##.ads-open-placeholder
 zeenews.india.com##.ads-placeholder-internal
 gtagarage.com##.ads-playwire-container-250h
 bangkokpost.com##.ads-related
+smailpro.com##.ads-sidebar-right
 gameshub.com##.ads-slot
 batimes.com.ar##.ads-space
 lowfuelmotorsport.com##.ads-stats
@@ -6528,6 +6529,7 @@ artificialintelligence-news.com,autoaction.com.au,cryptoreporter.info,dafont.com
 elitepvpers.com##[width="729"]
 elitepvpers.com##[width="966"]
 presearch.com##[x-data*="kwrdAdFirst"]
+smailpro.com##[x-data="buysellads()"]
 kingmods.net##[x-data="nativeAd"]
 presearch.com##[x-show="showBanner"]
 mobiforge.com##a > img[alt="Ad"]
