@@ -1,4 +1,3 @@
-thesaurus.com#@#.SZjJlj7dd7R6mDTODwIT
 dev.to##.crayons-card:has(.sponsorship-dropdown)
 2fa.live#?#p:has-text(Advertising)
 404media.co#?#.post__content > p:has-text(This segment is a paid ad)
