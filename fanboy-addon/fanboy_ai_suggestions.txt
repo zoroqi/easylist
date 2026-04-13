@@ -187,6 +187,7 @@ www.youtube.com##ytd-talk-to-recs-flow-renderer
 ! Network items
 ||askmiso.com^$third-party
 ||asus-brand-assistant.asus.com/brand-assistant.js
+||azurefd.net/cdns/copilot_v3.min.js$script,domain=nus.edu.sg
 ||cdn.gist.ai^$third-party
 ||embed.chatnode.ai^
 ||gotolstoy.com^$third-party
