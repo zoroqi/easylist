@@ -67,6 +67,7 @@ baidu.com##.aisearch-btn_1yI-K
 blog.google##.article-summary__content
 nutraingredients.com##.ask-ia-widget
 docs.redhat.com##.ask-red-hat-button-container
+investopedia.com##.askmiso-ask-query
 dictionary.cambridge.org##.assistant-pwa-bar
 collinsdictionary.com##.assistantIcon
 bing.com##.b_insights
