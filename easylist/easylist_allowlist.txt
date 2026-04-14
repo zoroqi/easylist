@@ -503,7 +503,7 @@
 !! pubads.g.doubleclick.net/ondemand/hls/
 @@||pubads.g.doubleclick.net/ondemand/hls/$domain=history.com
 !! ||imasdk.googleapis.com/js/core/bridge
-@@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=~airtelxstream.in|~danet.vn|~spotify.com
+@@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=~airtelxstream.in|~danet.vn|~einthusan.tv|~spotify.com
 !! ||imasdk.googleapis.com/pal/sdkloader/pal.js
 @@||imasdk.googleapis.com/pal/sdkloader/pal.js$domain=pluto.tv|stirr.com|tunein.com
 !! imasdk.googleapis.com/js/sdkloader/ima3_debug.js
