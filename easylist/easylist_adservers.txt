@@ -333,6 +333,7 @@
 ||2cpk72iv6qr88g4z88uu9zo.rest^
 ||2d6g0ag5l.de^
 ||2d86bbe43f.com^
+||2dbfd83dac.com^
 ||2dfdea8c5a.com^
 ||2e68bd0a8b.com^
 ||2ee9804d02.com^
@@ -5814,6 +5815,7 @@
 ||c55d4b9929.com^
 ||c5acd666f8.com^
 ||c607b31b1a.com^
+||c635e33b2e.com^
 ||c6f63c450a.com^
 ||c7f4d1276e.com^
 ||c83eyb3l7v3u892cchc9b5rc691bf4om9txvrx.cfd^
