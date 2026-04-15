@@ -229,6 +229,7 @@ agar.io###agar-io_970x90
 1000logos.net###ai_widget-4
 klz9.com###aigirlfriendad
 alchetron.com###alchetronFreeStarVideoAdContainer
+alternet.org###alternet_dt_incontent
 straitstimes.com###am-widget
 myandroid.org###amazon-icon
 djchuang.com###amazon3
@@ -6426,7 +6427,6 @@ dailydooh.com##[id^="rectdiv"]
 gizchina.com##[id^="slot"]
 si.com##[id^="static-ad-placeholder_"]
 daily-choices.com##[id^="sticky_"]
-alternet.org##[id^="story_page_incontent_"]
 thesaurus.com##[id^="tco"]
 topcpu.net##[id^="topcpu_net_in_page_repeat_responsive"][style="min-height: 300px;"]
 jigsawplanet.com##[id^="tsi-"][style="height:90px;margin:0"]
