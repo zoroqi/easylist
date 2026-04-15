@@ -32,6 +32,7 @@
 ||aab.taboohome.com^
 ||ab.fapnado.xxx^
 ||absoluporn.com/code/script/
+||ac.rule34.xxx^
 ||ad.xxam.org^
 ||ad69.com/analytics/
 ||adf.uhn.cx^
@@ -486,6 +487,7 @@
 ||rtb-3.xgroovy.com^
 ||ruedux.com/code/script/
 ||rule34.xxx/images/r34_doll.png
+||rule34.xxx/x/cookiefreead.js
 ||rule34.xyz/api/v2/infrastructure/dynamic-meta/user
 ||rule34hentai.net^$subdocument,~third-party
 ||rusdosug.com/Fotos/Banners/
