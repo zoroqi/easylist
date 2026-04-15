@@ -2879,6 +2879,7 @@ cookingwithdog.com##.code-block-1
 powerpyx.com##.code-block-14
 patriotnewsfeed.com##.code-block-4
 wltreport.com##.code-block-label
+stoppress.co.nz##.code-widget
 coinmarketcap.com##.coin-ad-banner
 holyrood.com##.col--ad
 mydramalist.com##.col-lg-4 > .clear
