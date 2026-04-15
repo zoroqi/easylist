@@ -2506,6 +2506,7 @@ dissentmagazine.org##.bc_random_banner
 digminecraft.com##.bccace1b
 fakenamegenerator.com##.bcsw
 boldsky.com##.bd-header-ad
+boston.com##.bdc-outbrain-container
 userbenchmark.com##.be-lb-page-top-banner
 chowhound.com,glam.com,mashed.com,moneydigest.com,outdoorguide.com,slashgear.com,svg.com,thelist.com,wrestlinginc.com##.before-ad
 haitiantimes.com,renonr.com##.below-header-widgets
