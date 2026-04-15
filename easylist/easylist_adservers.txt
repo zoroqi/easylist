@@ -4535,6 +4535,7 @@
 ||biddiesieringtowzie.cyou^
 ||bidfortraffic.com^
 ||bidster.net^
+||bidswitch.net^
 ||bidsxchange.com^
 ||bidtheatre.com^
 ||bidtimize.com^
@@ -39846,6 +39847,7 @@
 ||sharepenknife.com^
 ||shareresults.com^
 ||sharesceral.uno^
+||sharethrough.com^
 ||sharkfirelife.com^
 ||sharp-field.pro^
 ||sharplyblurt.cfd^
