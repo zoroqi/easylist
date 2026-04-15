@@ -4413,6 +4413,7 @@ ranker.com##.nativeAdSlot_nativeAdContainer__NzSO_
 seura.fi##.nativead:not(.list)
 fortune.com##.nativo-wrapper
 vice.com##.nav-bar__article-spacer
+afaqs.com##.nav_ad_height
 foobar2000.org##.navad
 ford-trucks.com##.navbar_notice
 notebookcheck.net##.nbc-right-float
