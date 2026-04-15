@@ -7846,6 +7846,7 @@ grit.com###GMTK_Middle_300x250
 grit.com###GMTK_Top_728x90
 gunsandammo.com###VideoPlayerDivIframe
 usnews.com###ac-lre-player-ph
+brobible.com###anyclip-post-container
 ew.com###article__primary-video-jw_1-0
 barchart.com###bc-cnx-player
 stocktwits.com###bottom-nav-content
