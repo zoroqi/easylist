@@ -2429,6 +2429,7 @@ creality3dofficial.com,creality3dofficial.eu##.pub-tip
 trackingmore.com##.public-cookie
 global.cainiao.com##.puckinn-cookie-consent
 bbc.co.uk##.pulse-banner
+klkntv.com##.pum
 metaswitch.com##.pum-container
 familyradio.org##.pum-theme-gdpr
 givedirectly.org##.push-banner-consent
