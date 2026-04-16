@@ -4420,6 +4420,7 @@ farminguk.com##.news-advert-button-click
 hurriyetdailynews.com##.news-detail-adv
 sammobile.com##.news-for-you-wrapper
 caspianpost.com##.news-inner__banner
+medicalxpress.com##.news-related
 blabbermouth.net##.news-single-ads
 dailysocial.id##.news__detail-ads-subs
 digit.in##.news_adhide_device
