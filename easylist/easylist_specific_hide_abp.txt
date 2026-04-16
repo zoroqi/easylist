@@ -81,6 +81,7 @@ euronews.com#?#.the-media-object--has-sponsored:has-text(/In partnership with|In
 eztv.tf,eztv.yt#?#tbody:has-text(WARNING! Use a)
 filehippo.com#?#article.card-article:has(span.card-article__author:has-text(Sponsored Content))
 fiverr.com#?#.gig-card-layout:has-text(Ad by)
+flipkart.com#?#.fWi7J_:has-text(Brands In Spotlight)
 flipkart.com#?#.grid-formation:has(div:has-text(AD))
 foobar2000.org#?#caption:has-text(advertisement)
 foodlion.com#?#.product-grid-cell:has-text(Sponsored)
