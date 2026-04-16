@@ -513,7 +513,7 @@ jpl.nasa.gov##.BlockNewsletterSignup
 axial.acs.org##.Button_button__dSklw
 cnbc.com##.CNBCFooter-info
 kcrw.com##.CTAnewsletter
-retailwire.com,wlrn.org##.Campaign
+declassifieduk.org,retailwire.com,wlrn.org##.Campaign
 scrippsnews.com##.Campaign.sewaren-campaign
 wbur.org##.Campaign__innerWrapper
 nyctourism.com##.Container_newsletterBlock__LRiMf
