@@ -5422,6 +5422,7 @@ interest.co.nz##.story-tag-wrapper
 healthshots.com##.storyBlockOne
 livemint.com##.storyPage_storyblockAd__r4wwE
 businesstoday.in##.stoybday-ad
+twitch.tv##.stream-display-ad__wrapper
 24fm.ps,datingscammer.info,ihrc24x7.com,news365.co.za,royale-games.com,thedefensepost.com,xboxera.com##.stream-item
 siasat.com##.stream-item-below-post-content
 twitter.com,x.com##.stream-item-group-start[label="promoted"]
