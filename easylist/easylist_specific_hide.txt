@@ -3005,6 +3005,7 @@ poweroutage.us##.cta-inline
 thelines.com##.cta-row
 timesofindia.indiatimes.com##.ctn-workaround-div
 deepai.org##.ctx-ad-container
+deepai.org##.ctx-content-container
 u.today##.ctyptopcompare__widget
 genius.com##.cujBpY
 cults3d.com##.cultszone
