@@ -1369,7 +1369,7 @@ reddxxx.com#?#[role="gridcell"]:has-text(/^AD$/)
 ! ABP CSS injection filters
 hitomi.la##.content > div[class]:not([class*="-"]) {min-height:40px !important;}
 hitomi.la##.top-content > div[class]:not([class*="-"]) {min-height:40px !important;}
-myhentaicomics.com##.featured-manga, .header-spot, .pagination-image { min-height: 0 !important; }
+myhentaicomics.com##.featured-manga, .header-spot, .pagination-image {min-height:0 !important;}
 otomi-games.com##.clean-grid-grid-post:has(> [id^="otomi-"] + .clean-grid-grid-post-details-full) {remove:true;}
 ! 69games.xxx/gamcore/porcore.com
 classic.gamcore.com###center > .flashes > .wide:has(> a[href][rel])
