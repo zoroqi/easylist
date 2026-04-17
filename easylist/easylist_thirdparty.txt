@@ -330,7 +330,9 @@
 ||imgsrv4.com/sponsor/$image
 ||in.com/common/script_catch.js
 ||inbound-step.heavenmedia.com^$third-party
+||increase-rev*.static-cloudflare.workers.dev^
 ||increase-rev1.static-cloudflare.workers.dev^
+||increase-rev2.static-cloudflare.workers.dev^
 ||increaserev2.static-cloudflare.workers.dev^
 ||increaserev3.static-cloudflare.workers.dev^
 ||increaserev4.static-cloudflare.workers.dev^
