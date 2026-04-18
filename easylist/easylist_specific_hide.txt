@@ -2041,7 +2041,7 @@ freemalaysiatoday.com##.ads-tall-desktop
 wallpapers.com##.ads-unit-fts
 karryon.com.au##.ads-wrap
 ndtv.com,ndtvgames.com##.ads-wrp
-dna-launcher.apkrabi.com##.ads12
+apkrabi.io,dna-launcher.apkrabi.com##.ads12
 bestcrazygames.com##.ads160600
 m.mouthshut.com##.adsBoxRpt2
 solscan.io##.adsHeaderTextWrapper
