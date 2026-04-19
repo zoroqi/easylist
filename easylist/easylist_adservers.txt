@@ -30818,6 +30818,7 @@
 ||protoawe.com^
 ||protocolchainflow.com^
 ||protocolsnappedimpure.com^
+||protonsjuicer.cyou^
 ||protrafficinspector.com^
 ||protrckit.com^
 ||proudlyfunkywanderer.com^
@@ -31192,6 +31193,7 @@
 ||pubmatic.com^
 ||pubmine.com^
 ||pubnation.com^
+||pubnotify.com^
 ||pubonrace.com^
 ||pubpowerplatform.io^
 ||pubsunsethitherto.com^
