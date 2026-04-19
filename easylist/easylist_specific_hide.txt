@@ -7878,6 +7878,7 @@ autoevolution.com###vidiv
 newseveryday.com###vplayer_large
 economictimes.indiatimes.com###vplayer_vdoai
 newsweek.com##.FeaturedMedia_articleFeaturedMedia__LEpVY
+faroutmagazine.co.uk##.GRVPrimisVideo
 forbes.com##.MWrh7
 cubbyathome.com##.Post__inPostVideoAdDesktop
 apartmenttherapy.com##.Post__inPostVideoAdMobile
