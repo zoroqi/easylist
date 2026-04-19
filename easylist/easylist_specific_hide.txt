@@ -3776,6 +3776,7 @@ indianexpress.com##.ie-adtext
 indianexpress.com##.ie-banner-wrapper
 indianexpress.com##.ie-int-campign-ad
 fifetoday.co.uk##.iehxDO
+ynetnews.com##.iframe-script
 techmeme.com##.ifsp
 streetinsider.com##.im-ad
 coingape.com##.image-ads
