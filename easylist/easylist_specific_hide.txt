@@ -458,6 +458,7 @@ livesoccertv.com###container-md-top
 coinhub.wiki###container_coinhub_sidead
 scanboat.com###content > .margin-tb-25
 allnewspipeline.com###content > [href]
+readfrom.net###content > article.shortstory
 outputter.io###content > section.html
 the-scientist.com###content-74192-boombox-top
 fextralife.com###content-add-a
