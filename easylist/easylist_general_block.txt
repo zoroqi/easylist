@@ -711,6 +711,7 @@
 /v/image.php?spot=$image
 /v2/a/push/js/*$third-party
 /v2/a/skm/*$third-party
+/vast.php?idzone=$xmlhttprequest
 /vast/?zid=
 /velvet_stack_cmp.js$script
 /vendors~ads.
