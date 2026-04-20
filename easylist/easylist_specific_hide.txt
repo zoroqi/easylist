@@ -1819,6 +1819,7 @@ ntvstream.cx##.ad-popup-overlay
 fanfox.net##.ad-reader
 wapt.com##.ad-rectangle
 mydramalist.com##.ad-removal-info
+vesselfinder.com##.ad-right-m
 news.ssbcrack.com##.ad-script
 nationalreview.com##.ad-skeleton
 accesswdun.com##.ad-slider-block
