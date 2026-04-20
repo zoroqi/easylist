@@ -1361,7 +1361,7 @@ rferl.org,rferlo2zxgv23tct66v45s5mecftol5vod3hf4rqbipfp46fqu2q56ad.onion##.infgr
 startuphub.ai##.infinity-article-newsletter-banner
 endler.dev##.info
 boomlive.in##.info-container2
-swissinfo.ch##.infobox
+insideevs.com,swissinfo.ch##.infobox
 thebulletin.org##.infobox-icon-above-title
 nypost.com,pagesix.com,the-sun.com##.inline-module--newsletter
 pbs.org,restofworld.org##.inline-newsletter
