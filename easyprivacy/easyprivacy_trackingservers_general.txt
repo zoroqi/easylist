@@ -416,6 +416,7 @@
 ||siteperformancetest.net^
 ||sjpf.io^
 ||skcrtxr.com^
+||smartiwheel.com^
 ||smartmetrics.co.uk^
 ||smartytouch.co^
 ||snptrk.com^
