@@ -76,6 +76,7 @@
 ||briskpelican.io^
 ||broadstreet.ai^
 ||brwsrfrm.com^
+||btldr.net^
 ||btloader.com^
 ||bx-cloud.com^
 ||bxtag.com^
