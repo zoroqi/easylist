@@ -2810,6 +2810,7 @@
 ||trx-cdn.zip.co^
 ||trx.zip.co^
 ||try.abtasty.com^
+||trygravity.ai/ack?
 ||ts.tradetracker.net^
 ||turnto.com/event
 ||tvpage.com/tvpa.min.js
