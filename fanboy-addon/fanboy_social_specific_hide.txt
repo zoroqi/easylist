@@ -418,6 +418,7 @@ koimoi.com##.btn-whatsup
 androidpolice.com##.btn-x
 consumerreports.org##.btn__social
 bu.edu##.bu-sharing
+channelnewsasia.com##.button--google-preferred
 notateslaapp.com##.button-follow
 unz.com##.button-holder
 healthline.com##.button-wrapper
@@ -580,6 +581,7 @@ blogto.com##.facebook-round-control
 news.stv.tv##.facebook-share
 moparinsiders.com##.facebook-widget
 thefastmode.com##.facebook_plugin
+channelnewsasia.com##.fast-card__share-button
 shepherd.com##.fav3-share
 thefreedictionary.com##.fb-share
 bearingarms.com,hotair.com,redstate.com##.fb-social
