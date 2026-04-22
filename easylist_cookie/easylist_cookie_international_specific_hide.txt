@@ -1537,6 +1537,7 @@ diners.co.il##.message-container
 ksp.co.il##.mui-b13abt.MuiBox-root
 bankhapoalim.co.il##.muirtl-1cwm7gt
 ksp.co.il##.muirtl-b13abt.MuiBox-root
+avis.co.il##.p13-banner
 lightin.co.il##.pcs-short-strip
 super-pharm.co.il##.phcBlockCookiesWrap
 gomobile.co.il##.popup-contents
