@@ -2136,6 +2136,7 @@ interacnetwork.com##.stripe--newsletter
 barrons.com##.style--newsletter-signup-bottom--1Spc175x
 emergingtechbrew.com##.style__NewsletterCTAWrapper-sc-e26ea068-2
 inyourarea.co.uk##.styles_DesktopBottomBarSubscriptionForm_21C_s
+thinkygames.com##.styles_NewsletterSection__IY0HO
 emergingtechbrew.com##.styles__NewsletterButtonWrapper-sc-1d1d7156-13
 bringmethenews.com##.styles_announcementBanner__cgbJf
 economictimes.indiatimes.com##.styles_homeLeftSectionBanner__8_ohA
