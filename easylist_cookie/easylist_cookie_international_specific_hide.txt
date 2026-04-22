@@ -294,7 +294,7 @@ bluesnews.de##.ce_rsce_oneo_fixed_note
 foodjobs.de##.ckOuter
 boley.de##.ckmsg
 sberbankdirect.de##.cm
-alex-fm.de,nahkampfkunst.de,naturheilpraxis-schweig.de##.cm-cookie-container
+alex-fm.de,antik-vehrs.de,nahkampfkunst.de,naturheilpraxis-schweig.de##.cm-cookie-container
 hifi-janssen.de##.cm-wp-container
 immoscout24.ch##.cmOzGN
 ihk-weiterbildung.de##.cmnstr
@@ -1689,6 +1689,7 @@ leonardodicarlo.com###cm
 howrse.it###cmp-overlay
 infojobs.it###cmpContainer
 ederaspa.com###containerPrivacy
+sunshoes.it###cookie-modal
 edilportale.com###cookie-wall
 primashopping.it###cookieAlert
 emiliaromagnasport.com,marchesport.info###cookieBarModal
@@ -1909,6 +1910,7 @@ xtech.nikkei.com##.bpPrivacy
 animatebookstore.com##.ccst_area
 ebarafoods.com##.consent_c
 get-cp.jp##.cookie-agreement
+takarashuzo.co.jp##.cookie-confirm
 kaldi.co.jp,kanazawalabo.net,liver.main.jp,xfolio.jp##.cookie-consent
 more.hpplus.jp##.cookie-inquiry
 beforward.jp##.cookie-permission
@@ -2195,7 +2197,7 @@ mpastucha.pl##.ad-modal
 alcalia.pl##.alcalia-cookies
 odsluchane.eu##.alert-flash
 poznanairport.pl##.alertBoxes
-partsimple.com##.amgdprjs-bar-template
+focusgarden.pl,partsimple.com##.amgdprjs-bar-template
 tvporno.pl##.avwp-av
 tvporno.pl##.avwp-av-overlay
 foodjobs.pl##.b-modal
@@ -2298,6 +2300,7 @@ home.pl##.sc-1ykjjm8-0.lofKxQ
 cire.pl##.sc-btewqU
 bazarynek.pl##.send_akt
 kamanet.pl##.sh-page-notice
+vergesound.pl##.simple-consent-banner
 opel-sklep.com##.simple-modal
 grzejszczak.pl##.sook
 steamaster.pl##.steamaster-cookie-container
@@ -2923,6 +2926,7 @@ libmogilev.by##.sc-widget
 securitymedia.org##.scode-cookie-simple
 netology.ru##.shared-components-CookiesAgreement--root--2INjM
 astralinux.ru##.show-cookie
+indexiq.ru##.snackbar-cookies
 spb-guide.ru##.snowdiv-modal
 datasystem.ru##.specialAlert
 nergb.ru##.spu-bottom-left
