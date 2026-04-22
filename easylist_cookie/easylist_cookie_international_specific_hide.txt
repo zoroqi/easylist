@@ -2546,7 +2546,7 @@ agazetafm.com,araraquaranews.com.br,slatual.com.br##.popup_footer
 versatilhv.com.br##.privacy-police
 gaz.com.br##.privacy-policy__popup
 starrcompanies.com.br##.privacy-warning
-honda-automoveis.pt##.rigor-cookies
+caetanobus.pt,honda-automoveis.pt##.rigor-cookies
 rovitex.com.br##.rovitex-apps-0-x-cookieContainer
 cogna.com.br##.sc-176b3dae-0
 gazin.com.br##.sc-7d939fce-0
