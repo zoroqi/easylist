@@ -1519,6 +1519,7 @@ pais.co.il##.cookies_sec
 tel-aviv.gov.il##.customerAgreement
 drushim.co.il##.dr-cookie-banner
 mtoys.co.il##.e2w-cookie-popup
+bcommunications.co.il##.ecl-banner
 prashkovsky.co.il##.elementor-element-71e69a7
 xphone.co.il##.elementor-element-7f094b47
 yad-mordechai.co.il##.eupopup-container
