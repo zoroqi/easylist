@@ -273,6 +273,7 @@ ttgmedia.com##.ao-sbcontent
 asiaone.com##.ao-share-buttons
 thebookseller.com##.aos-Article-ShareLinks
 apnews.com##.ap-embed-wrap-whatsapp
+courthousenews.com##.apps-links
 chargedevs.com##.apss-social-share
 storyboard18.com##.ar_share
 businessday.co.za##.arena-share-bar
