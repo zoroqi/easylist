@@ -1388,7 +1388,7 @@ umontreal.ca##.consent-container
 citynews.ca##.consent-cookie-box
 sees.com##.consent-ctnr
 tablesgenerator.com##.consent-dialog
-dict.longdo.com,itmagazine.ch,speaktor.com##.consent-div
+dict.longdo.com,itmagazine.ch,speaktor.com,transkriptor.com##.consent-div
 bulova.com,frederiqueconstant.com##.consent-drawer
 ballard-inc.com##.consent-footer
 nextbase.co.uk,nextbase.com,nextbase.eu##.consent-managermain
