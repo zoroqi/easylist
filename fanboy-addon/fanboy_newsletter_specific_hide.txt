@@ -1688,7 +1688,7 @@ essemagazine.it,givemesport.com,latv.com,news12.com,percona.com,poynter.org,uplo
 bitcoinist.com,darkreading.com,everydayhealth.com,gamedeveloper.com,historyextra.com,radiotimes.com##.newsletter-sign-up
 audacy.com##.newsletter-sign-up--station
 capitaltransport.com##.newsletter-sign-up-wrapper
-dailymail.co.uk##.newsletter-sign-up_2K2O1Qev
+dailymail.co.uk,dailymail.com##.newsletter-sign-up_2K2O1Qev
 news24.com##.newsletter-signup--group
 foreignpolicy.com##.newsletter-signup-and-ads
 tweaktown.com##.newsletter-signup-bottom
