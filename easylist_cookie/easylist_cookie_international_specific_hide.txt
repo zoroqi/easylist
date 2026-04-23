@@ -2690,6 +2690,7 @@ belgazprombank.by###modal-cookies
 readovka.news###modalCookie
 alfazdrav.ru###modalcookie
 www.vtbnpf.ru###notify-container
+oldmail.meta.ua###oferta_meta
 online-kassa.ru###ok-cookie
 stentex.ru###overlay
 verno-info.ru###overlaycookie
@@ -2806,6 +2807,7 @@ korusconsulting.ru##.cookieConfirm
 rusnano.com##.cookie__in
 gostest.com##.cookie__open
 afishainspring.ru##.cookie__q6bNp
+mrivc.ru##.cookie_information
 lays.ru##.cookie_inner_1vkWj
 fnkc-fmba.ru##.cookie_notification__wrap
 rzd-partner.ru##.cookie_outer_div
