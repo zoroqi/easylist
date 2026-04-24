@@ -784,6 +784,7 @@ friv.com###lbaTop
 irishnews.com###lbtop
 piraproxy.info,unblockedstreaming.net###lbxUR99472
 ebab.com###lcg-banner
+metoffice.gov.uk###lead-ad-spacer
 dailydooh.com###leaddiv
 sansabanews.com###leader
 techrepublic.com###leader-bottom
@@ -4159,6 +4160,7 @@ manageditmag.co.uk##.manag-widget
 gfinityesports.com##.manifold-takeover
 get.pixelexperience.org##.mantine-arewlw
 whatsgabycooking.com##.manual-adthrive-sidebar
+metoffice.gov.uk##.maps-header-advert
 glasgowtimes.co.uk,heraldseries.co.uk,somersetcountygazette.co.uk,thenational.scot##.mar-leaderboard--top
 igi-global.com##.margin-bottom-15.inline-block-100
 linkvertise.com##.margin-bottom-class-20
