@@ -4921,6 +4921,7 @@ astrozop.com##.relative.z-5
 miragenews.com##.rem-i-s
 4shared.com##.remove-rekl
 boldsky.com,mykhel.com##.removeStyleAd
+livemint.com##.renderDeskAi
 khaleejtimes.com##.rendered_board_widget
 runningmagazine.ca##.repeater-bottom-leaderboard
 bbjtoday.com##.replacement
