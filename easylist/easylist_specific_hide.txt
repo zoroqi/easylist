@@ -1407,6 +1407,7 @@ marketscreener.com###zppRight2
 ultrabookreview.com###zzifhome
 ultrabookreview.com###zzifhome2
 arydigital.tv###zzright
+gulfnews.com##.-U-T1
 bigissue.com##.-ad
 gamejolt.com##.-ad-widget
 bigissue.com##.-ad-wrapper
@@ -1517,6 +1518,7 @@ modrinth.com##.GBBNWLJVGRHFLYVGSZKSSKNTHFYXHMBD
 google.com##.GC3LC41DERB + div[style="position: relative; height: 170px;"]
 google.com##.GGQPGYLCD5
 google.com##.GGQPGYLCMCB
+gulfnews.com##.GGlm6
 google.com##.GISRH3UDHB
 goodmenproject.com##.GMP_728_top
 yiv.com##.GUIAdvertisement
@@ -1589,6 +1591,7 @@ newser.com##.RightRailAds
 games.usatoday.com##.RightRailDeprecated__displayAdRight___byqVgMD_
 games.mashable.com##.RightRail__displayAdRight___PjhV3mIW
 clutchpoints.com##.RzKEf
+gulfnews.com##.SDEAy
 toonstream.co##.SH-Ads
 gq.com##.SavingsUnitedCouponsWrapper-gPnqA-d
 lbcgroup.tv##.ScriptDiv
@@ -5032,6 +5035,7 @@ box-core.net,mma-core.com##.rsky
 voxelmatters.com##.rss-ads-orizontal
 rswebsols.com##.rsws_banner_sidebar
 mykhel.com##.rt-top-ad
+gulfnews.com##.rtH17
 nextofwindows.com##.rtsidebar-cm
 roadtovr.com##.rtvr_under_feature_ad
 nanoreview.net##.rtx_3_desktop
@@ -5707,6 +5711,7 @@ timesofisrael.com##.type-spotlight
 savefrom.net##.tz-quality-link
 theroar.com.au##.u-d-block
 seattletimes.com##.u-df.revcontent__recommended-wrapper
+gulfnews.com##.uUS3S
 ubergizmo.com##.ubergizmo-dfp-ad
 unlockboot.com##.ubhome-banner
 darko.audio##.ubm_widget
