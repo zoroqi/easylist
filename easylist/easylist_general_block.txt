@@ -392,6 +392,7 @@
 /exonb/*$script
 /exonob/*$script
 /exowb/froload.js$script
+/exowb/fromload.js$script
 /exowb/fronload.js$script
 /exowb/frontload.js$script
 /exowb/frotload.js$script
