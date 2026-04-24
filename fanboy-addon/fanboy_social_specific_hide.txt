@@ -627,6 +627,7 @@ brobible.com##.follow-buttons-block
 carscoops.com##.follow-carscoops-container
 arkansasonline.com,ctrl.blog,ein-herz-fuer-kinder.de##.follow-container
 arabnews.com##.follow-field
+theprint.in##.follow-g
 indiatvnews.com##.follow-google
 autocarindia.com##.follow-google-news-p
 metoffice.gov.uk##.follow-icons
@@ -765,6 +766,7 @@ ethanzuckerman.com##.group-1
 gadgets360.com##.gsocialbar
 atlanticcouncil.org##.gta-hover-share-container
 publicradiotulsa.org,stlpr.org##.gtm_share
+theprint.in##.gw-follow-button
 verdictum.in##.h-anchor
 egotastic.com,egotasticsports.com##.h-fixed-footer
 webdunia.com##.h_search_apps
