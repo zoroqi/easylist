@@ -166,6 +166,7 @@ baystatebanner.com###top-soc-icon-wrap
 hexus.net###topicons
 dansingerman.com,fark.com,radioguide.fm,rare.us,thetvaddict.com###twitter
 pcgamer.com,tomshardware.com###utility-bar
+windowscentral.com###utilitybar__button--share
 mansionglobal.com###webui-save-and-share
 videocardz.com###welcome-modal
 walesonline.co.uk###whatsapp-community
