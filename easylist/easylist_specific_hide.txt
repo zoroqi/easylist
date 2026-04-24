@@ -7164,6 +7164,7 @@ experte.com##overlay-block
 americanfreepress.net##p > [href] > img
 ft.com##pg-slot.pg-slot[id]
 coincarp.com##position-name
+producthunt.com##section.group + div > section.group
 engadget.com##section.md\:min-h-\[310px\]
 mashable.com##section.mt-4 > div
 weather.com##section[aria-label="Sponsored Content"]
