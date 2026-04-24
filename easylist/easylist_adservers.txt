@@ -8856,6 +8856,7 @@
 ||damaged-transition.com^
 ||damagedbehaved.com^
 ||damagedbroad.pro^
+||damagedface.com^
 ||damagedice.pro^
 ||damagedplough.com^
 ||damagedshame.pro^
