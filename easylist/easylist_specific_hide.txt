@@ -2494,7 +2494,7 @@ fakenamegenerator.com##.bcsw
 boldsky.com##.bd-header-ad
 userbenchmark.com##.be-lb-page-top-banner
 chowhound.com,glam.com,mashed.com,moneydigest.com,outdoorguide.com,slashgear.com,svg.com,thelist.com,wrestlinginc.com##.before-ad
-haitiantimes.com,renonr.com##.below-header-widgets
+haitiantimes.com,renonr.com,wyofile.com##.below-header-widgets
 bitcoinworld.co.in##.below-menu-banner
 theinertia.com##.below-post-ad
 cnbctv18.com##.below-summary-ad
