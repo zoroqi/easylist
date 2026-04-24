@@ -32,7 +32,6 @@ usatoday.com##+js(set, gnt.x.adm, '')
 ||operationsports.com/wp-json/navy/v1/tag?pid=
 ! noopjson
 ||acustomizedgift.com^$redirect=noopjs,script
-||acustomizedgift.com^$redirect=noopjson,xmlhttprequest
 ||inventorycache.com^$redirect=noopjs,script
 ||kindhush.com^$redirect=noopjson,xmlhttprequest
 ||oceancloudhosts.com^$redirect=noopjson,xmlhttprequest
