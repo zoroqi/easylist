@@ -241,8 +241,10 @@ ancient-origins.net###ao-sidebar-outbrain
 partnerkin.com###ap_bck
 filmibeat.com###are-slot-rightrail
 kyivindependent.com###article-banner-slot
+mindbodygreen.com###article-between-content-ad
 mybanktracker.com###article-content > .lazyloaded
 thesun.co.uk###article-footer div[id*="-ads-"]
+mindbodygreen.com###article-leaderboard-ad
 timesofmalta.com###article-sponsored
 forbes.com###article-stream-1
 brisbanetimes.com.au,smh.com.au,theage.com.au,watoday.com.au###articlePartnerStories
