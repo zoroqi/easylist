@@ -2422,6 +2422,7 @@ cookingwithjanica.com##.wp-block-group__inner-container
 interiordesign.net##.wp-block-id-newsletter
 atlpresscollective.com,therover.ca,thestraight.com.au##.wp-block-indiegraf-email-capture
 eletric-vehicles.com,snackstack.net##.wp-block-jetpack-subscriptions
+nikomc.com##.wp-block-jetpack-subscriptions__container
 retailwire.com##.wp-block-kadence-conversions-conversion
 freshoffthegrid.com##.wp-block-kadence-rowlayout
 kbb.com##.wp-block-kbb-email-subscription-form
