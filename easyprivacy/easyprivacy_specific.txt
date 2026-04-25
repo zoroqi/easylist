@@ -1752,6 +1752,7 @@
 ||t3.chat/api/event
 ||t3.chat/js/xt/script.js
 ||t810.ctpost.com^
+||tagdelivery.mayoclinic.org^
 ||tagger.ope.scmp.com^
 ||tagging.steelseries.com^
 ||tags-event.woolworths.co.nz^
