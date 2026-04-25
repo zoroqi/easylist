@@ -1889,6 +1889,7 @@ gwaramedia.com##.poster-wrap--subscribe-news
 everythinglifestyle.ca,fraservalleytoday.ca##.pp-btn-container
 bittmanproject.com##.pp-modal-wrap
 womensagenda.com.au##.pp-popup
+news.osu.edu##.ppmodule_buttonset
 peanutbutterrunner.com##.pps-popup
 ip2location.com##.pre-footer-subscribe-box
 cheknews.ca##.pre-header-newsletter
@@ -1917,6 +1918,7 @@ independent.ie##.quick_subscribe
 allthatsinteresting.com##.r-klde5a.r-1awozwy.css-175oi2r
 prdaily.com##.ragansdaily
 theparisreview.org##.rail-enews
+news.osu.edu##.raw-html-embed
 oregonlive.com##.rawhtml
 holyrood.com##.rc-subs
 rcrwireless.com##.rcrwi-hubspot-article-form
