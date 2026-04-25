@@ -2152,8 +2152,10 @@ salon.com##.advertise_text
 topsmerch.com##.advertisement--6
 topsmerch.com##.advertisement-2-box
 devdiscourse.com##.advertisement-area
+tctmd.com##.advertisement-aside
 business-standard.com##.advertisement-bg
 atlasobscura.com##.advertisement-disclaimer
+tctmd.com##.advertisement-headerz
 boardgamegeek.com##.advertisement-leaderboard-lg
 trumparea.com##.advertisement-list
 sneakernews.com##.advertisement-section
