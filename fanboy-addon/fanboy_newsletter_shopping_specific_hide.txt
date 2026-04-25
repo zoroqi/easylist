@@ -14,6 +14,7 @@ gourmetfoodstore.com###divInterstitialContainer
 overstock.com###dynamic_banners
 niteize.com###easybanner-overlay-el
 costco.com###email-popup-title
+vat19.com###email-signup-footer-container
 cb2.ca###emailCheckFooter
 cruise.com###emailFooter
 zumiez.com###emailInfobar
