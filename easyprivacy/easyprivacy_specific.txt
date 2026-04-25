@@ -1159,6 +1159,7 @@
 ||mstm.motorsport.com^
 ||mtg.macpaw.com^
 ||mtm.bondagevalley.cc^
+||mtrics.cdc.gov^
 ||musescore.com/components/data?
 ||musescore.com/components/log/$ping
 ||musescore.com/score/stats/
