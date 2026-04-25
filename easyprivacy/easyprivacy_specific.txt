@@ -1555,7 +1555,6 @@
 ||slashdot.org/images/js.gif
 ||slc.cbssports.com/events
 ||slickdeals.net/ajax/stats/
-||slideshare.net/frontend_tracking/
 ||slipstream.skyscanner.net^
 ||smartlink-api.amuse.io/api/analytics/
 ||smassets.net/assets/anonweb/anonweb-click-
@@ -2038,6 +2037,7 @@
 ||wa.gmx.co.uk^
 ||wa.gymboree.com^
 ||wa.pjplace.com^
+||wa.slideshare.net^
 ||wa.sugarandjade.com^
 ||waaw.ac/cdn-cgi/trace
 ||waaw.to/cdn-cgi/trace
