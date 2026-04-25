@@ -52359,6 +52359,7 @@
 ||adklip.com^$third-party
 ||adknowledge.com^$third-party
 ||adkonekt.com^$third-party
+||adkora.com^$third-party
 ||adkova.com^$third-party
 ||adlatch.com^$third-party
 ||adlayer.net^$third-party
