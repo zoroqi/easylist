@@ -1178,6 +1178,7 @@
 ||navan.com/api/analytics
 ||nbarizona.com/metrics/
 ||nbc.com/webevents/
+||ncregister.com/_swp_analytics?
 ||neatorama.com/story/view/
 ||neeva.com/logql/log
 ||neighbourly.co.nz/event-tracking
