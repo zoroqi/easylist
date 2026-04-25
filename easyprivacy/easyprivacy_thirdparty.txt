@@ -884,6 +884,8 @@
 ||data.jaytuckwell.com^
 ||data.minute.ly^
 ||data.nexxt.com^
+||data.pendo.io/data/errorlog?
+||data.pendo.io/data/guide.gif/
 ||data.queryly.com^
 ||data.replo.app^
 ||data.wiris.cloud/telemetry/
