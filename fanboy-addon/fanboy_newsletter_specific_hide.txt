@@ -1848,6 +1848,7 @@ spacenews.com##.pattern-newsletter-subscribe
 labiotech.eu##.pb-8
 nejm.org##.pb-house-message
 playbuzz.com##.pb-site-subscription
+pcguide.com##.pcg-newsletter
 paydaythegame.com##.pdtgfooternewsletter
 hbr.org##.persistent-banner
 bonappetit.com##.persistent-bottom
