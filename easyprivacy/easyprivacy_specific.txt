@@ -1562,6 +1562,7 @@
 ||smartlink-api.amuse.io/api/analytics/
 ||smassets.net/assets/anonweb/anonweb-click-
 ||smetrics.couponcabin.com^
+||smetrics.inova.org^
 ||smetrics.ralphlauren.com^
 ||smetrics.vanguard.com^
 ||smutty.com/ajax/trcking/
