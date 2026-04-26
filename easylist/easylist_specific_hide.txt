@@ -4332,6 +4332,7 @@ finextra.com##.module--sponsor
 webmd.com##.module-f-hs
 usmagazine.com##.module-storyme
 webmd.com##.module-top-picks
+topographic-map.com##.moduleAmazon
 fxsforexsrbijaforum.com##.module_ahlaejaba
 dfir.training##.moduleid-307
 dfir.training##.moduleid-347
