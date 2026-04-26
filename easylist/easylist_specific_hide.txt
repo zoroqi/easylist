@@ -1426,7 +1426,7 @@ buzzfeed.com,darkreading.com,gamedeveloper.com,iotworldtoday.com,sevendaysvt.com
 mui.com##.Ad-root
 deseret.com##.Ad-space
 jagranjosh.com##.Ad720x90
-thingiverse.com##.AdBanner__adBanner--GpB5d
+thingiverse.com##.AdBanner__adBanner--gSsno
 surfline.com##.AdBlock_modal__QwIcG
 jagranjosh.com##.AdCont
 laist.com##.AdModule-container
