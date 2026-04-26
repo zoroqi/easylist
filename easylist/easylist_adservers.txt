@@ -28706,6 +28706,7 @@
 ||piqueuraftergo.cyou^
 ||piquiafarde.help^
 ||piquingbirneextancy.cyou^
+||piqxifhamsuk.in^
 ||piranastaxmen.cyou^
 ||pirangagona.help^
 ||piratedstoory.qpon^
@@ -38644,6 +38645,7 @@
 ||stihaizaugnie.net^
 ||stikineturma.cfd^
 ||stikroltiltoowi.net^
+||stilbdueller.cyou^
 ||stilbrows.cfd^
 ||stiletbroom.shop^
 ||stillawokeathwart.com^
@@ -40121,6 +40123,7 @@
 ||tearerswalkup.shop^
 ||tearingrustsally.com^
 ||tearingtastes.com^
+||tearpitboozier.cyou^
 ||tearsfarsang.cyou^
 ||teasemilesnewlywed.com^
 ||teashopplugged.com^
