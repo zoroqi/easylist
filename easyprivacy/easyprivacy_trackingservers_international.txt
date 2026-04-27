@@ -756,7 +756,6 @@
 ||mailinbox.com.br^$third-party
 ||marktest.pt^$third-party
 ||percycle.com^$third-party
-||pmweb.com.br^$third-party
 ||retargeter.com.br^$third-party
 ||sambaads.com^$third-party
 ||shoptarget.com.br^$third-party
