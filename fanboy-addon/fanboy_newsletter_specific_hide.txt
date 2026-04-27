@@ -2137,7 +2137,7 @@ alaraby.co.uk,fbi.gov,newarab.com,puck.news##.sticky-footer
 ubn.news##.sticky-wrap-bottom
 aulart.com##.sticky_banner_blog
 tn.com.ar##.sticky_top
-thenewsmarket.com##.story-aside-subscribe
+news.adidas.com,thenewsmarket.com##.story-aside-subscribe
 interacnetwork.com##.stripe--newsletter
 barrons.com##.style--newsletter-signup-bottom--1Spc175x
 emergingtechbrew.com##.style__NewsletterCTAWrapper-sc-e26ea068-2
