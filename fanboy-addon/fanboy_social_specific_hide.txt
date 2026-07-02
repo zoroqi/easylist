@@ -899,6 +899,7 @@ labiotech.eu##.inline-block.space-y-8
 mainichi.jp##.inline-list
 winnipegfreepress.com##.interactive
 bossip.com##.io-header__social-links
+thedriven.io##.is-whatsapp
 insideevs.com##.isBottomShare
 iphoneincanada.ca,teslanorth.com##.item--share
 flyercity.ca##.item_share_area
