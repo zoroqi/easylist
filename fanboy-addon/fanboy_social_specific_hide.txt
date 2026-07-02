@@ -1135,6 +1135,7 @@ reason.com##.rcom-social-tools
 dermatologytimes.com,drive.com.au##.react-share__ShareButton
 newsukraine.rbc.ua##.read-in-google
 newsukraine.rbc.ua##.read-in-socials
+windowsreport.com##.reader-action-panel
 tasteofhome.com##.recipe-social-share
 fleischmannsyeast.com##.recipe__social
 outdoorlife.com,popsci.com,taskandpurpose.com,thedrive.com,twz.com##.recurrent-share
