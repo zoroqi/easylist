@@ -11917,6 +11917,7 @@
 ||europeanplash.com^
 ||euros4click.de^
 ||eurytusmiterer.qpon^
+||eushjrobmizpj.website^
 ||eusmdates.com^
 ||eussiyvfjpqqc.site^
 ||eussownwpyxdw.online^
@@ -23778,6 +23779,7 @@
 ||nestledmph.com^
 ||netamenage.cfd^
 ||netcatx.com^
+||netebestridbusing.cfd^
 ||neterbarit.com^
 ||netguard.mobi^
 ||netobscenityoverdo.com^
@@ -28568,6 +28570,7 @@
 ||qeyxf31oijnn9b.cfd^
 ||qezodjntkbtah.site^
 ||qfdilgjxpdevp.online^
+||qffrdxwhd.com^
 ||qfgzjprfvrabq.site^
 ||qfhkotbziwpgy.online^
 ||qfhvdwqycveuf.site^
@@ -38448,6 +38451,7 @@
 ||wdxuugjqeavzv.space^
 ||wdyupcjjiyflk.space^
 ||wdyynhcllupdc.online^
+||we-offer.com^
 ||weakerscripts.com^
 ||wealthn.com^
 ||wealthyvast.pro^
@@ -42008,6 +42012,7 @@
 ||gensonal.com^$document
 ||get-gx.co/*sub2=$document
 ||get-gx.net^$document
+||getdirectbonus.com^$document
 ||getsthis.com^$document
 ||gkrtmc.com^$document
 ||gmmads.com^$document
@@ -42294,6 +42299,7 @@
 ||stake.mba/?c=$document
 ||staysafeonlinetoday.com^$document
 ||steerensout.net^$document
+||stopads-now.com^$document
 ||stortla.com^$document
 ||strtgic.com^$document
 ||stsbih.com.ba^$document
@@ -42376,6 +42382,7 @@
 ||want-some-psh.com^$document
 ||wbidder.online^$document
 ||wbidder3.com^$document
+||we-offer.com^$document
 ||webfanclub.com^$document
 ||webmedrtb.com^$document
 ||wetrackgames.com^$document
