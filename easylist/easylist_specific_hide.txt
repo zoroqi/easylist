@@ -4960,6 +4960,7 @@ yabiladi.com##.pub2
 helis.com##.pub23_all
 fsolver.com##.pubCLS2
 gameslol.net##.pubGside
+navalnews.com##.pubLateral
 gameslol.net,yabiladi.com##.pub_header
 devhints.io##.pubbox
 as.com,desdelinux.net,tutiempo.net,ubunlog.com##.publi
