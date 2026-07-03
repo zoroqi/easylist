@@ -294,6 +294,7 @@
 ||boldin.com/rails/arrival
 ||bonprix.*/ajax/landmarks/
 ||bonprix.*/ajax/marketing-parameters/
+||bookcabin.com/api/log-browser
 ||booking.com/c360/v1/track
 ||booking.com/collector/
 ||booking.com/logo?
