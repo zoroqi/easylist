@@ -3279,6 +3279,7 @@ the-sun.com##.dpa-grid
 thesun.co.uk##.dpa-slot
 immoweb.be##.dpg
 radiopaedia.org##.drive-banner
+dropr.co##.dropr-ad-wrap
 cryptonews.com##.dslot
 kickasstorrents.to##.dssdffds
 crash.net##.dt
