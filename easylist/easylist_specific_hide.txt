@@ -3327,9 +3327,11 @@ clutchpoints.com##.ehgtMe.sc-ed3f1eaf-1
 filmibeat.com##.ele-ad
 sashares.co.za##.elementor-48612
 cryptopolitan.com##.elementor-element-094410a
+transportandenergy.com##.elementor-element-16336d8
 avitrader.com##.elementor-element-31aeedc
 hilltimes.com##.elementor-element-5818a09
 whakatakitimes.nz##.elementor-element-97aca2d
+transportandenergy.com##.elementor-popup-modal
 optimyz.com,ringsidenews.com##.elementor-shortcode
 canyoublockit.com##.elementor-widget-container > center > p
 vedantbhoomi.com##.elementor-widget-smartmag-codes
