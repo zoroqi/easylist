@@ -20741,6 +20741,7 @@
 ||leaacnhutcosv.store^
 ||leadadvert.info^
 ||leadgainz.com^
+||leadimmensely.com^
 ||leading-back.com^
 ||leadmediapartners.com^
 ||leadnote.me^
@@ -21651,6 +21652,7 @@
 ||lsqvtdkujymzj.online^
 ||lsqyahmytfwhn.store^
 ||lssocybaoqyeu.online^
+||lstgddss.com^
 ||lsvfzskgudyyr.site^
 ||lswdjtngkdhbe.website^
 ||lswteiiyfccwt.site^
@@ -26642,6 +26644,7 @@
 ||passeura.com^
 ||passfixx.com^
 ||passingcounselrueful.com^
+||passion-industry-game.com^
 ||passionatenormally.com^
 ||passirdrowns.com^
 ||passivealexis.com^
@@ -42462,6 +42465,7 @@
 ||ads-blocker.app^$document
 ||ads4trk.com^$document
 ||adsco.re^$document
+||adsgateway.net^$document
 ||adskeeper.co.uk^$document
 ||adspredictiv.com^$document
 ||adsquasher.com^$document
@@ -42699,6 +42703,7 @@
 ||land.pixelsee.app^$document
 ||landerhq.com^$document
 ||leadgainz.com^$document
+||leadimmensely.com^$document
 ||leakvideos.live^$document
 ||leoyard.com^$document
 ||lindychat.com^$document
@@ -42708,6 +42713,7 @@
 ||locooler-ageneral.com^$document
 ||locopar.com^$document
 ||lorymo.online^$document
+||lstgddss.com^$document
 ||lwnbts.com^$document
 ||lylufhuxqwi.com^$document
 ||madeupice.com^$document
