@@ -808,7 +808,7 @@ techrepublic.com###leader-plus-top
 ugstandard.com###leader-wrap
 pistonheads.com###leaderBoard
 whdh.com,wsvn.com###leader_1
-12tomatoes.com,allwomenstalk.com,bloomberg.com,datpiff.com,gadgetreview.com,gransnet.com,hockeybuzz.com,koreaboo.com,logotv.com,news.sky.com,onthesnow.co.uk,onthesnow.com,penny-arcade.com,publishersweekly.com,skysports.com,thedrinknation.com,theserverside.com,vacations.info###leaderboard
+12tomatoes.com,allwomenstalk.com,bloomberg.com,datpiff.com,gransnet.com,hockeybuzz.com,koreaboo.com,logotv.com,news.sky.com,onthesnow.co.uk,onthesnow.com,penny-arcade.com,publishersweekly.com,skysports.com,thedrinknation.com,theserverside.com,vacations.info###leaderboard
 open.spotify.com###leaderboard-ad-element
 vocm.com###leaderboard-area
 bbc.com###leaderboard-aside-content
@@ -3871,9 +3871,7 @@ mtgrocks.com##.htl-inarticle-ad
 nameberry.com##.htlad-InContent_Flex
 nameberry.com##.htlad-Leaderboard_Flex
 avclub.com##.htlad-above_logo
-gadgetreview.com##.htlad-in_content
 avclub.com##.htlad-middle_rectangle
-gadgetreview.com##.htlad-right_rail
 avclub.com##.htlad-top_leaderboard
 zedge.net##.htlad-zedge_browse
 wtop.com##.hubb-at-rad-header
