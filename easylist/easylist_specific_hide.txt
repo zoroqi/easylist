@@ -2690,6 +2690,7 @@ blog.hubspot.com##.blog-cta-with-form
 oxygen.com,syfy.com##.blog-post-section__zergnet
 blogto.com##.blogto-sticky-banner
 waterworld.com##.blueconic-recommendations
+utterlyinteresting.com##.bm-Gu
 bmwblog.com##.bmwbl-after-content
 azscore.com,bescore.com##.bn
 firstpost.com##.bn-add
