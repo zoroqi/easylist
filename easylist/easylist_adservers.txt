@@ -39282,6 +39282,7 @@
 ||weatherplllatform.com^
 ||weavekidnapfreaky.com^
 ||weaveradrenaline.com^
+||weaversprinkle.com^
 ||weaveworkingheaviness.com^
 ||web-guardian.xyz^
 ||web-security.cloud^
