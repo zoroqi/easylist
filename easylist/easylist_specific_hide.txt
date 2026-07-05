@@ -3382,6 +3382,8 @@ futuregaming.io##.ez-video-wrap
 wsj.com##.ez6zued3.css-sw5cyu
 wsj.com##.ez6zued6
 cgpress.org##.ezlazyloaded.header-wrapper
+animecorner.me##.ezoic_sidebar_advertisement_1
+animecorner.me##.ezoic_sidebar_advertisement_2
 chorus.fm##.f-soc
 formula1.com##.f1-dfp-banner-wrapper
 techonthenet.com##.f16bdbce
