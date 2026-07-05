@@ -2524,6 +2524,7 @@
 ||agl001.bid^
 ||agl002.online^
 ||agl003.com^
+||agl004.fun^
 ||agl005.tech^
 ||agl006.host^
 ||agle21xe2anfddirite.com^
