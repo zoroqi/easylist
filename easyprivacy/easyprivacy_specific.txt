@@ -52,6 +52,9 @@
 ||adblocktape.store/stat/
 ||adblocktape.wiki/stat/
 ||adc-js.nine.com.au^
+||adguard-dns.io/-/event/
+||adguard-dns.io/-/logs/
+||adguard-dns.io/-/metrics/
 ||adguard.com/-/event/
 ||adguardcheckout.com/-/event/
 ||adguardcheckout.com/-/logs/
