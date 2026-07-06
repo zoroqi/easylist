@@ -503,6 +503,7 @@ miloserdov.org###custom_html-11
 colombiareports.com,miloserdov.org,mostlyblogging.com###custom_html-14
 mostlyblogging.com,sonyalpharumors.com###custom_html-15
 eetimes.eu,miloserdov.org###custom_html-16
+wallethacks.com###custom_html-18
 budgetbytes.com,ets2.lt,miloserdov.org###custom_html-2
 blissfuldomestication.com###custom_html-22
 sonyalpharumors.com###custom_html-25
