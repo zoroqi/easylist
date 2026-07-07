@@ -813,6 +813,7 @@
 ||gianteagle.com/webevents/
 ||giftornado.com/counter.php
 ||girlsofdesire.org/images/girlsofdesire.org/analytics.js
+||gitfut.com/*/view
 ||github.com/_private/browser/stats
 ||github.dev/diagnostic?
 ||givefreely.com/ingest/
