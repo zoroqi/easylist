@@ -21176,6 +21176,8 @@
 ||ligatus.com^
 ||ligcspstbrvgf.online^
 ||liggewaeful.com^
+||lightbrights1.xyz^
+||lightbrights2.xyz^
 ||lightenslush.com^
 ||lighterdeletes.cyou^
 ||lighterdrowngrammar.com^
@@ -26777,6 +26779,7 @@
 ||partsoptimisticrebound.com^
 ||partsroll.xyz^
 ||partsroll1.xyz^
+||partsroll2.xyz^
 ||partyinglongitudekept.com^
 ||partyjerk.com^
 ||partypartners.com^
