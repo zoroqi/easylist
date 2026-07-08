@@ -1040,6 +1040,7 @@
 ||lego.com/api/dl-event-ingest
 ||lendingtree.com/analytics/
 ||lendingtree.com/pixel/
+||lenovo.com/gemets/
 ||lensdirect.com/page-tracking/
 ||letsdoeit.com/tracking/
 ||lexology.com/pd.js
