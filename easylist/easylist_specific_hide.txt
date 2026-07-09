@@ -2143,7 +2143,7 @@ psypost.org##.ads_shortcode
 skyve.io##.ads_space
 gameplay.tips##.ads_sticky
 101soundboards.com##.ads_top_container_publift
-adlice.com,informer.com,waqi.info,xmplaylist.com##.adsbygoogle
+adlice.com,frzyc.github.io,informer.com,waqi.info,xmplaylist.com##.adsbygoogle
 harvardmagazine.com##.adsbygoogle-block
 thartribune.com##.adsbypubpower
 gayvegas.com,geekhistory.com,looktothestars.org,nintandbox.net,plurk.com,thebarentsobserver.com,tolonews.com,torquenews.com,webtor.io##.adsense
