@@ -7446,6 +7446,7 @@ automobile-catalog.com,car.com,silentera.com##table[height="90"]
 automobile-catalog.com,itnewsonline.com##table[width="300"]
 worldtimezone.com##table[width="472"]
 pcstats.com##table[width="866"]
+play.typeracer.com##td:has(> .newEastWidget)
 vpforums.org##td[align="center"][style="padding: 0px;"]
 schlockmercenary.com##td[colspan="3"]
 geekzone.co.nz##td[colspan="3"].forumRow[style="border-right:solid 1px #fff;"]
