@@ -3963,6 +3963,7 @@ stocksnap.io##.inline-carbon
 usmagazine.com##.inline-firework-shopping
 parkers.co.uk##.inline-leaderboard-ad-wrapper
 sportsrec.com##.inline-parent-container
+tvinsider.com##.inline-promo
 carsdirect.com##.inlineAdWrapper
 livemint.com##.inlineAds
 forbes.com##.inline__zephr
