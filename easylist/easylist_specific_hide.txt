@@ -2208,6 +2208,7 @@ barkinganddagenhampost.co.uk,becclesandbungayjournal.co.uk,blogto.com,burymercur
 ess-news.com##.advert-block__container
 saucemagazine.com##.advert-elem
 saucemagazine.com##.advert-elem-1
+swooon.com##.advert-holder
 gozofinder.com##.advert-iframe
 dailyfriend.co.za##.advert-leaderboard-element
 defenseone.com##.advert-placeholder
