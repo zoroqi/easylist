@@ -1430,6 +1430,7 @@
 ||insight.mintel.com^$third-party
 ||insight.rapid7.com^$third-party
 ||insights.algolia.io^
+||insights.playpilot.net^
 ||insights.sitesearch360.com^
 ||insitez.blob.core.windows.net^
 ||instagram.com/logging/
