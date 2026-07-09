@@ -1250,6 +1250,7 @@ hntrbrk.com##.form-article
 devdiscourse.com,upi.com##.form-inline
 righto.com##.form-preview
 tech.co##.form-simple
+ppc.land##.form-subscribe
 mychicagosteak.com##.form-version-cid-1
 flotrack.org##.form-view
 laist.com##.form-wrapper
