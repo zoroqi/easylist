@@ -376,6 +376,7 @@ jpost.com###premium-link
 dentonrc.com,denvergazette.com,sfexaminer.com,wfmz.com###promo-designer-modal-custom-pop
 rhino.com###promotion_banner
 egmnow.com###pt_dark_over
+remindmagazine.com###query-modal
 racketboy.com###rb-newsletter
 justapinch.com###rcp-email-signup
 baystatebanner.com###reg5-form-fon
