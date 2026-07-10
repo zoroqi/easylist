@@ -13635,6 +13635,7 @@
 ||flueulster.cfd^
 ||fluffy-host.com^
 ||fluffy-management.com^
+||fluffy-reveal.pro^
 ||fluffyaltarrecords.com^
 ||fluffyslide.pro^
 ||fluffytracing.com^
@@ -24408,6 +24409,7 @@
 ||mzixjhdjyzytn.online^
 ||mzjojzwbrqdqv.site^
 ||mzkedbvhl.com^
+||mzmtokuddyigq.online^
 ||mzmvcdhvehplz.site^
 ||mzngincolmscd.site^
 ||mznkhtumfgify.site^
