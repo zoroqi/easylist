@@ -205,6 +205,7 @@
 ||cpmstar.com/view.aspx
 ||crazygolfdeals.com.au/widget$subdocument
 ||creatives.inmotionhosting.com^
+||criteo.com/delivery/retailmedia?
 ||criteo.net/banners/
 ||criteo.net/design/
 ||crunchyroll.com/awidget/
