@@ -2156,7 +2156,6 @@
 ||ads-blocker.app^
 ||ads-blocker.pro^
 ||ads-static.conde.digital^
-||ads-twitter.com^
 ||ads.lemmatechnologies.com^
 ||ads1-adnow.com^
 ||ads1-adqva.com^
