@@ -712,6 +712,7 @@ dailysocial.id###home-ads
 transfermarkt.com###home-rectangle-spotlight
 shobiddak.com###homeShobiddakAds
 sslshopper.com###home_quick_search_buttons > div
+barcelonadestinations.com,farmads.co.uk,farmersguide.co.uk,honeybeekeeping.co.uk,towindustryweek.com###homead
 hometheaterreview.com###homepagehorizontalad
 nutritioninsight.com,packaginginsights.com###horizontalblk
 skylinewebcams.com###hostedby
