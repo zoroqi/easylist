@@ -2866,6 +2866,7 @@
 ||trk.storyly.io^
 ||trk.techtarget.com^
 ||trk2-wtb.swaven.com^
+||trkweb.clinch.co^
 ||trueanthem.com^$third-party
 ||trustarc.com/cap?
 ||trustarc.com/log?
