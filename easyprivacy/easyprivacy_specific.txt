@@ -1507,6 +1507,7 @@
 ||reports.tunein.com^
 ||researchgate.net/beacon/
 ||researchgate.net/track/
+||researchlog.dbresearch.com^
 ||reservationday.com/metrics/
 ||reverbnation.com/api/user/app_events
 ||revolut.com/api/t/errors

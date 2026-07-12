@@ -1961,6 +1961,7 @@
 ||phrasetech.com/api/collect
 ||pi.ispot.tv^
 ||pi.pardot.com/analytics?
+||pi.pdfjs.express^
 ||piano.io/api/v3/customform/log/impression
 ||piano.io/tracker/
 ||pico.tools/metrics/
