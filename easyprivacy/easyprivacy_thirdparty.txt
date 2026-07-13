@@ -605,6 +605,7 @@
 ||cdn.lr-hv-in.com/logger.min.js
 ||cdn.one.store/xdomain_cookie.html
 ||cdn.polarbyte.com^
+||cdn.prod.euid.eu^
 ||cdn.ravm.tv^
 ||cdn.skypack.dev/uuid
 ||cdn.sourcesync.io/open-pixel/source-pixel.js
