@@ -1956,6 +1956,7 @@ allrecipes.com,cruisecritic.com,foodandwine.com,kob.com,seriouseats.com,shape.co
 offshore-energy.biz##.premium-popup
 zookeys.pensoft.net##.previewPageSubscribe
 allmusic.com,texasattorneygeneral.gov,theconversation.com,usrtk.org##.promo
+softwaredoug.com##.promo-banner
 whyy.org##.promo-block
 gmtoday.com,kmzu.com,mdjonline.com##.promo-design
 kmzu.com##.promo-designer-modal
