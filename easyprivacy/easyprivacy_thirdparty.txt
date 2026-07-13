@@ -322,6 +322,7 @@
 ||api.croct.io^
 ||api.gist.ai/v1/analytics/track
 ||api.gleap.io/sessions/ping
+||api.intelligems.io/v3/track
 ||api.ipgeolocation.io/getip
 ||api.iris.tv/update
 ||api.june.so^
