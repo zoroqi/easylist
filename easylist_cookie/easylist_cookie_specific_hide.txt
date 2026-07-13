@@ -631,6 +631,7 @@ b2eu-consulting.eu###page-disable
 belkin.com###pagebanner
 voissy.com###pb-navbar-cookies-accept
 pdfescape.com###pdfe_cmp
+photonfile.com###pf-ads-consent-banner
 phobs.net###phobs-cookie-consent
 get.popmenu.com,intellum.com,wi-fi.org###pi_tracking_opt_in_div
 piensasolutions.com###piensaCookieAcceptance
