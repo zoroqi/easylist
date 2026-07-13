@@ -931,6 +931,7 @@ lewdspot.com##.top-sidebar
 porngem.com,uiporn.com##.top-sponsor
 rat.xxx,zbporn.tv##.top-spot
 escortnews.eu,topescort.com##.topBanners
+ultrathots.com##.top_player
 ok.xxx,perfectgirls.xxx##.top_spot
 camwhores.tv##.topad
 m.mylust.com##.topb-100
@@ -950,6 +951,7 @@ bdsmx.tube,desi-porn.tube,hclips.com,hdzog.com,hdzog.tube,hotmovs.com,inporn.com
 wierdjapan.com##.under-player-banner
 hdtube.porn##.under-player-link
 criollasx.com##.under-video-block
+ultrathots.com##.under_header
 sexvid.xxx##.under_player_link
 upornia.com,upornia.tube##.underplayer > section
 hdzog.com,hdzog.tube,senzuri.tube##.underplayer-review
