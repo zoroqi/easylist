@@ -219,6 +219,7 @@
 ||googletagmanager.com^
 ||gotoda.co^
 ||greencolumnhealth.com^
+||gresrv.com^
 ||growth-channel.net^
 ||gsitrix.com^
 ||gw-dv.vip^
