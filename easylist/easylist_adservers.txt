@@ -1,5 +1,6 @@
 ! Non-flagged (Generic blocks)
 ||000491b06a.com^
+||0017c6c37c.com^
 ||0019x.com^
 ||00427011ae.com^
 ||00609c257b.com^
@@ -870,6 +871,7 @@
 ||5bf6m8tye77hw7nmzrgl.rest^
 ||5bs4y5e7.xyz^
 ||5btekl14.de^
+||5c0ddac6e3.com^
 ||5c536d71ba.com^
 ||5c57xmiu7zmb9857ecqgmn9qqjmbq6o6.cfd^
 ||5cb79f17b9.com^
@@ -881,6 +883,7 @@
 ||5ertolj5e1fv6c.rest^
 ||5f242f7db1.com^
 ||5f6dmzflgqso.com^
+||5fb4d91deb.com^
 ||5fet4fni.de^
 ||5golpi5pgvux1i22f.cfd^
 ||5guq4ocoipii4wnmjcjtmbb.rest^
@@ -33930,6 +33933,7 @@
 ||signingvehemenceraffle.com^
 ||signorafusel.qpon^
 ||signumvampingtiptoes.cyou^
+||sikhismpavinssalons.cyou^
 ||sikuptdybwuwp.site^
 ||silanesyampa.shop^
 ||silaselsehold.com^
