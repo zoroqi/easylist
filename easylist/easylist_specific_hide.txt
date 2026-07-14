@@ -6195,7 +6195,7 @@ securityweek.com##.zox-post-ad-wrap
 marketscreener.com##.zppAds
 newsinfo.inquirer.net##.ztoop
 wunderground.com##AD-TRIPLE-BOX
-tjrwrestling.net##[ad-slot]
+boxingnewsonline.net,tjrwrestling.net##[ad-slot]
 frzyc.github.io##[alt*="Banner"]
 cloutgist.com,codesnse.com##[alt="AD DESCRIPTION"]
 takeuforward.org##[alt="Ad Panel"]
