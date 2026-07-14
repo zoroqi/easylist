@@ -65,6 +65,8 @@
 .html?clicktag=
 .in/js/footer_ad.js
 .jp/ads/$third-party,domain=~hs-exp.jp
+.js?i=*&referrer_url=
+.js?rh=*&bh=
 .lol/js/pub.min.js$third-party
 .lol/sw.js$third-party
 .net/ad2/$~xmlhttprequest
