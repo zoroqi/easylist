@@ -6943,6 +6943,7 @@ opensubtitles.org##a[target="_blank"][href^="https://www.amazon.com/gp/search"]
 classicstoday.com##a[target="_blank"][rel="noopener"] > img
 megaplay.cc,wiztube.xyz##a[title="Free money easy"]
 kroger.com##a[title^="Advertisement:"]
+thisismoney.co.uk##ad-slot
 rottentomatoes.com##ad-unit
 cryptodaily.co.uk##advert
 cooljugator.com##amp-auto-ads
