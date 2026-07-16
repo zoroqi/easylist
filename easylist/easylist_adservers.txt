@@ -3245,6 +3245,7 @@
 ||anientechetahs.cfd^
 ||anihazels.com^
 ||anilinooos.cyou^
+||animalforge.click^
 ||animasoorie.com^
 ||animatedlook.com^
 ||animeamigos.org^
@@ -5762,6 +5763,7 @@
 ||bookmanstews.qpon^
 ||bookmsg.com^
 ||bookshelfcomplaint.com^
+||booktakeaway.com^
 ||booleyopacous.cyou^
 ||boolylipases.com^
 ||boomads.com^
@@ -15680,6 +15682,7 @@
 ||glamoroustangiblematching.com^
 ||glamorsjeepers.qpon^
 ||glamorsmelamdhaura.cyou^
+||glamourpicklessteward.com^
 ||glancedsecretion.com^
 ||glancesidahoanobarni.cfd^
 ||glandalongtruce.com^
@@ -15862,6 +15865,7 @@
 ||gno-protect.pro^
 ||gnohaspwczvmo.website^
 ||gnoimcggbzuti.online^
+||gnomesyeuked.com^
 ||gnomistwheezycanful.cfd^
 ||gnorgi.click^
 ||gnptpnwqvpiw.com^
@@ -27509,6 +27513,7 @@
 ||openx.net^
 ||openxenterprise.com^
 ||openxmarket.asia^
+||operaherman.qpon^
 ||operaserver.com^
 ||operateturfculprit.com^
 ||operativebreeder.com^
@@ -43982,6 +43987,7 @@
 ||youexpectation.org^
 ||yougetwhatyoupayfor.net^
 ||yougottet.com^
+||youhavequited.com^
 ||youlamedia.com^
 ||youlouk.com^
 ||young-expert.pro^
@@ -45229,6 +45235,7 @@
 ||coastalbloom.xyz^$document
 ||colleem.com^$document
 ||conestreshow.com^$document
+||consultflow.click^$document
 ||coolserving.com^$document
 ||coosync.com^$document
 ||coticoffee.com^$document
@@ -45273,6 +45280,7 @@
 ||extsoft.info^$document
 ||exxtended-access.com^$document
 ||fantabro.com^$document
+||fantovix.shop^$document
 ||fascespro.com^$document
 ||fastdntrk.com^$document
 ||fhvfd.com^$document
