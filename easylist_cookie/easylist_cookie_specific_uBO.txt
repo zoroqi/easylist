@@ -2649,6 +2649,10 @@ farmer.pl##+js(aopw, FrodoPV)
 ! #cc--main
 therover.ca,univie.ac.at###cc--main
 therover.ca,univie.ac.at##html:style(overflow:auto !important)
+! generali.co.id
+generali.co.id###cookies
+generali.co.id##.modal-backdrop
+generali.co.id##body:style(overflow: auto !important; position: initial !important;)
 ! #orejime
 ccifj.or.jp,masante.belgique.be###orejime
 ccifj.or.jp,masante.belgique.be##body,html:style(overflow: auto !important; position: initial !important;)
