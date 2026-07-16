@@ -1315,6 +1315,7 @@
 ||indonesiadefense.com/metrikgtg
 ||ktracker.kumparan.com^
 ||mygostore.com/api/log
+||satualumni.itb.ac.id/api/client-logs
 ||static.republika.co.id/js/tracker.js
 ||t.bukalapak.com^
 ||ta.tokopedia.com/promo/v1/views
