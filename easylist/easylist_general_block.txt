@@ -732,6 +732,7 @@
 /wp-content/ads/*$~xmlhttprequest
 /wp-content/cache/min/1/advert/popads/*$script
 /wp-content/mbp-banner/*$image
+/wp-content/plugins/ad-inserter/js/ai-functions.min.js
 /wp-content/plugins/amazon-auto-links/*$script,stylesheet
 /wp-content/plugins/amazon-product-in-a-post-plugin/*
 /wp-content/plugins/automatic-social-locker/*
