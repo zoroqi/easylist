@@ -1700,6 +1700,7 @@
 ||namnak.com/ga.js
 ! Polish
 |http://x.o2.pl^
+||ads.tvp.pl^
 ||analytics.gazeta.pl^
 ||app.mediaexpert.pl/spark-data/
 ||collect.state.centrum24.pl^
