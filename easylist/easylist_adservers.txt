@@ -1947,6 +1947,7 @@
 ||ad-m.asia^
 ||ad-mapps.com^
 ||ad-maven.com^
+||ad-opt.site^
 ||ad-recommend.com^
 ||ad-score.com^
 ||ad-server.co.za^
@@ -35764,6 +35765,7 @@
 ||sobbingalchemy.cfd^
 ||sobbingvarypainting.com^
 ||soberanvil.com^
+||sobereremyds.shop^
 ||sobzqgxafnvlj.site^
 ||socalledflirtingdesignate.com^
 ||socalledpushedcollege.com^
