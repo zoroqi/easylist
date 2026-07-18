@@ -127,6 +127,7 @@
 ||bandborder.com^
 ||barbarousbase.com^
 ||barbershirts.com^
+||barcodetool.com^
 ||barkfactor.com^
 ||barqueue.com^
 ||baseboosters.com^
