@@ -1039,6 +1039,7 @@
 ||lastpass.com/lpapi/content/pixels
 ||lastpass.com/m.php/proxy_tracker
 ||lc-event.pixiv.net^
+||leadconnectorhq.com/stats/event
 ||lego.com/api/dl-event-ingest
 ||lendingtree.com/analytics/
 ||lendingtree.com/pixel/
