@@ -1359,6 +1359,7 @@
 ||performance-logger.minted.com^
 ||perplexity.ai/rest/event/analytics
 ||perr.hola.org^
+||personalize-edge.contentstack.com/events
 ||pf.newegg.com^
 ||pftk.temu.com^
 ||phonearena.com/_track.php
