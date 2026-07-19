@@ -7411,6 +7411,7 @@ americasvoice.news,arcadepunks.com,sweetalert2.github.io##img[width="728"]
 boxthislap.org##img[width="728px"]
 trans.info##img[width="756"][height="310"]
 justthenews.com##img[width="798"][height="450"]
+etfexpress.com##img[width="970"][height="250"]
 umod.org##ins[data-revive-id]
 unmineablesbest.com##ins[style^="display:inline-block;width:300px;height:250px;"]
 everythingrf.com,natureworldnews.com##label
