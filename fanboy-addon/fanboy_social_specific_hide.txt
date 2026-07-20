@@ -569,6 +569,7 @@ colorado.edu##.cu-share-sidebar
 indiabusinessjournal.com##.cus-sidebar-social-media-connect
 thetab.com##.custom-box-desktop
 therighthairstyles.com##.custom-pinterest-wrap
+savingadvice.com##.custom-share
 dinneratthezoo.com##.cwp-food-footer
 ourworldindata.org##.data-insight-copy-link-button
 digitbin.com##.db-ps-btn
