@@ -1211,7 +1211,6 @@ gevoslijterij.nl###gdprCookieBar
 medlon.nl###globalmessage_holder
 calorielijst.nl,dietenlijst.nl,koolhydratentabel.nl,receptentabel.nl###loading
 effeweg.nl###mp-popupoverlay1
-all4running.nl,chillyhilversum.be,electroworld.nl###notice-cookie-block
 trafficshare.nl###notification
 sokkenenzo.nl###react_element__consent_banner
 companyinfo.nl###si-cookie-notice
