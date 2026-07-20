@@ -1313,6 +1313,7 @@
 ||dap.rri.go.id/tracker/
 ||dt-tracker.mamikos.com^
 ||indonesiadefense.com/metrikgtg
+||kolivo.id/api/v1/track/event
 ||ktracker.kumparan.com^
 ||mygostore.com/api/log
 ||satualumni.itb.ac.id/api/client-logs
