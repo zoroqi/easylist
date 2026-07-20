@@ -3736,7 +3736,7 @@ windowscentral.com##.hawk-master-widget-hawk-wrapper
 techradar.com##.hawk-merchant-link-widget-container
 androidcentral.com##.hawk-multi-model-review-container
 techradar.com##.hawk-nest
-tomsguide.com##.hawk-processed
+tomsguide.com##.hawk-root
 linuxblog.io##.hayden-inpost_bottom
 linuxblog.io##.hayden-inpost_end
 linuxblog.io##.hayden-inpost_top
