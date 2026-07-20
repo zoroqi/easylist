@@ -4222,6 +4222,7 @@ iheartradio.ca##.lightbox-wrapper
 lilo.org##.lilo-ad-result
 getbukkit.org##.limit
 linuxize.com##.linaff
+slashgear.com##.linked-image-holder
 architecturesideas.com##.linkpub_right_img
 babynamegenie.com,worldtimeserver.com##.links
 weatherpro.com##.list-city-ad
