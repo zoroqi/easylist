@@ -335,6 +335,7 @@
 ||api.sardine.ai/assets/loader.min.js$third-party
 ||api.sovendus.com/js/landing.js
 ||api.tally.so/forms/*/events
+||api.usestoryteller.com/api/app/activity/recordActivity?
 ||api.visitorapi.com^$third-party
 ||api.wipmania.com^
 ||apibaza.com/pixel/
