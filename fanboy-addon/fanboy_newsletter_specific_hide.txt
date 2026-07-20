@@ -1051,6 +1051,7 @@ irishexaminer.com##.custom-functionality-newsletter
 8newsnow.com,news.uthscsa.edu##.custom-html-widget
 taylorswift.com##.custom-mailing-list
 sweepstakesfanatics.com##.custom_signup
+cloudwards.net##.cws-lead-magnet
 caltech.edu##.d-flex.news-info-block__sharing
 irishexaminer.com##.d-flex.row
 okmagazine.com##.dNsyER
