@@ -3574,6 +3574,7 @@ getgreenshot.org##.ga-ldrbrd
 getgreenshot.org##.ga-skscrpr
 elevenforum.com,html-code-generator.com##.gads
 farmersjournal.ie##.gadvertisementheader
+alibaba.com##.gallery-card[data-aplus-auto-offer*="&is_ad=true"]
 eonline.com##.gallery-rail-sticky-container
 vicnews.com##.gam
 drive.com.au##.gam-ad
@@ -7167,9 +7168,11 @@ xing.com##div[data-qa="jobs-recommendation-ad"]
 duckduckgo.com##div[data-react-module-id="products-0"]
 basschat.co.uk,momondo.*##div[data-resultid$="-sponsored"]
 briskoda.net,linustechtips.com##div[data-role="sidebarAd"]
+alibaba.com##div[data-search-floor^="area=wending&"]
 fylio.com##div[data-slot]
 costco.com##div[data-source="sponsored"]
 aliexpress.com,aliexpress.us##div[data-spm="seoads"]
+alibaba.com##div[data-spm="wending-bottom"]
 ecosia.org##div[data-test-id="mainline-result-ad"]
 ecosia.org##div[data-test-id="mainline-result-productAds"]
 debenhams.com##div[data-test-id^="sponsored-product-card"]
