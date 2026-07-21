@@ -3064,6 +3064,7 @@ cpomagazine.com##.cpoma-adlabel
 cpomagazine.com##.cpoma-main-header
 cpomagazine.com##.cpoma-target
 chronline.com##.cq-creative
+psprices.com##.creative
 alibaba.com##.creative-dot-wrapper
 theweather.net##.creatividad
 mma-core.com##.crec
