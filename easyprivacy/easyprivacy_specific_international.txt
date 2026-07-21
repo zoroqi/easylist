@@ -1574,6 +1574,7 @@
 ||shopch.jp/com/js/analytics.js
 ||shueisha.online/op/analytics.js
 ||so-zou.jp/js/ga.js
+||socialxup.com/api/sale-accounts
 ||softonic.jp/web-stats
 ||ssai.api.streaks.jp/*/ad_info?
 ||stats.nhk.or.jp^
