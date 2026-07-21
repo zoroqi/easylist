@@ -661,6 +661,7 @@
 ||widgets.oddschecker.com^
 ||widgets.outbrain.com^*/widget.js
 ||widgets.progrids.com^
+||widgets.teads-xo.com^
 ||widgets.tree.com^
 ||winonexd.b-cdn.net^
 ||wistia.com/assets/external/googleAds.js
