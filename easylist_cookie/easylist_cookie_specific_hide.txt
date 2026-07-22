@@ -375,6 +375,7 @@ pdfprof.com###dddhh
 discoveryeducation.com,readingplus.com###de-consent-banner
 universitysupplystore.com###demo-overlay
 filmon.com###design-switcher
+data.europa.eu###deu-cookie-banner
 alliancefrancaise.ca###dialogbox_cookiepolicy
 hd.se###didomi-popup
 innovaphone.com###disableBackground
