@@ -1969,6 +1969,7 @@ animatebookstore.com##.ccst_area
 ebarafoods.com##.consent_c
 get-cp.jp##.cookie-agreement
 takarashuzo.co.jp##.cookie-confirm
+radionikkei.jp##.cookie-consent-wrap
 more.hpplus.jp##.cookie-inquiry
 beforward.jp##.cookie-permission
 camp-fire.jp##.cookie-policy-agreement-notification
